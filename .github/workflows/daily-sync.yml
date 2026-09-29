@@ -53,6 +53,8 @@ jobs:
             git config user.email "mednotes-sync-bot@users.noreply.github.com"
             git add -A
             git commit -m "chore: daily sync + data refresh ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            # 自动合并远端并发推送（豆包定时任务与 Actions 可能同时执行），避免 push 竞态
+            git pull --rebase origin main || true
             git push origin main
             echo "已提交并推送更新，GitHub Pages 将自动重新发布"
           fi

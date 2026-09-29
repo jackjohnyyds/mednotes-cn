@@ -304,24 +304,6 @@
    "link": "https://pubmed.ncbi.nlm.nih.gov/42806646/"
   },
   {
-   "pmid": "42806534",
-   "title": "Outcome after curative resection for colorectal cancer liver metastasis in Sri Lanka.",
-   "abstract": "Colorectal cancer is the third most common cancer globally and in Sri Lanka. The liver is the commonest site of metastasis, developing in 25%-30%. Surgical resection and ablation are the only curative options available. To determine the clinical characteristics and treatment outcome in patients with colorectal cancer liver metastases. Details of 73 patients with colorectal cancer liver metastases referred between 2010 and 2022 were reviewed. Demographic data, presentation, management of primary cancer and liver metastases, surgical outcome, recurrence free survival and overall survival were analyzed retrospectively. The median age was 60 years (31-82) with a female predominance (n=39; 53.4%). Primary located in the left colon in 90.4% (n=66), presenting synchronously in 61.6% (n=45). Right hemi-liver (n=60; 82.2%) is more commonly involved with the caudate lobe alone involved in 1.4% (n=1). Segment VI is the commonest liver segment involved (n=39; 53.4%). Liver resection was performed in 45 patients (61.6%). 25 (55.6%) were major resections, and 6 (13.3%) were staged resections. The surgery group had a median recurrence-free survival of 24 (range=9.19-38.8) months and overall survival of 31 (range=14.51-47.50) months. 28 Patients who were offered palliative treatment had a poor overall survival of 16 (range=12.23-19.77) months (p <0.05). Surgical resection was possible in 61.6% of patients giving superior survival outcomes.",
-   "journal": "The Ceylon medical journal",
-   "year": "2023",
-   "authors": [
-    "Harry Prashath",
-    "Ishanie Fernando",
-    "Suchintha Tillakaratne",
-    "Sakuni Cooray",
-    "Bhagya Gunatilleke",
-    "Rohan Siriwardana"
-   ],
-   "doi": "10.4038/cmj.v68i2.9667",
-   "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42806534/"
-  },
-  {
    "pmid": "42806479",
    "title": "Atezolizumab Plus Bevacizumab Treatment for Patients With Hepatocellular Carcinoma in the Barcelona Clinic Liver Cancer B2 Stage.",
    "abstract": "The optimal treatment strategy for patients with intermediate-stage hepatocellular carcinoma beyond the up-to-seven criteria (Barcelona Clinic Liver Cancer B2) remains uncertain. Although transarterial chemoembolization has long been the standard of care, its efficacy is limited in this subgroup, and systemic therapies have recently been introduced. We aimed to explore treatment modalities associated with survival beyond that predicted by a previously validated prognostic model. We retrospectively analyzed 113 patients diagnosed with BCLC-B2 stage hepatocellular carcinoma between 2017 and 2024. Predicted survival was calculated using a previously established prognostic model, and treatment benefits were evaluated by comparing observed survival with predicted outcomes. Logistic and linear regression analyses were performed to identify factors associated with survival gain. The median observed survival was 26.0&#x2009;months, compared with a model-predicted survival of 24.7&#x2009;months. Treatment with atezolizumab plus bevacizumab was significantly associated with survival exceeding model predictions (odds ratio: 3.77, p&#x2009;=&#x2009;0.0065). Linear regression analysis confirmed that atezolizumab plus bevacizumab was independently associated with a greater survival benefit (&#x3b2;&#x2009;=&#x2009;0.192, p&#x2009;=&#x2009;0.0084). Subgroup analysis demonstrated that this association was particularly pronounced in patients with high tumor burden (tumor number plus size &#x2265;&#x2009;11), whereas no significant associations were observed for lenvatinib, STRIDE, or cabozantinib. Atezolizumab plus bevacizumab was associated with survival beyond that predicted by a prognostic model in patients with BCLC-B2 stage hepatocellular carcinoma, particularly those with high tumor burden. These findings should be considered exploratory and associative rather than evidence of a causal treatment effect.",
@@ -371,9 +353,28 @@
    "doi": "10.1002/hon.70271",
    "field": "Liver cancer",
    "link": "https://pubmed.ncbi.nlm.nih.gov/42806476/"
+  },
+  {
+   "pmid": "42806469",
+   "title": "Photocatalytic Transannular Migration to Stereodefined Cyclobutanes and Bicyclo[2.1.1]hexanes as Benzenoid Bioisosteres.",
+   "abstract": "Higher Fsp 3 often correlates with clinical success, driving the replacement of flat arenes with saturated carbocycles. Stereodefined 1,1,3-trisubstituted cyclobutane and 1,2,4-trisubstituted bicyclo[2.1.1]hexane (BCH) serve as bioisosteres for para- and 1,2,4-trisubstituted benzenes, respectively. Yet, general stereoselective routes to these frameworks remain underdeveloped. In this study, we report a photocatalytic transannular functional group migration (TFGM) strategy that enables highly diastereoselective synthesis of 1,1,3-trisubstituted cyclobutanes from alkylidene cyclobutanes and diverse radical precursors at room temperature. The reaction proceeds through a rigid BCH-type transition state, delivering exclusive cis-selectivity. The mild conditions accommodate broad functional group tolerance and support the migration of various groups, including heteroarenes, nitrile, aldehyde, oxime, and alkene derivatives. This platform further provides general and modular entry to 1,2,4-trisubstituted BCHs via a base-promoted 5-exo-tet cyclization and cross-coupling sequence. The resulting BCH scaffolds are effective bioisosteres of 1,2,4-trisubstituted benzenes, demonstrated by BCH-Olaparib and BCH-Fluzoparib-analogues of the anticancer drugs Olaparib and Fluzoparib. These analogues retain potent activity comparable to Olaparib in a panel of cancer cell lines (enhanced in breast and liver cells), and the preferred enantiomer of BCH-Olaparib surpasses Olaparib in PARP1 inhibition, validating 1,2,4-trisubstituted BCHs as faithful benzenoid bioisosteres for drug innovation.",
+   "journal": "Angewandte Chemie (International ed. in English)",
+   "year": "2026",
+   "authors": [
+    "Hao-Song Ren",
+    "Jin-Ping Xing",
+    "Hong-Mei Bai",
+    "De-Xia Li",
+    "Song-Lin Yang",
+    "Jin-Lian Wei",
+    "Jun Zheng"
+   ],
+   "doi": "10.1002/anie.7845758",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42806469/"
   }
  ],
- "lastUpdated": "2026-09-29T10:44:23.799235+00:00",
+ "lastUpdated": "2026-09-29T12:48:58.151998+00:00",
  "fields": [
   "cardiology",
   "immunotherapy",

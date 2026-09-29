@@ -11,6 +11,8 @@ import { store, PREFIX, SYNCED_KEYS } from './storage.js?v=20260921b';
 import { toast } from './utils.js?v=20260921b';
 
 const SYNC_ENDPOINT = 'https://prismatic-cucurucho-9e351c.netlify.app/.netlify/functions/sync';
+// 云端同步后端仅存在于 Netlify 部署；本站点为 GitHub Pages / surge，无该后端 → 禁用云端请求
+const CLOUD_ENABLED = location.hostname.includes('netlify.app');
 const ALPHABET = 'ABCDEFGHJKMNPQRSTUVWXYZ23456789'; // 去除易混 0/1/I/L/O
 const PUSH_DEBOUNCE = 1500;
 const PULL_INTERVAL = 60 * 1000;
@@ -177,9 +179,6 @@ export function renderPanel() {
 function initUI() {
   renderPanel();
   const copyBtn = document.getElementById('sync-copy');
-  const bindBtn = document.getElementById('sync-bind');
-  const nowBtn = document.getElementById('sync-now');
-  const input = document.getElementById('sync-input');
   if (copyBtn) copyBtn.addEventListener('click', async () => {
     const code = getCode();
     try {
@@ -189,6 +188,11 @@ function initUI() {
       toast('同步码：' + code);
     }
   });
+  // 云端按钮（绑定/手动同步）仅在站点部署了 Netlify 同步后端时可用
+  if (!CLOUD_ENABLED) return;
+  const bindBtn = document.getElementById('sync-bind');
+  const nowBtn = document.getElementById('sync-now');
+  const input = document.getElementById('sync-input');
   if (bindBtn) bindBtn.addEventListener('click', () => bindCode(input ? input.value : ''));
   if (input) input.addEventListener('keydown', (e) => { if (e.key === 'Enter') bindCode(input.value); });
   if (nowBtn) nowBtn.addEventListener('click', () => syncOnce(true));
@@ -197,6 +201,13 @@ function initUI() {
 /* ---------- 启动 ---------- */
 export function initSync() {
   initUI();
+  if (!CLOUD_ENABLED) {
+    // 本站点（GitHub Pages / surge）未部署 Netlify 同步后端：
+    // 禁用云端同步请求（否则启动/定时/写操作都会持续请求已失效的后端），
+    // 数据全部保存在本机，不影响收藏、病例、打卡等本地功能。
+    setStatus('本地模式（无云端后端）', 'idle');
+    return;
+  }
   setStatus('准备同步…', 'busy');
   // 包装期间 applying 未用 __all__ 拦截初始化迁移写入，延迟首次同步让本地迁移先完成
   setTimeout(() => syncOnce(false), 1500);

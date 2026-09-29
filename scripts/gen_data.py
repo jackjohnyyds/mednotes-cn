@@ -370,20 +370,46 @@ def gen_douban():
             items.extend(parse_douban_xml(xml, kind, lim))
     return {'items': items, 'lastUpdated': datetime.datetime.now(datetime.timezone.utc).isoformat()}
 
+# ---------------- 文学经典（个人空间：每日诗词 + 散文，静态精选库） ----------------
+LIT_STATIC = {
+    'poems': [
+        {'title': '登鹳雀楼', 'dynasty': '唐', 'url': 'https://www.gushiwen.cn/shiwenv_c90ff9ea5a71.aspx'},
+        {'title': '相思', 'dynasty': '唐', 'url': 'https://www.gushiwen.cn/shiwenv_f324eea45183.aspx'},
+        {'title': '鹿柴', 'dynasty': '唐', 'url': 'https://www.gushiwen.cn/shiwenv_e9b1a8b4def0.aspx'},
+        {'title': '竹里馆', 'dynasty': '唐', 'url': 'https://www.gushiwen.cn/shiwenv_4809b5e7a16a.aspx'},
+        {'title': '问刘十九', 'dynasty': '唐', 'url': 'https://www.gushiwen.cn/shiwenv_d09fef17613b.aspx'},
+        {'title': '静夜思', 'dynasty': '唐', 'url': 'https://www.gushiwen.cn/shiwenv_f843c2f8e579.aspx'},
+        {'title': '春晓', 'dynasty': '唐', 'url': 'https://www.gushiwen.cn/shiwenv_1480d3fa2418.aspx'},
+        {'title': '江雪', 'dynasty': '唐', 'url': 'https://www.gushiwen.cn/shiwenv_10b3d3f56d8f.aspx'},
+    ],
+    'essays': [
+        {'title': '背影', 'author': '朱自清', 'url': 'https://zh.wikisource.org/wiki/%E8%83%8C%E5%BD%B1'},
+        {'title': '荷塘月色', 'author': '朱自清', 'url': 'https://zh.wikisource.org/wiki/%E8%8D%B7%E5%A1%98%E6%9C%88%E8%89%B2'},
+        {'title': '匆匆', 'author': '朱自清', 'url': 'https://zh.wikisource.org/wiki/%E5%8C%86%E5%8C%86'},
+        {'title': '从百草园到三味书屋', 'author': '鲁迅', 'url': 'https://zh.wikisource.org/wiki/%E4%BB%8E%E7%99%BE%E8%8D%89%E5%9B%AD%E5%88%B0%E4%B8%89%E5%91%B3%E4%B9%A6%E5%B1%8B'},
+        {'title': '春', 'author': '朱自清', 'url': 'https://zh.wikisource.org/wiki/%E6%98%A5'},
+    ],
+}
+
+def gen_literature():
+    data = {k: list(v) for k, v in LIT_STATIC.items()}
+    data['lastUpdated'] = datetime.datetime.now(datetime.timezone.utc).isoformat()
+    return data
+
 def main():
     out_dir = sys.argv[1] if len(sys.argv) > 1 else 'data'
     import os
     os.makedirs(out_dir, exist_ok=True)
     results = {}
     with ThreadPoolExecutor(max_workers=4) as ex:
-        jobs = {'papers': ex.submit(gen_papers), 'mednews': ex.submit(gen_mednews), 'briefing': ex.submit(gen_briefing), 'douban': ex.submit(gen_douban)}
+        jobs = {'papers': ex.submit(gen_papers), 'mednews': ex.submit(gen_mednews), 'briefing': ex.submit(gen_briefing), 'douban': ex.submit(gen_douban), 'literature': ex.submit(gen_literature)}
         for name, fut in jobs.items():
             try:
                 results[name] = fut.result()
             except Exception as e:
                 print('[warn] %s 生成失败: %s' % (name, e), flush=True)
                 results[name] = {'items': []} if name != 'briefing' else {'categories': []}
-    for name in ('papers', 'mednews', 'briefing', 'douban'):
+    for name in ('papers', 'mednews', 'briefing', 'douban', 'literature'):
         path = os.path.join(out_dir, name + '.json')
         with open(path, 'w', encoding='utf-8') as f:
             json.dump(results[name], f, ensure_ascii=False, indent=1)

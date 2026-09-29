@@ -84,7 +84,7 @@ export async function fetchWithFallback(urls, opts, timeout) {
 /** 从 Netlify data-api 获取服务端聚合数据（优先），失败返回 null */
 export async function fetchApiData(type, { force = false, timeout = 25000 } = {}) {
   try {
-    const url = `/.netlify/functions/data-api?type=${type}${force ? '&force=1' : ''}&_=${Date.now()}`;
+    const url = `./.netlify/functions/data-api?type=${type}${force ? '&force=1' : ''}&_=${Date.now()}`;
     const ctrl = new AbortController();
     const timer = setTimeout(() => ctrl.abort(), timeout);
     const res = await fetch(url, { signal: ctrl.signal });

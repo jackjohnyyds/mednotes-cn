@@ -208,7 +208,7 @@ async function loadApiNews() {
 
 async function loadLocalNews() {
   try {
-    const data = await fetchWithFallback([`/data/mednews.json?v=${Date.now()}`]);
+    const data = await fetchWithFallback([`data/mednews.json?v=${Date.now()}`]);
     if (data && Array.isArray(data.items) && data.items.length) {
       newsCache = data.items;
       newsMeta = data.lastUpdated

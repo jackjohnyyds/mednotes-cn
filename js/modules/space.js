@@ -386,7 +386,7 @@ async function fetchLitJson() {
   const ctrl = new AbortController();
   const timer = setTimeout(() => ctrl.abort(), 12000);
   try {
-    const res = await fetch(`/data/literature.json?v=${new Date().toDateString()}`, { signal: ctrl.signal });
+    const res = await fetch(`data/literature.json?v=${new Date().toDateString()}`, { signal: ctrl.signal });
     if (!res.ok) throw new Error('HTTP ' + res.status);
     return await res.json();
   } finally { clearTimeout(timer); }

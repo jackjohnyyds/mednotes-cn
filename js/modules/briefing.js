@@ -296,7 +296,7 @@ async function loadApiBrief() {
 }
 async function loadLocalBrief() {
   try {
-    const data = await fetchWithFallback([`/data/briefing.json?v=${Date.now()}`]);
+    const data = await fetchWithFallback([`data/briefing.json?v=${Date.now()}`]);
     const cats = data?.categories || data?.briefing;
     if (data && Array.isArray(cats) && cats.some((c) => c.items?.length)) {
       adoptTabs(cats);

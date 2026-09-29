@@ -196,7 +196,7 @@ async function loadApiPapers() {
 /* ---------- 数据源 1：本地静态 JSON ---------- */
 async function loadLocalPapers() {
   try {
-    const data = await fetchWithFallback([`/data/papers.json?v=${Date.now()}`]);
+    const data = await fetchWithFallback([`data/papers.json?v=${Date.now()}`]);
     if (data && Array.isArray(data.items) && data.items.length) {
       papersCache = data.items.map((p) => normalizePaper(p, '每日数据'));
       papersMeta = data.lastUpdated
@@ -211,7 +211,7 @@ async function loadLocalPapers() {
 /* ---------- 数据源 2：Pages Function 代理 PubMed ---------- */
 async function loadProxyPapers() {
   const fields = getFields();
-  const url = `/api/proxy?target=pubmed&terms=${encodeURIComponent(fields.join(','))}&retmax=10&_=${Date.now()}`;
+  const url = `api/proxy?target=pubmed&terms=${encodeURIComponent(fields.join(','))}&retmax=10&_=${Date.now()}`;
   try {
     const data = await fetchWithFallback([url]);
     if (data && Array.isArray(data.items) && data.items.length) {

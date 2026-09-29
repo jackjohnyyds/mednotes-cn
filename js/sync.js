@@ -7,8 +7,8 @@
  *  - 后端：Netlify Function + Blobs（/.netlify/functions/sync）。
  *  - 离线或后端不可用时静默降级，本地功能不受影响。
  */
-import { store, PREFIX, SYNCED_KEYS } from './storage.js?v=20260921b';
-import { toast } from './utils.js?v=20260921b';
+import { store, PREFIX, SYNCED_KEYS } from './storage.js?v=20260929a';
+import { toast } from './utils.js?v=20260929a';
 
 const SYNC_ENDPOINT = 'https://prismatic-cucurucho-9e351c.netlify.app/.netlify/functions/sync';
 // 云端同步后端仅存在于 Netlify 部署；本站点为 GitHub Pages / surge，无该后端 → 禁用云端请求

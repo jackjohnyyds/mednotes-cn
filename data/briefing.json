@@ -245,167 +245,135 @@
    ]
   },
   {
-   "id": "kr36",
-   "label": "36氪",
+   "id": "thepaper",
+   "label": "澎湃新闻",
    "items": [
     {
-     "title": "欧盟乐观地认为美国不会禁止柴油出口，称已向美能源部长发出明确信号",
-     "link": "https://www.36kr.com/newsflashes/4004462423773059",
-     "time": "Tue, 29 Sep 2026 12:40:45 GMT",
-     "source": "36氪",
-     "summary": "欧盟官员越来越有信心认为，美国将暂不实施柴油出口禁令，从而使得该地区的供应免遭进一步冲击。欧盟能源事务专员Dan Jorgensen周二在都柏林对记者表示，他已向美国能源部长克里斯·赖特发出“非常明确的信号”，即实施这类禁令不符合任何一方的利益。Jorgensen同时对赖特此前表示不支持采取这一措施表示欢迎。（新浪财经…",
+     "title": "黄仁勋、苏姿丰等担任清华大学经管学院顾问委员会委员",
+     "link": "https://m.thepaper.cn/detail/34173451",
+     "time": "Tue, 29 Sep 2026 12:33:39 GMT",
+     "source": "澎湃新闻",
+     "summary": "9月29日，据“清华大学经济管理学院”微信公号，清华大学经济管理学院顾问委员会2026年会议将于10月13日、14日在北京召开。这是顾问委员会成立以来的第27次年度会议。今年顾问委员会新增委员3人，新增接任委员5人。 3位新增委员分别是英伟达创始人兼首席执行官黄仁勋（Jensen Huang），AMD董事会主席兼首席执…",
      "english": false
     },
     {
-     "title": "埃斯顿：拟推299万股限制性股票激励计划",
-     "link": "https://www.36kr.com/newsflashes/4004461811863688",
-     "time": "Tue, 29 Sep 2026 12:35:09 GMT",
-     "source": "36氪",
-     "summary": "36氪获悉，埃斯顿公告，公司发布2026年A股限制性股票激励计划草案，拟向209名激励对象授予299万股限制性股票，授予价格为14.92元/股。业绩考核目标为2026-2028年扣非净利润累计分别达2亿元、5.2亿元、11亿元。",
+     "title": "梅婷凭借《生命树》获金鹰奖最佳女配角奖",
+     "link": "https://m.thepaper.cn/detail/34173504",
+     "time": "Tue, 29 Sep 2026 12:32:38 GMT",
+     "source": "澎湃新闻",
+     "summary": "第33届中国电视金鹰奖颁奖典礼29日晚在湖南长沙举行。梅婷凭借《生命树》获金鹰奖最佳女配角奖。",
      "english": false
     },
     {
-     "title": "步长制药：全资子公司签订940万元安宫牛黄丸技术转让合同",
-     "link": "https://www.36kr.com/newsflashes/4004444330938501",
-     "time": "Tue, 29 Sep 2026 12:27:21 GMT",
-     "source": "36氪",
-     "summary": "36氪获悉，步长制药公告，公司全资子公司通化谷红与吉林省天泰药业股份有限公司签订《技术转让合同》，以940万元受让安宫牛黄丸生产批件及技术所有权，包括处方、生产工艺、质量标准等全部技术资料。本次交易不构成关联交易，也不构成重大资产重组。",
+     "title": "内地公安机关与香港警方联手打掉一跨境地下钱庄犯罪团伙",
+     "link": "https://m.thepaper.cn/detail/34173503",
+     "time": "Tue, 29 Sep 2026 12:31:16 GMT",
+     "source": "澎湃新闻",
+     "summary": "记者今天从公安部获悉，今年5月，公安部指挥部署广东等多地公安机关联合香港警方开展集中统一收网行动，打掉一个盘踞粤港两地的跨境地下钱庄犯罪团伙， 共抓获犯罪嫌疑人170余名，冻结涉案资金1500余万元人民币，扣押各类涉案财物价值约1.7亿元港币，取得重大战果。 2025年9月，香港警方发现一些香港银行账户跨境资金数据异常…",
      "english": false
     },
     {
-     "title": "DeepSeek Harness v0.2预览版正式发布",
-     "link": "https://www.36kr.com/newsflashes/4004459316137858",
-     "time": "Tue, 29 Sep 2026 12:26:40 GMT",
-     "source": "36氪",
-     "summary": "36氪获悉，9月29日，DeepSeek Harness v0.2预览版正式发布，并提供开箱即用的macOS和Windows桌面端安装包。据介绍，新版本预置了面向日常办公和开发的常用功能，让常用能力开箱即用。同时，新增插件安装与管理页面，并提供更多灵活配置选项，方便按需扩展功能，打造更适合自己的智能产品。",
+     "title": "追光的你丨十余年为烈士寻亲：让遗骸“开口”，让忠魂有归",
+     "link": "https://m.thepaper.cn/detail/34160543",
+     "time": "Tue, 29 Sep 2026 12:29:20 GMT",
+     "source": "澎湃新闻",
+     "summary": "“80后”的文少卿是复旦大学分子考古实验室负责人，从2015年起，他带领团队用分子考古手段替烈士寻亲，让遗骨“开口讲话”，把无名烈士变成有名字的人。",
      "english": false
     },
     {
-     "title": "国务院国资委： “十五五”时期将继续做好新央企组建和战略性重组",
-     "link": "https://www.36kr.com/newsflashes/4004458514337920",
-     "time": "Tue, 29 Sep 2026 12:25:51 GMT",
-     "source": "36氪",
-     "summary": "国务院国资委党委书记、主任程福波在《新型工业化》刊发署名文章《更好发挥国资央企排头兵作用 为现代化产业体系建设贡献更大力量》。“十五五”时期，将继续用好战略性专业化重组整合这个有力抓手，做好新央企组建和战略性重组，支持创新能力强的企业作为主体，开展同类业务横向整合和上下游纵向整合，加快推动国有资本向关系国家安全、国民经…",
+     "title": "江苏盐城一宣称投资六亿的欧式文旅小镇如今杂草丛生，当地回应因资金链断裂",
+     "link": "https://m.thepaper.cn/detail/34172419",
+     "time": "Tue, 29 Sep 2026 12:28:14 GMT",
+     "source": "澎湃新闻",
+     "summary": "位于江苏盐城城北的百禾米罗小镇，原规划占地50余亩，投资6亿元。澎湃新闻近日实地探访，发现已建成的欧式建筑未投入使用，小镇内杂草丛生，居民在附近开荒。当地政府人员称，开发运营企业资金链断裂，项目已停摆五六年了。",
      "english": false
     },
     {
-     "title": "国务院国资委：进一步发力人工智能、新材料等重点领域，超前培育量子科技等前沿赛道",
-     "link": "https://www.36kr.com/newsflashes/4004457536032649",
-     "time": "Tue, 29 Sep 2026 12:24:51 GMT",
-     "source": "36氪",
-     "summary": "国务院国资委党委书记、主任程福波在《新型工业化》刊发署名文章表示，积极培育壮大战略性新兴产业。新兴产业和未来产业是引领现代化产业体系建设的关键力量。当前中央企业新兴产业和未来产业布局还需提质加速，一些产业尚未形成竞争优势，必须在打造新兴支柱产业上下更大功夫，按照“领跑一批、赶超一批、培育一批”的思路，统筹推进差异化布局…",
+     "title": "解读｜购房贷款贴息政策精准为刚需家庭降月供，对楼市拉动效果如何？",
+     "link": "https://m.thepaper.cn/detail/34173306",
+     "time": "Tue, 29 Sep 2026 12:27:12 GMT",
+     "source": "澎湃新闻",
+     "summary": "9月29日，财政部会同中国人民银行、金融监管总局印发《关于实施居民购房贷款贴息政策的通知》（财金〔2026〕95号），明确自2026年10月1日起，实施居民购房贷款贴息政策，政策实施期暂定1年。这也是中央财政首次对商业性个人住房贷款进行贴息。 根据通知，可享受贴息的贷款规模最高为100万元，财政部门给予年化1个百分点的…",
      "english": false
     },
     {
-     "title": "中基协：8月ABS新增备案规模逾1300亿元",
-     "link": "https://www.36kr.com/newsflashes/4004439379447689",
-     "time": "Tue, 29 Sep 2026 12:20:17 GMT",
-     "source": "36氪",
-     "summary": "36氪获悉，根据中国证券投资基金业协会披露的数据，2026年8月，资产支持专项计划新增备案159只，新增备案规模合计1325.76亿元。其中，新增备案规模前三的ABS基础资产分别为：小额贷款债权、融资租赁债权和应收账款，备案规模分别为415.39亿元、275.11亿元和188.53亿元。",
-     "english": false
-    },
-    {
-     "title": "中科环保：拟投资不超过7亿元参与浙能锦江私有化",
-     "link": "https://www.36kr.com/newsflashes/4004437976829826",
-     "time": "Tue, 29 Sep 2026 12:13:52 GMT",
-     "source": "36氪",
-     "summary": "36氪获悉，中科环保公告，公司以参股形式与其他股东方在香港设立洁能投资（香港）有限公司，作为要约人向浙能锦江发起要约实施私有化项目，投资金额不超过7亿元，资金来源为自有资金。目前公司持有洁能投资12.50%股份；本次交易已取得浙江省国资委批准，尚需浙能锦江股东大会通过及境内外主管部门备案或审批。",
-     "english": false
-    },
-    {
-     "title": "华联控股：阿里扎罗锂盐湖项目收到FIRES通知",
-     "link": "https://www.36kr.com/newsflashes/4004434104258689",
-     "time": "Tue, 29 Sep 2026 12:11:33 GMT",
-     "source": "36氪",
-     "summary": "36氪获悉，华联控股公告，公司收到加拿大外国投资审查及经济安全主管机构（FIRES）根据《加拿大投资法》第25.3条发出的通知，告知其意图对本次交易展开进一步审查。公司与卖方正继续与FIRES保持沟通，并正在考量可行的选项或救济措施。8月14日，公司收到FIRES出具的《通知函》，认为公司本次对阿里扎罗锂盐湖项目的投资…",
-     "english": false
-    },
-    {
-     "title": "增值税新政实施一年累计办理留抵退税2818亿元",
-     "link": "https://www.36kr.com/newsflashes/4004425396146056",
-     "time": "Tue, 29 Sep 2026 12:01:06 GMT",
-     "source": "36氪",
-     "summary": "从国家税务总局获悉，增值税留抵退税新政实施一年来，全国累计办理留抵退税2818亿元。其中，制造、科研、软件、生态等4个重点行业受益显著，累计享受留抵退税2120亿元。（新华社）",
-     "english": false
-    },
-    {
-     "title": "壳牌计划将加拿大液化天然气项目产能翻倍",
-     "link": "https://www.36kr.com/newsflashes/4004420051505028",
-     "time": "Tue, 29 Sep 2026 11:56:40 GMT",
-     "source": "36氪",
-     "summary": "壳牌于周二表示，将增建两座液化工厂，把项目总产能提升一倍，达到每年2800万吨。这项对太平洋沿岸项目的数十亿美元投资，将助力壳牌向亚洲输出更多天然气。人口增长以及耗电量巨大的数据中心，正在推高亚洲地区的天然气需求。（新浪财经）",
-     "english": false
-    },
-    {
-     "title": "联泰环保：拟向晢杰企业管理有限公司现金出售两家公司100%股权，作价16.11亿元",
-     "link": "https://www.36kr.com/newsflashes/4004417114099593",
-     "time": "Tue, 29 Sep 2026 11:43:44 GMT",
-     "source": "36氪",
-     "summary": "36氪获悉，联泰环保公告，公司拟向晢杰企业管理(上海)有限公司出售湖南联泰环保有限公司100%股权和汕头联泰水务有限公司100%股权，交易对方以现金支付对价。其中，汕头联泰转让价格为人民币5.9亿元，湖南联泰转让价格为人民币10.21亿元，合计人民币16.11亿元。本次交易构成重大资产重组，不构成关联交易和重组上市。截…",
-     "english": false
-    },
-    {
-     "title": "华之杰：购买资产及配套募资方案获董事会审议，2026年9月30日复牌",
-     "link": "https://www.36kr.com/newsflashes/4004397881675649",
-     "time": "Tue, 29 Sep 2026 11:34:06 GMT",
-     "source": "36氪",
-     "summary": "36氪获悉，华之杰公告，公司此前筹划发行股份及支付现金购买资产并募集配套资金。公司于2026年9月29日召开第四届董事会第五次会议，审议通过本次交易相关议案；因审计、评估等工作尚未完成，暂不召开股东会，股票将于2026年9月30日上午开市起复牌。",
-     "english": false
-    },
-    {
-     "title": "三友联众：拟募资不超6.6亿元，用于光伏、储能及算力领域继电器扩产建设项目等",
-     "link": "https://www.36kr.com/newsflashes/4004397389992064",
-     "time": "Tue, 29 Sep 2026 11:30:34 GMT",
-     "source": "36氪",
-     "summary": "36氪获悉，三友联众公告，公司拟向不特定对象发行可转换公司债券，募集资金总额不超过6.6亿元，扣除发行费用后将用于信号继电器扩产及产业化建设项目、光伏、储能及算力领域继电器扩产建设项目、越南生产基地建设项目、磁保持继电器扩产建设项目及补充流动资金。",
+     "title": "澎湃早晚报｜晚安湃·国羽单打为何失守",
+     "link": "https://m.thepaper.cn/papernews/morningEveningPaper?n=268257",
+     "time": "Tue, 29 Sep 2026 12:21:23 GMT",
+     "source": "澎湃新闻",
+     "summary": "澎湃早晚报｜晚安湃·国羽单打为何失守",
      "english": false
     },
     {
      "title": "比亚迪：选举王传福为第九届董事会董事长",
-     "link": "https://www.36kr.com/newsflashes/4004400868872329",
-     "time": "Tue, 29 Sep 2026 11:27:12 GMT",
-     "source": "36氪",
-     "summary": "36氪获悉，比亚迪公告，经审议，董事会同意选举王传福为公司第九届董事会董事长，任期三年，自本次董事会审议通过之日起至第九届董事会任期届满为止。",
+     "link": "https://m.thepaper.cn/detail/34173184",
+     "time": "Tue, 29 Sep 2026 12:21:03 GMT",
+     "source": "澎湃新闻",
+     "summary": "比亚迪9月29日公告，经审议，董事会同意选举王传福为公司第九届董事会董事长，任期三年，自本次董事会审议通过之日起至第九届董事会任期届满为止。 比亚迪第九届董事会第一次会议决议公告",
      "english": false
     },
     {
-     "title": "建研院：筹划重大事项，股票停牌",
-     "link": "https://www.36kr.com/newsflashes/4004397976162176",
-     "time": "Tue, 29 Sep 2026 11:24:16 GMT",
-     "source": "36氪",
-     "summary": "36氪获悉，建研院公告，公司接相关方通知，获悉相关方正在筹划涉及公司的重大事项，鉴于该事项尚存在重大不确定性，为保证公平信息披露，维护投资者利益，公司股票将于2026年9月30日开市起停牌，预计停牌时间不超过2个交易日。目前该事项仍处于筹划阶段，能否实施尚存较大不确定性。",
+     "title": "福州第三中学原校长王天德逝世，享年86岁",
+     "link": "https://m.thepaper.cn/detail/34173369",
+     "time": "Tue, 29 Sep 2026 12:20:41 GMT",
+     "source": "澎湃新闻",
+     "summary": "据福建省福州第三中学2026年9月28日消息，福州第三中学原校长、中学特级教师、国务院政府特殊津贴专家王天德因病医治无效，于9月20日与世长辞，享年86岁。",
      "english": false
     },
     {
-     "title": "机构今日买入鸿富诚等18股，卖出电科思仪9718万元",
-     "link": "https://www.36kr.com/newsflashes/4004380100219010",
-     "time": "Tue, 29 Sep 2026 11:20:59 GMT",
-     "source": "36氪",
-     "summary": "盘后数据显示，9月29日龙虎榜中，共36只个股出现了机构的身影，有18只股票呈现机构净买入，18只股票呈现机构净卖出。当天机构净买入前三的股票分别是鸿富诚、奥佳华、托伦斯，净买入金额分别是2.34亿元、7054万元、5078万元。当天机构净卖出前三的股票分别是电科思仪、我爱我家、崇达技术，净卖出金额分别是9718万元、…",
+     "title": "第一观察丨中美关系新定位内涵进一步拓展",
+     "link": "https://h.xinhuaxmt.com/vh512/share/13306133?newstype=1001&homeshow=1",
+     "time": "Tue, 29 Sep 2026 12:11:33 GMT",
+     "source": "澎湃新闻",
+     "summary": "第一观察丨中美关系新定位内涵进一步拓展",
      "english": false
     },
     {
-     "title": "三星向KKR投资的AI基础设施企业Helix投资10亿美元",
-     "link": "https://www.36kr.com/newsflashes/4004372156158087",
-     "time": "Tue, 29 Sep 2026 11:15:53 GMT",
-     "source": "36氪",
-     "summary": "三星电子及其五家关联公司周二宣布，合计向Helix Digital Infrastructure（赫利克斯数字基础设施公司）投资10亿美元。这家AI基建平台由私募股权机构KKR于今年6月设立。人工智能需求急剧攀升，推动科技公司、能源供应商以及投资机构开展各类合作交易与项目，在全球范围内扩建算力基础设施。Helix 创立…",
+     "title": "北京理工大学：教师裴某存在严重违反职业道德规范和行为准则等行为，解除聘用关系",
+     "link": "https://m.thepaper.cn/detail/34172944",
+     "time": "Tue, 29 Sep 2026 10:52:53 GMT",
+     "source": "澎湃新闻",
+     "summary": "北京理工大学9月29日发布情况通报： 近日，学校收到反映我校教师裴某相关问题的线索。学校高度重视，第一时间成立专项工作组，开展全面细致的调查工作。 经查实，裴某存在严重违反教师职业道德规范和行为准则等行为，造成严重不良影响。 依据相关规定，经研究决定，取消裴某研究生指导教师资格，撤销其北京理工大学教师岗位任职资格，解除…",
      "english": false
     },
     {
-     "title": "英伟达欲拉保险公司入场，为AI芯片融资风险兜底",
-     "link": "https://www.36kr.com/newsflashes/4004371015651205",
-     "time": "Tue, 29 Sep 2026 11:11:33 GMT",
-     "source": "36氪",
-     "summary": "英伟达正在与保险公司展开洽谈，探讨如何分担其人工智能（AI）芯片贷款业务所伴随的风险。英伟达CEO黄仁勋认为，芯片应被视为一种“可投资资产类别”，用作在用户与投资者之间转移风险和成本。（财联社）",
+     "title": "中央财政帮你还房贷利息：最高可省近5万元，哪些人可享受？",
+     "link": "https://m.thepaper.cn/detail/34172817",
+     "time": "Tue, 29 Sep 2026 10:18:46 GMT",
+     "source": "澎湃新闻",
+     "summary": "9月29日，财政部会同中国人民银行、金融监管总局印发《关于实施居民购房贷款贴息政策的通知》（下称《通知》）。 据《通知》，此次购房贴息政策支持对象为贷款购买商品住房的居民家庭，同时符合以下条件的，可享受中央财政贴息政策支持： 1.使用 新发放商业性个人住房贷款购买首套住房 ，不包括使用新发放商业性个人住房贷款置换存量贷…",
      "english": false
     },
     {
-     "title": "网宿科技：拟3亿元投资视频生成模型公司Sand.ai",
-     "link": "https://www.36kr.com/newsflashes/4004369938911365",
-     "time": "Tue, 29 Sep 2026 11:07:27 GMT",
-     "source": "36氪",
-     "summary": "36氪获悉，网宿科技公告，公司拟对Sand.ai进行股权投资，拟以自有资金出资3亿元认购Sandai开曼增发的A+轮优先股，投资完成后持有Sandai开曼4.3963%股权。作为过渡性安排，公司先期向上海三呆科技提供3亿元可转债，并获得A+轮认股权证。Sand.ai成立于2024年1月，主要从事视觉内容生成模型及基于视…",
+     "title": "在重庆可以听到泰语报站了：东南亚游客来渝较多，轨交推出泰语广播",
+     "link": "https://m.thepaper.cn/detail/34172271",
+     "time": "Tue, 29 Sep 2026 09:26:13 GMT",
+     "source": "澎湃新闻",
+     "summary": "在李子坝站打卡列车穿楼的国外旅客 图/张华洋 为提升境外人员来渝服务便利化水平，加快打造国际化环境，2026年9月29日起，重庆轨道交通运营有限公司在朝天门、小什字、李子坝三座车站，试点推出泰语广播报站服务。 重庆轨道交通运营有限公司方面介绍，随着重庆城市影响力和国际文旅知名度持续提升，入境来渝观光旅游持续火热，结合重…",
+     "english": false
+    },
+    {
+     "title": "中国上海国际艺术节10月启幕：因艺术而来，为上海停留",
+     "link": "https://m.thepaper.cn/detail/34171990",
+     "time": "Tue, 29 Sep 2026 09:00:43 GMT",
+     "source": "澎湃新闻",
+     "summary": "每年金秋和观众相约的中国上海国际艺术节，走过二十五届，弦歌不辍。 第二十五届中国上海国际艺术节将于10月17日至11月15日举行，呈现各类演出展览活动近400项、总场次近1100场。其中，“艺享全球”舞台演出共60台、170场，在沪首演节目比例近90%，“上海独家、中国唯一”演出达13台。 “我们期待，因为一台戏，更多…",
+     "english": false
+    },
+    {
+     "title": "李亚鹏称房东已下调房租，北京嫣然天使儿童医院：一直正常接诊、近期无搬家计划",
+     "link": "https://m.thepaper.cn/detail/34171595",
+     "time": "Tue, 29 Sep 2026 08:16:20 GMT",
+     "source": "澎湃新闻",
+     "summary": "近日，多名网友发视频称，北京嫣然天使儿童医院门口挂上了写有 “嫣然医院” 的新牌子。9月29日，澎湃新闻致电嫣然天使儿童医院，一名工作人员称，医院一直在正常接诊，近期无搬家计划。9月29日，中新网报道，李亚鹏近期接受采访时回应了备受关注的房租问题，他表达了对房东的感谢，称房东已将房租降了相当的比例。",
+     "english": false
+    },
+    {
+     "title": "澎湃新闻即将推出2026国庆特别策划《奔赴“县”场》",
+     "link": "https://m.thepaper.cn/detail/34171082",
+     "time": "Tue, 29 Sep 2026 07:26:19 GMT",
+     "source": "澎湃新闻",
+     "summary": "县城，盛得下梦想，载得动乡愁。一到假期，年轻人“奔县”已成为一种风潮。 今年国庆，澎湃新闻记者也将奔赴“县”场，感受蕴藏于中国县域的生机、韧性与真实生活。这里既有县域产业突围、文旅融合的鲜活探索，也有古老文脉在小城焕发新生的转型实践，用一个个小城故事，描摹新时代中国基层的生动图景。 县域活则全盘活，县域强则根基稳。一段…",
      "english": false
     }
    ]
@@ -537,7 +505,7 @@
     {
      "title": "UK government pays highest interest rate on 10-year debt since 1999 at bond auction – business live",
      "link": "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates",
-     "time": "Tue, 29 Sep 2026 12:42:39 GMT",
+     "time": "Tue, 29 Sep 2026 12:28:06 GMT",
      "source": "卫报商业",
      "summary": "Rolling coverage of the latest economic and financial news Newsflash: the number of mortgages approved by UK lenders has fallen to its lowest level since the en…",
      "english": true
@@ -575,31 +543,31 @@
      "english": true
     },
     {
-     "title": "Turkiye arrests president, six members of football refereeing body in probe",
-     "link": "https://www.aljazeera.com/sports/2026/9/29/turkiye-arrests-president-six-members-of-football-refereeing-body-in-probe?traffic_source=rss",
-     "time": "Tue, 29 Sep 2026 12:37:18 +0000",
-     "source": "半岛电视台",
-     "summary": "Arrests were made over interference with refereeing procedures, among other accusations, Turkish justice minister says.",
-     "english": true
-    },
-    {
-     "title": "Iranians stock up on food and medicine as fears of new US fighting grow",
-     "link": "https://www.aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow?traffic_source=rss",
-     "time": "Tue, 29 Sep 2026 12:32:10 +0000",
-     "source": "半岛电视台",
-     "summary": "Iran is struggling with shortages as sanctions and blockade strain food and medicine supply chains.",
-     "english": true
-    },
-    {
      "title": "Malaysia sends Rohingya back to Myanmar despite safety warnings",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/malaysia-sends-rohingya-back-myanmar-despite-safety-warnings?traffic_source=rss",
      "time": "Tue, 29 Sep 2026 12:08:40 +0000",
      "source": "半岛电视台",
      "summary": "Malaysia sends Rohingya back to Myanmar despite safety warnings",
      "english": true
+    },
+    {
+     "title": "Journalist ascends to throne in Uganda kingdom after succession dispute",
+     "link": "https://www.aljazeera.com/news/2026/9/29/journalist-ascends-to-throne-in-uganda-kingdom-after-succession-dispute?traffic_source=rss",
+     "time": "Tue, 29 Sep 2026 12:07:31 +0000",
+     "source": "半岛电视台",
+     "summary": "Edward Rukidi Kijanangoma succeeds King Oyo Nyimba Kabamba Iguru Rukidi IV, who died last month.",
+     "english": true
+    },
+    {
+     "title": "Hormuz and Yemen: Iran offers de-escalation at a price others will pay",
+     "link": "https://www.aljazeera.com/opinions/2026/9/29/hormuz-and-yemen-iran-offers-de-escalation-at-a-price-others-will-pay?traffic_source=rss",
+     "time": "Tue, 29 Sep 2026 12:00:00 +0000",
+     "source": "半岛电视台",
+     "summary": "Iran is using Hormuz to seek US concessions, relief for the Houthis and greater control over Gulf shipping.",
+     "english": true
     }
    ]
   }
  ],
- "lastUpdated": "2026-09-29T12:49:25.195947+00:00"
+ "lastUpdated": "2026-09-29T12:53:12.484549+00:00"
 }

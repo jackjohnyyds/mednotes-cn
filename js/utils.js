@@ -81,8 +81,9 @@ export async function fetchWithFallback(urls, opts, timeout) {
   throw lastErr || new Error('所有数据源均不可用');
 }
 
-/** 从 Netlify data-api 获取服务端聚合数据（优先），失败返回 null */
+/** 从 Netlify data-api 获取服务端聚合数据（仅 Netlify 部署可用），其他环境直接返回 null 不发起请求 */
 export async function fetchApiData(type, { force = false, timeout = 25000 } = {}) {
+  if (!location.hostname.includes('netlify.app')) return null; // GitHub Pages / surge 无该后端，跳过探测
   try {
     const url = `./.netlify/functions/data-api?type=${type}${force ? '&force=1' : ''}&_=${Date.now()}`;
     const ctrl = new AbortController();

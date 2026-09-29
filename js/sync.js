@@ -7,8 +7,8 @@
  *  - 后端：Netlify Function + Blobs（/.netlify/functions/sync）。
  *  - 离线或后端不可用时静默降级，本地功能不受影响。
  */
-import { store, PREFIX, SYNCED_KEYS } from './storage.js?v=20260921b';
-import { toast } from './utils.js?v=20260921b';
+import { store, PREFIX, SYNCED_KEYS } from './storage.js?v=20260929a';
+import { toast } from './utils.js?v=20260929a';
 
 const SYNC_ENDPOINT = 'https://prismatic-cucurucho-9e351c.netlify.app/.netlify/functions/sync';
 const ALPHABET = 'ABCDEFGHJKMNPQRSTUVWXYZ23456789'; // 去除易混 0/1/I/L/O

@@ -24,8 +24,8 @@ jobs:
         run: |
           set -e
           BASE="https://mednotes-cn.surge.sh"
-          # 本地修复/维护的文件以仓库为准，不覆盖：
-          PROTECTED="js/app.js js/utils.js js/modules/papers.js js/modules/mednews.js js/modules/briefing.js .github/workflows/daily-sync.yml scripts data"
+          # 本地修复/维护的文件以仓库为准，不覆盖（index.html 因维护缓存版本号纳入保护）：
+          PROTECTED="index.html js/app.js js/utils.js js/modules/papers.js js/modules/mednews.js js/modules/briefing.js .github/workflows/daily-sync.yml scripts data"
           FILES="index.html css/style.css js/app.js js/utils.js js/storage.js js/sync.js js/modules/focus.js js/modules/papers.js js/modules/mednews.js js/modules/briefing.js js/modules/space.js"
           for f in $FILES; do
             skip=0

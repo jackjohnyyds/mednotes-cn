@@ -1,6 +1,148 @@
 {
  "categories": [
   {
+   "id": "cctv",
+   "label": "央视网",
+   "items": [
+    {
+     "title": "今年前8月全国社会物流总额243.6万亿元 同比增长4.9%",
+     "link": "https://news.cctv.com/2026/09/29/ARTIBG9y6jBPPylxxpiggpNd260929.shtml",
+     "time": "Tue, 29 Sep 2026 09:51:03 GMT",
+     "source": "央视网",
+     "summary": "中国物流与采购联合会今天（29日）公布今年1—8月份物流运行数据。数据显示，今年1—8月份，我国物流运行保持稳中有进发展态势、物流市场规模稳步扩张，国际物流通道扩容提质。 今年1—8月份，全国社会物流总额243.6万亿元，同比增长4.9%。社会物流总额稳定增长与结构优化同步推进，产业链供应链韧性进一步凸显。具体来看，工…",
+     "english": false
+    },
+    {
+     "title": "中办、国办印发《文化遗产保护传承“十五五”规划》",
+     "link": "https://news.cctv.com/2026/09/29/ARTIP58A38B7BW2e9hcUIbY2260929.shtml",
+     "time": "Tue, 29 Sep 2026 09:50:57 GMT",
+     "source": "央视网",
+     "summary": "近日，中共中央办公厅、国务院办公厅印发了《文化遗产保护传承“十五五”规划》，并发出通知，要求各地各部门结合实际认真贯彻落实。 规划提出，到2030年，文化遗产资源全面摸清，监管体制基本理顺，法规制度更加健全，人才队伍持续壮大，保护督察有力有效，文化遗产大保护格局基本形成，文化遗产在建设社会主义文化强国中的重要作用充分彰…",
+     "english": false
+    },
+    {
+     "title": "今年我国粮食丰收在望",
+     "link": "https://news.cctv.com/2026/09/29/ARTIai5B2VF7zTnSauyIfHqo260929.shtml",
+     "time": "Tue, 29 Sep 2026 09:47:09 GMT",
+     "source": "央视网",
+     "summary": "9月29日，国新办举行“开局起步‘十五五’”系列主题新闻发布会。发布会上，农业农村部有关负责人介绍，粮食稳产增产，夏粮产量首次突破3000亿斤，早稻产量连续6年稳定在560亿斤以上，秋粮正在大面积收获，全年粮食丰收在望。",
+     "english": false
+    },
+    {
+     "title": "第三轮第六批中央生态环境保护督察组完成督察反馈工作",
+     "link": "https://news.cctv.com/2026/09/29/ARTICeqFOY4t27HYHGegDXhm260929.shtml",
+     "time": "Tue, 29 Sep 2026 09:43:06 GMT",
+     "source": "央视网",
+     "summary": "第三轮第六批中央生态环境保护督察组近日陆续完成督察反馈工作。本轮督察于2026年5月全面启动，覆盖辽宁、吉林、黑龙江、广东、广西、西藏、新疆7省（区）和新疆生产建设兵团。 督察发现一些突出问题：一些省区仍然存在“高耗能、高排放”两高项目盲目上马、建筑垃圾违法违规处置、违法捕猎贩卖野生鸟类禁而不绝等问题。生态保护修复存在…",
+     "english": false
+    },
+    {
+     "title": "一系列政策举措着力完善金融产品和服务 促进加大高质量服务供给",
+     "link": "https://news.cctv.com/2026/09/29/ARTIVqK22uIVvIb0TrUJ3x3l260929.shtml",
+     "time": "Tue, 29 Sep 2026 09:40:42 GMT",
+     "source": "央视网",
+     "summary": "央视网消息： 国家发展改革委9月29日举行专题新闻发布会，相关负责人介绍，中国人民银行会同相关部门出台一系列政策举措，着力完善金融产品和服务，促进加大高质量服务供给。 围绕服务业细分领域，聚焦科技服务、物流运输等生产性服务业，以及养老、文旅、体育等生活性服务业，配套专项金融支持政策和产品；同时，用好服务消费与养老再贷款…",
+     "english": false
+    },
+    {
+     "title": "国务院任免国家工作人员",
+     "link": "https://news.cctv.com/2026/09/29/ARTIwnbOsgtSQVgWGo3bZlnq260929.shtml",
+     "time": "Tue, 29 Sep 2026 09:39:32 GMT",
+     "source": "央视网",
+     "summary": "国务院任免国家工作人员。 任命黄敏为国家信访局副局长；任命邓超为国家文物局副局长。 免去郭卫平的国家民族事务委员会副主任职务；免去牟海松的国家信访局副局长职务；免去申长雨的国家知识产权局局长职务；免去赵世通的国务院台湾事务办公室副主任职务。",
+     "english": false
+    },
+    {
+     "title": "人工智能正从“尝鲜工具”变成“日常帮手” 智能经济有望成为经济发展新增长极",
+     "link": "https://news.cctv.com/2026/09/29/ARTIPLTQ2d9npL5p2DXyglK5260929.shtml",
+     "time": "Tue, 29 Sep 2026 09:32:45 GMT",
+     "source": "央视网",
+     "summary": "央视网消息： 记者在第七届中国互联网基础资源大会上了解到，中国互联网络信息中心29日发布了《生成式人工智能应用发展报告（2026）》。报告显示，截至今年上半年，我国生成式人工智能用户规模突破7亿人，人工智能正在从少数人的尝鲜工具变成大多数人的日常帮手。 报告显示，我国有36.1%的网民在用手机自带的AI小助手，35.5…",
+     "english": false
+    },
+    {
+     "title": "应急管理部：假期临近 强化交通、文旅等重点行业领域隐患整改",
+     "link": "https://news.cctv.com/2026/09/29/ARTItt8ENA8IWdHV8DjsqeZc260929.shtml",
+     "time": "Tue, 29 Sep 2026 09:24:43 GMT",
+     "source": "央视网",
+     "summary": "9月29日，应急管理部召开会议，研究部署国庆假期前后安全防范重点工作。会议指出，国庆假期临近，各类安全风险交织叠加，安全形势严峻复杂。要紧盯消防、矿山、危化品、交通运输、文化旅游等重点行业领域，突出重大风险场景，强化隐患整改销号闭环，严格安全监管执法，严厉打击违法违规行为，牢牢守住安全生产底线。要抓好防灾减灾救灾工作，…",
+     "english": false
+    },
+    {
+     "title": "今年前8个月 “义新欧”中欧班列进口集装箱货值超百亿元",
+     "link": "https://news.cctv.com/2026/09/29/ARTILNv3y1HrIZfdCFzxtEUt260929.shtml",
+     "time": "Tue, 29 Sep 2026 09:20:36 GMT",
+     "source": "央视网",
+     "summary": "今年前8个月，杭州海关累计监管“义新欧”中欧班列进口集装箱6.62万标箱，货值114.9亿元，增长13.4%，创历史同期新高。进口集装箱占比逐年增长，目前进口集装箱量占进出口总箱量的37.5%，较开行初期提升30%。 进口货物品类进一步拓宽，高货值商品占比持续走高，与初期主要进口红酒、奶粉等日用消费品相比，目前班列回程…",
+     "english": false
+    },
+    {
+     "title": "阿根廷国家石油公司日产量有望首次达100万桶",
+     "link": "https://news.cctv.com/2026/09/29/ARTIEXFPAuUMzsyctrm0XePc260929.shtml",
+     "time": "Tue, 29 Sep 2026 09:55:37 GMT",
+     "source": "央视网",
+     "summary": "阿根廷国家石油公司首席执行官奥拉西奥·马林28日说，该公司石油日产量有望首次达到100万桶。 马林当天在采访中说，阿根廷国家石油公司正处于扩张期，公司规模有望在未来几年扩大至目前的四倍多。 有消息称，位于阿根廷内乌肯省的巴卡穆埃尔塔油田将成为未来几年阿根廷国家石油公司增产的主要来源。 数据显示，巴卡穆埃尔塔油田是带动阿…",
+     "english": false
+    },
+    {
+     "title": "伊朗革命卫队发言人：美国若想结束战争则必须承认战败",
+     "link": "https://news.cctv.com/2026/09/29/ARTId2TpEeVL5sqK1L5KzmOz260929.shtml",
+     "time": "Tue, 29 Sep 2026 09:52:57 GMT",
+     "source": "央视网",
+     "summary": "当地时间29日，伊朗伊斯兰革命卫队发言人穆赫比表示，革命卫队已经准备好一封写给美国人民的信，旨在以真诚态度让美国人民了解伊朗立场。他表示，如果美国高昂的军费开支是为了保卫其领土，那么美国的国防形势自然是安全的，它并不需要在世界各地设立800个军事基地。 谈到核问题时，穆赫比指出，25年前，美国总统就曾宣布伊朗距离拥有核…",
+     "english": false
+    },
+    {
+     "title": "韩总统要求军方查明非军事区地雷爆炸事故",
+     "link": "https://news.cctv.com/2026/09/29/ARTIOtJ87U9DSN9IlOSOIATo260929.shtml",
+     "time": "Tue, 29 Sep 2026 09:40:18 GMT",
+     "source": "央视网",
+     "summary": "针对日前发生在韩朝非军事区的地雷爆炸事故，韩国总统李在明29日要求军方迅速查明真相，并表示政府将视调查结果采取必要措施。 韩国陆军第25师21日在韩朝军事分界线附近韩方一侧非军事区内执行任务时发生地雷爆炸事故，造成3名军人受伤，其中2人伤势严重。 韩国军方28日公布事故初步调查结果称，此次事故“由朝军埋设地雷引发的可能…",
+     "english": false
+    },
+    {
+     "title": "也门卫生系统濒临崩溃 世卫组织警告疫情风险加剧",
+     "link": "https://news.cctv.com/2026/09/29/ARTIhYcXFPXxlU19Cj6bGNkb260929.shtml",
+     "time": "Tue, 29 Sep 2026 09:36:50 GMT",
+     "source": "央视网",
+     "summary": "世界卫生组织29日警告称，也门局势升级正将本已脆弱的卫生系统推向崩溃边缘。根据最新数据，自8月6日以来当地累计伤亡4481人，其中838人死亡；超过18万人在10个省份流离失所。当前仅约60%的医疗机构能够正常运转，创伤救治挤压妇幼等基本医疗服务。霍乱、登革热和麻疹疫情持续，其中今年已报告超过2.2万例疑似麻疹病例和1…",
+     "english": false
+    },
+    {
+     "title": "伊拉克军方称美军及国际联盟部队将于9月30日完成撤离",
+     "link": "https://news.cctv.com/2026/09/29/ARTIbiToKU9w6fw1voN5KuiQ260929.shtml",
+     "time": "Tue, 29 Sep 2026 08:46:46 GMT",
+     "source": "央视网",
+     "summary": "当地时间9月28日晚，伊拉克武装部队总司令发言人萨巴赫·努曼表示，美军及国际联盟部队将按照此前商定的时间表于9月30日完成从伊拉克撤离的进程。 努曼同时表示，目前伊拉克境内已不存在外国军事基地。当前伊拉克安全形势良好，伊拉克安全部队已部署在全国各地。随着国际联盟在伊任务结束，伊拉克与有关国家的安全合作将转向新的双边伙伴…",
+     "english": false
+    },
+    {
+     "title": "泰国多地洪灾已致至少23人死亡",
+     "link": "https://news.cctv.com/2026/09/29/ARTIQTJXuPpqOFzlLDct7Nha260929.shtml",
+     "time": "Tue, 29 Sep 2026 08:45:01 GMT",
+     "source": "央视网",
+     "summary": "泰国内政部29日发布报告称，自9月16日以来，泰国42个府遭遇暴雨和洪灾，全国范围内已有至少23人遇难，超过250万人受灾。 报告说，洪灾造成曼谷市4人死亡，曼谷附近的北榄府8人死亡，曼谷市和28个府仍受洪灾影响。 目前，泰国陆军已调集4000余名人员，携救灾设备前往曼谷东部等受灾地区。 泰国总理府发言人埃卡蓬29日在…",
+     "english": false
+    },
+    {
+     "title": "联合国：也门冲突升级已致约14.2万人流离失所",
+     "link": "https://news.cctv.com/2026/09/29/ARTI8mu6C70V3tYU5UstSjzp260929.shtml",
+     "time": "Tue, 29 Sep 2026 08:43:43 GMT",
+     "source": "央视网",
+     "summary": "28日，联合国秘书长古特雷斯的发言人迪雅里克警告称，也门日益加剧的敌对行动已迫使约14.2万人流离失所，不断增加的伤亡人数已迫使部分医院暂停产科急诊服务，以优先救治伤员，而医疗物资正在迅速耗尽。鉴于流离失所者营地普遍过度拥挤、饮用水不安全以及卫生条件恶劣，世界卫生组织已就潜在的霍乱疫情发出警报。 近期，也门胡塞武装加大…",
+     "english": false
+    },
+    {
+     "title": "以军军事行动致加沙地带3人死亡 多人受伤",
+     "link": "https://news.cctv.com/2026/09/29/ARTIvc1Inh7YxftBDfvz4Yl7260929.shtml",
+     "time": "Tue, 29 Sep 2026 08:42:07 GMT",
+     "source": "央视网",
+     "summary": "据巴勒斯坦方面29日消息，以色列军队当天在加沙地带中部代尔拜拉赫和加沙城展开军事行动，造成3名巴勒斯坦人死亡，另有多人受伤。 消息称，在代尔拜拉赫，一名巴勒斯坦青年遭以军枪击身亡。在加沙城西部，以军对纳斯尔街区的一处住宅楼发动空袭，造成2人死亡，多人受伤。（总台记者 梁慧）",
+     "english": false
+    }
+   ]
+  },
+  {
    "id": "chinadaily",
    "label": "China Daily",
    "items": [
@@ -175,9 +317,311 @@
    ]
   },
   {
+   "id": "kr36",
+   "label": "36氪",
+   "items": [
+    {
+     "title": "*ST元道：公司股票于9月30日复牌并进入退市整理期",
+     "link": "https://www.36kr.com/newsflashes/4004330311634821",
+     "time": "Tue, 29 Sep 2026 10:23:18 GMT",
+     "source": "36氪",
+     "summary": "36氪获悉，*ST元道公告，公司股票于9月30日复牌并进入退市整理期，退市整理期为15个交易日，预计最后交易日期为10月27日。敬请投资者审慎投资、注意风险。退市整理期届满的次一交易日，深交所将对公司股票予以摘牌，公司股票终止上市。",
+     "english": false
+    },
+    {
+     "title": "东阳光：控股股东提议6亿元-12亿元回购股份",
+     "link": "https://www.36kr.com/newsflashes/4004330139635591",
+     "time": "Tue, 29 Sep 2026 10:15:15 GMT",
+     "source": "36氪",
+     "summary": "36氪获悉，东阳光公告，公司于2026年9月29日收到控股股东深圳市东阳光实业发展有限公司的回购提议，拟以自有或自筹资金通过集中竞价方式回购公司A股股份，回购资金规模不低于6亿元（含）且不超过12亿元（含），回购价格不超过董事会通过回购决议前30个交易日公司股票交易均价的150%，实施期限为董事会审议通过回购方案之日起…",
+     "english": false
+    },
+    {
+     "title": "财政部等三部门：此次中央财政首次对部分收入相对不高的群体商业性个人住房贷款进行贴息，在需求侧进一步打开政策发力空间",
+     "link": "https://www.36kr.com/newsflashes/4004324279586689",
+     "time": "Tue, 29 Sep 2026 10:09:18 GMT",
+     "source": "36氪",
+     "summary": "36氪获悉，财政部、中国人民银行、金融监管总局有关负责人就实施居民购房贷款贴息政策答记者问。住房问题关系民生福祉，党中央、国务院高度重视，多次对居民住房工作提出明确要求。近年来，财政部联合有关方面在供给侧打出组合拳，包括支持发行新增专项债券用于土地储备、支持地方收购存量商品房用作保障性住房等举措，优供给、惠民生。此次中…",
+     "english": false
+    },
+    {
+     "title": "央行：增加支农支小再贷款额度5000亿元",
+     "link": "https://www.36kr.com/newsflashes/4004321216384903",
+     "time": "Tue, 29 Sep 2026 10:06:11 GMT",
+     "source": "36氪",
+     "summary": "36氪获悉，央行调整完善若干货币政策工具。增加支农支小再贷款额度5000亿元，其中民营企业再贷款额度增加3000亿元。调增后，支农支小再贷款和再贴现额度从4.35万亿元增至4.85万亿元，其中民营企业再贷款额度从1万亿元增至1.3万亿元，将进一步激励地方法人银行加大对涉农、小微企业，尤其是中小微民营企业的信贷支持。",
+     "english": false
+    },
+    {
+     "title": "央行：增加科技创新和技术改造再贷款额度2000亿元",
+     "link": "https://www.36kr.com/newsflashes/4004320789139331",
+     "time": "Tue, 29 Sep 2026 10:05:45 GMT",
+     "source": "36氪",
+     "summary": "36氪获悉，央行调整完善若干货币政策工具。增加科技创新和技术改造再贷款额度2000亿元，并将该项再贷款支持比例统一从60%提高至100%。调增后，科技创新和技术改造再贷款额度从1.2万亿元增至1.4万亿元，且支持比例更高，有助于引导银行加大对中小科技型企业贷款投放，更好地支持企业扩大重点领域设备更新投资。",
+     "english": false
+    },
+    {
+     "title": "央行：将“六张网”建设纳入抵押补充贷款支持领域",
+     "link": "https://www.36kr.com/newsflashes/4004320279269252",
+     "time": "Tue, 29 Sep 2026 10:05:13 GMT",
+     "source": "36氪",
+     "summary": "36氪获悉，央行调整完善若干货币政策工具。扩大抵押补充贷款支持领域。将水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等“六张网”建设纳入抵押补充贷款支持领域，引导政策性银行加大对“六张网”建设的金融支持，助力扩大有效投资，深入挖掘内需潜力。",
+     "english": false
+    },
+    {
+     "title": "央行：下调抵押补充贷款（PSL）利率0.25个百分点",
+     "link": "https://www.36kr.com/newsflashes/4004319161323393",
+     "time": "Tue, 29 Sep 2026 10:04:05 GMT",
+     "source": "36氪",
+     "summary": "36氪获悉，央行调整完善若干货币政策工具。下调抵押补充贷款（PSL）利率0.25个百分点。一年期抵押补充贷款利率从1.75%降至1.5%，更好激励政策性银行支持实体经济、服务国家战略。",
+     "english": false
+    },
+    {
+     "title": "居民房贷贴息政策10月1日起实施",
+     "link": "https://www.36kr.com/newsflashes/4004316309933952",
+     "time": "Tue, 29 Sep 2026 10:01:11 GMT",
+     "source": "36氪",
+     "summary": "财政部、中国人民银行、金融监管总局9月29日联合对外发布通知，明确自2026年10月1日起，实施居民购房贷款贴息政策，政策实施期暂定1年。这是中央财政首次对商业性个人住房贷款进行贴息。此次发布的通知明确，对同时符合以下条件的居民家庭给予贴息支持：一是使用新发放的商业性个人住房贷款购买首套住房，不包括存量贷款置换；二是所…",
+     "english": false
+    },
+    {
+     "title": "三峡水利：拟公开挂牌转让武陵锰业100%股权及相关资产",
+     "link": "https://www.36kr.com/newsflashes/4004304057241478",
+     "time": "Tue, 29 Sep 2026 09:59:40 GMT",
+     "source": "36氪",
+     "summary": "36氪获悉，三峡水利公告，公司下属全资子公司乌江实业拟公开挂牌转让其持有的贵州武陵锰业100%股权，乌江电力拟同步公开挂牌转让油菜沟锰渣库相关资产，两项标的互为前置交易条件、实行捆绑转让。武陵锰业100%股权对应评估价值为6.65亿元，油菜沟锰渣库相关资产对应评估价值为1.85亿元（不含增值税）。本次交易尚需提交公司股…",
+     "english": false
+    },
+    {
+     "title": "迪哲医药：公司收到阿斯利康6亿美元首付款",
+     "link": "https://www.36kr.com/newsflashes/4004297709244548",
+     "time": "Tue, 29 Sep 2026 09:55:11 GMT",
+     "source": "36氪",
+     "summary": "36氪获悉，迪哲医药公告，公司于2026年7月14日与阿斯利康签署《许可协议》，授予阿斯利康在全球范围内独家开发、商业化舒沃哲的权利，协议于2026年8月31日正式生效。近期公司已收到阿斯利康支付的6亿美元首付款。",
+     "english": false
+    },
+    {
+     "title": "NASA：“星际客机”修补后接着用，但先别载人",
+     "link": "https://www.36kr.com/newsflashes/4004290273824640",
+     "time": "Tue, 29 Sep 2026 09:52:37 GMT",
+     "source": "36氪",
+     "summary": "美国国家航空航天局（NASA）9月28日宣布，将继续采用波音公司的“星际客机”执行不载人飞往国际空间站任务，但只有在该飞船“改进设计”后才会开展新的载人飞行任务。就在今年2月，NASA发布调查报告认定，“星际客机”首次载人试飞任务出现的故障为严重程度等级最高的“A类”事故。此前美国“挑战者号”“哥伦比亚号”航天飞机事故…",
+     "english": false
+    },
+    {
+     "title": "中国汽研：控股股东拟增持6000万元至1.2亿元股份",
+     "link": "https://www.36kr.com/newsflashes/4004286938910853",
+     "time": "Tue, 29 Sep 2026 09:48:58 GMT",
+     "source": "36氪",
+     "summary": "36氪获悉，中国汽研公告，公司控股股东中国中检拟自增持计划公告之日起6个月内，通过上交所系统以集中竞价方式增持公司A股股份，合计总金额不低于6000万元且不高于1.2亿元。本次增持前，中国中检持有公司股份5.35亿股，占总股本53.33%。增持不设价格区间，资金来源为自有资金，中国中检承诺增持期间及法定期限内不减持所持…",
+     "english": false
+    },
+    {
+     "title": "Meta宣布推出面向小企业的Muse",
+     "link": "https://www.36kr.com/newsflashes/4004300434804873",
+     "time": "Tue, 29 Sep 2026 09:45:02 GMT",
+     "source": "36氪",
+     "summary": "Meta宣布推出面向小企业的AI代理Muse，可根据用户设定的目标，协助经营业务、寻找客户及分析销售和财务数据等。Muse目前可连接Asana、Box、Canva、Dropbox、Figma、QuickBooks、Notion、Shopify、Slack、Stripe、Zoom等多款企业工具，以及Facebook、In…",
+     "english": false
+    },
+    {
+     "title": "锦江酒店：拟收购维也纳酒店及百岁村餐饮各10%股权实现全资控股",
+     "link": "https://www.36kr.com/newsflashes/4004286215409541",
+     "time": "Tue, 29 Sep 2026 09:44:30 GMT",
+     "source": "36氪",
+     "summary": "36氪获悉，锦江酒店公告，公司以协议转让方式收购黄德满持有的维也纳酒店和百岁村餐饮各10%股权，交易价格合计约8.11亿元。本次交易完成后，公司将分别持有两家公司100%股权。交易定价依据相关股东协议约定，且未高于评估值。通过本次收购标的公司将成为锦江酒店的全资公司。",
+     "english": false
+    },
+    {
+     "title": "养老理财或再迎扩容，多家理财公司正申请养老理财资质",
+     "link": "https://www.36kr.com/newsflashes/4004282909626497",
+     "time": "Tue, 29 Sep 2026 09:40:09 GMT",
+     "source": "36氪",
+     "summary": "时隔近三年，养老理财将迎来新一轮扩容。据悉，近期，多家理财公司正申请养老理财资质，包括新机构获批及新产品发行等，参与机构不仅包含此前已发行相关养老理财产品的理财子公司，也包含此前尚未开展相关业务的新机构。在业内看来，此次养老理财进一步扩容，是金融“五篇大文章”在养老金融领域的进一步落地，也是试点经验沉淀后的制度性推进，…",
+     "english": false
+    },
+    {
+     "title": "OpenAI暂缓Astra迭代，拟推出全新常驻AI智能体",
+     "link": "https://www.36kr.com/newsflashes/4004274170253442",
+     "time": "Tue, 29 Sep 2026 09:35:15 GMT",
+     "source": "36氪",
+     "summary": "旧金山将举办OpenAI一年一度的开发者大会DevDay，对外公布实验室最新成果。知情人士透露，公司预计将发布多款新产品，包含一款全新的常驻在线AI智能体。开发者也至少能上手一款新模型。 但本次不会推出OpenAI最强模型Astra的迭代版本。OpenAI表示，出于安全考量，已取消该版本的发布。知情人士称，虽然这一代A…",
+     "english": false
+    },
+    {
+     "title": "浙江新能：公司生产经营情况正常，内外部经营环境未发生重大变化",
+     "link": "https://www.36kr.com/newsflashes/4004271333871496",
+     "time": "Tue, 29 Sep 2026 09:30:20 GMT",
+     "source": "36氪",
+     "summary": "36氪获悉，浙江新能公告，公司股票交易于2026年9月24日、9月28日、9月29日连续3个交易日内日收盘价格涨幅偏离值累计达20%，属于股票交易异常波动情形。经公司自查并向控股股东及实际控制人核实，截至本公告披露日，公司生产经营情况正常，内外部经营环境未发生重大变化，不存在应披露而未披露的重大信息。",
+     "english": false
+    },
+    {
+     "title": "永辉超市：大连御锦申请撤销仲裁裁决被驳回",
+     "link": "https://www.36kr.com/newsflashes/4004270616383621",
+     "time": "Tue, 29 Sep 2026 09:26:39 GMT",
+     "source": "36氪",
+     "summary": "36氪获悉，永辉超市公告，公司收到上海市第一中级人民法院民事裁定书，就大连御锦请求撤销仲裁裁决一案，法院裁定驳回其申请，该裁定为终审裁定。截至公告披露日，大连御锦申请不予执行仲裁裁决一案尚在审查中，涉案金额为剩余股份转让价款36.39亿元及相关费用，该案结果尚存在不确定性，暂无法确定对公司利润的影响。",
+     "english": false
+    },
+    {
+     "title": "保利物业在上海成立新公司，经营范围含旅游业务等",
+     "link": "https://www.36kr.com/newsflashes/4004264921042816",
+     "time": "Tue, 29 Sep 2026 09:22:49 GMT",
+     "source": "36氪",
+     "summary": "36氪获悉，天眼查工商信息显示，近日，上海保利物业服务有限公司成立，法定代表人为伍妞，注册资本2000万元人民币，经营范围含物业管理、住房租赁、城市绿化管理、停车场服务、酒店管理、会议及展览服务、房地产咨询、房地产经纪、旅游业务等。股东信息显示，该公司由保利物业服务股份有限公司全资持股。",
+     "english": false
+    },
+    {
+     "title": "机构：CPU交货周期延长至25-30周，AI代理推高需求",
+     "link": "https://www.36kr.com/newsflashes/4004264266305670",
+     "time": "Tue, 29 Sep 2026 09:18:09 GMT",
+     "source": "36氪",
+     "summary": "36氪获悉，TrendForce指出，CPU交货周期已从通常的16-20周延长至25-30周，原因是Meta Muse等个人人工智能代理推高了市场对CPU的需求量。分析师们正在争论人工智能代理激发的CPU需求究竟有多大，但毫无疑问的是，CPU的需求增长前景已经确立，即使人工智能代理领域还在起步阶段。",
+     "english": false
+    }
+   ]
+  },
+  {
    "id": "global",
    "label": "全球外网",
    "items": [
+    {
+     "title": "OpenAI scraps rollout of new model over safety concerns",
+     "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+     "time": "Tue, 29 Sep 2026 09:14:13 GMT",
+     "source": "BBC World",
+     "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+     "english": true
+    },
+    {
+     "title": "Evicted Spanish pensioner can move back home, lawyer says",
+     "link": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
+     "time": "Tue, 29 Sep 2026 08:53:00 GMT",
+     "source": "BBC World",
+     "summary": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
+     "english": true
+    },
+    {
+     "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+     "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+     "time": "Tue, 29 Sep 2026 03:50:40 GMT",
+     "source": "BBC World",
+     "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
+     "english": true
+    },
+    {
+     "title": "New York Times executive fatally shot by elderly in-laws, police say",
+     "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+     "time": "Tue, 29 Sep 2026 04:06:43 GMT",
+     "source": "BBC World",
+     "summary": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
+     "english": true
+    },
+    {
+     "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
+     "link": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
+     "time": "Mon, 28 Sep 2026 15:54:25 GMT",
+     "source": "卫报国际",
+     "summary": "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party says A senior member of the Democratic Republic …",
+     "english": true
+    },
+    {
+     "title": "At least 27 dead after two mass shootings in South Africa, police say",
+     "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+     "time": "Sun, 27 Sep 2026 13:46:49 GMT",
+     "source": "卫报国际",
+     "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two sep…",
+     "english": true
+    },
+    {
+     "title": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
+     "link": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
+     "time": "Sun, 27 Sep 2026 11:00:03 GMT",
+     "source": "卫报国际",
+     "summary": "Two troops of chacma baboons are breaking into homes and shops but animal rights activists insist coexistence is the answer Cape Town’s city council has said it…",
+     "english": true
+    },
+    {
+     "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+     "link": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+     "time": "Thu, 24 Sep 2026 15:29:42 GMT",
+     "source": "卫报国际",
+     "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethi…",
+     "english": true
+    },
+    {
+     "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
+     "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
+     "time": "Mon, 28 Sep 2026 11:16:08 GMT",
+     "source": "BBC 科技",
+     "summary": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
+     "english": true
+    },
+    {
+     "title": "OpenAI bots meddled with multiple US government agency sites",
+     "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+     "time": "Sat, 26 Sep 2026 02:50:56 GMT",
+     "source": "BBC 科技",
+     "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+     "english": true
+    },
+    {
+     "title": "OpenAI scraps release of new model over safety concerns in internal testing",
+     "link": "https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped",
+     "time": "Tue, 29 Sep 2026 07:15:54 GMT",
+     "source": "卫报科技",
+     "summary": "GPT-6.1 Astra showed deceptive behaviour and tried to use external tools despite knowing it would be unsafe As AI models go rogue, do you still trust OpenAI and…",
+     "english": true
+    },
+    {
+     "title": "Mac mini M6 review: truly mighty but now more pricey",
+     "link": "https://www.theguardian.com/technology/2026/sep/29/mac-mini-m6-review",
+     "time": "Tue, 29 Sep 2026 06:00:55 GMT",
+     "source": "卫报科技",
+     "summary": "Apple’s cheapest desktop computer is no longer a bargain but its newest, fastest chip makes it a pocket powerhouse Apple’s latest Mac mini brings real speed and…",
+     "english": true
+    },
+    {
+     "title": "As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you | Chris Stokel-Walker",
+     "link": "https://www.theguardian.com/commentisfree/2026/sep/29/ai-models-security-risk-agents-openai-independent-security",
+     "time": "Tue, 29 Sep 2026 05:00:54 GMT",
+     "source": "卫报科技",
+     "summary": "The need for independent regulation grows more obvious by the day. We must keep this tech in check before it’s too late OpenAI scraps release of new model over …",
+     "english": true
+    },
+    {
+     "title": "Burnham to unveil public body to invest in electricity grid",
+     "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+     "time": "Tue, 29 Sep 2026 06:54:10 GMT",
+     "source": "BBC 商业",
+     "summary": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+     "english": true
+    },
+    {
+     "title": "Warning more homes will be uninsurable due to flood risk",
+     "link": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+     "time": "Tue, 29 Sep 2026 09:42:48 GMT",
+     "source": "BBC 商业",
+     "summary": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+     "english": true
+    },
+    {
+     "title": "UK mortgage approvals lowest since December 2023; diesel hits new record high near £2 a litre – business live",
+     "link": "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates",
+     "time": "Tue, 29 Sep 2026 10:09:09 GMT",
+     "source": "卫报商业",
+     "summary": "Rolling coverage of the latest economic and financial news Newsflash: the number of mortgages approved by UK lenders has fallen to its lowest level since the en…",
+     "english": true
+    },
+    {
+     "title": "New UK homes in flood-risk areas could become uninsurable, says Aviva boss",
+     "link": "https://www.theguardian.com/business/2026/sep/29/new-uk-homes-flood-risk-areas-insurance-aviva-amanda-blanc-budget",
+     "time": "Tue, 29 Sep 2026 09:28:48 GMT",
+     "source": "卫报商业",
+     "summary": "Amanda Blanc says flooding threat is ‘absolutely increasing’, as she also warns ministers over ‘kite flying’ before budget Business live – latest updates The bo…",
+     "english": true
+    },
     {
      "title": "4 ways to avoid getting ripped off, according to a pricing expert",
      "link": "https://www.npr.org/2026/09/29/nx-s1-5983457/4-ways-to-avoid-getting-ripped-off-according-to-a-pricing-expert",
@@ -201,9 +645,33 @@
      "source": "NPR 头条",
      "summary": "Five men arrested on terror charges near U.K. air base released on bail, Trump administration rolls back fuel efficiency standards for new vehicles, prosecutors…",
      "english": true
+    },
+    {
+     "title": "Malaysia begins sending back Rohingya refugees despite safety warnings",
+     "link": "https://www.aljazeera.com/news/2026/9/29/malaysia-begins-returning-myanmar-nationals-despite-safety-warnings?traffic_source=rss",
+     "time": "Tue, 29 Sep 2026 09:27:06 +0000",
+     "source": "半岛电视台",
+     "summary": "About 1,500 refugees are to be sent back in the first phase, despite criticism from rights groups.",
+     "english": true
+    },
+    {
+     "title": "Argentina’s Milei threatens legal action over Falklands oil project",
+     "link": "https://www.aljazeera.com/news/2026/9/29/argentinas-milei-threatens-legal-action-over-falklands-oil-project?traffic_source=rss",
+     "time": "Tue, 29 Sep 2026 09:17:22 +0000",
+     "source": "半岛电视台",
+     "summary": "Argentina gives UK two weeks to cease operations or face maritime court action.",
+     "english": true
+    },
+    {
+     "title": "US’s Marco Rubio says UK airbase incident involved ‘foreign actor’",
+     "link": "https://www.aljazeera.com/news/2026/9/29/uss-marco-rubio-says-uk-airbase-incident-involved-foreign-actor?traffic_source=rss",
+     "time": "Tue, 29 Sep 2026 09:12:37 +0000",
+     "source": "半岛电视台",
+     "summary": "Washington&#039;s top diplomat calls the suspected plot &#039;a very serious situation&#039; after five were arrested over the weekend.",
+     "english": true
     }
    ]
   }
  ],
- "lastUpdated": "2026-09-29T10:23:25.905777+00:00"
+ "lastUpdated": "2026-09-29T10:27:02.382562+00:00"
 }

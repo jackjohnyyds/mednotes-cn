@@ -125,13 +125,35 @@ def parse_pubmed_xml(xml):
         # 摘要（可能带 Label 分段）
         abs_parts = re.findall(r'<AbstractText[^>]*>([\s\S]*?)</AbstractText>', block, re.I)
         abstract = ' '.join(clean_text(p) for p in abs_parts)
-        journal = clean_text(tag('Journal/Title')) or clean_text(tag('Title'))
-        year = clean_text(tag('Journal/JournalIssue/PubDate/Year'))
+        # 期刊（XML 为嵌套标签，需按层级提取；开标签可能带属性）
+        jm = re.search(r'<Journal[^>]*>([\s\S]*?)</Journal>', block, re.I)
+        journal = ''
+        if jm:
+            tm = re.search(r'<Title[^>]*>([\s\S]*?)</Title>', jm.group(1), re.I)
+            if tm:
+                journal = clean_text(tm.group(1))
+        if not journal:
+            journal = clean_text(tag('Title'))
+        # 年份：JournalIssue > PubDate > Year（或 MedlineDate）
+        year = ''
+        jjm = re.search(r'<JournalIssue[^>]*>([\s\S]*?)</JournalIssue>', block, re.I)
+        if jjm:
+            pdm = re.search(r'<PubDate[^>]*>([\s\S]*?)</PubDate>', jjm.group(1), re.I)
+            if pdm:
+                ym = re.search(r'<Year[^>]*>([^<]+)</Year>', pdm.group(1), re.I)
+                if ym:
+                    year = clean_text(ym.group(1))
         if not year:
             md = re.search(r'<MedlineDate>([^<]+)</MedlineDate>', block)
             if md:
-                year = re.match(r'\d{4}', clean_text(md.group(1)))
-                year = year.group(0) if year else ''
+                ym2 = re.match(r'\d{4}', clean_text(md.group(1)))
+                year = ym2.group(0) if ym2 else ''
+        if not year:
+            dm = re.search(r'<ArticleDate[^>]*>([\s\S]*?)</ArticleDate>', block, re.I)
+            if dm:
+                ym3 = re.search(r'<Year[^>]*>([^<]+)</Year>', dm.group(1), re.I)
+                if ym3:
+                    year = clean_text(ym3.group(1))
         authors = []
         for am in re.finditer(r'<Author[^>]*>([\s\S]*?)</Author>', block, re.I):
             ab = am.group(1)
@@ -191,6 +213,7 @@ def gen_papers(fields=None):
         p = by_id.get(pid)
         if p:
             p['field'] = id_field.get(pid, '')
+            p['link'] = 'https://pubmed.ncbi.nlm.nih.gov/%s/' % pid
             items.append(p)
     return {'items': items, 'lastUpdated': datetime.datetime.now(datetime.timezone.utc).isoformat(), 'fields': fields}
 

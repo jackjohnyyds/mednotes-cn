@@ -336,9 +336,9 @@ def parse_douban_xml(xml_text, kind, limit):
             if not mm:
                 return ''
             return re.sub(r'<[^>]+>', ' ', mm.group(1).replace('<![CDATA[', '').replace(']]>', '')).strip()
-        name = get('title')
-        link = get('link')
-        desc = get('description')
+        name = html.unescape(get('title'))
+        link = html.unescape(get('link'))
+        desc = html.unescape(get('description'))
         if not name or not re.match(r'^https?://(movie|book)\.douban\.com/', link, re.I):
             continue
         rm = re.search(r'([\d.]+)\s*分', desc)
@@ -359,7 +359,7 @@ def gen_douban():
     items = []
     for route, kind, lim in DOUBAN_ROUTES:
         xml = None
-        for inst in ('https://rsshub.rssforever.com', 'https://rsshub.app'):
+        for inst in ('https://rsshub.woodland.cafe', 'https://rsshub.ktachibana.party', 'https://rsshub.rssforever.com', 'https://rsshub.app'):
             try:
                 xml = fetch(inst + route)
                 if xml and ('<item' in xml or '<entry' in xml):

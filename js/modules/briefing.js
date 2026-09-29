@@ -322,9 +322,12 @@ async function loadLiveBrief() {
 
 export async function loadBrief({ silent = false } = {}) {
   if (!silent) renderSkeletons();
-  if (await loadApiBrief()) { finish(); }
+  // 1) 服务端聚合 API（若已部署）
+  if (await loadApiBrief()) { finish(); return; }
+  // 2) 每日静态数据（GitHub Actions 每日生成），优先读取，秒开且稳定
   let hasLocal = await loadLocalBrief();
-  if (hasLocal) finish();
+  if (hasLocal) { finish(); return; }
+  // 3) 仅当无每日静态数据时才实时聚合（打开页面不触发实时抓取）
   try {
     if (await loadLiveBrief()) hasLocal = true;
   } catch { /* 失败保留静态数据 */ }

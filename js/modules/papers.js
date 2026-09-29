@@ -324,10 +324,10 @@ export async function loadPapers({ silent = false } = {}) {
   if (!silent) renderSkeletons();
   // 1) 服务端聚合 API（若已部署且新鲜）
   if (await loadApiPapers()) { finish(); return; }
-  // 2) 静态兜底数据先渲染，保证秒开
+  // 2) 每日静态数据（GitHub Actions 每日生成），优先读取，秒开且稳定
   let hasData = await loadLocalPapers();
-  if (hasData) finish();
-  // 3) 始终后台实时聚合 PubMed，成功则覆盖为最新文献（每日自动更新）
+  if (hasData) { finish(); return; }
+  // 3) 仅当无每日静态数据时才实时聚合 PubMed（打开页面不触发实时抓取）
   try {
     const live = await fetchPubmedLive();
     if (live && live.length) {

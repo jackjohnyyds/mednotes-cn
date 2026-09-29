@@ -1,0 +1,364 @@
+{
+ "items": [
+  {
+   "pmid": "42806966",
+   "title": "Left Atrial Appendage Ostial Stenosis: A Case Series.",
+   "abstract": "",
+   "journal": "CASE (Philadelphia, Pa.)",
+   "year": "",
+   "authors": [
+    "J Tyler Bruce",
+    "Tobias Z Donlon",
+    "John L Bass",
+    "Juan C Samayoa"
+   ],
+   "doi": "10.1016/j.case.2026.04.008",
+   "field": "cardiology"
+  },
+  {
+   "pmid": "42806944",
+   "title": "Successful coil-only transcatheter embolisation of a giant cervical arteriovenous malformation in a child: a case report.",
+   "abstract": "Arteriovenous malformations of the head and neck are rare high-flow vascular lesions that present significant therapeutic challenges. We report a 9-year-old boy with a giant cervical arteriovenous malformation successfully treated by staged transcatheter embolisation using detachable coils alone. This case suggests that coil-only embolisation may be a safe and effective treatment option for carefully selected paediatric cervical arteriovenous malformations.",
+   "journal": "Cardiology in the young",
+   "year": "",
+   "authors": [
+    "Alper Ak&#x131;n",
+    "Mehmet Ata Ak&#x131;l",
+    "Mehmet Ture"
+   ],
+   "doi": "10.1017/S1047951126124147",
+   "field": "cardiology"
+  },
+  {
+   "pmid": "42806940",
+   "title": "Prophylactic postoperative peritoneal dialysis in neonatal cardiac critical care: a matched retrospective cohort study.",
+   "abstract": "Postoperative prophylactic peritoneal dialysis after paediatric cardiac surgery has been reported with mixed results. We aimed to describe a large cohort of patients who did and did not receive prophylactic peritoneal dialysis following cardiac surgery in our institution. Single-centre, retrospective matched-cohort study of patients 0-30 days old who underwent cardiac surgery between 01/2015 and 05/2022. Patients who received prophylactic peritoneal dialysis were matched 1:1 with those who did not by age, sex, and surgical complexity. The objective of the study was to compare the prevalence of postoperative severe acute kidney injury by Kidney Disease Improving Global Outcomes criteria between patients who received prophylactic peritoneal dialysis and those that did not. The significance level was set at p = 0.05. A total of 224 patients underwent prophylactic peritoneal dialysis, and 224 did not. Patients in the prophylactic postoperative peritoneal dialysis group had a lower incidence of severe acute kidney injury (13.4% versus 30.4%, p p p p = 0.504). In this large cohort of patients, we report that patients who underwent prophylactic postoperative peritoneal dialysis, although they had an improved fluid balance during the first 48 postoperative hours, had no association with the development of severe acute kidney injury.",
+   "journal": "Cardiology in the young",
+   "year": "",
+   "authors": [
+    "Richard U Garcia",
+    "Olivia Cote",
+    "Ashley Harriott",
+    "Ambika Menon",
+    "Gina Patel",
+    "Chau P Nguyen",
+    "Andrew Jergel",
+    "Michael P Fundora",
+    "Kevin O Maher",
+    "Subhadra Shashidharan",
+    "Asaad G Beshish"
+   ],
+   "doi": "10.1017/S1047951126123518",
+   "field": "cardiology"
+  },
+  {
+   "pmid": "42806932",
+   "title": "Physical activity and quality of life among children with CHD: a cross-sectional analysis.",
+   "abstract": "To describe the quality of life and moderate-to-vigorous physical activity level among children with CHD compared to children without CHD and to examine whether the association between these variables is modified by CHD or gender. This cross-sectional analysis draws from a larger longitudinal study and included participants aged 5-10 years with or without any CHD and living in British Columbia, Canada. Parents/guardians completed the parent-proxy PedsQL 4.0 Generic Core Scales, providing a PedsQL Total Score out of 100. Children wore an Ametris GT3X accelerometer for 7 consecutive days to measure moderate-to-vigorous physical activity (min/day). Generalised linear regression models were used for group and gender comparisons. An adjusted linear regression model was used to examine the association between physical activity and quality of life. 166 children (41% girls; n = 78 CHD, n = 88 non-CHD) were included in the analysis. Children with CHD had poorer PedsQL Total Scores ( p = 0.002) and accumulated less moderate-to-vigorous physical activity than the non-CHD group ( p = 0.008). Among children with CHD, girls accumulated less moderate-to-vigorous physical activity than boys ( p p = 0.035). The association between moderate-to-vigorous physical activity (min/day) and PedsQL Total Score was significantly modified by CHD ( p = 0.012), with a positive association found for children with CHD ( &#x3b2; = 0.17 [95% confidence interval: 0.04, 0.29], p = 0.011), which was not modified by gender ( p = 0.241). These findings highlight the need to support the physical and psychosocial health of children with CHD, particularly girls with CHD.",
+   "journal": "Cardiology in the young",
+   "year": "",
+   "authors": [
+    "Tyrell C Sideroff",
+    "Jennifer A Collins",
+    "Nurin Izzati Binti Saiful Baharin",
+    "Julia H Crowther",
+    "Kevin Harris",
+    "Christine Voss"
+   ],
+   "doi": "10.1017/S104795112612410X",
+   "field": "cardiology"
+  },
+  {
+   "pmid": "42806929",
+   "title": "Massive cardiomegaly in a neonate: pericardial teratoma as an unusual and surgically correctable cause.",
+   "abstract": "Term neonate with respiratory distress had a giant cystic intrapericardial mass causing cardiopulmonary compression and effusion. Echocardiography and chest tomographic defined the anatomy; surgical resection confirmed an immature pericardial teratoma with a favourable diagnosis.",
+   "journal": "Cardiology in the young",
+   "year": "",
+   "authors": [
+    "Jose Ugarriza Mendoza",
+    "Daniela Benitez",
+    "Himanshu Meena",
+    "David Kalfa",
+    "Sanjiv Gandhi",
+    "Gabriel Chamyan",
+    "Julio D Egusquiza",
+    "Utkarsh Kohli"
+   ],
+   "doi": "10.1017/S1047951126124135",
+   "field": "cardiology"
+  },
+  {
+   "pmid": "42806967",
+   "title": "Tumor-cell PD-L1 expression, mismatch repair status, and survival outcomes in colorectal carcinoma: a retrospective Pakistani cohort study.",
+   "abstract": "Tumor-cell programmed death-ligand 1 (PD-L1) expression has been investigated as a biomarker for colorectal carcinoma (CRC), but the reported positivity rates vary by antibody clone, scoring method, and threshold. Tumor-cell PD-L1 is not a validated companion diagnostic tool for CRC. We assessed whether PD-L1 expression scored with the ZR3 clone functions as a clinicopathological or prognostic biomarker in a Pakistani cohort, using microsatellite instability/mismatch-repair (MSI/MMR) status as the reference biomarker. We retrospectively evaluated 60 patients with CRC diagnosed between 2020 and 2023. PD-L1 expression was assessed using the tumor proportion score (TPS) and ZR3 antibody. MSI was determined using polymerase chain reaction-based fragment analysis, and MMR status was determined using four-protein immunohistochemistry. Associations between binary PD-L1 status and 10 clinicopathological variables were analyzed and adjusted using the Benjamini-Hochberg false discovery rate procedure. Overall survival (OS; n=60), disease-free survival (DFS; n=44), and progression-free survival (PFS; n=16) were the exploratory outcomes. At a TPS threshold of &#x2265;1%, PD-L1 positivity was identified in 43 of 60 tumors (71.7%), including 31 low-positive and 12 high-positive tumors. This rate exceeded that of most CRC TPS series and likely reflected clone- and threshold-specific assay behavior. No clinicopathological variables were associated with binary PD-L1 status after multiplicity correction. MSI-H/dMMR was present in 12 cases (20.0%) and was associated with the three-level PD-L1 category (Fisher-Freeman-Halton p=0.0017; Cramer's V&#xa0;=&#xa0;0.485), but not with binary positivity (p=0.151); the association was confined to the high-positive group. PD-L1 status was not associated with OS (HR 1.43, 95% CI 0.40-5.05; p=0.580), DFS (HR 0.46, 95% CI 0.15-1.45; p=0.185), or PFS (HR 0.67, 95% CI 0.20-2.20; p=0.505). Older age, rather than PD-L1 status, was associated with mortality (adjusted HR 1.68 per 10 years, 95% CI 1.09-2.57; p=0.018). ZR3-based tumor-cell PD-L1 TPS was not associated with clinicopathological characteristics or survival in this cohort. The high positivity rate should be interpreted as assay-specific, while the enrichment of MSI-H/dMMR tumors in the high-positive tier was consistent with established biology. ZR3-based TPS should remain a research measure and should not independently guide immunotherapy selection; MSI/MMR testing remains the clinically actionable biomarker for CRC.",
+   "journal": "Frontiers in oncology",
+   "year": "",
+   "authors": [
+    "Kanza Atif",
+    "Aiman Ajmeer",
+    "Abdal Ahmad",
+    "Fozia Rauf",
+    "Umer Khan",
+    "Sarah Yousuf",
+    "Bilal Ahmad",
+    "Sadia Qazi"
+   ],
+   "doi": "10.3389/fonc.2026.1939073",
+   "field": "immunotherapy"
+  },
+  {
+   "pmid": "42806957",
+   "title": "Murine models for triple-negative breast cancer with differential responsiveness to immunotherapy.",
+   "abstract": "Breast cancer is the most common cancer diagnosis in women. Clinical studies with triple-negative breast cancer (TNBC) are encouraging for immunotherapy combined with chemotherapy (anti-PD-1 with paclitaxel and/or carboplatin). However, additional clinical advances may be pursued more rapidly with assistance from preclinical TNBC models including syngeneic mammary tumor cell lines. Here, we report two mammary tumor cell lines that exhibit differential responsiveness to immunotherapy in vivo. Spontaneous mammary tumors from C57BL/6J MMTV-Cre Trp53 fl/+ animals were passaged serially in cell culture and in vivo in the mammary fat pad of fully wildtype animals. The resulting lines, MM001i and MM008i, lost Trp53 and formed 1000 mm 3 tumors in the mammary fat pad within 21-28 days. Despite originating from the same genetic background, these lines exhibit differential responses to immunotherapy. For anti-PD-1 therapy, MM001i is poorly responsive and MM008i is strongly responsive with near-complete tumor regression. In comparison, both MM001i and MM008i respond rapidly to anti-CTLA-4 therapy. Both models express unique tumor antigens as evidenced by immunity to subsequent engraftments. Primary MM008i tumors exhibit greater T cell infiltration, and CD8-positive T lymphocytes are required for anti-PD-1 responses. These TNBC models are promising for further mechanistic studies and testing future single and combinatorial therapies.",
+   "journal": "Journal of translational research",
+   "year": "",
+   "authors": [
+    "Thomas J Kalantzakos",
+    "Yufan Zhou",
+    "Xingyu Liu",
+    "Joshua Proehl",
+    "Cameron Durfee",
+    "Ian Tamayo",
+    "Nuri Alpay Temiz",
+    "Benjamin Troness",
+    "Anusha Soni",
+    "Harshita B Gupta",
+    "Reuben S Harris"
+   ],
+   "doi": "10.1080/29947448.2026.2664260",
+   "field": "immunotherapy"
+  },
+  {
+   "pmid": "42806792",
+   "title": "In vivo CRISPR Screening Reveals LBR as a Regulator of CD8 + T Cell Fate Decision.",
+   "abstract": "CD8 + T cells play an important role in anti-infection and anti-tumor immunity. Metabolic reprogramming has emerged as a critical regulator of T cell function, yet the roles of specific cholesterol-associated proteins during T cell fate trajectories remain unclear. Here, using an in&#xa0;vivo CRISPR screen in CD8 + T cells during infection with a customized sgRNA library targeting key cholesterol metabolism-associated proteins, we successfully identified several candidate targets, including the LBR (Lamin B Receptor). Lbr knockout significantly reduced the proportion and absolute number of short-lived effector cells (SLECs), severely impairing effector responses, while concomitantly increasing the memory precursor population upon LCMV infection. Furthermore, transcriptomic analysis revealed that Lbr depletion markedly altered signaling pathways governing effector T cell differentiation. These findings reveal the role of LBR in modulating effector and memory T cell differentiation, suggesting it as a potential target for metabolic reprogramming to enhance T cell-based immunotherapies.",
+   "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+   "year": "",
+   "authors": [
+    "Qiying Zhang",
+    "Shuya Chang",
+    "Shengli Zhao",
+    "Weixin Zhang",
+    "Rong Wang",
+    "Mingyang Zhong",
+    "Guanfeng Liu",
+    "Xiaojing Li",
+    "Ao Guo"
+   ],
+   "doi": "10.1096/fj.202602909R",
+   "field": "immunotherapy"
+  },
+  {
+   "pmid": "42806776",
+   "title": "Cost-effectiveness of Orca-T vs allo-HCT with conventional GVHD prophylaxis for the treatment of advanced hematologic malignancies in the United States.",
+   "abstract": "Allogeneic hematopoietic cell transplantation (allo-HCT) is a potentially curative therapy for patients with hematologic malignancies, but its success is limited by graft&#x2011;versus&#x2011;host disease (GVHD), which carries considerable clinical and economic burden. A cost-effectiveness model was developed to evaluate whether the higher upfront costs of allogeneic regulatory T cell-based immunotherapy with HSPC and T cells-vldq (Tregzi [Orca-T; Orca Bio, Menlo Park, CA, USA]) are offset by reductions in GVHD and associated healthcare costs compared with conventional allo-HCT using TAC/MTX or PTCy. A three-state partitioned survival model (relapse-free, relapsed, and dead) with a lifetime horizon and monthly cycles was developed. Overall survival and relapse-free survival data from the Phase 3 Precision-T study (ClinicalTrials.gov Identifier NCT05316701) were incorporated using a cure-mixture modeling approach to estimate long-term survival, relapse status, and cure fraction for patients. Costs included transplant procedure, GVHD management, infection management, and terminal care. Outcomes included life-years, quality-adjusted life-years (QALYs), and direct healthcare costs. Both costs and outcomes were discounted at 3% annually. A scenario analysis was conducted to determine the cost-effectiveness of Orca-T vs allo-HCT with PTCy for GVHD prophylaxis, and sensitivity analyses were conducted to test the uncertainty of the model inputs. Orca&#x2011;T was associated with lower lifetime costs ($1,026,856 vs $2,170,875) and higher QALYs (15.28 vs 13.00) than conventional allo&#x2011;HCT with TAC/MTX, yielding cost savings of $1,144,019 and a gain of 2.28 QALYs per patient. GVHD-related costs were substantially lower with Orca&#x2011;T ($495,447 vs $1,998,621). Compared with PTCy, Orca&#x2011;T remained dominant, with cost savings of $158,144, a gain of 2.85 QALYs, and lower GVHD-related costs ($476,448 vs $999,945). Orca&#x2011;T reduced costs and increased QALYs versus conventional allo&#x2011;HCT with TAC/MTX or PTCy, driven by lower GVHD and infection burden. These findings support Orca&#x2011;T as a high&#x2011;value treatment option.",
+   "journal": "Journal of medical economics",
+   "year": "",
+   "authors": [
+    "Rawan Faramand",
+    "James Scott McClellan",
+    "Anna Pavlova",
+    "Rocio Manghani",
+    "Andrea Blank",
+    "Matia Saeedian",
+    "Shivani Yadav",
+    "Miguel-Angel Perales"
+   ],
+   "doi": "10.1080/13696998.2026.2732644",
+   "field": "immunotherapy"
+  },
+  {
+   "pmid": "42806730",
+   "title": "Serosurveillance and Postvaccination Seromonitoring of Peste Des Petits Ruminants in Small Ruminants in Central Gondar Zone, Northwest Ethiopia.",
+   "abstract": "Peste des petits ruminants (PPR) is a highly contagious transboundary viral disease of small ruminants caused by the PPR virus (PPRV). Despite Ethiopia's goal of eradicating PPR by 2027 through a risk-based vaccination strategy, the disease remains endemic, with 554 outbreaks reported nationwide. This cross-sectional study was conducted in the North Gondar Zone, Ethiopia, between June 2024 and February 2025 to evaluate antibody responses in vaccinated small ruminants and estimate PPRV seroprevalence in unvaccinated flocks. A multistage cluster sampling design was used to select the study sites, while individual animals were selected using a haphazard sampling approach to approximate random sampling. A total of 600 serum samples were collected, including 300 from vaccinated and 300 from unvaccinated small ruminants; samples from vaccinated animals were obtained ~28 days postvaccination. All samples were tested for anti-PPRV antibodies using competitive enzyme-linked immunosorbent assay (c-ELISA). Overall individual-level seropositivity in the vaccinated population was 75%, comprising 75.73% in sheep and 72.1% in goats, serving as a proxy measure of flock immunity. In unvaccinated animals, PPRV seroprevalence was 14.33% (95% confidence interval [CI]: 10.6%-18.82%). Multivariable logistic regression identified age and flock size as the main risk factors influencing seropositivity. Adult animals were 2.89 times as likely to be seropositive as young animals (95% CI: 1.17-7.15; p = 0.022), and animals in medium-sized flocks were more likely to test positive than those in small flocks (AOR&#x2009;=&#x2009;2.26; 95% CI: 1.11-4.63; p = 0.026). No significant differences were observed across districts, species, sex, production systems, newly introduced animals, or animal movement (p&#x2009; > 0.05). The observed seropositivity was slightly below the commonly used 80% population immunity target associated with reducing transmission under the PPR eradication framework. The detection of PPRV antibodies in unvaccinated animals indicates previous exposure to PPRV and highlights the need for strengthened surveillance to assess whether active virus circulation persists in the area. To achieve effective control and eventual eradication of PPR, intensified vaccination programs combined with active surveillance are needed. Furthermore, refining vaccination strategies in alignment with global and national eradication plans is essential to establish PPR-free zones in these districts.",
+   "journal": "Transboundary and emerging diseases",
+   "year": "",
+   "authors": [
+    "Firdyawukal Abuhay Tafere",
+    "Mastewal Birhan Atanaw",
+    "Enyiew Alemnew Alamerew",
+    "Melkie Dagnaw Fenta",
+    "Genetu Kassahun Berie",
+    "Kefale Ambachew Shiferaw",
+    "Bemrew Admassu Mengistu",
+    "Anmaw Shite Abat"
+   ],
+   "doi": "10.1155/tbed/3319431",
+   "field": "immunotherapy"
+  },
+  {
+   "pmid": "42806894",
+   "title": "Review Article: Cancer Surveillance for Early Detection of Liver Cancer in Patients with HBV Infection.",
+   "abstract": "Chronic hepatitis B virus (HBV) infection remains a major cause of hepatocellular carcinoma (HCC). Although antiviral therapy reduces cirrhosis and liver failure, HCC may still develop in patients with HBV, including in non-cirrhotic livers. This review aimed to evaluate current HCC surveillance strategies in HBV infection, focusing on risk stratification and advances in early detection. English-language literature published in PubMed and the Cochrane Database was comprehensively reviewed. This narrative review assessed the effectiveness of HCC surveillance strategies in HBV-infected patients, with emphasis on recent advances in early-stage HCC detection. This review summarizes viral, host and environmental factors associated with HCC susceptibility and evaluates current surveillance using ultrasound with or without alpha-fetoprotein (AFP). Surveillance eligibility should follow guideline-defined risk criteria: patients with an estimated annual HCC risk below 0.2% generally do not require routine surveillance and should undergo periodic risk reassessment, whereas patients meeting surveillance criteria should undergo ultrasound with or without AFP every 6&#x2009;months. Risk-prediction scores can refine assessment but should be distinguished from early-detection tests. GALAD, HES 2.0, multi-target blood tests, and abbreviated magnetic resonance imaging are promising early-detection approaches, but much of the supporting evidence derives from mixed-aetiology or non-HBV cohorts and prospective HBV-specific validation remains limited. A risk-adapted approach should separate estimation of future HCC risk from surveillance and early-detection testing. Guideline-eligible patients should undergo surveillance every 6&#x2009;months, while emerging biomarker, imaging and artificial-intelligence approaches remain adjunctive or investigational pending further HBV-specific validation.",
+   "journal": "Alimentary pharmacology & therapeutics",
+   "year": "",
+   "authors": [
+    "Andrew J Park",
+    "Bai L Pan",
+    "Xingfei Pan",
+    "James Park",
+    "Jiahong Dong",
+    "Calvin Q Pan"
+   ],
+   "doi": "10.1111/apt.71008",
+   "field": "Hepatitis"
+  },
+  {
+   "pmid": "42806877",
+   "title": "Epidemiological surveillance of infectious diseases among the elderly in Lower Silesia.",
+   "abstract": "The elderly population in Lower Silesia, Poland, faces increased vulnerability to infectious diseases due to population ageing. A comprehensive epidemiological surveillance program among seniors is crucial for effective public health planning and intervention strategies. This study aims to characterise infectious&#x2011;disease trends among individuals aged &#x2265;65 years, emphasising the importance of tailored preventive measures. This retrospective study analysed infection registries maintained by the State Sanitary Inspection 2020-2023 for people aged &#x2265;65 years. Included registries encompassed notifiable infectious diseases (12 811 doctors' reports and 1499 laboratory reports), hospital&#x2011;acquired infections and outbreaks, tuberculosis notifications (230 cases), influenza&#x2011;like illnesses (ILI) (104 487 suspected cases), and gastrointestinal outbreaks (46 outbreaks in facilities with seniors). Spatial and temporal variations in incidence were examined in relation to demographic changes and disease types. There was a notable increase in bacterial gastrointestinal infections and ILI among the elderly, with reporting rising markedly after lockdowns. Incidence rates shifted toward older age groups. Bacterial intestinal infections, primarily caused by Clostridioides difficile , increased by approx. 54%/year. Hepatitis B and C incidence was elevated, especially in long&#x2011;term care facilities. Gastric outbreak numbers were stable, despite more notifications overall. Spa districts recorded higher infection rates than the rest of the region (1186.6 vs. 630.0/100 000 adults aged &#x2265;65 years, p = 0.014). Notifications of sexually transmitted infections (STIs) were very rare. The findings highlight increased vulnerability of seniors, driven by diminished immunity and comorbidities, and underscore the need for targeted vaccination, systematic screening for STIs and other infections, and capacity building to meet rising demand for care among older patients. Spatial analyses point to higher risks in spa districts and call for more accurate surveillance of visitors. Improved digital integration of health surveillance systems will be critical for monitoring and responding to infectious threats in the elderly population. Med Pr Work Health Saf. 2026;77(4).",
+   "journal": "Medycyna pracy",
+   "year": "",
+   "authors": [
+    "Ireneusz Skawina",
+    "Michal Wr&#xf3;bel",
+    "Dariusz Szarek",
+    "Vitaly Belik",
+    "Andrzej Jarynowski"
+   ],
+   "doi": "10.13075/mp.5893.01721",
+   "field": "Hepatitis"
+  },
+  {
+   "pmid": "42806829",
+   "title": "Hepatitis B Vaccination for Liver Transplant Recipients in the United States: A National Cohort Study.",
+   "abstract": "Based on the United Network for Organ Sharing database (9/1/2022-6/30/2024), only 59.9% liver transplant recipients were vaccinated against hepatitis B virus. The vaccination rate varied widely by region and other clinicodemographic factors. Multilevel interventions and the utilization of a more immunogenic vaccine may improve vaccination rates in this population.",
+   "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+   "year": "",
+   "authors": [
+    "Michael A Shi",
+    "Jeong Han",
+    "Ramsey Albahra",
+    "Maria F Machicao",
+    "Chia-Yu Chiu",
+    "Saira Khaderi",
+    "Ruben Hernaez",
+    "Fasiha Kanwal",
+    "Hashem B El-Serag",
+    "George Cholankeril",
+    "Tzu-Hao Lee"
+   ],
+   "doi": "10.1093/cid/ciag585",
+   "field": "Hepatitis"
+  },
+  {
+   "pmid": "42806820",
+   "title": "Closing the Hepatitis B Vaccination Gap in Liver Transplant Candidates.",
+   "abstract": "",
+   "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+   "year": "",
+   "authors": [
+    "Gaayathri Krishnan",
+    "Shyam Kottilil"
+   ],
+   "doi": "10.1093/cid/ciag586",
+   "field": "Hepatitis"
+  },
+  {
+   "pmid": "42806750",
+   "title": "Can Point-of-Care Ultrasound for Hepatitis (PUSH) Protocol Be Considered an HCC Screening Tool? Methodological Considerations From a Validation Study.",
+   "abstract": "",
+   "journal": "Journal of viral hepatitis",
+   "year": "",
+   "authors": [
+    "Viji Gunasekaran",
+    "Thirunavukkarasu Arun Babu"
+   ],
+   "doi": "10.1111/jvh.70239",
+   "field": "Hepatitis"
+  },
+  {
+   "pmid": "42806646",
+   "title": "Tumor-Promoting Inflammation in Serrated Colorectal Neoplasia: Immune Ecosystems and Clinical Implications.",
+   "abstract": "Serrated colorectal neoplasia represents a biologically distinct route to colorectal cancer that differs from the conventional adenoma-carcinoma sequence in its molecular alterations, epithelial programs, and microenvironmental evolution. Recent studies indicate that tumor-promoting inflammation and dynamic tumor-microenvironment interactions are integral to the evolution of serrated tumors. In this review, we discuss serrated neoplasia as a process shaped by heterogeneous immune ecosystems rather than a uniform inflammatory state. We propose two broad immune trajectories: an inflamed/antigenic trajectory frequently associated with mismatch repair deficiency and microsatellite instability and a stromal-dominant, immune-excluded trajectory more commonly linked to microsatellite stable serrated cancers. We further organize the major proposed mechanistic axes of tumor-promoting inflammation into interconnected processes: epithelial reprogramming, stromal immune exclusion, and persistent inflammatory signaling. Finally, we highlight the potential clinical relevance of immune ecosystem divergence, particularly during the transition from sessile serrated lesions to sessile serrated lesions with dysplasia, and discuss future directions for risk stratification and ecosystem-based intervention in serrated colorectal neoplasia.",
+   "journal": "Gut and liver",
+   "year": "",
+   "authors": [
+    "Jiayu Chen",
+    "Yuki Nakanishi",
+    "Xiaomeng Yin",
+    "Mami Bamba",
+    "Yu Muta",
+    "Takahiro Utsumi",
+    "Hiroaki Kasashima",
+    "Akihisa Fukuda",
+    "Hiroshi Seno"
+   ],
+   "doi": "10.5009/gnl260271",
+   "field": "Liver cancer"
+  },
+  {
+   "pmid": "42806534",
+   "title": "Outcome after curative resection for colorectal cancer liver metastasis in Sri Lanka.",
+   "abstract": "Colorectal cancer is the third most common cancer globally and in Sri Lanka. The liver is the commonest site of metastasis, developing in 25%-30%. Surgical resection and ablation are the only curative options available. To determine the clinical characteristics and treatment outcome in patients with colorectal cancer liver metastases. Details of 73 patients with colorectal cancer liver metastases referred between 2010 and 2022 were reviewed. Demographic data, presentation, management of primary cancer and liver metastases, surgical outcome, recurrence free survival and overall survival were analyzed retrospectively. The median age was 60 years (31-82) with a female predominance (n=39; 53.4%). Primary located in the left colon in 90.4% (n=66), presenting synchronously in 61.6% (n=45). Right hemi-liver (n=60; 82.2%) is more commonly involved with the caudate lobe alone involved in 1.4% (n=1). Segment VI is the commonest liver segment involved (n=39; 53.4%). Liver resection was performed in 45 patients (61.6%). 25 (55.6%) were major resections, and 6 (13.3%) were staged resections. The surgery group had a median recurrence-free survival of 24 (range=9.19-38.8) months and overall survival of 31 (range=14.51-47.50) months. 28 Patients who were offered palliative treatment had a poor overall survival of 16 (range=12.23-19.77) months (p <0.05). Surgical resection was possible in 61.6% of patients giving superior survival outcomes.",
+   "journal": "The Ceylon medical journal",
+   "year": "",
+   "authors": [
+    "Harry Prashath",
+    "Ishanie Fernando",
+    "Suchintha Tillakaratne",
+    "Sakuni Cooray",
+    "Bhagya Gunatilleke",
+    "Rohan Siriwardana"
+   ],
+   "doi": "10.4038/cmj.v68i2.9667",
+   "field": "Liver cancer"
+  },
+  {
+   "pmid": "42806479",
+   "title": "Atezolizumab Plus Bevacizumab Treatment for Patients With Hepatocellular Carcinoma in the Barcelona Clinic Liver Cancer B2 Stage.",
+   "abstract": "The optimal treatment strategy for patients with intermediate-stage hepatocellular carcinoma beyond the up-to-seven criteria (Barcelona Clinic Liver Cancer B2) remains uncertain. Although transarterial chemoembolization has long been the standard of care, its efficacy is limited in this subgroup, and systemic therapies have recently been introduced. We aimed to explore treatment modalities associated with survival beyond that predicted by a previously validated prognostic model. We retrospectively analyzed 113 patients diagnosed with BCLC-B2 stage hepatocellular carcinoma between 2017 and 2024. Predicted survival was calculated using a previously established prognostic model, and treatment benefits were evaluated by comparing observed survival with predicted outcomes. Logistic and linear regression analyses were performed to identify factors associated with survival gain. The median observed survival was 26.0&#x2009;months, compared with a model-predicted survival of 24.7&#x2009;months. Treatment with atezolizumab plus bevacizumab was significantly associated with survival exceeding model predictions (odds ratio: 3.77, p&#x2009;=&#x2009;0.0065). Linear regression analysis confirmed that atezolizumab plus bevacizumab was independently associated with a greater survival benefit (&#x3b2;&#x2009;=&#x2009;0.192, p&#x2009;=&#x2009;0.0084). Subgroup analysis demonstrated that this association was particularly pronounced in patients with high tumor burden (tumor number plus size &#x2265;&#x2009;11), whereas no significant associations were observed for lenvatinib, STRIDE, or cabozantinib. Atezolizumab plus bevacizumab was associated with survival beyond that predicted by a prognostic model in patients with BCLC-B2 stage hepatocellular carcinoma, particularly those with high tumor burden. These findings should be considered exploratory and associative rather than evidence of a causal treatment effect.",
+   "journal": "Journal of gastroenterology and hepatology",
+   "year": "",
+   "authors": [
+    "Keishi Ouchi",
+    "Masashi Ninomiya",
+    "Mio Tsuruoka",
+    "Jun Inoue",
+    "Atsushi Hiraoka",
+    "Kosuke Sato",
+    "Kotaro Doi",
+    "Kengo Watanabe",
+    "Tomoya Sasazaki",
+    "Takayoshi Oikawa",
+    "Kei Endo",
+    "Tamami Abe",
+    "Masashi Fujita",
+    "Kazumichi Abe",
+    "Tomohiro Katsumi",
+    "Wataru Sato",
+    "Chikara Iino",
+    "Nobukazu Tanabe",
+    "Hiroshi Numao",
+    "Hiromasa Ohira",
+    "Hidekatsu Kuroda",
+    "Yoshiyuki Ueno",
+    "Atsushi Masamune"
+   ],
+   "doi": "10.1111/jgh.70765",
+   "field": "Liver cancer"
+  },
+  {
+   "pmid": "42806476",
+   "title": "Clinicopathologic Features and Survival Determinants of Hepatosplenic T-Cell Lymphoma: A Pooled Patient-Level Dataset Analysis.",
+   "abstract": "Hepatosplenic T-cell lymphoma (HSTCL) is an ultra-rare, aggressive T-cell neoplasm for which evidence regarding prognosis and optimal therapy remains limited. We conducted a retrospective pooled patient-level analysis of 529 patients from 198 sources. The median age was 32&#xa0;years, with 71.7% male. Hepatosplenomegaly and bone marrow involvement were present in 99.7% and 91.8% of evaluable patients, respectively. Among 436 patients with evaluable overall survival (OS), the median OS was 12.0&#xa0;months, and the median progression-free survival was 5.0&#xa0;months. Multivariable analysis demonstrated that hemoglobin less than 8&#xa0;g/dL (HR 3.36, 95% CI 1.61-7.00; p&#xa0;=&#xa0;0.0012) and underlying immunosuppression (HR 3.00, 95% CI 1.77-5.06; p&#xa0;<&#xa0;0.0001) independently predicted inferior OS, while time-dependent stem cell transplantation (SCT) was associated with improved survival (HR 0.31, 95% CI 0.15-0.65; p&#xa0;=&#xa0;0.0021). A provisional two-point score incorporating severe anemia and immunosuppression stratified patients into low-, intermediate-, and high-risk groups, with median OS of 26, 5, and 3&#xa0;months, respectively (log-rank p&#xa0;<&#xa0;0.0001; C-index 0.706). Platinum-containing first-line regimens were associated with lower mortality compared to CHOP-like therapy (HR 0.43, 95% CI 0.25-0.75; p&#xa0;=&#xa0;0.003). The SCT survival association was consistent across complementary analyses. Nonresponsive, stable, or progressive disease at transplantation predicted inferior post-transplant survival compared to complete response (HR 2.84, 95% CI 1.32-6.10; p&#xa0;=&#xa0;0.007). These findings identify severe anemia and immunosuppression as adverse prognostic features, support non-CHOP platinum-based induction and early SCT evaluation after disease control. However, because this is a retrospective pooled design, the treatment associations and the provisional prognostic score still require external validation.",
+   "journal": "Hematological oncology",
+   "year": "",
+   "authors": [
+    "Philip A Haddad",
+    "Supriya Gupta",
+    "Ankita Gupta",
+    "Christopher Graham"
+   ],
+   "doi": "10.1002/hon.70271",
+   "field": "Liver cancer"
+  }
+ ],
+ "lastUpdated": "2026-09-29T10:21:45.781801+00:00",
+ "fields": [
+  "cardiology",
+  "immunotherapy",
+  "Hepatitis",
+  "Liver cancer"
+ ]
+}

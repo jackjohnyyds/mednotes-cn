@@ -333,14 +333,14 @@ export async function loadNews({ silent = false } = {}) {
   if (!silent) renderSkeletons();
   // 1) 服务端聚合 API（若已部署）
   if (await loadApiNews()) { finish(); return; }
-  // 2) 静态兜底数据先渲染，保证秒开
+  // 2) 每日静态数据（GitHub Actions 每日生成），优先读取，秒开且稳定
   let hasLocal = await loadLocalNews();
-  if (hasLocal) finish();
-  // 3) 始终在线聚合原文直链 RSS（央视/人民网/澎湃/WHO/BBC），成功则覆盖为最新内容
+  if (hasLocal) { finish(); return; }
+  // 3) 仅当无每日静态数据时才在线聚合原文直链 RSS（打开页面不触发实时抓取）
   try {
     const live = await aggregateAllFeeds();
     if (live.length) {
-      // 合并：在线直链在前，静态 WHO 补充在后，按链接去重
+      // 合并：在线直链在前，静态补充在后，按链接去重
       const seen = new Set(live.map((n) => n.link));
       const extra = newsCache.filter((n) => !seen.has(n.link));
       newsCache = [...live, ...extra].slice(0, 40);

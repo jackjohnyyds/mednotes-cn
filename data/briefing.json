@@ -1,0 +1,209 @@
+{
+ "categories": [
+  {
+   "id": "chinadaily",
+   "label": "China Daily",
+   "items": [
+    {
+     "title": "Dagetu Lake adds pink splash to Badain Jaran Desert",
+     "link": "https://www.chinadaily.com.cn/a/202609/28/WS6ab9d888e4b06d4aa0560879.html",
+     "time": "2026-09-28T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "China's northernmost high-speed rail starts service",
+     "link": "https://www.chinadaily.com.cn/a/202609/28/WS6ab9d259e4b06d4aa056081d.html",
+     "time": "2026-09-28T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "Spectacular moon illuminates Mid-Autumn skylines",
+     "link": "https://www.chinadaily.com.cn/a/202609/26/WS6ab73157e4b06d4aa056051d.html",
+     "time": "2026-09-26T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "Light displays dazzle international art fest in Beijing",
+     "link": "https://www.chinadaily.com.cn/a/202609/26/WS6ab74b2ae4b06d4aa056053c.html",
+     "time": "2026-09-26T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "China expects bumper grain harvest for 2026",
+     "link": "https://www.chinadaily.com.cn/a/202609/29/WS6abb2b31e4b06d4aa0560c49.html",
+     "time": "2026-09-29T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "Shanghai tailors vocational education for industry",
+     "link": "https://www.chinadaily.com.cn/a/202609/29/WS6abb12a7e4b06d4aa0560b57.html",
+     "time": "2026-09-29T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "Putting down roots grows generational success",
+     "link": "https://www.chinadaily.com.cn/a/202609/29/WS6abb0e5ce4b06d4aa0560ae5.html",
+     "time": "2026-09-29T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "Cross-Strait trade defies political friction",
+     "link": "https://www.chinadaily.com.cn/a/202609/29/WS6abb0e07e4b06d4aa0560adf.html",
+     "time": "2026-09-29T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "Landmark Chinese garden takes root in England",
+     "link": "https://www.chinadaily.com.cn/a/202609/28/WS6ab9bb13e4b06d4aa0560728.html",
+     "time": "2026-09-28T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "Ukraine's provocations fuel tensions, Putin says",
+     "link": "https://www.chinadaily.com.cn/a/202609/28/WS6ab9bc5ae4b06d4aa056073a.html",
+     "time": "2026-09-28T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "Torrential rainfall keeps Thailand on flood alert",
+     "link": "https://www.chinadaily.com.cn/a/202609/29/WS6abb0fe6e4b06d4aa0560b0d.html",
+     "time": "2026-09-29T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "Roaring back to life",
+     "link": "https://www.chinadaily.com.cn/a/202609/28/WS6ab9bdb5e4b06d4aa056074c.html",
+     "time": "2026-09-28T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "Outlook for stability upbeat after summit",
+     "link": "https://www.chinadaily.com.cn/a/202609/29/WS6abb1222e4b06d4aa0560b38.html",
+     "time": "2026-09-29T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "UN General Assembly concludes General Debate",
+     "link": "https://www.chinadaily.com.cn/a/202609/29/WS6abb0cf2e4b06d4aa0560acf.html",
+     "time": "2026-09-29T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "Town in Japan's Okinawa protests planned storage of US Typhon missile system",
+     "link": "https://www.chinadaily.com.cn/a/202609/29/WS6abb0f8fe4b06d4aa0560b05.html",
+     "time": "2026-09-29T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "Sino-US trade gets reciprocal tariff cut boost",
+     "link": "https://www.chinadaily.com.cn/a/202609/29/WS6abaefc8e4b06d4aa0560a62.html",
+     "time": "2026-09-29T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "Chinese models lead in weekly global AI usage",
+     "link": "https://www.chinadaily.com.cn/a/202609/28/WS6aba8404e4b06d4aa0560a25.html",
+     "time": "2026-09-28T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "AI boom boosts industrial profit growth",
+     "link": "https://www.chinadaily.com.cn/a/202609/29/WS6abaf734e4b06d4aa0560a92.html",
+     "time": "2026-09-29T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "Innovation drives agri-growth",
+     "link": "https://www.chinadaily.com.cn/a/202609/29/WS6abb1000e4b06d4aa0560b13.html",
+     "time": "2026-09-29T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "China, US agree to cut tariffs on $30b of goods",
+     "link": "https://www.chinadaily.com.cn/a/202609/28/WS6ab9de85e4b06d4aa0560899.html",
+     "time": "2026-09-28T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "China's industrial profits post double-digit growth",
+     "link": "https://www.chinadaily.com.cn/a/202609/28/WS6ab9da92e4b06d4aa056088e.html",
+     "time": "2026-09-28T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "Commemorating Confucius holds modern meaning",
+     "link": "https://www.chinadaily.com.cn/a/202609/29/WS6abae7ece4b06d4aa0560a42.html",
+     "time": "2026-09-29T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "'Chinese vintage' from a time gone by finds favor once again",
+     "link": "https://www.chinadaily.com.cn/a/202609/29/WS6abae486e4b06d4aa0560a30.html",
+     "time": "2026-09-29T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    },
+    {
+     "title": "Chinese tech firms target walking-assist wearables",
+     "link": "https://www.chinadaily.com.cn/a/202609/28/WS6ab9940ee4b06d4aa056068b.html",
+     "time": "2026-09-28T00:00:00Z",
+     "source": "China Daily",
+     "english": true
+    }
+   ]
+  },
+  {
+   "id": "global",
+   "label": "全球外网",
+   "items": [
+    {
+     "title": "4 ways to avoid getting ripped off, according to a pricing expert",
+     "link": "https://www.npr.org/2026/09/29/nx-s1-5983457/4-ways-to-avoid-getting-ripped-off-according-to-a-pricing-expert",
+     "time": "Tue, 29 Sep 2026 05:01:00 -0400",
+     "source": "NPR 头条",
+     "summary": "Companies have changed the way they price their products — and shoppers are getting deliberately overcharged. Here are steps you can take to ensure you are gett…",
+     "english": true
+    },
+    {
+     "title": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
+     "link": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
+     "time": "Tue, 29 Sep 2026 05:00:00 -0400",
+     "source": "NPR 头条",
+     "summary": "Turkey&apos;s bid for regional influence comes at a time when the Middle East has been hit by profound shocks that started with the Hamas-led 2023 attack on Isr…",
+     "english": true
+    },
+    {
+     "title": "Morning news brief",
+     "link": "https://www.npr.org/2026/09/29/nx-s1-5979951/morning-news-brief",
+     "time": "Tue, 29 Sep 2026 04:47:43 -0400",
+     "source": "NPR 头条",
+     "summary": "Five men arrested on terror charges near U.K. air base released on bail, Trump administration rolls back fuel efficiency standards for new vehicles, prosecutors…",
+     "english": true
+    }
+   ]
+  }
+ ],
+ "lastUpdated": "2026-09-29T10:23:25.905777+00:00"
+}

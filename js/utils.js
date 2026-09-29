@@ -98,18 +98,18 @@ export async function fetchApiData(type, { force = false, timeout = 25000 } = {}
 
 /**
  * 多通道抓取跨域文本（RSS/XML）：
- * 1) 已部署的自建 Netlify 代理（国内可达、CORS*，最稳定）
- * 2) 同源 Netlify / Vercel 函数  3) 公共 CORS 代理  4) 直连（源站允许 CORS 时）
+ * 1) 直连（源站允许 CORS 时）  2) 公共 CORS 代理  3) 原 Netlify 自建代理（若恢复）
  * 任一通道成功即返回文本，全失败抛错。
+ * 说明：已移除 GitHub Pages 上不存在的同源函数路径（/.netlify/functions、/api/proxy），
+ * 避免每次刷新先等待 404 超时。
  */
 const STABLE_PROXY = 'https://prismatic-cucurucho-9e351c.netlify.app/.netlify/functions/rss-proxy?url=';
 export async function fetchViaProxy(targetUrl, { timeout = 12000 } = {}) {
   const channels = [
-    STABLE_PROXY + encodeURIComponent(targetUrl),
-    `/.netlify/functions/rss-proxy?url=${encodeURIComponent(targetUrl)}`,
-    `/api/proxy?url=${encodeURIComponent(targetUrl)}`,
-    `https://cors.eu.org/${targetUrl}`,
     targetUrl,
+    `https://cors.eu.org/${targetUrl}`,
+    `https://api.allorigins.win/raw?url=${encodeURIComponent(targetUrl)}`,
+    STABLE_PROXY + encodeURIComponent(targetUrl),
   ];
   let lastErr;
   for (const u of channels) {
@@ -136,11 +136,10 @@ export async function fetchViaProxy(targetUrl, { timeout = 12000 } = {}) {
  */
 export async function fetchHtmlViaProxy(targetUrl, { timeout = 14000 } = {}) {
   const channels = [
-    STABLE_PROXY + encodeURIComponent(targetUrl),
-    `/.netlify/functions/rss-proxy?url=${encodeURIComponent(targetUrl)}`,
-    `/api/proxy?url=${encodeURIComponent(targetUrl)}`,
-    `https://cors.eu.org/${targetUrl}`,
     targetUrl,
+    `https://cors.eu.org/${targetUrl}`,
+    `https://api.allorigins.win/raw?url=${encodeURIComponent(targetUrl)}`,
+    STABLE_PROXY + encodeURIComponent(targetUrl),
   ];
   let lastErr;
   for (const u of channels) {

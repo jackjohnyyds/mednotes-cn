@@ -46,11 +46,7 @@ function switchTab(name, { push = false } = {}) {
   store.set('lastTab', name);
   if (push) history.replaceState(null, '', `#${name}`);
   ({ focus: onTabFocus, papers: onTabPapers, mednews: onTabMednews, briefing: onTabBriefing, space: onTabSpace }[name] || (() => {}))();
-  // 切到资讯模块时，若数据超过 6 小时则静默刷新（每日自动更新）
-  if (LOADERS[name]) {
-    const last = getFreshMap()[name] || 0;
-    if (Date.now() - last > SIX_HOURS) refreshModule(name, { silent: true });
-  }
+  // 已取消“切到资讯模块时自动刷新”：内容刷新仅按每日固定时间执行
 }
 
 const TAB_RENDER = { focus: onTabFocus, papers: onTabPapers, mednews: onTabMednews, briefing: onTabBriefing, space: onTabSpace };
@@ -110,9 +106,35 @@ function initErrorGuard() {
   });
 }
 
-/* ---------- 每日自动更新：超过 6 小时静默刷新全部资讯模块（实时聚合，无需服务端定时任务） ---------- */
-async function autoDailyRefresh() {
-  if (!shouldRefreshDaily()) return;
+/* ---------- 每日固定时间刷新：默认每日 11:00 刷新一次内容（取消打开页面自动更新） ---------- */
+const DAILY_REFRESH_HOUR = 11;
+const DAILY_REFRESH_MINUTE = 0;
+const DAILY_KEY = 'mednotes_last_daily_refresh';
+function todayKeyLocal() {
+  const d = new Date();
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+}
+function getDailyRefreshDate() { try { return localStorage.getItem(DAILY_KEY) || ''; } catch { return ''; } }
+function setDailyRefreshDate() { try { localStorage.setItem(DAILY_KEY, todayKeyLocal()); } catch { /* ignore */ } }
+
+/**
+ * 每日定时刷新：
+ * - 页面打开期间每分钟轮询，到 11:00 自动刷新一次（当天仅一次）；
+ * - 若 11:00 后才打开页面且今日尚未刷新，则补刷一次（保证每日内容为当日数据）。
+ * 打开页面本身不再触发刷新（不再按 6 小时 / 30 分钟 / 切页判断）。
+ */
+async function dailyScheduledRefresh() {
+  const now = new Date();
+  const hm = now.getHours() * 60 + now.getMinutes();
+  if (hm < DAILY_REFRESH_HOUR * 60 + DAILY_REFRESH_MINUTE) return; // 未到今日刷新时刻
+  if (getDailyRefreshDate() === todayKeyLocal()) return;           // 今日已刷新
+  await autoDailyRefresh(true);
+  setDailyRefreshDate();
+}
+
+/* ---------- 每日内容刷新：依次静默刷新全部资讯模块（数据由服务端每日生成，打开页面不自动刷新） ---------- */
+async function autoDailyRefresh(force = false) {
+  if (!force && !shouldRefreshDaily()) return;
   markFetched();
   // 依次静默刷新，避免并发压垮免费代理
   for (const name of ['papers', 'mednews', 'briefing']) {
@@ -178,19 +200,7 @@ async function runHealthCheck() {
   return report;
 }
 
-/* ---------- 页面可见性变化时刷新（回到页面自动更新） ---------- */
-function initVisibilityRefresh() {
-  let lastVisible = Date.now();
-  document.addEventListener('visibilitychange', () => {
-    if (document.visibilityState === 'visible') {
-      const away = Date.now() - lastVisible;
-      if (away > 30 * 60 * 1000) autoDailyRefresh();
-      lastVisible = Date.now();
-    } else {
-      lastVisible = Date.now();
-    }
-  });
-}
+/* ---------- 页面可见性变化刷新已取消（回到页面不再自动更新，仅按每日固定时间刷新） ---------- */
 
 export function init() {
   initErrorGuard();
@@ -210,14 +220,13 @@ export function init() {
   const saved = store.get('lastTab', 'focus');
   switchTab(TABS.includes(saved) ? saved : 'focus');
 
-  // 启动 3 秒后做每日自动更新（不阻塞首屏，各模块本身已实时聚合）
-  setTimeout(autoDailyRefresh, 3000);
   // 启动 8 秒后做每日健康自检与自动修复
   setTimeout(runHealthCheck, 8000);
-  // 页面回到前台超过 30 分钟自动刷新
-  initVisibilityRefresh();
-  // 每 6 小时定时自动更新 + 自检
-  setInterval(autoDailyRefresh, SIX_HOURS);
+  // 每日固定时间刷新（默认 11:00）：打开页面时检查今日是否已到点且尚未刷新（到点补刷）；
+  // 页面开着时每分钟轮询，到 11:00 自动刷新一次（当天仅一次）。打开页面不再触发自动更新。
+  dailyScheduledRefresh();
+  setInterval(dailyScheduledRefresh, 60 * 1000);
+  // 每 6 小时健康自检（诊断与自愈，非内容自动更新）
   setInterval(runHealthCheck, SIX_HOURS + 60 * 1000);
 }
 

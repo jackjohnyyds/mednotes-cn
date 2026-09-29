@@ -79,12 +79,30 @@ async function loadRecommend() {
   if (!wrap) return;
   wrap.innerHTML = '<div class="spin" style="margin:20px auto;"></div>';
   try {
+    // 优先读每日静态数据（服务端生成，同源、秒开、无 CORS）
+    const local = await loadLocalDouban();
+    if (local && local.length) {
+      recommendCache = local.slice(0, 16);
+      renderRecommend();
+      return;
+    }
+  } catch { /* 无每日数据则走实时抓取兜底 */ }
+  try {
     const online = await fetchDoubanRecommend();
     recommendCache = online.length ? online.slice(0, 16) : FALLBACK_BOOKS;
   } catch {
     recommendCache = FALLBACK_BOOKS;
   }
   renderRecommend();
+}
+
+/** 读取每日静态豆瓣推荐 data/douban.json（相对路径，适配子路径部署） */
+async function loadLocalDouban() {
+  const res = await fetch(`data/douban.json?v=${Date.now()}`, { signal: AbortSignal.timeout(8000) });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  const data = await res.json();
+  if (!data || !Array.isArray(data.items) || !data.items.length) return [];
+  return data.items;
 }
 
 function renderRecommend() {

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 MedNotes 每日数据生成器（服务端执行，GitHub Actions 每日 11:00 运行）
-产出 data/papers.json / data/mednews.json / data/briefing.json，
+产出 data/papers.json / data/mednews.json / data/briefing.json / data/douban.json，
 供客户端打开页面时直接读取（同源静态数据，秒开、稳定，不依赖外部代理）。
 结构完全对齐客户端 modules/*.js 的 loadLocal* 读取 schema。
 每个数据源独立容错：单源失败不影响整体，至少产出可用 JSON。
@@ -324,20 +324,66 @@ def dedup(items):
         out.append(it)
     return out
 
+# ---------------- 豆瓣书影音推荐（个人空间） ----------------
+DOUBAN_ROUTES = [('/douban/movie/weekly', '电影', 8), ('/douban/book/latest', '书籍', 8)]
+
+def parse_douban_xml(xml_text, kind, limit):
+    items = []
+    for m in re.finditer(r'<item>([\s\S]*?)</item>', xml_text):
+        block = m.group(1)
+        def get(tag):
+            mm = re.search(r'<%s[^>]*>([\s\S]*?)</%s>' % (tag, tag), block, re.I)
+            if not mm:
+                return ''
+            return re.sub(r'<[^>]+>', ' ', mm.group(1).replace('<![CDATA[', '').replace(']]>', '')).strip()
+        name = get('title')
+        link = get('link')
+        desc = get('description')
+        if not name or not re.match(r'^https?://(movie|book)\.douban\.com/', link, re.I):
+            continue
+        rm = re.search(r'([\d.]+)\s*分', desc)
+        rating = rm.group(1) if rm else ''
+        comment = re.sub(r'^.*?影片信息[:：]', '', desc)
+        comment = re.sub(r'标题[:：].*?标签[:：][^影]*?(?=影片信息|$)', '', comment).strip()
+        if not comment:
+            comment = re.sub(r'标题[:：].*?分', '', desc).strip()
+        if len(comment) > 60:
+            comment = comment[:60] + '…'
+        items.append({'name': name, 'type': kind, 'rating': rating,
+                      'comment': comment or '豆瓣推荐', 'doubanLink': link, 'source': link})
+        if len(items) >= limit:
+            break
+    return items
+
+def gen_douban():
+    items = []
+    for route, kind, lim in DOUBAN_ROUTES:
+        xml = None
+        for inst in ('https://rsshub.rssforever.com', 'https://rsshub.app'):
+            try:
+                xml = fetch(inst + route)
+                if xml and ('<item' in xml or '<entry' in xml):
+                    break
+            except Exception:
+                xml = None
+        if xml:
+            items.extend(parse_douban_xml(xml, kind, lim))
+    return {'items': items, 'lastUpdated': datetime.datetime.now(datetime.timezone.utc).isoformat()}
+
 def main():
     out_dir = sys.argv[1] if len(sys.argv) > 1 else 'data'
     import os
     os.makedirs(out_dir, exist_ok=True)
     results = {}
-    with ThreadPoolExecutor(max_workers=3) as ex:
-        jobs = {'papers': ex.submit(gen_papers), 'mednews': ex.submit(gen_mednews), 'briefing': ex.submit(gen_briefing)}
+    with ThreadPoolExecutor(max_workers=4) as ex:
+        jobs = {'papers': ex.submit(gen_papers), 'mednews': ex.submit(gen_mednews), 'briefing': ex.submit(gen_briefing), 'douban': ex.submit(gen_douban)}
         for name, fut in jobs.items():
             try:
                 results[name] = fut.result()
             except Exception as e:
                 print('[warn] %s 生成失败: %s' % (name, e), flush=True)
                 results[name] = {'items': []} if name != 'briefing' else {'categories': []}
-    for name in ('papers', 'mednews', 'briefing'):
+    for name in ('papers', 'mednews', 'briefing', 'douban'):
         path = os.path.join(out_dir, name + '.json')
         with open(path, 'w', encoding='utf-8') as f:
             json.dump(results[name], f, ensure_ascii=False, indent=1)

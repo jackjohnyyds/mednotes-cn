@@ -151,21 +151,9 @@ function countRendered(name) {
   return 0;
 }
 async function probeFeeds() {
-  const checks = {};
-  // 代理 + 一个国内 RSS
-  try {
-    const xml = await fetchViaProxy('https://rsshub.rssforever.com/cctv/health', { timeout: 12000 });
-    checks.rssProxy = xml.includes('<item') ? 'ok' : 'empty';
-  } catch { checks.rssProxy = 'fail'; }
-  // PubMed 直连
-  try {
-    const ctrl = new AbortController();
-    const t = setTimeout(() => ctrl.abort(), 10000);
-    const res = await fetch('https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=medicine&retmax=1&retmode=json', { signal: ctrl.signal });
-    clearTimeout(t);
-    checks.pubmed = res.ok ? 'ok' : `http${res.status}`;
-  } catch { checks.pubmed = 'fail'; }
-  return checks;
+  // 为遵守「打开页面不自动抓取外部数据源」，健康自检不再探测 rsshub/PubMed 可达性；
+  // 数据可达性由 GitHub Actions 每日生成日志与页面实际渲染结果反映。
+  return {};
 }
 async function runHealthCheck() {
   const report = { time: new Date().toISOString(), modules: {}, links: {}, feeds: {}, repaired: [] };

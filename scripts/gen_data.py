@@ -10,6 +10,7 @@ MedNotes 每日数据生成器（服务端执行，GitHub Actions 每日 11:00 �
 import json
 import re
 import ssl
+import time
 import urllib.request
 import urllib.parse
 import html
@@ -152,19 +153,30 @@ def parse_pubmed_xml(xml):
                     'year': year, 'authors': authors, 'doi': doi, 'field': ''})
     return out
 
+def esearch_ids(field):
+    """NCBI E-utilities esearch，带限流规避与重试（无 key 限流约 3 req/s）"""
+    q = urllib.parse.quote(field)
+    url = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%s&retmax=5&sort=date&retmode=json' % q
+    for attempt in range(3):
+        try:
+            data = fetch_json(url)
+            ids = (data.get('esearchresult') or {}).get('idlist', []) or []
+            if ids:
+                return ids
+        except Exception:
+            pass
+        time.sleep(1.5 * (attempt + 1))
+    return []
+
 def gen_papers(fields=None):
     fields = fields or DEFAULT_FIELDS
     id_field, order = {}, []
     for f in fields[:4]:
-        try:
-            q = urllib.parse.quote(f)
-            data = fetch_json('https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%s&retmax=5&sort=date&retmode=json' % q)
-            for pid in (data.get('esearchresult') or {}).get('idlist', []) or []:
-                if pid not in id_field:
-                    id_field[pid] = f
-                    order.append(pid)
-        except Exception:
-            continue
+        for pid in esearch_ids(f):
+            if pid not in id_field:
+                id_field[pid] = f
+                order.append(pid)
+        time.sleep(1.2)  # 避免连续请求触发限流
     if not order:
         return {'items': [], 'lastUpdated': datetime.datetime.now(datetime.timezone.utc).isoformat(), 'fields': fields}
     id_list = order[:20]

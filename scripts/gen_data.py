@@ -101,11 +101,22 @@ def fetch_rss(url, source_name, limit, english=False, kw=None):
     except Exception:
         return []
 
+# RSSHub 公共实例（按响应速度与可用性排序；rssforever/rsshub.app 不稳定，作为后备）
+RSSHUB_INSTANCES = ('https://rsshub.woodland.cafe', 'https://rsshub.ktachibana.party',
+                    'https://rsshub.rssforever.com', 'https://rsshub.app')
+
 def fetch_rsshub(route, source_name, limit, english=False, kw=None):
-    for inst in ('https://rsshub.rssforever.com', 'https://rsshub.app'):
-        items = fetch_rss(inst + route, source_name, limit, english, kw)
-        if items:
-            return items
+    """并行尝试多个 RSSHub 实例，取最先成功的返回（任一实例稳定可达即成功）"""
+    with ThreadPoolExecutor(max_workers=len(RSSHUB_INSTANCES)) as ex:
+        futs = [ex.submit(fetch_rss, inst + route, source_name, limit, english, kw)
+                for inst in RSSHUB_INSTANCES]
+        for fut in as_completed(futs):
+            try:
+                items = fut.result()
+                if items:
+                    return items
+            except Exception:
+                continue
     return []
 
 # ---------------- papers：PubMed E-utilities ----------------

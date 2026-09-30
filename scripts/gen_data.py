@@ -316,9 +316,38 @@ def gen_briefing():
                 for it in fetch_rss(url, name, lim, True) or []:
                     items.append(it)
             return {'id': 'global', 'label': '全球外网', 'items': dedup(items)[:24]}
-        cats = [f.result() for f in [ex.submit(b) for b in (build_cctv, build_cd, build_thepaper, build_kr36, build_global)]]
+        def build_pearvideo():
+            return {'id': 'pearvideo', 'label': '梨视频', 'items': dedup(gen_pearvideo())[:24]}
+        cats = [f.result() for f in [ex.submit(b) for b in (build_cctv, build_cd, build_thepaper, build_kr36, build_global, build_pearvideo)]]
     cats = [c for c in cats if c and c['items']]
     return {'categories': cats, 'lastUpdated': datetime.datetime.now(datetime.timezone.utc).isoformat()}
+
+# ---------------- 梨视频（简报：热门视频，点击跳转播放页） ----------------
+PEAR_VIDEO_URLS = ['https://www.pearvideo.com/', 'https://www.pearvideo.com/category_1']
+PEAR_A_RE = re.compile(r'<a[^>]+href="(video_\d+)"[^>]*>([\s\S]*?)</a>', re.I)
+PEAR_TITLE_RE = re.compile(r'<div class="[^"]*title[^"]*"[^>]*>([\s\S]*?)</div>', re.I)
+
+def parse_pearvideo_html(html_text):
+    items = []
+    for m in PEAR_A_RE.finditer(html_text):
+        vid = m.group(1)
+        inner = m.group(2)
+        tm = PEAR_TITLE_RE.search(inner)
+        title = clean_text(tm.group(1)) if tm else clean_text(inner)
+        if not title:
+            continue
+        items.append({'title': title[:60], 'link': 'https://www.pearvideo.com/' + vid,
+                      'source': '梨视频', 'type': 'video'})
+    return items
+
+def gen_pearvideo():
+    items = []
+    for url in PEAR_VIDEO_URLS:
+        try:
+            items.extend(parse_pearvideo_html(fetch(url)))
+        except Exception as e:
+            print('[warn] 梨视频 %s 抓取失败: %s' % (url, e), flush=True)
+    return items
 
 def dedup(items):
     seen_l, seen_t, out = set(), set(), []

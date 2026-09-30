@@ -1,24 +1,25 @@
 /**
- * briefing.js — 天下简报（按来源分五栏：央视网 / China Daily / 澎湃新闻 / 36氪 / 全球外网）
+ * briefing.js — 天下简报（按来源分六栏：央视网 / China Daily / 澎湃新闻 / 36氪 / 全球外网 / 梨视频）
  * 每个来源聚合其多个频道，自动覆盖时政、国际、财经、科技、社会、文化等板块；
  * 跨频道 / 跨来源去重；英文来源（China Daily、全球外网）标题自动翻译为中文；
- * 全部为原文直链，点击新标签打开原网站，不使用 Google News 等重定向链接。
+ * 全部为原文直链，点击新标签打开原网站（梨视频点击跳转播放页），不使用 Google News 等重定向链接。
  * 数据链路：静态 JSON 秒开 → 始终在线聚合（RSSHub / 官方直链 RSS / China Daily 频道页 HTML）覆盖。
  */
-import { $, $$, esc, fetchWithFallback, fetchApiData, fetchViaProxy, fetchHtmlViaProxy, relTime, isEnglish, translateText } from '../utils.js?v=20260929b';
-import { historyAdd } from '../storage.js?v=20260929b';
+import { $, $$, esc, fetchWithFallback, fetchApiData, fetchViaProxy, fetchHtmlViaProxy, relTime, isEnglish, translateText } from '../utils.js?v=20260930a';
+import { historyAdd } from '../storage.js?v=20260930a';
 
 const RSSHUB_INSTANCES = ['https://rsshub.rssforever.com', 'https://rsshub.app'];
 const PER_TAB = 24; // 每栏最终展示条数
 
-/* 五栏（按来源） */
-const TAB_ORDER = ['cctv', 'chinadaily', 'thepaper', 'kr36', 'global'];
+/* 六栏（按来源） */
+const TAB_ORDER = ['cctv', 'chinadaily', 'thepaper', 'kr36', 'global', 'pearvideo'];
 const TAB_LABEL = {
   cctv: '央视网',
   chinadaily: 'China Daily',
   thepaper: '澎湃新闻',
   kr36: '36氪',
   global: '全球外网',
+  pearvideo: '梨视频',
 };
 
 /* 央视网：聚合国内 / 世界 / 科技三个频道（中文，原文直链） */
@@ -132,7 +133,7 @@ function renderBriefView() {
           <div class="brief-meta">
             <span class="chip">${esc(it.source || TAB_LABEL[c.id] || '未知来源')}</span>
             <span>${relTime(it.time)}</span>
-            <span style="opacity:0.6;">原文 ↗</span>
+            <span style="opacity:0.6;">${it.type === 'video' ? '播放 ↗' : '原文 ↗'}</span>
           </div>
         </a>`;
       }).join('') || '<div class="empty-note" style="text-align:center;padding:24px 0;">该栏目暂无数据</div>'}
@@ -249,7 +250,27 @@ async function buildGlobal() {
   return { id: 'global', label: TAB_LABEL.global, items };
 }
 
-const BUILDERS = { cctv: buildCctv, chinadaily: buildChinaDaily, thepaper: buildThepaper, kr36: buildKr36, global: buildGlobal };
+/* 梨视频：官网热门页 HTML 解析（浏览器端无 CORS 时兜底为空，静态数据为主通道） */
+async function buildPearvideo() {
+  try {
+    const html = await fetchViaProxy('https://www.pearvideo.com/', { timeout: 12000 });
+    const items = [];
+    const re = /<a[^>]+href="(video_\d+)"[^>]*>([\s\S]*?)<\/a>/gi;
+    let m;
+    while ((m = re.exec(html))) {
+      const tm = /<div class="[^"]*title[^"]*"[^>]*>([\s\S]*?)<\/div>/i.exec(m[2]);
+      const title = tm ? tm[1].replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim() : '';
+      if (!title) continue;
+      items.push({ title: title.slice(0, 60), link: 'https://www.pearvideo.com/' + m[1], source: '梨视频', type: 'video' });
+      if (items.length >= PER_TAB) break;
+    }
+    return { id: 'pearvideo', label: TAB_LABEL.pearvideo, items: dedup(items) };
+  } catch {
+    return { id: 'pearvideo', label: TAB_LABEL.pearvideo, items: [] };
+  }
+}
+
+const BUILDERS = { cctv: buildCctv, chinadaily: buildChinaDaily, thepaper: buildThepaper, kr36: buildKr36, global: buildGlobal, pearvideo: buildPearvideo };
 
 /* 后台翻译英文标题（China Daily、全球外网），逐条完成即重渲染 */
 async function translateTabs() {

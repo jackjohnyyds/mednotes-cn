@@ -2,8 +2,8 @@
  * mednews.js — 临床医讯（国内+国际+互联网媒体，英文自动翻译）
  * 数据链路：Netlify data-api（首选）→ 静态 JSON → RSS 代理
  */
-import { $, $$, esc, toast, fetchWithFallback, fetchApiData, fetchViaProxy, fetchHtmlViaProxy, stripHtmlTags, relTime, debounce, isEnglish, translateText } from '../utils.js?v=20260929b';
-import { historyAdd } from '../storage.js?v=20260929b';
+import { $, $$, esc, toast, fetchWithFallback, fetchApiData, fetchViaProxy, fetchHtmlViaProxy, stripHtmlTags, relTime, debounce, isEnglish, translateText } from '../utils.js?v=20260930a';
+import { historyAdd } from '../storage.js?v=20260930a';
 
 /**
  * 新闻源配置：全部为原文直链（不使用 Google News 重定向）

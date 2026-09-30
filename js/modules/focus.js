@@ -3,11 +3,11 @@
  */
 import {
   $, $$, dateKey, parseKey, fmtDateCN, fmtClock, esc, toast, beep, playDone, uid,
-} from '../utils.js?v=20260929b';
+} from '../utils.js?v=20260930a';
 import {
   store, getTasks, setTasks, addTask, updateTask, removeTask,
   getPomoMinutes, addPomoMinutes, historyList, historyClear,
-} from '../storage.js?v=20260929b';
+} from '../storage.js?v=20260930a';
 
 /* ================= 番茄钟 ================= */
 const RING_R = 88;

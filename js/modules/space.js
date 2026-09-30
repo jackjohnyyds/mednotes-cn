@@ -3,12 +3,12 @@
  */
 import {
   $, $$, esc, toast, dateKey, uid, openModal, closeModal, firstSentence, fetchViaProxy, dailyPick,
-} from '../utils.js?v=20260929b';
+} from '../utils.js?v=20260930a';
 import {
   store, getNotes, saveNote, deleteNote,
   getLabs, saveLab, deleteLab,
   getBooks, saveBook, deleteBook,
-} from '../storage.js?v=20260929b';
+} from '../storage.js?v=20260930a';
 
 /* ================= 豆瓣书影音推荐（自动生成，点击直达豆瓣详情页） ================= */
 let recommendCache = [];

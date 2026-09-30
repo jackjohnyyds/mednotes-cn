@@ -1,6 +1,204 @@
 {
  "categories": [
   {
+   "id": "cctv",
+   "label": "央视网",
+   "items": [
+    {
+     "title": "独家视频丨习近平等党和国家领导人向人民英雄敬献花篮",
+     "link": "https://news.cctv.com/2026/09/30/ARTIrGBi2UwlZHFqN5sFnyE3260930.shtml",
+     "time": "Wed, 30 Sep 2026 03:30:59 GMT",
+     "source": "央视网",
+     "summary": "今年是中国共产党成立105周年、红军长征胜利90周年。烈士纪念日向人民英雄敬献花篮仪式今天上午在天安门广场隆重举行，习近平等党和国家领导人向人民英雄敬献花篮。",
+     "english": false
+    },
+    {
+     "title": "假日服务台｜全国大部地区气象条件较好 北方早晚注意保暖",
+     "link": "https://news.cctv.com/2026/09/30/ARTIyBCZBGgTwtKDRcCDGp0H260930.shtml",
+     "time": "Wed, 30 Sep 2026 03:30:25 GMT",
+     "source": "央视网",
+     "summary": "央视网消息： 国庆假期即将来临，关注天气变化，快乐平安出游。9月29日发布的旅游气象提示，国庆假期期间，全国大部地区气象条件较好，总体有利于出行。假日期间的阶段性降温、阴雨天气需要重点关注。具体情况来看气象分析师的介绍。 据介绍，“十一”假期期间，我们国家天气整体较好，利于大家的出行，对于北方来讲，我们需要关注2号到3…",
+     "english": false
+    },
+    {
+     "title": "烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 习近平等党和国家领导人出席",
+     "link": "https://news.cctv.com/2026/09/30/ARTIKa3hVYNIGxlwt4PcEeB0260930.shtml",
+     "time": "Wed, 30 Sep 2026 03:26:27 GMT",
+     "source": "央视网",
+     "summary": "新华社北京9月30日电 致敬英烈荣光，凝聚复兴伟力。烈士纪念日向人民英雄敬献花篮仪式30日上午在北京天安门广场隆重举行。党和国家领导人习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等，同各界代表一起出席仪式。 庄严的天安门广场上，鲜艳的五星红旗迎风飘扬，人民英雄纪念碑巍然耸立。广场中央，“祝福祖国”巨型花篮表达…",
+     "english": false
+    },
+    {
+     "title": "提前部署、跨航司签转……交通部门“多点发力”全力保障国庆假期出行",
+     "link": "https://news.cctv.com/2026/09/30/ARTIJGHWUNgs90Wn4Z72GWqI260930.shtml",
+     "time": "Wed, 30 Sep 2026 03:21:40 GMT",
+     "source": "央视网",
+     "summary": "央视网消息： 10月1日就迎来国庆假期了，交通部门提前部署，全力保障人们假期出行。 记者从交通运输部获悉，今年国庆假期，交通出行预计高位运行，10月1日出行人次将达到3.4亿人次，为日常人数的近2倍，租车出行量增长20%以上。交通运输部将启动智能研判系统，联合公安、交警等多部门在可能发生拥堵的路段预置力量，及时处置轻微…",
+     "english": false
+    },
+    {
+     "title": "有信心、有韧性、有活力 今年我国服务业发展呈现积极态势",
+     "link": "https://news.cctv.com/2026/09/30/ARTISTbZRuVQfTbelMhj9wNr260930.shtml",
+     "time": "Wed, 30 Sep 2026 03:10:05 GMT",
+     "source": "央视网",
+     "summary": "央视网消息： 9月29日，国家发展改革委等部门召开新闻发布会，介绍推进服务业扩能提质有关情况。相关负责人表示，今年我国服务业发展呈现积极态势。上半年，服务业对经济增长贡献率达到66.1%。 在生活性服务业上，我国全面推开养老服务消费补贴项目，实施进一步激发下沉市场活力的18条政策，出台促进房车消费的9条措施，服务零售额…",
+     "english": false
+    },
+    {
+     "title": "2026年二季度我国外债形势总体平稳 外债币种结构有所优化",
+     "link": "https://news.cctv.com/2026/09/30/ARTIbc1BZrKrxUyhxBSV9Zl7260930.shtml",
+     "time": "Wed, 30 Sep 2026 03:08:39 GMT",
+     "source": "央视网",
+     "summary": "央视网消息： 9月29日，国家外汇管理局公布了2026年6月末中国全口径外债数据。数据显示，截至2026年6月末，我国全口径（含本外币）外债余额为24982亿美元，较2026年3月末增长861亿美元，增幅4%。 国家外汇管理局表示，2026年二季度，我国外债形势总体平稳。外债规模小幅上升。主要是受跨境贸易较为活跃等因素…",
+     "english": false
+    },
+    {
+     "title": "节前看消费｜餐饮、住宿等多场景消费旺 “新热点+新体验”激发新活力",
+     "link": "https://news.cctv.com/2026/09/30/ARTIogPU6QSL7pnB4J7FQnkp260930.shtml",
+     "time": "Wed, 30 Sep 2026 03:00:59 GMT",
+     "source": "央视网",
+     "summary": "央视网消息： 国庆将至，北方天气晴好，适合出游，完成升级改造的延吉水上市场也迎来了客流高峰。 清晨的延吉水上市场摊位林立、香气四溢，热气腾腾的各色美食弥漫着浓浓的烟火气。 上世纪八九十年代，商贩自发在烟集河河滩岸边摆摊经营，形成露天早市。每到汛期河水上涨，河水经常漫到摊位脚下，摊贩就挨着河水做生意，“水上市场”的称呼由…",
+     "english": false
+    },
+    {
+     "title": "贴息“红包”升级 金融政策持续发力助投资、降成本、促消费",
+     "link": "https://news.cctv.com/2026/09/30/ARTIjzYeKzMLNYucjh63T70P260930.shtml",
+     "time": "Wed, 30 Sep 2026 02:50:43 GMT",
+     "source": "央视网",
+     "summary": "央视网消息： 9月29日，财政部、中国人民银行、金融监管总局发布了《关于实施居民购房贷款贴息政策的通知》，明确从10月1日起，对符合条件的居民家庭贷款购买首套住房，给予年化一个百分点的贴息。 根据《通知》，居民购房贷款贴息政策对同时符合以下条件的居民家庭给予贴息支持： 一是使用新发放的商业性个人住房贷款购买首套住房。其…",
+     "english": false
+    },
+    {
+     "title": "“数”说国庆假期全国交通出行需求集中释放 跨区域人员流动量将持续走高",
+     "link": "https://news.cctv.com/2026/09/30/ARTIDNlqgkSdhuqh7184U0TC260930.shtml",
+     "time": "Wed, 30 Sep 2026 02:44:36 GMT",
+     "source": "央视网",
+     "summary": "央视网消息： 10月1日就迎来国庆假期了，全国交通出行需求集中释放，跨区域人员流动量将持续走高。9月30日，全国铁路预计发送旅客1976万人次，预计加开列车2053列。公路、水路也将进入节前客流高峰。交通部门提前部署，全力保障人们假期出行。 记者从交通运输部获悉，今年国庆假期，交通出行预计高位运行，10月1日出行人次将…",
+     "english": false
+    },
+    {
+     "title": "旅韩双胞胎大熊猫将于12月回国",
+     "link": "https://news.cctv.com/2026/09/30/ARTIrs2tICIvOLLGW5bwtbNL260930.shtml",
+     "time": "Wed, 30 Sep 2026 03:24:41 GMT",
+     "source": "央视网",
+     "summary": "新华社首尔9月30日电（记者陈怡 孙一然）韩国爱宝乐园9月30日表示，在韩国诞生的双胞胎中国大熊猫“睿宝”和“辉宝”将于12月回国。 爱宝乐园表示，“睿宝”和“辉宝”将于12月第三周赴华，开启新生活。具体启程日期和前往地点，将综合考虑双胞胎大熊猫的健康状况、气温及当地情况等各方面因素后确定。“睿宝”和“辉宝”将在启程前…",
+     "english": false
+    },
+    {
+     "title": "欧盟官员：伊朗战事让欧盟多花千亿欧元进口能源",
+     "link": "https://news.cctv.com/2026/09/30/ARTI8wyusFwYPF490StolCZT260930.shtml",
+     "time": "Wed, 30 Sep 2026 02:29:33 GMT",
+     "source": "央视网",
+     "summary": "新华社伦敦9月29日电（记者赵家淞）都柏林消息：欧盟能源专员丹·约根森29日在爱尔兰首都都柏林举行的欧盟能源部长会议上说，自2月底伊朗战事爆发以来，欧盟已为进口同等数量的化石燃料额外支出约1000亿欧元。 约根森当天对媒体记者说，虽然欧盟已为能源多支付1000亿欧元，“却没有多获得一丁点儿天然气或石油”。 约根森呼吁欧…",
+     "english": false
+    },
+    {
+     "title": "曼苏里成为摩洛哥首位女首相",
+     "link": "https://news.cctv.com/2026/09/30/ARTIKoIXZNqZ2IcwoJROYdJF260930.shtml",
+     "time": "Tue, 29 Sep 2026 22:13:08 GMT",
+     "source": "央视网",
+     "summary": "新华社拉巴特9月29日电（记者赵一宁）摩洛哥国王穆罕默德六世29日任命法蒂玛·宰赫拉·曼苏里为新首相，并授权其组建新内阁。曼苏里成为摩洛哥历史上首位女性政府首脑。 这张9月24日在摩洛哥首都拉巴特拍摄的资料照片显示，法蒂玛·宰赫拉·曼苏里在真实性与现代党举行的新闻发布会上发言。新华社发（艾萨摄） 曼苏里是摩洛哥真实性与…",
+     "english": false
+    },
+    {
+     "title": "美国计划通过“互换”释放4000万桶战略石油储备",
+     "link": "https://news.cctv.com/2026/09/30/ARTIkP1Oobp3k4NhfMjIhS38260930.shtml",
+     "time": "Tue, 29 Sep 2026 21:49:45 GMT",
+     "source": "央视网",
+     "summary": "美国能源部战略石油储备项目管理办公室29日发布邀约公告，计划以“互换”方式向市场释放4000万桶原油。 根据公告，计划参与“互换”的企业需要在近日提交提议。在公布“互换”合约后，联邦政府预计在11月和12月分批次交付储备原油。企业则最早可以从2027年4月开始归还原油，最晚归还期间为2029年年底。 据美国能源部介绍，…",
+     "english": false
+    },
+    {
+     "title": "受降雨影响 数千件行李滞留泰国素万那普国际机场",
+     "link": "https://news.cctv.com/2026/09/30/ARTIjPMGGOHD6bOXiTvo6QVc260930.shtml",
+     "time": "Tue, 29 Sep 2026 21:46:53 GMT",
+     "source": "央视网",
+     "summary": "受持续降雨、城市内涝以及地勤运力不足等多重因素影响，自9月26日起，泰国素万那普国际机场出现大规模行李滞留。大量抵达、出发及转机旅客的托运行李未能正常随航班运输，部分旅客在行李转盘附近等待数小时，甚至隔日才能取回行李。 截至29日，泰国国际航空仍有数千件滞留行李等待处理。泰航表示，强降雨和积水导致部分地勤人员无法正常到…",
+     "english": false
+    },
+    {
+     "title": "民调：约七成受访者希望英国与欧盟走近",
+     "link": "https://news.cctv.com/2026/09/30/ARTIWqP1nKhvKlGoITqEbQc1260929.shtml",
+     "time": "Tue, 29 Sep 2026 20:35:07 GMT",
+     "source": "央视网",
+     "summary": "由美国《政治报》网站与英国“公众优先”公司合作的“政治民意调查项目”29日发布民调结果，显示约70%的英国受访者认为英国应与欧盟建立更紧密关系。 这项民调于9月13日至15日在线上征询2028名英国成年人对“英国靠近欧盟以及接受欧盟规则”的看法。约31%的受访者希望与欧盟建立“更紧密”关系，前提是英国无须遵守欧盟规则；…",
+     "english": false
+    },
+    {
+     "title": "内塔尼亚胡称“敌对势力”试图在大选前袭击以色列",
+     "link": "https://news.cctv.com/2026/09/30/ARTI4Dww7yMYpBG9czRnsXo4260929.shtml",
+     "time": "Tue, 29 Sep 2026 20:34:59 GMT",
+     "source": "央视网",
+     "summary": "以色列总理内塔尼亚胡29日在视察以空军特尔诺夫（Tel Nof）基地时表示，有情报表明，“敌对势力”正试图在即将到来的10月27日大选前对以色列发动袭击。 内塔尼亚胡还表示，“不要惹我们，现在不行，永远都不行。” 内塔尼亚胡并未明确指出“敌对势力”是谁。（总台记者 梁慧）",
+     "english": false
+    },
+    {
+     "title": "美国10年期国债收益率一度突破5.27%",
+     "link": "https://news.cctv.com/2026/09/29/ARTIDWRMT92IPeStGVlNc6NY260929.shtml",
+     "time": "Tue, 29 Sep 2026 14:44:36 GMT",
+     "source": "央视网",
+     "summary": "受加息预期升温、国际油价反弹等因素影响，美国多个期限的国债收益率28日大幅走高。 数据显示，28日，美国10年期国债收益率盘中一度上涨突破5.27%，创下自2007年6月以来的最高水平，且已是连续五个交易日上涨。对利率变动敏感的美国2年期国债收益率，28日也升至约4.96%，创下2024年4月以来的最高水平。",
+     "english": false
+    },
+    {
+     "title": "“雪龙”号、“雪龙2”号凯旋！中国第16次北冰洋考察成果丰硕",
+     "link": "https://news.cctv.com/2026/09/30/ARTIncW5iTb0jiWs9arqIeD1260930.shtml",
+     "time": "Wed, 30 Sep 2026 01:44:45 GMT",
+     "source": "央视网",
+     "summary": "9月29日，执行中国第16次北冰洋考察任务的“雪龙”号、“雪龙2”号船返回上海。本次考察取得多项重要进展。 本次考察，“雪龙”号、“雪龙2”号历时3个月，在楚科奇海台、加拿大海盆和北冰洋中央区域完成海洋环境综合考察等任务，并在冰边缘区多学科综合调查、气-冰-海立体协同观测等方面取得重要进展。 考察发现，加拿大海盆存在来…",
+     "english": false
+    },
+    {
+     "title": "奔赴南海科考！我国自主研发4500米级深海作业机器人启航",
+     "link": "https://news.cctv.com/2026/09/30/ARTI2e9RVHN5xz7jw62jS8cO260929.shtml",
+     "time": "Tue, 29 Sep 2026 16:22:46 GMT",
+     "source": "央视网",
+     "summary": "9月28日，在山东威海港，我国自主研发的150马力/250马力4500米级深海作业机器人正式启航，联合哈尔滨工业大学（威海）奔赴南海开展联合科考。 据了解，机器人搭载自研七轴多功能液压机械臂，攻克深海耐压密封、深水大功率推进、长距离水下通信、多模态自主导航等三十多项关键技术，能够完成深海油气开发、海底管线巡检、矿产资源…",
+     "english": false
+    },
+    {
+     "title": "我国科学家研发出单光束多维光存储新技术",
+     "link": "https://news.cctv.com/2026/09/29/ARTIPhhm7Ec8QxBNpN6xI02b260929.shtml",
+     "time": "Tue, 29 Sep 2026 13:36:57 GMT",
+     "source": "央视网",
+     "summary": "记者9月29日从上海理工大学获悉，学校科研团队自主研发出单光束多维光存储技术，为海量数据存储与高效读写提供新路径，拥有广阔应用前景。相关成果29日在线发表于国际学术期刊《自然·光子学》。 “传统的二进制存储，一个记录单元通常只有‘0’和‘1’两种状态，而我们的技术让一个记录单元拥有1024种可区分状态。”科研团队负责人…",
+     "english": false
+    },
+    {
+     "title": "我国生成式人工智能用户规模突破7亿人！最新报告发布→",
+     "link": "https://news.cctv.com/2026/09/29/ARTIrTn3S74zf4TewyNG7g6v260929.shtml",
+     "time": "Tue, 29 Sep 2026 12:29:30 GMT",
+     "source": "央视网",
+     "summary": "9月29日，中国互联网络信息中心政策与国际合作所在“2026（第七届）中国互联网基础资源大会”上发布《生成式人工智能应用发展报告（2026）》（以下简称《报告》），通过最新调查数据，对生成式人工智能的用户使用情况、产业应用情况、政策制定情况进行研究分析。 《报告》显示，截至2026年上半年，我国生成式人工智能用户规模突…",
+     "english": false
+    },
+    {
+     "title": "【“十五五”开好局起好步】推动科技强国建设不断迈上新台阶",
+     "link": "https://news.cctv.com/2026/09/29/ARTIvuHoaTIR8qNYnvhfKYEM260929.shtml",
+     "time": "Tue, 29 Sep 2026 11:57:49 GMT",
+     "source": "央视网",
+     "summary": "央视网消息 （新闻联播）：国务院新闻办9月29日举行“开局起步‘十五五’”系列主题新闻发布会，科技部相关负责人介绍“十五五”时期推进科技强国建设有关情况。 “十五五”时期是科技强国建设的关键攻坚期。国家“十五五”规划《纲要》把“科技自立自强水平大幅提高”作为经济社会发展的主要目标之一，对科技创新作出系统部署。 “十五五…",
+     "english": false
+    },
+    {
+     "title": "美“星舰”实现首次地球轨道飞行 但提前结束任务",
+     "link": "https://news.cctv.com/2026/09/29/ARTICxAC9w2CNRz3btaTa7HJ260929.shtml",
+     "time": "Mon, 28 Sep 2026 22:25:12 GMT",
+     "source": "央视网",
+     "summary": "美国太空探索技术公司“星舰”飞船9月28日实现首次地球轨道飞行，将26颗新一代“星链”V3卫星送入轨道，但试飞任务较原计划提前结束。 美国中部时间28日7时50分许（北京时间28日20时50分许），“星舰”从位于得克萨斯州南部的发射基地升空。此后，火箭第一级“超级重型”助推器在墨西哥湾附近海域受控溅落。第二级“星舰”飞…",
+     "english": false
+    },
+    {
+     "title": "我国将绘制完成新一代全火星地质图",
+     "link": "https://news.cctv.com/2026/09/29/ARTIX5SAJHb6GYe6nRWxDqMG260928.shtml",
+     "time": "Mon, 28 Sep 2026 19:50:02 GMT",
+     "source": "央视网",
+     "summary": "作为中国科学院院士、天问三号任务首席科学家侯增谦9月28日透露，新一代全火星地质图将提出火星地质年代划分的中国方案，推动我国自主制定的火星年代划分标准成为全球共识。 侯增谦在中国地质科学院地质研究所高质量发展座谈会上说，该图计划2028年底完成，祝融号探测器发现火星35亿年前存在洲际级古海洋、16亿年前可能存在短时洪水…",
+     "english": false
+    }
+   ]
+  },
+  {
    "id": "chinadaily",
    "label": "China Daily",
    "items": [
@@ -175,9 +373,199 @@
    ]
   },
   {
+   "id": "thepaper",
+   "label": "澎湃新闻",
+   "items": [
+    {
+     "title": "长沙一包子铺员工灶台剪脚指甲，老板：全店连夜消杀，将劝退该员工",
+     "link": "https://m.thepaper.cn/detail/34177762",
+     "time": "Wed, 30 Sep 2026 03:35:35 GMT",
+     "source": "澎湃新闻",
+     "summary": "湖南长沙，一家包子铺一名员工在灶台上剪脚指甲。9月30日，澎湃新闻从店方获悉，事件发生后进行全店大扫除和彻底消杀，老板恳求大家给他们一次重新做好的机会，“这个员工我们会劝退”。",
+     "english": false
+    },
+    {
+     "title": "预防阿尔茨海默病，试试MODERN饮食法",
+     "link": "https://m.thepaper.cn/detail/34177915",
+     "time": "Wed, 30 Sep 2026 03:31:10 GMT",
+     "source": "澎湃新闻",
+     "summary": "绿叶菜、柑橘类水果、禽肉蛋类，搭配橄榄油，少喝含糖饮料——这就是MODERN饮食法。研究显示，坚持这种吃法，能预防阿尔茨海默病。同时还能护心护脑，一举多得。",
+     "english": false
+    },
+    {
+     "title": "绝经后补充雌激素，能躲开阿尔茨海默病？",
+     "link": "https://m.thepaper.cn/detail/34177913",
+     "time": "Wed, 30 Sep 2026 03:30:01 GMT",
+     "source": "澎湃新闻",
+     "summary": "市面上有不少宣传，宣称绝经后补充雌激素，能预防阿尔茨海默病？雌激素对女性有一定保护作用，但国际研究显示，补充雌激素并不能降低阿尔茨海默病的发病风险，不推荐绝经后女性通过补充雌激素来预防阿尔茨海默病。",
+     "english": false
+    },
+    {
+     "title": "美民调显示57%美国人支持与中国友好合作，国台办回应",
+     "link": "https://m.thepaper.cn/detail/34177874",
+     "time": "Wed, 30 Sep 2026 03:29:13 GMT",
+     "source": "澎湃新闻",
+     "summary": "2026年9月30日上午，国台办在新闻发布厅举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。 会上有记者提问：美国智库芝加哥全球事务委员会近日发布民调显示，57%美国人支持与中国友好合作，在两岸发生冲突后支持美军“保护”台湾的比例（38%）较5年前下降14%。有岛内舆论认为，台湾应“看懂风向”，设法“留在…",
+     "english": false
+    },
+    {
+     "title": "老年人记性变差！到底是老了还是阿尔茨海默病",
+     "link": "https://m.thepaper.cn/detail/34177908",
+     "time": "Wed, 30 Sep 2026 03:28:47 GMT",
+     "source": "澎湃新闻",
+     "summary": "到底是年龄大了，记忆力正常下降？还是阿尔茨海默病导致的认知问题？可以从以下几个方面进行判断。",
+     "english": false
+    },
+    {
+     "title": "国台办：期待未来两岸同胞在职业技能领域同心同行、交流互鉴",
+     "link": "https://m.thepaper.cn/detail/34177882",
+     "time": "Wed, 30 Sep 2026 03:27:27 GMT",
+     "source": "澎湃新闻",
+     "summary": "2026年9月30日，国台办举行例行新闻发布会。发言人张晗介绍说，第四十八届世界技能大赛在上海举办，来自68个国家和地区的1300多名选手参赛。在这场技能领域的重大赛事中，两岸同胞切磋技艺，增进友谊，以“工匠精神”诠释大赛主题。我们期待未来两岸同胞在职业技能领域同心同行、交流互鉴，不断增进同胞情谊，共同实现人生理想。",
+     "english": false
+    },
+    {
+     "title": "睡觉还能防痴呆？阿尔茨海默病这样预防",
+     "link": "https://m.thepaper.cn/detail/34177901",
+     "time": "Wed, 30 Sep 2026 03:27:26 GMT",
+     "source": "澎湃新闻",
+     "summary": "别再熬夜刷剧、打游戏啦！晚上10点入睡，保证7个小时睡眠时间，阿尔茨海默病的发病率显著下降。还有哪些方式可以预防阿尔茨海默病？",
+     "english": false
+    },
+    {
+     "title": "“我们仨”的故事还有续篇，《我们的钱瑗》出了增补本",
+     "link": "https://m.thepaper.cn/detail/34177765",
+     "time": "Wed, 30 Sep 2026 03:27:05 GMT",
+     "source": "澎湃新闻",
+     "summary": "1997年早春，北京师范大学英语系教授、钱锺书和杨绛的独生女儿钱瑗去世，年仅59岁；次年冬，钱锺书先生去世；2016年5月，杨绛先生以105岁高龄离世，“我们仨在天上重聚了”。这个充溢着亲情与才情的知识分子家庭，曾给予广大读者许多温暖与感动。 《我们的钱瑗（增补本）》 作者：杨绛 等著 生活·读书·新知三联书店 202…",
+     "english": false
+    },
+    {
+     "title": "安徽一男子跨省扔弃4名被强迫劳动的智障人员并作伪证，被判缓刑",
+     "link": "https://m.thepaper.cn/detail/34177579",
+     "time": "Wed, 30 Sep 2026 03:27:01 GMT",
+     "source": "澎湃新闻",
+     "summary": "安徽涡阳法院近日审结一起伪证罪案件，男子徐某明知多名智障人员被藏匿，在公安机关调查时故意隐瞒关键事实、提供虚假证言，并驾车将四名智障人员从安徽省太和县扔弃在河南省驻马店市新蔡县辖区内。徐某因伪证罪被判处有期徒刑十个月，缓刑一年。 安徽省涡阳县人民检察院指控：2025年1月至2月期间，某甲（已提起公诉）通过欺骗、引诱智障…",
+     "english": false
+    },
+    {
+     "title": "中医哲学自主学科体系：传统与现代的对话——上海中医药大学举办学术研讨会",
+     "link": "https://m.thepaper.cn/detail/34173191",
+     "time": "Wed, 30 Sep 2026 03:26:43 GMT",
+     "source": "澎湃新闻",
+     "summary": "近日，中国哲学史学会中医哲学专业委员会2026年学术研讨会在上海中医药大学张江校区召开。会议以“中医哲学自主学科体系：传统与现代的对话”为主题，聚焦中医哲学自主知识体系构建，由中医哲学专业委员会与上海中医药大学科技人文研究院联合主办，国家中医药管理局各家学说重点学科、上海中医药大学中医思辨教学学术共同体承办，华东师范大…",
+     "english": false
+    },
+    {
+     "title": "烈士纪念日向人民英雄敬献花篮仪式在京隆重举行，习近平等党和国家领导人出席",
+     "link": "https://m.thepaper.cn/detail/34177889",
+     "time": "Wed, 30 Sep 2026 03:26:36 GMT",
+     "source": "澎湃新闻",
+     "summary": "烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 习近平李强赵乐际王沪宁蔡奇丁薛祥李希韩正出席 致敬英烈荣光，凝聚复兴伟力。烈士纪念日向人民英雄敬献花篮仪式30日上午在北京天安门广场隆重举行。党和国家领导人习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等，同各界代表一起出席仪式。 庄严的天安门广场上，鲜艳的五星红旗…",
+     "english": false
+    },
+    {
+     "title": "广州现房销售政策出炉：购房定金不得高于房屋总价5%",
+     "link": "https://m.thepaper.cn/detail/34177691",
+     "time": "Wed, 30 Sep 2026 03:17:49 GMT",
+     "source": "澎湃新闻",
+     "summary": "9月30日，广州市住房和城乡建设局、广州市规划和自然资源局、国家金融监督管理总局广东监管局发布关于贯彻落实《关于完善商品住房销售制度的通知》的实施意见。具体内容如下： 各有关单位： 为贯彻落实《住房城乡建设部 自然资源部 金融监管总局关于完善商品住房销售制度的通知》（建房规〔2026〕3号），加快构建房地产发展新模式，…",
+     "english": false
+    },
+    {
+     "title": "美国政府官员要求台湾当局减少访问华盛顿，国台办回应",
+     "link": "https://m.thepaper.cn/detail/34177820",
+     "time": "Wed, 30 Sep 2026 03:16:54 GMT",
+     "source": "澎湃新闻",
+     "summary": "2026年9月30日上午，国台办在新闻发布厅举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。 会上有记者提问：据美媒报道，美国政府官员要求台湾官员减少访问华盛顿，不希望台湾成为推进美中关系的“绊脚石”。请问对此有何评论？ 国台办发言人张晗表示，民进党当局顽固坚持“台独”分裂立场，妄图在国际社会挑战一个中国…",
+     "english": false
+    },
+    {
+     "title": "2岁男童汞中毒家长怀疑系食用银鳕鱼导致，生产商称正对接处理",
+     "link": "https://m.thepaper.cn/detail/34174035",
+     "time": "Wed, 30 Sep 2026 03:14:32 GMT",
+     "source": "澎湃新闻",
+     "summary": "近日，有家长在网上发帖反映称，孩子长期食用盒马售卖的“儿童装”银鳕鱼，八个月后确诊汞中毒。该款产品生产商青岛美厨食品公司回应澎湃新闻，正核实相关产品，并派专员对接。盒马平台客服回应会将问题反馈至相关部门。",
+     "english": false
+    },
+    {
+     "title": "G40长江隧道今起迎来通行高峰，10月1日和6日为车流量峰值日",
+     "link": "https://m.thepaper.cn/detail/34177760",
+     "time": "Wed, 30 Sep 2026 03:13:29 GMT",
+     "source": "澎湃新闻",
+     "summary": "2026年国庆假期将至，今天（9月30日）10时起，G40长江隧道迎来通行高峰。 据“上海发布”微信公众号消息，上海市公安局浦东分局介绍，G40长江隧道今天10时起率先迎来通行高峰，10月1日和10月6日为车流量峰值日。上海市交通委指挥中心介绍，国庆期间，上海高速公路日均流量达168万-173万辆次，请错峰规划出行。预…",
+     "english": false
+    },
+    {
+     "title": "烈士遗骸上的弹孔，让考古专家感慨“铮铮铁骨是真实写照”",
+     "link": "https://m.thepaper.cn/detail/34160597",
+     "time": "Wed, 30 Sep 2026 03:12:17 GMT",
+     "source": "澎湃新闻",
+     "summary": "复旦大学文少卿团队在山西吕梁方山县南村发掘烈士遗骸，遗骸上弹孔全部正面射入，新伤叠老伤，骨骼残留大量弹片。他坦言，“铮铮铁骨”不是形容词，是真实写照。",
+     "english": false
+    },
+    {
+     "title": "特朗普与科技巨头签署白宫AI自律协议，马斯克、黄仁勋、阿莫迪均出席",
+     "link": "https://m.thepaper.cn/detail/34177585",
+     "time": "Wed, 30 Sep 2026 02:37:29 GMT",
+     "source": "澎湃新闻",
+     "summary": "当地时间2026年9月29日，美国华盛顿，美国总统特朗普在白宫会见人工智能行业顶级企业高管后对媒体发表讲话。视觉中国 图 当地时间9月29日，美国总统特朗普在白宫召集全球科技巨头，签署白宫AI自律协议。根据这份自愿协议，科技巨头将采用包括风险评估、审计和第三方系统评估在内的安全政策。科技巨头还承诺将人工智能重新命名为特…",
+     "english": false
+    },
+    {
+     "title": "习近平等党和国家领导人向人民英雄敬献花篮",
+     "link": "https://m.thepaper.cn/detail/34177562",
+     "time": "Wed, 30 Sep 2026 02:14:11 GMT",
+     "source": "澎湃新闻",
+     "summary": "今年是中国共产党成立105周年、红军长征胜利90周年。烈士纪念日向人民英雄敬献花篮仪式今天上午在天安门广场隆重举行，习近平等党和国家领导人向人民英雄敬献花篮。",
+     "english": false
+    },
+    {
+     "title": "检察机关依法对易会满涉嫌受贿案提起公诉",
+     "link": "https://m.thepaper.cn/detail/34177474",
+     "time": "Wed, 30 Sep 2026 02:01:34 GMT",
+     "source": "澎湃新闻",
+     "summary": "记者9月30日从最高人民检察院获悉，十四届全国政协经济委员会原副主任易会满涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。最高人民检察院依法以涉嫌受贿罪对易会满作出逮捕决定，并指定由山东省青岛市人民检察院审查起诉。近日，青岛市人民检察院已向青岛市中级人民法院提起公诉。 检察机关在审查起诉阶段，依法告知了被…",
+     "english": false
+    },
+    {
+     "title": "专访｜施梓云：没想到《济公啊，济公》成了我献给游本昌的最后礼物！",
+     "link": "https://m.thepaper.cn/detail/34172628",
+     "time": "Wed, 30 Sep 2026 01:47:43 GMT",
+     "source": "澎湃新闻",
+     "summary": "2026年9月30日，著名表演艺术家游本昌的遗体告别仪式在八宝山殡仪馆举行。此前不久，游本昌先生倾情推荐的三卷本《济公啊，济公》由译林出版社出版。这套面向青少年读者的图文书，由电视剧《济公游记》总编剧施梓云执笔，用三册的内容重述了济公传说，配以国漫风的插画，让人一下子回到了济公“济世为公、匡扶正义”的传奇故事中。 从1…",
+     "english": false
+    },
+    {
+     "title": "AI眼镜遭遇“散热”拷问：头部品牌被曝长时间使用存在过热烫伤风险，海外已启动召回",
+     "link": "https://m.thepaper.cn/detail/34171511",
+     "time": "Wed, 30 Sep 2026 00:00:03 GMT",
+     "source": "澎湃新闻",
+     "summary": "还是新鲜事物的AI眼镜，安全问题遭遇拷问——长时间使用可能出现过热甚至烫伤风险。 9月24日，美国消费品安全委员会（CPSC）和加拿大卫生部门发布召回信息，智能眼镜品牌影目科技（INMO）AIR 3智能眼镜因长时间使用时左侧镜腿可能出现过热，被要求停止使用。 据CPSC报告显示，INMO已经收到10起AIR 3过热报告…",
+     "english": false
+    }
+   ]
+  },
+  {
    "id": "kr36",
    "label": "36氪",
    "items": [
+    {
+     "title": "A股三大指数午间休盘涨跌不一，康希诺涨停",
+     "link": "https://www.36kr.com/newsflashes/4005348808216457",
+     "time": "Wed, 30 Sep 2026 03:31:30 GMT",
+     "source": "36氪",
+     "summary": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指涨0.27%，深成指跌0.06%，创业板指跌0.17%；半导体、电子元器件、电脑硬件板块跌幅居前，芯原股份跌超10%，广合科技跌超7%，江波龙跌超2%；生物科技、制药、汽车板块领涨，康希诺涨停，键凯科技涨超11%，江淮汽车涨超6%。",
+     "english": false
+    },
+    {
+     "title": "机构：二季度全球公共显示屏及标牌电视出货量超过173万台",
+     "link": "https://www.36kr.com/newsflashes/4005332221169795",
+     "time": "Wed, 30 Sep 2026 03:24:25 GMT",
+     "source": "36氪",
+     "summary": "Omdia最新《公共显示市场追踪》研究显示，2026年第二季度全球公共显示屏及标牌电视出货量超过173万台，高于上一季度的161万台。其中，IFP/触控显示屏引领市场增长，出货量环比增长13.7%，同比增长0.7%。",
+     "english": false
+    },
     {
      "title": "昆仑万维在北京成立天工智枢科技公司，注册资本1000万元",
      "link": "https://www.36kr.com/newsflashes/4005322110521475",
@@ -321,22 +709,6 @@
      "source": "36氪",
      "summary": "36氪获悉，中国汽车流通协会发布的最新一期“汽车经销商库存预警指数调查”VIA显示，2026年9月汽车经销商库存预警指数为63.2%，同比上升8.7个百分点，环比上升0.9个百分点，库存预警指数位于荣枯线之上。调查数据显示，54.2%的经销商认为今年“金九银十”旺季效应明显弱于往年，33.7%认为旺季效应基本消失，仅3…",
      "english": false
-    },
-    {
-     "title": "迪士尼据悉在人力资源和技术部门裁员数百人",
-     "link": "https://www.36kr.com/newsflashes/4005255055020164",
-     "time": "Wed, 30 Sep 2026 02:05:06 GMT",
-     "source": "36氪",
-     "summary": "据知情人士透露，迪士尼公司正在其人力资源和技术部门裁减数百名员工。自乔什·达马罗（Josh D‘Amaro）于3月出任首席执行官以来，迪士尼已发生多项高层人事变动，其中包括任命在公司任职25年的资深员工保罗·罗德（Paul Roeder）担任首席传播官。达马罗执掌这家娱乐业巨头之际，正值行业经历由人工智能、票房（新浪财…",
-     "english": false
-    },
-    {
-     "title": "欧盟方面拟开发经贸领域新工具，中国机电商会回应",
-     "link": "https://www.36kr.com/newsflashes/4005260659756932",
-     "time": "Wed, 30 Sep 2026 02:01:50 GMT",
-     "source": "36氪",
-     "summary": "36氪获悉，近日有媒体报道，法国和德国正在拟定联合文件，呼吁欧委会强化相关贸易和经济安全工具。中国机电产品进出口商会作为中国机电外贸行业的全国性行业组织，代表广大会员企业，对此表示高度关注。近期欧盟及成员国有关方面在立法、行政多个层面的限制性举措频出，贸易保护主义倾向明显，令中国相关产业界深感担忧。贸易和投资领域的限制…",
-     "english": false
     }
    ]
   },
@@ -344,6 +716,142 @@
    "id": "global",
    "label": "全球外网",
    "items": [
+    {
+     "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+     "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+     "time": "Tue, 29 Sep 2026 16:23:58 GMT",
+     "source": "BBC World",
+     "summary": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
+     "english": true
+    },
+    {
+     "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+     "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+     "time": "Wed, 30 Sep 2026 03:23:17 GMT",
+     "source": "BBC World",
+     "summary": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence.",
+     "english": true
+    },
+    {
+     "title": "Chinese AI tool told researchers how to make bioweapons",
+     "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+     "time": "Tue, 29 Sep 2026 23:15:29 GMT",
+     "source": "BBC World",
+     "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+     "english": true
+    },
+    {
+     "title": "South Africa to clean up high-risk areas after 12 women killed",
+     "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
+     "time": "Tue, 29 Sep 2026 22:33:39 GMT",
+     "source": "BBC World",
+     "summary": "The deaths sparked a national outcry about the scale of violence against women in the country.",
+     "english": true
+    },
+    {
+     "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
+     "link": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
+     "time": "Mon, 28 Sep 2026 15:54:25 GMT",
+     "source": "卫报国际",
+     "summary": "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party says A senior member of the Democratic Republic …",
+     "english": true
+    },
+    {
+     "title": "At least 27 dead after two mass shootings in South Africa, police say",
+     "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+     "time": "Sun, 27 Sep 2026 13:46:49 GMT",
+     "source": "卫报国际",
+     "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two sep…",
+     "english": true
+    },
+    {
+     "title": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
+     "link": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
+     "time": "Sun, 27 Sep 2026 11:00:03 GMT",
+     "source": "卫报国际",
+     "summary": "Two troops of chacma baboons are breaking into homes and shops but animal rights activists insist coexistence is the answer Cape Town’s city council has said it…",
+     "english": true
+    },
+    {
+     "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+     "link": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+     "time": "Thu, 24 Sep 2026 15:29:42 GMT",
+     "source": "卫报国际",
+     "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethi…",
+     "english": true
+    },
+    {
+     "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+     "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+     "time": "Tue, 29 Sep 2026 23:47:10 GMT",
+     "source": "BBC 科技",
+     "summary": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
+     "english": true
+    },
+    {
+     "title": "Anthropic ‘warns of existential AI risks to humanity’ in IPO document",
+     "link": "https://www.theguardian.com/technology/2026/sep/29/anthropic-warns-existential-ai-risks-humanity-ipo-document-claude",
+     "time": "Tue, 29 Sep 2026 10:17:58 GMT",
+     "source": "卫报科技",
+     "summary": "Reported admission to investors of AI’s ‘self-preserving behaviours’ comes as company prepares for a potential $2tn flotation Anthropic is telling investors tha…",
+     "english": true
+    },
+    {
+     "title": "Mac mini M6 review: truly mighty but now more pricey",
+     "link": "https://www.theguardian.com/technology/2026/sep/29/mac-mini-m6-review",
+     "time": "Tue, 29 Sep 2026 06:00:55 GMT",
+     "source": "卫报科技",
+     "summary": "Apple’s cheapest desktop computer is no longer a bargain but its newest, fastest chip makes it a pocket powerhouse Apple’s latest Mac mini brings real speed and…",
+     "english": true
+    },
+    {
+     "title": "Trial of live facial recognition in London stations leads to a false positive and no arrests",
+     "link": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+     "time": "Tue, 29 Sep 2026 09:48:29 GMT",
+     "source": "卫报科技",
+     "summary": "Freedom of information request finds six-month trial cost £320,000, used almost 100 police hours and led to just one – incorrect – alert A six-month trial of li…",
+     "english": true
+    },
+    {
+     "title": "Household energy bills forecast to see biggest rise in four years",
+     "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+     "time": "Tue, 29 Sep 2026 23:03:13 GMT",
+     "source": "BBC 商业",
+     "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+     "english": true
+    },
+    {
+     "title": "Faisal Islam: Triple lock move is significant, but it's a gamble",
+     "link": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss",
+     "time": "Tue, 29 Sep 2026 16:43:39 GMT",
+     "source": "BBC 商业",
+     "summary": "I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that.",
+     "english": true
+    },
+    {
+     "title": "Burnham gambles on radical progressive plan to help Britain ‘rise again’",
+     "link": "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-vows-long-term-relationship-eu-labour-conference-speech",
+     "time": "Tue, 29 Sep 2026 18:21:29 GMT",
+     "source": "卫报商业",
+     "summary": "PM accepts some of his plan could be difficult and admits he ‘may pay a political price’ Analysis: PM’s promises will take time to come good Key takeaways from …",
+     "english": true
+    },
+    {
+     "title": "Give BrewDog ‘second chance’ says new owner as it invests £50m",
+     "link": "https://www.theguardian.com/business/2026/sep/29/give-brewdog-second-chance-says-new-owner-invests",
+     "time": "Tue, 29 Sep 2026 18:35:27 GMT",
+     "source": "卫报商业",
+     "summary": "US cannabis and drinks firm Tilray, which took over in March, says it will improve beers, pubs and working conditions BrewDog’s new owner has urged drinkers to …",
+     "english": true
+    },
+    {
+     "title": "Will pensioners be poorer as a result of Burnham scrapping the triple lock?",
+     "link": "https://www.theguardian.com/money/2026/sep/29/will-pensioners-be-poorer-burnham-scrapping-triple-lock",
+     "time": "Tue, 29 Sep 2026 17:47:20 GMT",
+     "source": "卫报商业",
+     "summary": "Original triple lock was designed to lift pensioners out of poverty but OBR says it contributes to unsustainability of public finances The prime minister has an…",
+     "english": true
+    },
     {
      "title": "The federal law aimed at protecting college students from sexual abuse",
      "link": "https://www.npr.org/2026/09/29/nx-s1-5983779/investigating-sexual-abuse-on-campus",
@@ -367,9 +875,33 @@
      "source": "NPR 头条",
      "summary": "Lindsay Clancy&apos;s lawyer is arguing that there wasn&apos;t enough evidence to prove she killed her three children. It&apos;s a striking turn after a lengthy…",
      "english": true
+    },
+    {
+     "title": "Trump backs AI self-regulation at tech summit but is it enough?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-backs-ai-self-regulation-at-tech-summit-but-is-it-enough?traffic_source=rss",
+     "time": "Wed, 30 Sep 2026 03:00:59 +0000",
+     "source": "半岛电视台",
+     "summary": "US President Donald Trump and leading tech companies have signed a voluntary agreement to regulate AI development.",
+     "english": true
+    },
+    {
+     "title": "Somali pirates killed five crew members on hijacked tanker, officials say",
+     "link": "https://www.aljazeera.com/news/2026/9/30/somali-pirates-killed-five-crew-members-on-hijacked-tanker-officials-say?traffic_source=rss",
+     "time": "Wed, 30 Sep 2026 02:39:06 +0000",
+     "source": "半岛电视台",
+     "summary": "The deaths appear to be the first at the hands of Somali pirates in more than a decade.",
+     "english": true
+    },
+    {
+     "title": "US Senate blocks resolution seeking report on Americans killed in West Bank",
+     "link": "https://www.aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank?traffic_source=rss",
+     "time": "Wed, 30 Sep 2026 02:26:20 +0000",
+     "source": "半岛电视台",
+     "summary": "The resolution cites a &#039;lack of accountability&#039; by Israel&#039;s government and an &#039;inability to secure justice&#039; by the US.",
+     "english": true
     }
    ]
   }
  ],
- "lastUpdated": "2026-09-30T03:19:49.151647+00:00"
+ "lastUpdated": "2026-09-30T03:38:37.865806+00:00"
 }

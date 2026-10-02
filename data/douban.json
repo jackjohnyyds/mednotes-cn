@@ -1,69 +1,133 @@
 {
  "items": [
   {
-   "name": "远山回忆",
-   "type": "书籍",
-   "rating": "9",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38549105/",
-   "source": "https://book.douban.com/subject/38549105/"
+   "name": "罗斯",
+   "type": "电影",
+   "rating": "8.5",
+   "comment": "十七世纪早期，三十年战争结束后，一个女人伪装成一名叫“罗斯”的士兵出现在一个偏僻的新教村庄，声称自己是一座荒废庄园的继承…",
+   "doubanLink": "https://movie.douban.com/subject/35322132/",
+   "source": "https://movie.douban.com/subject/35322132/"
   },
   {
-   "name": "不讨喜的女性",
+   "name": "电动维纳斯",
+   "type": "电影",
+   "rating": "7.4",
+   "comment": "1928年的巴黎，一位画家自妻子去世后便无法继续创作，却在不知情的情况下参与了一名马戏团工作人员策划的虚假通灵表演。</…",
+   "doubanLink": "https://movie.douban.com/subject/37193887/",
+   "source": "https://movie.douban.com/subject/37193887/"
+  },
+  {
+   "name": "求救信号",
+   "type": "电影",
+   "rating": "7.2",
+   "comment": "冷战时期，一名美国海军飞行员在执行最高机密任务时受困于敌营。他唯一的生存机会是和一名古怪的前苏联国安会干员联手脱逃。</…",
+   "doubanLink": "https://movie.douban.com/subject/36439868/",
+   "source": "https://movie.douban.com/subject/36439868/"
+  },
+  {
+   "name": "瘴气营地的青春性事与死亡",
+   "type": "电影",
+   "rating": "6.8",
+   "comment": "一位正在拍摄恐怖片续集的导演对选角原版电影中的“最终幸存女孩”产生了执念，导致这两位女性都陷入了心理和性方面的混乱。</…",
+   "doubanLink": "https://movie.douban.com/subject/36801617/",
+   "source": "https://movie.douban.com/subject/36801617/"
+  },
+  {
+   "name": "童年记忆",
+   "type": "电影",
+   "rating": "7.4",
+   "comment": "如何才能打破这种塑造儿童并代代相传的暴力循环？</p><p><img src=\"https://img3.doubani…",
+   "doubanLink": "https://movie.douban.com/subject/35496965/",
+   "source": "https://movie.douban.com/subject/35496965/"
+  },
+  {
+   "name": "欧盟制造",
+   "type": "电影",
+   "rating": "7.3",
+   "comment": "保加利亚农村的一名女工成为她所在小镇的首例新冠确诊病例，各种指责声如潮水般涌来。</p><p><img src=\"htt…",
+   "doubanLink": "https://movie.douban.com/subject/36956292/",
+   "source": "https://movie.douban.com/subject/36956292/"
+  },
+  {
+   "name": "海上心狱",
+   "type": "电影",
+   "rating": "7.0",
+   "comment": "一部对男性气概与欲望的深刻而感人的探索，故事发生在一个偏远却野性之美的渔村。</p><p><img src=\"https…",
+   "doubanLink": "https://movie.douban.com/subject/37193508/",
+   "source": "https://movie.douban.com/subject/37193508/"
+  },
+  {
+   "name": "别为往事懊恼",
+   "type": "电影",
+   "rating": "7.4",
+   "comment": "聚焦Oasis Live '25全球巡演的现场表演和幕后故事，包括2026年Noel和Liam25年来首次共同采访。</…",
+   "doubanLink": "https://movie.douban.com/subject/37295475/",
+   "source": "https://movie.douban.com/subject/37295475/"
+  },
+  {
+   "name": "深渊大饭店",
    "type": "书籍",
-   "rating": "7.5",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38521461/",
-   "source": "https://book.douban.com/subject/38521461/"
+   "rating": "8.6",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38552885/",
+   "source": "https://book.douban.com/subject/38552885/"
   },
   {
    "name": "艺术与对象",
    "type": "书籍",
-   "rating": "8.4",
+   "rating": "8.3",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38449856/",
    "source": "https://book.douban.com/subject/38449856/"
   },
   {
-   "name": "加沙之眼",
+   "name": "了不起的概率思维",
+   "type": "书籍",
+   "rating": "8.8",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38560388/",
+   "source": "https://book.douban.com/subject/38560388/"
+  },
+  {
+   "name": "我曾这样寂寞生活",
+   "type": "书籍",
+   "rating": "8.9",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38420884/",
+   "source": "https://book.douban.com/subject/38420884/"
+  },
+  {
+   "name": "南方",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38179930/",
-   "source": "https://book.douban.com/subject/38179930/"
+   "doubanLink": "https://book.douban.com/subject/38541647/",
+   "source": "https://book.douban.com/subject/38541647/"
   },
   {
-   "name": "我，不完美博主",
+   "name": "留白",
    "type": "书籍",
-   "rating": "8.3",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38594942/",
-   "source": "https://book.douban.com/subject/38594942/"
+   "rating": "8",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38612957/",
+   "source": "https://book.douban.com/subject/38612957/"
   },
   {
-   "name": "最好的时光",
+   "name": "山月记",
    "type": "书籍",
    "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38427482/",
-   "source": "https://book.douban.com/subject/38427482/"
-  },
-  {
-   "name": "万物源起",
-   "type": "书籍",
-   "rating": "8.3",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38219552/",
-   "source": "https://book.douban.com/subject/38219552/"
+   "doubanLink": "https://book.douban.com/subject/38642056/",
+   "source": "https://book.douban.com/subject/38642056/"
   },
   {
-   "name": "张爱玲的衣橱",
+   "name": "历史与自由意识",
    "type": "书籍",
-   "rating": "9.8",
+   "rating": "9.4",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38437177/",
-   "source": "https://book.douban.com/subject/38437177/"
+   "doubanLink": "https://book.douban.com/subject/37647061/",
+   "source": "https://book.douban.com/subject/37647061/"
   }
  ],
- "lastUpdated": "2026-10-01T09:36:53.709398+00:00"
+ "lastUpdated": "2026-10-02T03:20:54.330575+00:00"
 }

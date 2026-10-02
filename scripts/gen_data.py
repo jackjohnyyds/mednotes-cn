@@ -45,8 +45,8 @@ def clean_text(v):
 def parse_rss(xml_text, source_name, limit, english=False, kw=None):
     """解析 RSS 2.0 (<item>) 与 Atom (<entry>) 混合"""
     items = []
-    # RSS 2.0
-    for m in re.finditer(r'<item>([\s\S]*?)</item>', xml_text):
+    # RSS 2.0 / RDF(RSS 1.0，item 可带 rdf:about 等属性)
+    for m in re.finditer(r'<item(?:\s[^>]*)?>([\s\S]*?)</item>', xml_text):
         block = m.group(1)
         def tag(n):
             mm = re.search(r'<%s[^>]*>([\s\S]*?)</%s>' % (n, n), block, re.I)
@@ -66,7 +66,7 @@ def parse_rss(xml_text, source_name, limit, english=False, kw=None):
             break
     if not items:
         # Atom <entry>
-        for m in re.finditer(r'<entry>([\s\S]*?)</entry>', xml_text):
+        for m in re.finditer(r'<entry(?:\s[^>]*)?>([\s\S]*?)</entry>', xml_text):
             block = m.group(1)
             def atag(n):
                 mm = re.search(r'<%s[^>]*>([\s\S]*?)</%s>' % (n, n), block, re.I)
@@ -259,8 +259,42 @@ def gen_mednews():
             continue
         seen.add(lk)
         out.append(it)
-    return {'items': out[:40], 'progress': {'disease': [], 'drug': []},
+    return {'items': out[:40], 'progress': gen_progress(),
             'lastUpdated': datetime.datetime.now(datetime.timezone.utc).isoformat()}
+
+# ---------------- 临床医讯进展栏目（疾病治疗 / 药物进展）：顶级医学期刊 RDF/RSS 按关键词分类 ----------------
+# Lancet / Nature 为 RDF(RSS 1.0) 格式，parse_rss 已适配（item 带 rdf:about 属性）；
+# 英文标题由客户端自动翻译为中文。
+PROGRESS_FEEDS = [
+    {'name': 'The Lancet', 'url': 'https://www.thelancet.com/rssfeed/lancet_current.xml', 'limit': 20},
+    {'name': 'Nature', 'url': 'https://www.nature.com/nature.rss', 'limit': 20},
+    {'name': 'Nature Medicine', 'url': 'https://www.nature.com/nm.rss', 'limit': 15},
+    {'name': 'BMJ', 'url': 'https://www.bmj.com/rss.xml', 'limit': 15},
+    {'name': 'Science', 'url': 'https://www.science.org/rss/news_current.xml', 'limit': 15},
+    {'name': 'WHO', 'url': 'https://www.who.int/rss-feeds/news-english.xml', 'limit': 15},
+]
+DISEASE_KW = ['cancer', 'tumour', 'tumor', 'melanoma', 'heart', 'cardiac', 'diabet', 'infect', 'virus',
+              'stroke', 'kidney', 'liver', 'covid', 'alzheimer', 'parkinson', 'hiv', 'ebola', 'malaria',
+              'disease', 'patient', 'surgery', 'therapy', 'therapeutic', 'treatment']
+DRUG_KW = ['drug', 'medication', 'pharmaceutical', 'approval', 'fda', 'ema', 'antibiotic', 'vaccine',
+           'immunotherapy', 'chemotherapy', 'inhibitor', 'agonist', 'glp-1', 'oncolytic', 'adenovirus',
+           'neoadjuvant', 'biologic', 'mab', 'tablet', 'injection', 'dose', 'side effect', 'molecule',
+           'compound', 'pipeline', 'trial', 'semaglutide', 'medicine']
+
+def gen_progress():
+    disease, drug = [], []
+    for f in PROGRESS_FEEDS:
+        try:
+            for it in fetch_rss(f['url'], f['name'], f['limit'], english=True) or []:
+                title = (it.get('title') or '').lower()
+                # 药物类特征词优先（新药/获批/临床试验/制剂）；其次疾病治疗进展
+                if any(k in title for k in DRUG_KW):
+                    drug.append(it)
+                elif any(k in title for k in DISEASE_KW):
+                    disease.append(it)
+        except Exception as e:
+            print('[warn] 进展源 %s 抓取失败: %s' % (f['name'], e), flush=True)
+    return {'disease': dedup(disease)[:15], 'drug': dedup(drug)[:15]}
 
 # ---------------- briefing ----------------
 CCTV_FEEDS = [('/cctv/china', 9), ('/cctv/world', 8), ('/cctv/tech', 8)]

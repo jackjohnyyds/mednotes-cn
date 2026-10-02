@@ -2,8 +2,8 @@
  * mednews.js — 临床医讯（国内+国际+互联网媒体，英文自动翻译）
  * 数据链路：Netlify data-api（首选）→ 静态 JSON → RSS 代理
  */
-import { $, $$, esc, toast, fetchWithFallback, fetchApiData, fetchViaProxy, fetchHtmlViaProxy, stripHtmlTags, relTime, debounce, isEnglish, translateText } from '../utils.js?v=20260930a';
-import { historyAdd } from '../storage.js?v=20260930a';
+import { $, $$, esc, toast, fetchWithFallback, fetchApiData, fetchViaProxy, fetchHtmlViaProxy, stripHtmlTags, relTime, debounce, isEnglish, translateText } from '../utils.js?v=20261002a';
+import { historyAdd } from '../storage.js?v=20261002a';
 
 /**
  * 新闻源配置：全部为原文直链（不使用 Google News 重定向）
@@ -223,6 +223,11 @@ async function loadLocalNews() {
           }
         }
       }
+      // 后台翻译两个进展栏目的英文标题（Lancet/Nature 等），完成后重渲染当前栏目
+      Promise.all(['disease', 'drug']
+        .filter((c) => progressLoaded[c])
+        .map((c) => autoTranslateNews(progressCache[c])))
+        .then(() => { if (activeCat !== 'main') renderNews(); });
       // 对英文条目自动翻译
       autoTranslateNews(newsCache).then(() => { if (activeCat === 'main') { renderNews(); renderSources(); } });
       return true;

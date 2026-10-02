@@ -669,27 +669,195 @@
    "label": "全球外网",
    "items": [
     {
-     "title": "The family of Renee Good files lawsuits over her death during Minneapolis ICE raids",
-     "link": "https://www.npr.org/2026/10/01/nx-s1-5986224/renee-good-ice-lawsuit-minneapolis",
-     "time": "Thu, 01 Oct 2026 16:15:07 -0400",
-     "source": "NPR 头条",
-     "summary": "The fatal shooting of Renee Good by a federal immigration agent last January in Minneapolis set off a firestorm of protests around the U.S. Her family is speaki…",
+     "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+     "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+     "time": "Fri, 02 Oct 2026 09:08:06 GMT",
+     "source": "BBC World",
+     "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
      "english": true
     },
     {
-     "title": "&apos;It&apos;s a nightmare.&apos; Former refugee, professor on Trump&apos;s new Medicaid policy",
-     "link": "https://www.npr.org/2026/10/01/nx-s1-5987948/trump-medicaid-health-insurance-disability-refugee",
-     "time": "Thu, 01 Oct 2026 15:49:45 -0400",
-     "source": "NPR 头条",
-     "summary": "Starting Oct. 1, many immigrants who are here legally lose their Medicaid coverage because of the Republican budget bill passed last year.",
+     "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+     "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+     "time": "Fri, 02 Oct 2026 08:54:00 GMT",
+     "source": "BBC World",
+     "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
      "english": true
     },
     {
-     "title": "A new California law bans child marriage. What&apos;s the global outlook on the practice?",
-     "link": "https://www.npr.org/2026/10/01/g-s1-145998/child-marriage-ban-law-california-newsom",
-     "time": "Thu, 01 Oct 2026 15:44:41 -0400",
+     "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+     "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+     "time": "Thu, 01 Oct 2026 22:28:45 GMT",
+     "source": "BBC World",
+     "summary": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+     "english": true
+    },
+    {
+     "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+     "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
+     "time": "Fri, 02 Oct 2026 02:49:44 GMT",
+     "source": "BBC World",
+     "summary": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
+     "english": true
+    },
+    {
+     "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+     "link": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+     "time": "Fri, 02 Oct 2026 08:55:42 GMT",
+     "source": "卫报国际",
+     "summary": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about Pharaohs’ ori…",
+     "english": true
+    },
+    {
+     "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+     "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+     "time": "Wed, 30 Sep 2026 19:51:24 GMT",
+     "source": "卫报国际",
+     "summary": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights With hours left before the funding expires, …",
+     "english": true
+    },
+    {
+     "title": "South African leader urges men to speak up on gender-based violence after series of killings",
+     "link": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
+     "time": "Wed, 30 Sep 2026 14:16:33 GMT",
+     "source": "卫报国际",
+     "summary": "President announces measures amid anger at authorities over recent murders of women South Africa’s president has called on men to take more responsibility for v…",
+     "english": true
+    },
+    {
+     "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
+     "link": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
+     "time": "Wed, 30 Sep 2026 12:47:15 GMT",
+     "source": "卫报国际",
+     "summary": "Burundi joins several other African nations in accepting people deported under Trump’s hardline policy Burundi has agreed to join a clutch of ⁠other African nat…",
+     "english": true
+    },
+    {
+     "title": "OpenAI fires workers for 'mishandling sensitive information'",
+     "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+     "time": "Fri, 02 Oct 2026 08:20:32 GMT",
+     "source": "BBC 科技",
+     "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+     "english": true
+    },
+    {
+     "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+     "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+     "time": "Thu, 01 Oct 2026 23:45:06 GMT",
+     "source": "BBC 科技",
+     "summary": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
+     "english": true
+    },
+    {
+     "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+     "time": "Thu, 01 Oct 2026 11:37:46 GMT",
+     "source": "BBC 科技",
+     "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+     "english": true
+    },
+    {
+     "title": "Recent lobbyist for Palantir had key role in helping Andy Burnham become PM",
+     "link": "https://www.theguardian.com/technology/2026/oct/02/lobbyist-palantir-martha-dalton-andy-burnham",
+     "time": "Fri, 02 Oct 2026 08:47:47 GMT",
+     "source": "卫报科技",
+     "summary": "Exclusive: Martha Dalton worked closely with Burnham’s team on byelection that secured his return to parliament A recent lobbyist for the controversial $450bn U…",
+     "english": true
+    },
+    {
+     "title": "Google rolls out new Gemini AI model but restricts access over safety concerns",
+     "link": "https://www.theguardian.com/technology/2026/oct/01/google-releases-gemini-model-restrictions",
+     "time": "Thu, 01 Oct 2026 16:47:29 GMT",
+     "source": "卫报科技",
+     "summary": "Tech company releases Gemini 4 Argon only to a vetted group of cybersecurity experts to avoid misuse by hackers Google on Wednesday said it would withhold its m…",
+     "english": true
+    },
+    {
+     "title": "SpaceX launches crew to ISS successfully: ‘Thanks for an amazing ride’",
+     "link": "https://www.theguardian.com/us-news/2026/oct/01/spacex-nasa-watkins-launch",
+     "time": "Thu, 01 Oct 2026 16:22:30 GMT",
+     "source": "卫报科技",
+     "summary": "Jessica Watkins, the first Black woman to lead a crew to orbit, is making her second trip to the space station Four astronauts rocketed into orbit on Thursday o…",
+     "english": true
+    },
+    {
+     "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+     "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
+     "time": "Thu, 01 Oct 2026 23:00:06 GMT",
+     "source": "BBC 商业",
+     "summary": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
+     "english": true
+    },
+    {
+     "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+     "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
+     "time": "Thu, 01 Oct 2026 23:32:59 GMT",
+     "source": "BBC 商业",
+     "summary": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
+     "english": true
+    },
+    {
+     "title": "World food prices hit near four-year high as heatwaves and El Niño hit farmers – business live",
+     "link": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
+     "time": "Fri, 02 Oct 2026 08:19:30 GMT",
+     "source": "卫报商业",
+     "summary": "Rolling coverage of the latest economic and financial news Newsflash: World food prices rose in September to their highest in nearly four years as farmers were …",
+     "english": true
+    },
+    {
+     "title": "Britain in talks with European allies over release of emergency diesel stockpiles amid Trump pressure",
+     "link": "https://www.theguardian.com/business/2026/oct/01/britain-talks-european-allies-eu-emergency-diesel-stockpiles-reserves",
+     "time": "Thu, 01 Oct 2026 16:49:01 GMT",
+     "source": "卫报商业",
+     "summary": "Ministers discuss drawing down EU countries’ reserves after Donald Trump threatens to cut off US supplies Britain is in talks with European allies over releasin…",
+     "english": true
+    },
+    {
+     "title": "Staff fears grow that BBC will shut its Three and Scotland channels next week",
+     "link": "https://www.theguardian.com/media/2026/oct/02/bbc-shut-three-scotland-channels-redundancy",
+     "time": "Fri, 02 Oct 2026 05:00:10 GMT",
+     "source": "卫报商业",
+     "summary": "Redundancy process suggests home of Gavin and Stacey and Fleabag could go online-only again in £500m cuts push The BBC has started a redundancy process in its T…",
+     "english": true
+    },
+    {
+     "title": "Who uttered the phrase &apos;the ideological clowns are out&apos; this week? The quiz knows",
+     "link": "https://www.npr.org/2026/10/02/g-s1-145638/trump-hegseth-panda-ai-beyonce-news-quiz",
+     "time": "Fri, 02 Oct 2026 05:01:00 -0400",
      "source": "NPR 头条",
-     "summary": "The governor of California has signed into law a ban on child marriage. What is the status of other efforts to ban the practice? And do bans prove effective?",
+     "summary": "Plus, how well do you know your pandas and fat bears?",
+     "english": true
+    },
+    {
+     "title": "He was banned by betting sites, and filed for bankruptcy. Then he relapsed on Kalshi",
+     "link": "https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction",
+     "time": "Fri, 02 Oct 2026 05:00:00 -0400",
+     "source": "NPR 头条",
+     "summary": "The dark side of the prediction market boom is becoming more clear: Experts say the sites have become go-to outlets for gambling addicts to relapse as the compa…",
+     "english": true
+    },
+    {
+     "title": "The U.S. Senate is up for grabs. Can this Ohio Democrat win back working class votes?",
+     "link": "https://www.npr.org/2026/10/02/nx-s1-5981096/ohio-senate-sherrod-brown-labor-workers",
+     "time": "Fri, 02 Oct 2026 05:00:00 -0400",
+     "source": "NPR 头条",
+     "summary": "After 32 years in Congress, Ohio&apos;s Sherrod Brown lost his Senate seat in 2024 as many working class voters turned out for Trump. Now Brown is counting on u…",
+     "english": true
+    },
+    {
+     "title": "US delivers F-16V fighter jets to Taiwan as island eyes threat from China",
+     "link": "https://www.aljazeera.com/news/2026/10/2/us-delivers-f-16v-fighter-jets-to-taiwan-as-island-eyes-threat-from-china?traffic_source=rss",
+     "time": "Fri, 02 Oct 2026 08:26:22 +0000",
+     "source": "半岛电视台",
+     "summary": "Amid threats from China, Taipai is growing concerned about the Trump administration&#039;s commitment to arming the island.",
+     "english": true
+    },
+    {
+     "title": "‘They are crying’: Refugees in Malaysia in fear amid Myanmar deportation",
+     "link": "https://www.aljazeera.com/features/2026/10/2/they-are-crying-refugees-in-malaysia-in-fear-amid-myanmar-deportation?traffic_source=rss",
+     "time": "Fri, 02 Oct 2026 08:14:18 +0000",
+     "source": "半岛电视台",
+     "summary": "Shrinking resources for refugee support groups in Malaysia collide with increasing hostility towards the Rohingya.",
      "english": true
     }
    ]
@@ -845,5 +1013,5 @@
    ]
   }
  ],
- "lastUpdated": "2026-10-02T09:05:40.760558+00:00"
+ "lastUpdated": "2026-10-02T09:10:34.993866+00:00"
 }

@@ -2,8 +2,8 @@
  * mednews.js — 临床医讯（国内+国际+互联网媒体，英文自动翻译）
  * 数据链路：Netlify data-api（首选）→ 静态 JSON → RSS 代理
  */
-import { $, $$, esc, toast, fetchWithFallback, fetchApiData, fetchViaProxy, fetchHtmlViaProxy, stripHtmlTags, relTime, debounce, isEnglish, translateText } from '../utils.js?v=20261002a';
-import { historyAdd } from '../storage.js?v=20261002a';
+import { $, $$, esc, toast, fetchWithFallback, fetchApiData, fetchViaProxy, fetchHtmlViaProxy, stripHtmlTags, relTime, debounce, isEnglish, translateText } from '../utils.js?v=20261003a';
+import { historyAdd } from '../storage.js?v=20261003a';
 
 /**
  * 新闻源配置：全部为原文直链（不使用 Google News 重定向）
@@ -114,20 +114,15 @@ async function switchCat(cat) {
     renderNews();
     return;
   }
-  $('#mednews-meta').textContent = `${CAT_META[cat].label} · 来源：百度资讯聚合国内媒体（原文直链）`;
-  if (progressLoaded[cat] && progressCache[cat].length) { renderNews(); $('#mednews-status').innerHTML = ''; return; }
-  renderProgressSkeleton(cat);
-  try {
-    const items = await fetchProgressCat(cat);
-    progressCache[cat] = items;
-    progressLoaded[cat] = true;
+  $('#mednews-meta').textContent = `${CAT_META[cat].label} · 每日定时聚合国内医学媒体（原文直链）`;
+  if (progressLoaded[cat] && progressCache[cat].length) {
     renderNews();
-    $('#mednews-status').innerHTML = items.length
-      ? ''
-      : `<p>暂时无法获取${CAT_META[cat].label}，请稍后重试。</p><button class="btn btn-ghost retry-btn" data-retry-cat="${cat}">重试</button>`;
-  } catch {
-    $('#mednews-status').innerHTML = `<p>${CAT_META[cat].label}获取失败，请稍后重试。</p><button class="btn btn-ghost retry-btn" data-retry-cat="${cat}">重试</button>`;
+    $('#mednews-status').innerHTML = '';
+    return;
   }
+  // 仅展示当日静态数据，不做实时抓取（每日固定时间由服务端生成）
+  renderNews();
+  $('#mednews-status').innerHTML = `<p>${CAT_META[cat].label}今日暂无更新，请于每日定时刷新后查看。</p>`;
 }
 
 function renderSkeletons() {
@@ -396,14 +391,7 @@ export function initMednews() {
     const title = item.dataset.title;
     if (link && title) historyAdd({ type: 'news', title, url: link });
   });
-  // 进展栏目失败重试
-  $('#mednews-status').addEventListener('click', (e) => {
-    const btn = e.target.closest('[data-retry-cat]');
-    if (!btn) return;
-    const cat = btn.dataset.retryCat;
-    progressLoaded[cat] = false;
-    switchCat(cat);
-  });
+  // 进展栏目为每日定时静态数据，无需实时重试
   $('#mednews-refresh').addEventListener('click', () => {
     if (activeCat === 'main') { loadNews(); return; }
     progressLoaded[activeCat] = false;

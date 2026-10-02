@@ -262,36 +262,76 @@ def gen_mednews():
     return {'items': out[:40], 'progress': gen_progress(),
             'lastUpdated': datetime.datetime.now(datetime.timezone.utc).isoformat()}
 
-# ---------------- 临床医讯进展栏目（疾病治疗 / 药物进展）：顶级医学期刊 RDF/RSS 按关键词分类 ----------------
-# Lancet / Nature 为 RDF(RSS 1.0) 格式，parse_rss 已适配（item 带 rdf:about 属性）；
-# 英文标题由客户端自动翻译为中文。
-PROGRESS_FEEDS = [
-    {'name': 'The Lancet', 'url': 'https://www.thelancet.com/rssfeed/lancet_current.xml', 'limit': 20},
-    {'name': 'Nature', 'url': 'https://www.nature.com/nature.rss', 'limit': 20},
-    {'name': 'Nature Medicine', 'url': 'https://www.nature.com/nm.rss', 'limit': 15},
-    {'name': 'BMJ', 'url': 'https://www.bmj.com/rss.xml', 'limit': 15},
-    {'name': 'Science', 'url': 'https://www.science.org/rss/news_current.xml', 'limit': 15},
-    {'name': 'WHO', 'url': 'https://www.who.int/rss-feeds/news-english.xml', 'limit': 15},
+# ---------------- 临床医讯进展栏目（疾病治疗 / 药物进展）：中文互联网医学资讯 ----------------
+# 每日固定时间由 GitHub Actions 生成；客户端仅读取当日静态数据、不做实时抓取。
+PROGRESS_NAV_WORDS = ['关于我们', '隐私', '下载', 'APP', '登录', '注册', '首页', '更多', '上一页',
+                      '下一页', '订阅', '免责', '版权', '联系我们', '投稿', '返回', '专题', '视频',
+                      '广告', '客户端', '医生站']
+HTML_NEWS_BAD = ['about', 'privacy', 'login', 'register', 'javascript', 'void(0)', 'mailto:', '#',
+                 'feedback', 'sitemap', 'help', 'wap']
+
+def fetch_html_news(url, source_name, limit):
+    """抓取中文资讯首页，解析 <a href>标题</a>（过滤导航/广告，仅保留含中文标题的新闻链接）"""
+    html = fetch(url, TIMEOUT)
+    html = re.sub(r'<script[\s\S]*?</script>', ' ', html, flags=re.I)
+    html = re.sub(r'<style[\s\S]*?</style>', ' ', html, flags=re.I)
+    out, seen = [], set()
+    for m in re.finditer(r'<a[^>]+href=["\']([^"\']{5,140})["\'][^>]*>([\s\S]{2,90}?)</a>', html, re.I):
+        href, title = m.group(1), clean_text(m.group(2))
+        if not href or not title or len(title) < 6:
+            continue
+        if title in seen:
+            continue
+        low_h = href.lower()
+        if any(b in low_h for b in HTML_NEWS_BAD):
+            continue
+        if any(w in title for w in PROGRESS_NAV_WORDS):
+            continue
+        if re.search(r'[\u4e00-\u9fff]', title) is None:
+            continue
+        link = urllib.parse.urljoin(url, href)
+        if not re.match(r'^https?://', link):
+            continue
+        seen.add(title)
+        out.append({'title': title, 'link': link, 'source': source_name,
+                    'time': '', 'summary': '', 'english': False})
+        if len(out) >= limit:
+            break
+    return out
+
+PROGRESS_SOURCES = [
+    {'name': '药智新闻', 'url': 'https://news.yaozh.com/', 'limit': 20, 'cat': 'drug'},
+    {'name': '健康时报', 'url': 'https://www.jksb.com.cn/', 'limit': 14, 'cat': 'kw'},
+    {'name': '央视网健康', 'url': 'https://jiankang.cctv.com/', 'limit': 12, 'cat': 'kw'},
+    {'name': '39健康网', 'url': 'https://www.39.net/', 'limit': 16, 'cat': 'kw'},
 ]
-DISEASE_KW = ['cancer', 'tumour', 'tumor', 'melanoma', 'heart', 'cardiac', 'diabet', 'infect', 'virus',
-              'stroke', 'kidney', 'liver', 'covid', 'alzheimer', 'parkinson', 'hiv', 'ebola', 'malaria',
-              'disease', 'patient', 'surgery', 'therapy', 'therapeutic', 'treatment']
-DRUG_KW = ['drug', 'medication', 'pharmaceutical', 'approval', 'fda', 'ema', 'antibiotic', 'vaccine',
-           'immunotherapy', 'chemotherapy', 'inhibitor', 'agonist', 'glp-1', 'oncolytic', 'adenovirus',
-           'neoadjuvant', 'biologic', 'mab', 'tablet', 'injection', 'dose', 'side effect', 'molecule',
-           'compound', 'pipeline', 'trial', 'semaglutide', 'medicine']
+DISEASE_KW_CN = ['治疗', '疗法', '疾病', '患者', '肿瘤', '癌', '糖尿', '心血管', '心脏', '脑', '中风',
+                 '感染', '疫苗', '手术', '预防', '康复', '血压', '心梗', '动脉', '筛查', '慢病', '肺',
+                 '乙肝', '肾病', '胃', '骨科', '眼科', '妇产']
+DRUG_KW_CN = ['新药', '获批', '上市', '药品', '药物', '创新药', '仿制药', '临床', '试验', '制剂',
+              '原料药', '注射液', 'glp-1', '司美格鲁肽', '研发', '药企', '医药', '生物', '原研',
+              '三期', '靶向', '抗体', '疫苗获批']
+PROGRESS_SKIP_CN = ['医械', '致敬', '盛典', '征文', '报名', '直播', '回放', '白皮书', '报告下载',
+                    '招聘', '招商', '合作', '公告', '更名', '工商', '节能', '大会', '论坛', '峰会',
+                    '年会', '邀您', '赴约', '博览会', '博物馆', '评选', '榜单', '招商会']
 
 def gen_progress():
     disease, drug = [], []
-    for f in PROGRESS_FEEDS:
+    for f in PROGRESS_SOURCES:
         try:
-            for it in fetch_rss(f['url'], f['name'], f['limit'], english=True) or []:
-                title = (it.get('title') or '').lower()
-                # 药物类特征词优先（新药/获批/临床试验/制剂）；其次疾病治疗进展
-                if any(k in title for k in DRUG_KW):
+            items = fetch_html_news(f['url'], f['name'], f['limit'])
+            for it in items:
+                title = it['title'].lower()
+                if any(k in title for k in PROGRESS_SKIP_CN):
+                    continue
+                if f['cat'] == 'drug':
                     drug.append(it)
-                elif any(k in title for k in DISEASE_KW):
-                    disease.append(it)
+                else:
+                    # 药物特征词优先，其次疾病治疗；都不命中则跳过
+                    if any(k in title for k in DRUG_KW_CN):
+                        drug.append(it)
+                    elif any(k in title for k in DISEASE_KW_CN):
+                        disease.append(it)
         except Exception as e:
             print('[warn] 进展源 %s 抓取失败: %s' % (f['name'], e), flush=True)
     return {'disease': dedup(disease)[:15], 'drug': dedup(drug)[:15]}

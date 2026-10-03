@@ -11,7 +11,7 @@
   {
    "name": "500英里",
    "type": "电影",
-   "rating": "7.8",
+   "rating": "7.7",
    "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
    "doubanLink": "https://movie.douban.com/subject/36772727/",
    "source": "https://movie.douban.com/subject/36772727/"
@@ -59,75 +59,75 @@
   {
    "name": "隐迹之书：重写自我",
    "type": "电影",
-   "rating": "7.9",
+   "rating": "7.8",
    "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
    "doubanLink": "https://movie.douban.com/subject/36554090/",
    "source": "https://movie.douban.com/subject/36554090/"
   },
   {
-   "name": "深渊大饭店",
+   "name": "男孩、鼹鼠、狐狸、马和暴风雪",
+   "type": "书籍",
+   "rating": "8",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38457937/",
+   "source": "https://book.douban.com/subject/38457937/"
+  },
+  {
+   "name": "穿越",
+   "type": "书籍",
+   "rating": "8.6",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38583596/",
+   "source": "https://book.douban.com/subject/38583596/"
+  },
+  {
+   "name": "124个梦",
+   "type": "书籍",
+   "rating": "9.1",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38546672/",
+   "source": "https://book.douban.com/subject/38546672/"
+  },
+  {
+   "name": "哲学写作入门",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38512605/",
+   "source": "https://book.douban.com/subject/38512605/"
+  },
+  {
+   "name": "她独自生活",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38649979/",
+   "source": "https://book.douban.com/subject/38649979/"
+  },
+  {
+   "name": "写意张爱玲",
    "type": "书籍",
    "rating": "8.7",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38552885/",
-   "source": "https://book.douban.com/subject/38552885/"
+   "doubanLink": "https://book.douban.com/subject/38578210/",
+   "source": "https://book.douban.com/subject/38578210/"
   },
   {
-   "name": "艺术与对象",
-   "type": "书籍",
-   "rating": "8.3",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38449856/",
-   "source": "https://book.douban.com/subject/38449856/"
-  },
-  {
-   "name": "了不起的概率思维",
+   "name": "搂着烟囱喊一个人",
    "type": "书籍",
    "rating": "8.8",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38560388/",
-   "source": "https://book.douban.com/subject/38560388/"
-  },
-  {
-   "name": "我曾这样寂寞生活",
-   "type": "书籍",
-   "rating": "8.9",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38420884/",
-   "source": "https://book.douban.com/subject/38420884/"
+   "doubanLink": "https://book.douban.com/subject/38498673/",
+   "source": "https://book.douban.com/subject/38498673/"
   },
   {
-   "name": "南方",
+   "name": "乌鸦的慰藉",
    "type": "书籍",
-   "rating": "",
+   "rating": "9.6",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38541647/",
-   "source": "https://book.douban.com/subject/38541647/"
-  },
-  {
-   "name": "留白",
-   "type": "书籍",
-   "rating": "8",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38612957/",
-   "source": "https://book.douban.com/subject/38612957/"
-  },
-  {
-   "name": "山月记",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38642056/",
-   "source": "https://book.douban.com/subject/38642056/"
-  },
-  {
-   "name": "历史与自由意识",
-   "type": "书籍",
-   "rating": "9.4",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37647061/",
-   "source": "https://book.douban.com/subject/37647061/"
+   "doubanLink": "https://book.douban.com/subject/38521715/",
+   "source": "https://book.douban.com/subject/38521715/"
   }
  ],
- "lastUpdated": "2026-10-02T09:10:09.268950+00:00"
+ "lastUpdated": "2026-10-03T03:20:15.396169+00:00"
 }

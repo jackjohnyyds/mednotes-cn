@@ -1,73 +1,9 @@
 {
  "items": [
   {
-   "name": "罗斯",
-   "type": "电影",
-   "rating": "8.5",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/35322132/",
-   "source": "https://movie.douban.com/subject/35322132/"
-  },
-  {
-   "name": "500英里",
-   "type": "电影",
-   "rating": "7.7",
-   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36772727/",
-   "source": "https://movie.douban.com/subject/36772727/"
-  },
-  {
-   "name": "求救信号",
-   "type": "电影",
-   "rating": "7.2",
-   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36439868/",
-   "source": "https://movie.douban.com/subject/36439868/"
-  },
-  {
-   "name": "电动维纳斯",
-   "type": "电影",
-   "rating": "7.4",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/37193887/",
-   "source": "https://movie.douban.com/subject/37193887/"
-  },
-  {
-   "name": "童年记忆",
-   "type": "电影",
-   "rating": "7.4",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/35496965/",
-   "source": "https://movie.douban.com/subject/35496965/"
-  },
-  {
-   "name": "瘴气营地的青春性事与死亡",
-   "type": "电影",
-   "rating": "6.8",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36801617/",
-   "source": "https://movie.douban.com/subject/36801617/"
-  },
-  {
-   "name": "别为往事懊恼",
-   "type": "电影",
-   "rating": "7.4",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/37295475/",
-   "source": "https://movie.douban.com/subject/37295475/"
-  },
-  {
-   "name": "隐迹之书：重写自我",
-   "type": "电影",
-   "rating": "7.8",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36554090/",
-   "source": "https://movie.douban.com/subject/36554090/"
-  },
-  {
    "name": "男孩、鼹鼠、狐狸、马和暴风雪",
    "type": "书籍",
-   "rating": "8",
+   "rating": "8.1",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38457937/",
    "source": "https://book.douban.com/subject/38457937/"
@@ -83,7 +19,7 @@
   {
    "name": "124个梦",
    "type": "书籍",
-   "rating": "9.1",
+   "rating": "8.9",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38546672/",
    "source": "https://book.douban.com/subject/38546672/"
@@ -129,5 +65,5 @@
    "source": "https://book.douban.com/subject/38521715/"
   }
  ],
- "lastUpdated": "2026-10-03T03:20:15.396169+00:00"
+ "lastUpdated": "2026-10-03T08:43:56.714514+00:00"
 }

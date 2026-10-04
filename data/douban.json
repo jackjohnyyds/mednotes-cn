@@ -1,69 +1,133 @@
 {
  "items": [
   {
-   "name": "男孩、鼹鼠、狐狸、马和暴风雪",
-   "type": "书籍",
-   "rating": "8.1",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38457937/",
-   "source": "https://book.douban.com/subject/38457937/"
+   "name": "罗斯",
+   "type": "电影",
+   "rating": "8.5",
+   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/35322132/",
+   "source": "https://movie.douban.com/subject/35322132/"
   },
   {
-   "name": "穿越",
+   "name": "500英里",
+   "type": "电影",
+   "rating": "7.7",
+   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/36772727/",
+   "source": "https://movie.douban.com/subject/36772727/"
+  },
+  {
+   "name": "求救信号",
+   "type": "电影",
+   "rating": "7.2",
+   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/36439868/",
+   "source": "https://movie.douban.com/subject/36439868/"
+  },
+  {
+   "name": "电动维纳斯",
+   "type": "电影",
+   "rating": "7.4",
+   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/37193887/",
+   "source": "https://movie.douban.com/subject/37193887/"
+  },
+  {
+   "name": "童年记忆",
+   "type": "电影",
+   "rating": "7.4",
+   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/35496965/",
+   "source": "https://movie.douban.com/subject/35496965/"
+  },
+  {
+   "name": "瘴气营地的青春性事与死亡",
+   "type": "电影",
+   "rating": "6.8",
+   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/36801617/",
+   "source": "https://movie.douban.com/subject/36801617/"
+  },
+  {
+   "name": "别为往事懊恼",
+   "type": "电影",
+   "rating": "7.4",
+   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/37295475/",
+   "source": "https://movie.douban.com/subject/37295475/"
+  },
+  {
+   "name": "隐迹之书：重写自我",
+   "type": "电影",
+   "rating": "7.8",
+   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/36554090/",
+   "source": "https://movie.douban.com/subject/36554090/"
+  },
+  {
+   "name": "不讨喜的女性",
    "type": "书籍",
-   "rating": "8.6",
+   "rating": "7.5",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38583596/",
-   "source": "https://book.douban.com/subject/38583596/"
+   "doubanLink": "https://book.douban.com/subject/38521461/",
+   "source": "https://book.douban.com/subject/38521461/"
   },
   {
-   "name": "124个梦",
+   "name": "艺术与对象",
    "type": "书籍",
-   "rating": "8.9",
+   "rating": "8.2",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38546672/",
-   "source": "https://book.douban.com/subject/38546672/"
+   "doubanLink": "https://book.douban.com/subject/38449856/",
+   "source": "https://book.douban.com/subject/38449856/"
   },
   {
-   "name": "哲学写作入门",
+   "name": "东德童话",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38512605/",
-   "source": "https://book.douban.com/subject/38512605/"
+   "doubanLink": "https://book.douban.com/subject/38622753/",
+   "source": "https://book.douban.com/subject/38622753/"
   },
   {
-   "name": "她独自生活",
+   "name": "隐蔽嫌疑人",
+   "type": "书籍",
+   "rating": "7.7",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/37147122/",
+   "source": "https://book.douban.com/subject/37147122/"
+  },
+  {
+   "name": "尼采传（上）",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38649979/",
-   "source": "https://book.douban.com/subject/38649979/"
+   "doubanLink": "https://book.douban.com/subject/38499966/",
+   "source": "https://book.douban.com/subject/38499966/"
   },
   {
-   "name": "写意张爱玲",
+   "name": "巴托比",
    "type": "书籍",
-   "rating": "8.7",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38578210/",
-   "source": "https://book.douban.com/subject/38578210/"
-  },
-  {
-   "name": "搂着烟囱喊一个人",
-   "type": "书籍",
-   "rating": "8.8",
+   "rating": "8.3",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38498673/",
-   "source": "https://book.douban.com/subject/38498673/"
+   "doubanLink": "https://book.douban.com/subject/38592120/",
+   "source": "https://book.douban.com/subject/38592120/"
   },
   {
-   "name": "乌鸦的慰藉",
+   "name": "二十世纪西方文学理论",
    "type": "书籍",
-   "rating": "9.6",
+   "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38521715/",
-   "source": "https://book.douban.com/subject/38521715/"
+   "doubanLink": "https://book.douban.com/subject/38612861/",
+   "source": "https://book.douban.com/subject/38612861/"
+  },
+  {
+   "name": "诗礼相成",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38581006/",
+   "source": "https://book.douban.com/subject/38581006/"
   }
  ],
- "lastUpdated": "2026-10-03T08:43:56.714514+00:00"
+ "lastUpdated": "2026-10-04T03:19:19.695280+00:00"
 }

@@ -1,91 +1,169 @@
 {
  "items": [
   {
-   "pmid": "42827069",
-   "title": "Vascular-device suit concordance: a tri-ecological framework for eco-rebalancing.",
-   "abstract": "Panvascular intervention can restore lumen patency, exclude structural defects, or replace diseased valves, but procedural success does not reestablish ecological stability within the treated vessel. We propose eco-rebalancing as a tri-ecological framework in which durable device performance depends on coordinated recovery across three domains: the mechanical, cellular, and physicochemical-immune ecologies. Vascular-device suitcordance denotes the spatiotemporal match between a device's mechanical behavior, biological interface, and material persistence, and the healing trajectory of a specific vascular bed, lesion, and patient; we introduce the Suitcordance Score (Su-Score) as a conceptual metric of that match. This perspective reinterprets restenosis, thrombosis, fibrosis, calcification, and structural degeneration as signatures of incomplete eco-rebalancing, providing a translational basis for device design and patient-device matching.",
-   "journal": "Trends in molecular medicine",
+   "pmid": "42827465",
+   "title": "Same ICD-10 code, different estimands: four Polish National Health Fund obesity series, 2015-2025.",
+   "abstract": "Poland's National Health Fund (NFZ) publishes four national series indexed by ICD-10 code E66. Although their labels suggest related measures of obesity, differences in analytical unit, entry rule, look-back period, and temporal structure may alter both the reported level and the apparent response to healthcare-system disruption. We examined whether selecting an official NFZ E66 series materially changes the level, trend, and permissible public-health interpretation of recorded obesity-related activity. This retrospective, descriptive ecological time-series study audited 44 annual resources covering registered morbidity, first-recorded patients, annual E66 patients, and E66-coded services in 2015-2025. We analyzed counts and population-scaled administrative rates, summarized long-term change using log-linear annual percentage change (APC), and used a one-year 2020 indicator as a descriptive pandemic-era stress test. An endpoint sensitivity analysis excluded 2025. Independent BMI sources provided cross-sectional contextual triangulation for 2025. In 2025, two official person-based series yielded 1,534,022 persons with a current or earlier principal E66 record and 325,769 persons with qualifying current-year E66 activity, a 4.7-fold difference arising from construction rather than alternative estimates of a single quantity. From 2015 to 2025, endpoint increases ranged from 178.1 to 332.5%, and population-scaled APCs from 10.5 to 14.5%. During 2020, the first year of the COVID-19 pandemic, deviations from the fitted trend were modest for registered morbidity (-3.5%) but substantially larger for the three series requiring current-year activity (-39.4 to -44.3%). The same E66 code supports four distinct administrative trajectories. Their growth may reflect a genuine rise in clinical obesity together with changes in recognition, access, recording, and service delivery; the aggregates cannot separate these contributions. Explicit estimand definitions are therefore essential when NFZ indicators are used for surveillance or policy.",
+   "journal": "Frontiers in public health",
    "year": "2026",
    "authors": [
-    "Lingsen You",
-    "Yaxuan Li",
-    "Yuchen Luo",
-    "Qiang Cheng",
-    "Liuliu Feng",
-    "Li Shen",
-    "Junbo Ge"
+    "Marcin Pobo&#x17c;y",
+    "Anna Rulkiewicz",
+    "Wojciech Lisik",
+    "Zoran Stoj&#x10d;ev",
+    "Ewa Filipiak-Rokicka",
+    "Iwona Pilchowska",
+    "Justyna Domienik-Kar&#x142;owicz"
    ],
-   "doi": "10.1016/j.molmed.2026.09.007",
+   "doi": "10.3389/fpubh.2026.1920632",
    "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42827069/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42827465/"
   },
   {
-   "pmid": "42827052",
-   "title": "Review of Attitudes, Perceptions, and Behaviours in Physical Activity, Sports, and Exercise Participation in Individuals With Genetic Heart Disease.",
-   "abstract": "This study explored attitudes, perceptions and physical activity behaviours in individuals with genetic heart disease (GHD), with a focus on how these have evolved as exercise guidelines have changed over time. A series of surveys was conducted among patients with GHD from the Royal Prince Alfred Hospital GHD and Sports Cardiology Clinic. Eligible participants were consecutively approached and invited to participate. Surveys and questionnaires assessed self-efficacy, barriers and perceptions across three timeframes: the past 12 months, previous 5 years and previous 10 years. Current physical activity levels were assessed using the International Physical Activity Questionnaire-Short Form. Ninety-nine participants with GHD completed the survey (mean age, 41&#xb1;17 years; 52% female). Across all time periods, the influence of \"doctor/cardiologist recommendations\" as an exercise barrier decreased significantly (p=0.02). Seven-day physical activity recall showed that patients with channelopathies engaged in more walking and vigorous activity than patients with cardiomyopathies (p=0.004). Exercise participation rates were similar among patients at high and low risk of sudden cardiac death (p=0.17). Qualitative responses identified fear, fatigue and other non-diagnosis-related issues as potential barriers to exercise. In this contemporary cohort of patients with GHD, the influence of physician-directed restrictions appeared to diminish over time, coinciding with evolving guideline recommendations. Patients with channelopathies reported greater engagement in vigorous intensity activity than those with cardiomyopathies, likely reflecting preserved functional capacity rather than differences in perceived sudden cardiac death risk. Importantly, exercise participation did not differ according to clinical risk stratification. These findings highlight a shift towards more permissive exercise behaviours in GHD and underscore the need for phenotype-specific, evidence-based exercise guidance to optimise participation.",
-   "journal": "Heart, lung & circulation",
+   "pmid": "42827423",
+   "title": "Evidence mapping of Zhenwu decoction for chronic heart failure.",
+   "abstract": "Chronic heart failure (CHF) remains associated with symptom burden, recurrent hospitalization, and reduced quality of life despite guideline-directed therapy. Zhenwu Decoction (ZWD), a classical traditional Chinese medicine formula, is used as adjunctive therapy for yang-deficiency and fluid-retention patterns. This evidence map aimed to characterize the volume, distribution, methodological quality, and evidence gaps in clinical research on ZWD for CHF. We searched CNKI, VIP, Wanfang, CMJ, SinoMed, PubMed, Web of Science, Embase, the Cochrane Library, ClinicalTrials.gov, ITMCTR, and ChiCTR from inception to 2 March 2025. Randomized controlled trials (RCTs), systematic reviews, and meta-analyses evaluating original or modified ZWD for CHF were eligible. Broad heart-failure terms were used for search sensitivity, but final eligibility was restricted to CHF. RCTs were assessed with the Cochrane risk-of-bias tool, and systematic reviews/meta-analyses were assessed with AMSTAR-2 and PRISMA 2020. After exclusion of one acute heart failure study, the revised evidence base comprised 166 RCTs and 14 systematic reviews/meta-analyses. All included clinical studies were conducted in China and were generally single-center, small-sample, and short-duration trials with limited follow-up. Commonly reported outcomes included left ventricular ejection fraction, New York Heart Association functional class, and natriuretic peptide levels. The most frequently reported traditional Chinese medicine syndrome patterns were heart-kidney yang deficiency and yang deficiency with water retention. Important limitations included incomplete reporting of randomization, allocation concealment, blinding, protocol registration, follow-up, and adverse events. All included systematic reviews/meta-analyses were rated as critically low quality by AMSTAR-2. Current evidence suggests potential adjunctive signals for ZWD in CHF, but the certainty of evidence remains low. Future studies should use prospectively registered, adequately powered, multicenter RCTs with standardized syndrome differentiation, longer follow-up, clinically meaningful endpoints, and rigorous safety monitoring.",
+   "journal": "Frontiers in cardiovascular medicine",
    "year": "2026",
    "authors": [
-    "Kshitij Cyril",
-    "Daniel Hackett",
-    "Jasmine Follett",
-    "Charlotte Burns",
-    "Caroline Medi",
-    "Derek L Tran",
-    "Belinda Gray"
+    "Boya Zhao",
+    "Yuerong Jiang",
+    "Yaxin Guo",
+    "Luying Chen",
+    "Yingzi Tan",
+    "Xirui Bao",
+    "Yuhang Fu",
+    "Yaojian Wang"
    ],
-   "doi": "10.1016/j.hlc.2026.05.022",
+   "doi": "10.3389/fcvm.2026.1866697",
    "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42827052/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42827423/"
   },
   {
-   "pmid": "42827051",
-   "title": "Beyond Grantsmanship: Why Patient Impact Must be the Measure of Funded Science.",
+   "pmid": "42827418",
+   "title": "Current challenges in the diagnosis of arrhythmia-induced cardiomyopathy.",
    "abstract": "",
-   "journal": "Heart, lung & circulation",
+   "journal": "Future cardiology",
    "year": "2026",
    "authors": [
-    "Ashish H Shah",
-    "Amir Ravandi"
+    "J&#xf6;rg Yogarajah",
+    "Samuel Sossalla"
    ],
-   "doi": "10.1016/j.hlc.2026.06.005",
+   "doi": "10.1080/14796678.2026.2739186",
    "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42827051/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42827418/"
   },
   {
-   "pmid": "42826861",
-   "title": "Management of Pulmonary Hypertension in Interstitial Lung Disease Without Access to Inhaled Treprostinil: A Case Series from a Resource-Limited Setting.",
-   "abstract": "Pulmonary hypertension (PH) may develop as a clinically important complication of parenchymal lung diseases, particularly in the setting of chronic hypoxemia and advanced interstitial lung disease. The management of interstitial lung disease-associated pulmonary hypertension (ILD-PH) remains challenging and requires a multidimensional assessment, including radiological findings, pulmonary function tests, comorbidities, and hemodynamic parameters. Although inhaled treprostinil is an approved treatment for ILD-PH, access to this therapy remains limited. We aimed to describe alternative management strategies and clinical outcomes in patients with ILD-PH in a resource-limited setting. This descriptive retrospective case series included four patients with different types of ILD: fibrotic hypersensitivity pneumonitis, combined pulmonary fibrosis and emphysema (CPFE), rheumatoid arthritis-associated ILD, and idiopathic pulmonary fibrosis (IPF). Demographic characteristics, hemodynamic data, treatment approaches, and clinical responses were evaluated. Inhaled iloprost was initiated in patients with IPF and fibrotic hypersensitivity pneumonitis. Both patients tolerated the treatment well and remained functionally stable. However, the patient with CPFE was unable to tolerate inhaled prostanoid therapy and had a fatal outcome despite treatment with a phosphodiesterase-5 inhibitor. The patient with rheumatoid arthritis-associated ILD had severe fibrotic parenchymal involvement and demonstrated clinical stability during a 6-month follow-up period under phosphodiesterase-5 inhibitor therapy. Patients with ILD-PH should be evaluated individually according to underlying lung pathology, disease phenotype, and treatment tolerability. Where inhaled treprostinil is unavailable, alternative therapies, such as inhaled iloprost or phosphodiesterase-5 inhibitors, may provide clinical benefits in selected patients. However, patients with CPFE may have poorer outcomes despite PH-targeted therapies.",
-   "journal": "The American journal of the medical sciences",
+   "pmid": "42827416",
+   "title": "PlGF in pulmonary hypertension: addressing the angiogenesis paradox via immune remodeling.",
+   "abstract": "",
+   "journal": "Cardiovascular research",
    "year": "2026",
    "authors": [
-    "P&#x131;nar Ak&#x131;n Kabalak",
-    "Yasemin S&#xf6;yler",
-    "Tuba &#x130;nal Cengiz",
-    "Murat &#xc7;elik",
-    "&#xdc;lk&#xfc; Y&#x131;lmaz"
+    "Qingqing Meng",
+    "Stephen Y Chan"
    ],
-   "doi": "10.1016/j.amjms.2026.10.001",
+   "doi": "10.1093/cvr/cvag224",
    "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42826861/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42827416/"
   },
   {
-   "pmid": "42826814",
-   "title": "Tirzepatide attenuates cardiac microvascular injury and ferroptosis-related lipid peroxidation in diabetic mice: endothelial responses in the context of partial PRKN silencing.",
-   "abstract": "Diabetic metabolic stress damages the cardiac microvasculature. We evaluated tirzepatide-associated cardiac and endothelial effects, including endpoint patterns after partial silencing of parkin RBR E3 ubiquitin protein ligase (PRKN) and lipidated microtubule-associated protein 1 light chain 3 beta (LC3B-II) accumulation during lysosomal blockade. Male C57BL/6J mice received a normal diet, a high-fat diet (HFD), or HFD/streptozotocin (STZ); HFD and HFD/STZ cohorts received tirzepatide or vehicle for 8 weeks. Metabolic, cardiac, microvascular, lipid-peroxidation, iron, and protein endpoints were assessed; ultrastructure was evaluated descriptively. Human cardiac microvascular endothelial cells (HCMECs) underwent high glucose/palmitic acid (HG/PA), PRKN-silencing, and bafilomycin A1 (BafA1) experiments. In HFD/STZ mice, tirzepatide improved selected glycemic and lipid measures and attenuated ventricular dilation, systolic dysfunction, myocardial fibrosis, and microvascular injury. Myocardial 4-hydroxynonenal, malondialdehyde, and ferrous iron were lower, and mitochondrial quality-control and ferroptosis-related protein profiles shifted toward control levels. In HG/PA-exposed HCMECs, tirzepatide increased the JC-1 aggregate/monomer ratio, decreased 4-hydroxynonenal and acyl-CoA synthetase long-chain family member 4, and increased glutathione peroxidase 4 and ferritin heavy chain 1. Among tirzepatide-treated cultures, endpoints were less favorable with partial PRKN silencing than with control small interfering RNA, although treatment-associated differences remained within the PRKN-silenced background. BafA1 increased LC3B-II in control and HG/PA+tirzepatide cultures; the increase under HG/PA alone was not significant. Tirzepatide was associated with less cardiac microvascular injury and ferroptosis-related lipid peroxidation. PRKN-silencing status was associated with endothelial endpoint patterns after tirzepatide treatment; effect modification and requirement were not established. Receptor dependence, mitophagic flux, and independence from systemic metabolic improvement remain unresolved.",
-   "journal": "European journal of pharmacology",
+   "pmid": "42827337",
+   "title": "Inhibition of the NR4A1-mediated cell cycle checkpoint enhances hyperplastic adipogenesis and glucose homeostasis in obesity.",
+   "abstract": "The nuclear receptor NR4A1 is a critical node in transcriptional circuits for metabolic adaptation, yet its role in adipocyte progenitor (AP) fate and proliferation is unclear. We sought to define how NR4A1 governs early adipogenesis and adipose tissue plasticity. Doxycycline-inducible NR4A1-overexpressing and NR4A1-deficient 3T3-L1 models were used to assess lipid accumulation, mitotic clonal expansion (MCE), and cell-cycle dynamics. Multiomics integration (RNA-seq and chromatin assays) identified NR4A1 targets. The functionality of two lead candidates, ANLN and CDC20, was tested by genetic knockdown and pharmacological inhibition. Diet-induced obese mice received the NR4A1 antagonist C-DIM8 alone or combined with the PPAR&#x3b3; agonist rosiglitazone to evaluate adipose expansion and metabolic outcomes. NR4A1 exerted a stage-specific inhibitory effect during early differentiation, reducing expression of canonical adipogenic markers and lipid accumulation. Integrative transcriptomic and chromatin analyses identified Anln and Cdc20 as direct NR4A1 targets essential for MCE. Depletion of either gene phenocopied NR4A1 overexpression, inducing G2/M arrest and blunting of adipogenesis. Pharmacological CDC20 inhibition with Apcin suppressed preadipocyte proliferation and differentiation in a dose-dependent manner. Importantly, in a diet-induced obese mouse model, combined treatment with the NR4A1 antagonist C-DIM8 and the PPAR&#x3b3; agonist rosiglitazone promoted AP proliferation, hyperplastic adipose tissue expansion, and improved glucose tolerance. NR4A1 functions as a transcriptional gatekeeper of adipogenic initiation by restraining the Anln/Cdc20 cell-cycle program. Pharmacological modulation of the NR4A1-cell-cycle axis, particularly alongside PPAR&#x3b3; activation, may offer a strategy to augment adipose tissue plasticity and metabolic resilience in obesity.",
+   "journal": "British journal of pharmacology",
    "year": "2026",
    "authors": [
-    "Guangzhen Lu",
-    "Xinye Wang",
-    "Hong Zhuang",
-    "Xiaoting Wang",
-    "Xin Zhou",
-    "Gang Zhao"
+    "Wanning Qiao",
+    "Cun Ku",
+    "G V Naveen Kumar",
+    "Jonathan D Brown",
+    "Manni Wu",
+    "Chenhang Li",
+    "Jiyu Xie",
+    "Huicui Meng",
+    "Litao Sun",
+    "Tao Zhou",
+    "Dong Liang",
+    "Yiwei Li",
+    "Matthew L Steinhauser",
+    "Yang Zhang"
    ],
-   "doi": "10.1016/j.ejphar.2026.179387",
+   "doi": "10.1111/bph.70655",
    "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42826814/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42827337/"
+  },
+  {
+   "pmid": "42827436",
+   "title": "Ultrasensitive single-genome sequencing reveals strong purifying selection in acute HIV- 1 infection.",
+   "abstract": "HIV transmission from one individual to another occurs by one or a small number of virions followed by spread and genetic diversification into a complex quasispecies. To understand the early events in this process, we investigated how HIV-1 genomes diversify within the first two to three weeks after transmission by use of ultra-deep single subgenomic sequencing of over 10,000 plasma RNA genomes in each of a cohort of 15 individuals in acute infection. This approach confirmed transmission of one or a few transmitted/founder (TF) viral lineages and very limited early divergence from the founder sequences. Most observed variants that differed from the TF included single nucleotide changes attributable to HIV-1 reverse transcriptase (RT) error or host APOBEC3G/F activity. Comparing the number of expected versus observed changes after transmission indicated that most de novo mutations do not persist in the virus population, consistent with strong purifying selection. We found little evidence that early diversification is driven by reversions to subtype consensus or by cytotoxic T lymphocyte pressure, although rare multi-mutation lineages suggest occasional influences. Together, these findings indicate that early HIV-1 evolution is influenced by stochastic and host-mediated mutational processes ( e.g. , APOBEC3G/F) filtered by strong purifying selection. The strong purifying selection observed in the early weeks of HIV-1 infection may provide an opportunity to investigate the potential of new interventions to induce viremic control, such as combinations of broadly neutralizing antibodies, cellular immunotherapy, or mRNA therapeutic vaccination. When a person acquires HIV, especially through sexual transmission, infection is usually established by just one or a few viral variants. However, over the early months and years of infection, these viral variants accumulate mutations until almost no two viral genomes are identical in a typical sample. Here, we sequenced tens of thousands of viral variants in the early weeks after transmission to understand the early events that contribute to this vast viral diversification. We found that the accumulation of mutations was slower than expected, implying a selection against HIV-1 diversification in acute infection, potentially leaving a window of low genetic diversity for the study of new interventions towards inducing viremic control, such as immunotherapy or mRNA vaccination. Of the early viral mutations that were observed, many were induced by host enzymes, rather than from errors by the viral enzyme used for replication. Our results provide more context for understanding HIV evolution and provide a deep sampling of viral diversity after transmission.",
+   "journal": "bioRxiv : the preprint server for biology",
+   "year": "2026",
+   "authors": [
+    "Adam A Capoferri",
+    "Valerie F Boltz",
+    "Wei Shao",
+    "Clarissa Halpern",
+    "Rasmi Thomas",
+    "Nittaya Phanuphak",
+    "Lydie Trautmann",
+    "Sandhya Vasan",
+    "Carlo Sacdalan",
+    "Somchai Sriplienchan",
+    "John W Mellors",
+    "John M Coffin",
+    "Jason W Rausch",
+    "Mary F Kearney"
+   ],
+   "doi": "10.64898/2026.08.21.746200",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42827436/"
+  },
+  {
+   "pmid": "42827286",
+   "title": "A real-world study of patients with FGFR-altered advanced solid tumors after exhaustion of standard-of-care treatment.",
+   "abstract": "Real-world outcomes data for patients with fibroblast growth factor receptor (FGFR) gene-alteration-positive (FGFRalt) advanced/metastatic solid tumors after standard-of-care (SOC) exhaustion are lacking. De-identified data from a custom-curated Flatiron Health-Foundation Medicine Clinico-Genomic database were used in this retrospective, non-interventional, observational study. Eligible patients were &#x2265;18 years old with FGFRalt advanced/metastatic disease who had exhausted SOC treatment. Real-world overall survival (rwOS), progression-free survival (rwPFS), and treatment patterns were assessed. Primary analyses were weighted for tumor types in the RAGNAR clinical trial (NCT04083976) and accounted for delayed study entry. Data from 230 patients (FGFR fusions: 68.3%; FGFR mutations: 37.0%) across 18 tumor types were analyzed. In primary analyses, median (95% CI) rwOS was 183.0 (148.0, 236.0) days, and median rwPFS was 87 (63.0, 196.0) days. Median rwOS ranged from 86.0 (41, NA) to 356 (299, NA) days across tumor types, and was 161 (106, 212) days for patients with FGFR fusions and 236 (82, 538) days for patients with FGFR mutations. Most patients had received one (67.4%) or two (18.2%) lines of therapy/treatment blocks at SOC exhaustion. From first-line therapy to SOC exhaustion, most common treatments were chemotherapy (100.0%) and immunotherapy (17.4%), and from best supportive care after SOC exhaustion to death were chemotherapy (65.2%), immunotherapy (16.1%), and a clinical trial drug (15.5%). These real-world survival and treatment-pattern findings highlight the poor prognosis of and high unmet medical need for patients with FGFRalt advanced/metastatic solid tumors who have exhausted SOC treatment.",
+   "journal": "Cancer research communications",
+   "year": "2026",
+   "authors": [
+    "Levon Demirdjian",
+    "Hussein Sweiti",
+    "Raymond Harvey",
+    "Kristopher Standish",
+    "Nicole Stone",
+    "Simona Baculea",
+    "Joel Greshock",
+    "Spyros Triantos"
+   ],
+   "doi": "10.1158/2767-9764.CRC-26-0233",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42827286/"
+  },
+  {
+   "pmid": "42827133",
+   "title": "Tonicity drives collecting duct maturation in the mammalian kidney.",
+   "abstract": "Organ maturation is a fundamental biological process and a major challenge for organoid-based regenerative medicine. During kidney maturation, osmolality increases in the renal medulla for urine concentration, yet whether this extreme environment conversely contributes to kidney maturation remains unclear. Here we show that high tonicity, i.e., salt, drives morphological, transcriptional, and functional maturation of medullary collecting ducts (CDs) primarily via nuclear factor of activated T cells 5 (NFAT5). This occurs both in vitro and in vivo. Combining high tonicity with maturation-promoting hormones, we establish a robust maturation protocol for human medullary CD organoids and a functional assay to measure water permeability in CD organoids, enabling modeling of three disease states: NFAT5 deletion, and lithium-induced and congenital nephrogenic diabetes insipidus. Collectively, high tonicity drives mammalian kidney maturation, offering a promising platform to maximize the potential of organoids for future therapies.",
+   "journal": "Nature communications",
+   "year": "2026",
+   "authors": [
+    "Daisuke Inoue",
+    "Koichiro Miike",
+    "Shunsuke Tanigawa",
+    "Kei-Ichiro Yasunaga",
+    "Rae Maeda",
+    "Tomoko Ohmori",
+    "Sayoko Fujimura",
+    "Masashi Mukoyama",
+    "Tomomi Kamba",
+    "Jose Aramburu",
+    "Cristina Lopez-Rodriguez",
+    "Yuki Sugiura",
+    "Yuichiro Izumi",
+    "Ryuichi Nishinakamura"
+   ],
+   "doi": "10.1038/s41467-026-77903-4",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42827133/"
   },
   {
    "pmid": "42827008",
@@ -140,64 +218,42 @@
    "link": "https://pubmed.ncbi.nlm.nih.gov/42826904/"
   },
   {
-   "pmid": "42826902",
-   "title": "A systemic-absorption-blocked (SEAL) nanoplatform for mRNA-based local immunotherapy.",
-   "abstract": "Rapid transport of locally delivered mRNA lipid nanoparticles (mRNA-LNPs) into systemic circulation induces off-target protein expression and undesired side effects. Here we describe a systemic-absorption-blocked (SEAL) nanoplatform that achieves efficient mRNA delivery to disseminated peritoneal tumors using LNPs with minimized systemic exposure. Intraperitoneal administration of SEAL LNPs significantly reduces unintended mRNA expression in the liver and spleen, while maintaining robust protein expression in peritoneal tumors. Incorporation of cationic helper lipid is demonstrated essential for SEAL LNPs to minimize their systemic exposure. Using an in vitro transwell model to simulate the mesothelial barrier, we further elucidate that SEAL LNPs favor clathrin-mediated endocytosis and Golgi apparatus less involved intracellular trafficking in mesothelial cells, leading to reduced capability to penetrate the mesothelium for lymphatic transport. Intraperitoneal delivery of IL-12 mRNA (mIL-12) using the SEAL platform generates localized IL-12 expression with reduced systemic toxicity, leading to potent antitumor effects in mice bearing colorectal cancer (CRC) peritoneal dissemination. Delivery of mRNA-encoded therapeutic proteins using this platform presents a promising strategy to address peritoneal carcinomatosis.",
-   "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+   "pmid": "42827313",
+   "title": "Exertional Rhabdomyolysis With Moderate Creatine Kinase Elevation and Marked Transaminase Elevation but Preserved Synthetic Function: A Case Report.",
+   "abstract": "BACKGROUND Rhabdomyolysis is a skeletal muscle injury syndrome characterized by release of intracellular contents into the circulation. Abnormal liver biochemical test results are commonly observed in severe rhabdomyolysis. Most published cases have focused on extreme creatine kinase (CK) elevations (often >30 000 U/L) complicated by fulminant hepatic failure. There is a lack of literature regarding instances in which marked transaminase elevation occurs despite moderate CK elevation. CASE REPORT A 43-year-old man exhibited fatigue, nausea, and myalgia after a 3000-m run. Laboratory tests showed moderate CK elevation but striking transaminase elevation. Peak values were: CK, 2828 U/L; aspartate aminotransferase (AST), 2294 U/L; alanine aminotransferase (ALT), 1554 U/L; AST/ALT ratio, 1.48. Total bilirubin peaked at 34.2 &#x3bc;mol/L, the international normalized ratio was 1.22, and albumin level remained normal. Viral hepatitis serology findings were negative. The patient was diagnosed with exertional rhabdomyolysis; treatment comprised intravenous fluids, urine alkalinization, and hepatoprotective agents. CK and transaminase levels rapidly declined. At discharge on day 8, the patient was asymptomatic (ALT, 339 U/L). At 1 week, ALT had decreased to 79 U/L; all laboratory parameters were normal at 1 year. CONCLUSIONS Exertional rhabdomyolysis can produce marked transaminase elevation despite moderate CK elevation, which may not be linearly correlated with AST and ALT levels. This case documents the unusual phenotype of marked transaminase elevation with preserved synthetic function in a patient showing moderate CK elevation. In selected patients with preserved synthetic function and rapidly declining enzyme levels, conservative management may be appropriate after alternative liver injury etiologies have been excluded.",
+   "journal": "The American journal of case reports",
    "year": "2026",
    "authors": [
-    "Yutao Qiu",
-    "Rong Li",
-    "Xiaoxian Duan",
-    "Zhongqiang Li",
-    "Yu Cai",
-    "Quan Zhou",
-    "Tianhua Zhou",
-    "Xiangrui Liu",
-    "Xuefei Zhou"
+    "Li Chu",
+    "Xianyu Lv",
+    "Yili Bai",
+    "Zifan Zhu"
    ],
-   "doi": "10.1016/j.jconrel.2026.115430",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42826902/"
+   "doi": "10.12659/AJCR.954163",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42827313/"
   },
   {
-   "pmid": "42826900",
-   "title": "Optimizing antibody-dependent cellular phagocytosis for cancer immunotherapy: mechanisms, constraints, and therapeutic strategies.",
-   "abstract": "Accumulating evidence demonstrates that antibody-dependent cellular phagocytosis (ADCP), mediated by tumor-associated macrophages via Fc&#x3b3; receptors (Fc&#x3b3;R), represents a key Fc-dependent effector mechanism for selected antitumor monoclonal antibodies, including rituximab in B-cell malignancies, trastuzumab in HER2-positive cancers, cetuximab in EGFR-expressing tumors, and daratumumab in multiple myeloma. Beyond direct tumor cell clearance, macrophage-driven ADCP acts as a critical innate-adaptive immune bridge by facilitating antigen processing, intercellular immune crosstalk and downstream adaptive immune activation. However, ADCP is not uniformly beneficial. Depending on target antigen properties, macrophage functional state, and tumor microenvironmental cues, excessive or dysregulated ADCP may instead drive macrophage dysfunction, immunosuppressive remodeling, adaptive resistance, and dose-limiting toxicities. These observations highlight the need for a more selective and mechanistically informed framework for understanding and therapeutically harnessing ADCP in cancer immunotherapy. This review summarizes the molecular regulation of ADCP, including Fc&#x3b3;R signaling, cytoskeletal dynamics, phagosome formation and maturation, and phagocytosis checkpoint control, and discusses how these mechanisms shape phagocytic quality and therapeutic outcomes. We propose a conceptual shift from phagocytosis maximization to phagocytosis optimization and highlight strategies to improve the efficacy and safety of ADCP-based cancer immunotherapy. This review emphasizes four key concepts. First, it outlines the molecular cascade governing ADCP from Fc&#x3b3;R-mediated signaling to phagosome maturation and degradation. Second, it highlights the dual roles of ADCP in tumor immunity, showing that productive ADCP promotes tumor clearance and immune priming, whereas dysregulated ADCP drives immunosuppression and toxicity. Third, it proposes that therapeutic ADCP should be defined by tumor selectivity and durable immune activation rather than engulfment alone. Fourth, it summarizes six major strategies to enhance beneficial ADCP, including Fc engineering, antigen-binding optimization, Fc&#x3b3;RIIb blockade, targeting \"don't-eat-me\" signals, macrophage reprogramming, and combination with immune checkpoint inhibitors.",
-   "journal": "Journal of advanced research",
+   "pmid": "42827179",
+   "title": "Immunopharmacological design of a multi-epitope vaccine targeting hepatitis C virus genotype 3a.",
+   "abstract": "Hepatitis C is one of the leading causes of acute and chronic hepatitis worldwide. Immunoinformatics has emerged as a reliable and practical approach for identifying immunogenic regions. We analyzed the HCV genotype 3a polyprotein for antigenicity, allergenicity, and physicochemical characteristics. Four vaccine constructs with possible immunogenic qualities were assembled. B-cell epitopes were examined to predict antigenic determinants, and T-cell epitopes were assessed for MHC class I and II binding. All were linked together using linker peptides, a reliable adjuvant, the PADRE sequence, and a His tag. All models were analyzed for structural refinement, population coverage, molecular docking, molecular dynamics, and immune simulation. The vaccine constructs exhibited antigenicity&#x2009;>&#x2009;0.6 in E. coli, solubility&#x2009;>&#x2009;0.8, and GRAVY values between&#x2009;-&#x2009;0.124 and&#x2009;-&#x2009;0.518, indicating a hydrophilic nature. The Ramachandran plot showed that 90% of residues were within the allowed regions, confirming structural stability. The vaccine constructs showed more than 99% global coverage and 97% coverage for the Pakistani population. Docking analysis showed strong binding of the Vaccine2-TLR8 and Vaccine4-TLR3 complexes, with docking energies of&#x2009;-&#x2009;1153.5&#xa0;kcal/mol and&#x2009;-&#x2009;1015.8&#xa0;kcal/mol, respectively. Molecular dynamics simulations revealed a stabilized and consistent complex of TLRs. A strong humoral response was predicted by recording IgG and IgM titers within 5&#xa0;days, which remained for 35&#xa0;days. In silico cloning showed successful insertion into the pET-29a (&#x2009;+) vector. These results indicate that multiple-epitope vaccine constructs have strong binding properties and are good candidates for developing a vaccine against HCV3a.",
+   "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
    "year": "2026",
    "authors": [
-    "Mingyi Ju",
-    "Miao Zhang",
-    "Shuai Ma",
-    "Yufei An",
-    "Shiyu Xiao",
-    "Jiabin Xu",
-    "Nan Li",
-    "Yilin Chen",
-    "Minjie Wei",
-    "Hui Wang",
-    "Lin Zhao"
+    "Aasia Kalsoom",
+    "Zahra Aleem",
+    "Hafiz Muzzammel Rehman",
+    "Muhammad Sajjad",
+    "Ghulam Shabbir",
+    "Muhammad Shakil Khan",
+    "Awais Altaf",
+    "Inam Ur Rahman",
+    "Metab Alharbi",
+    "Abdullah F Alasmari"
    ],
-   "doi": "10.1016/j.jare.2026.10.003",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42826900/"
-  },
-  {
-   "pmid": "42826897",
-   "title": "Peanut Oral Immunotherapy in a High-Volume Tertiary Allergy Center: Experience and Outcomes.",
-   "abstract": "",
-   "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
-   "year": "2026",
-   "authors": [
-    "Allison G Hicks",
-    "Priya Chopra",
-    "Beth Estey",
-    "David M Fleischer"
-   ],
-   "doi": "10.1016/j.anai.2026.09.747",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42826897/"
+   "doi": "10.1007/s00210-026-05944-z",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42827179/"
   },
   {
    "pmid": "42826815",
@@ -261,41 +317,48 @@
    "link": "https://pubmed.ncbi.nlm.nih.gov/42826582/"
   },
   {
-   "pmid": "42826329",
-   "title": "Exploring the independent factors influencing prolonged QTc intervals in patients with acute-on-chronic liver failure caused by hepatitis B.",
-   "abstract": "Prolonged QTc interval is a common electrophysiological abnormality in patients with chronic liver disease, but limited evidence exists regarding its occurrence in acute-on-chronic liver failure (ACLF), particularly in hepatitis B virus-related ACLF (HBV-ACLF). Given the rapid progression, high mortality, and severe complications associated with ACLF, understanding cardiac electrophysiological changes is clinically important. This study aimed to determine the incidence of QTc prolongation in patients with HBV-ACLF and to identify independent factors associated with QTc abnormalities. A retrospective study was conducted on 206 consecutive patients with HBV-ACLF admitted between January 2016 and December 2023. Heart rate and QT interval data were obtained from 12-lead electrocardiograms performed at admission. QTc was calculated using Bazett's formula. Patients were categorized into prolonged and non-prolonged QTc groups using a cutoff of 440&#x2009;ms. Demographic, clinical, and laboratory variables were compared, and significant factors (P&#x2005;<&#x2005;.05) were entered into multivariate logistic regression to determine independent predictors. Of the 206 patients included, 68 (33%) exhibited prolonged QTc intervals. Univariate analysis revealed significant differences in red blood cell count (RBC), total cholesterol (CHOL), creatinine (CRE), potassium (K), fibrinogen (FIB), ascites, HBV-DNA level, and Child-Pugh classification (all P&#x2005;<&#x2005;.05). Multivariate logistic regression identified K, CRE, HBV-DNA, and ascites as independent predictors of QTc prolongation (P&#x2005;<&#x2005;.05 for all). Approximately one-third of patients with HBV-ACLF demonstrated prolonged QTc intervals. Electrolyte imbalance, renal dysfunction, viral replication activity, and ascites were independently associated with QTc prolongation. Routine QTc monitoring may provide a simple and noninvasive tool for early identification of patients at increased risk of cardiac complications.",
-   "journal": "Medicine",
+   "pmid": "42827381",
+   "title": "Pattern-Based P53 Immunohistochemistry Predicts Recurrence in Colorectal Liver Metastases Without Complete Pathologic Response After Neoadjuvant Chemotherapy.",
+   "abstract": "Aberrant p53 expression may have prognostic significance in colorectal cancer; however, its role in patients with colorectal liver metastases (CRLM) who receive neoadjuvant chemotherapy but do not achieve pathological complete response (pCR) remains unclear. We evaluated whether aberrant p53 expression assessed by immunohistochemistry (IHC) predicts recurrence-free survival (RFS) in patients with CRLM receiving neoadjuvant FOLFOXIRI followed by resection without achieving pCR. A prospective cohort study was conducted on 39 patients with CRLM who met the inclusion criteria. All patients received neoadjuvant chemotherapy with the FOLFOXIRI regimen. Following surgical resection of both primary colorectal tumors and liver metastases, none of the patients achieved pCR. Immunohistochemistry was performed to assess p53 expression in resected liver metastasis specimens using a pattern-based interpretation model. RFS was analyzed using univariate and multivariate Cox proportional hazards models. Aberrant p53 expression was observed in 20 patients (51.3%). In univariate analysis, aberrant p53 expression (HR&#x2009;=&#x2009;2.20; 95% CI: 1.02-4.71; p&#x2009;=&#x2009;0.043), total tumor size >&#x2009;6&#x2009;cm (HR&#x2009;=&#x2009;5.62; 95% CI: 2.31-13.68; p&#x2009; &#x2009;4 (HR&#x2009;=&#x2009;4.41; 95% CI: 1.59-12.26; p&#x2009;=&#x2009;0.004), and positive surgical margin (HR&#x2009;=&#x2009;2.62; 95% CI: 1.16-5.91; p&#x2009;=&#x2009;0.021) were significantly associated with recurrence. In multivariate analysis, aberrant p53 expression (HR&#x2009;=&#x2009;3.78; 95% CI: 1.56-9.15; p&#x2009;=&#x2009;0.003) and total tumor size >&#x2009;6&#x2009;cm (HR&#x2009;=&#x2009;5.23; 95% CI: 1.56-17.55; p&#x2009;=&#x2009;0.007) remained independent prognostic factors for shorter RFS.cnr270701_RedLinePDF. Aberrant p53 expression, as assessed by immunohistochemistry on post-neoadjuvant chemotherapy specimens, is an independent prognostic factor for early recurrence in patients with CRLM who did not achieve pCR. Together with total tumor size, aberrant p53 expression may serve as a useful marker for risk stratification and personalized postoperative treatment strategies in this high-risk patient population.",
+   "journal": "Cancer reports (Hoboken, N.J.)",
    "year": "2026",
    "authors": [
-    "Rou Zhang",
-    "Heng Gao",
-    "Mengjun Fu",
-    "Juan Li",
-    "MiMi Zhou",
-    "YaLi Feng",
-    "JinFeng Liu",
-    "YingRen Zhao",
-    "Yingli He"
+    "Phat Thi Hong Ho",
+    "Duy Duc Nguyen",
+    "Vuong Dinh Thy Hao",
+    "Giang Huong Tran",
+    "Lam Viet Trung",
+    "Thinh Van Hoang",
+    "Hoang Bac Nguyen"
    ],
-   "doi": "10.1097/MD.0000000000050941",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42826329/"
+   "doi": "10.1002/cnr2.70701",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42827381/"
   },
   {
-   "pmid": "42826175",
-   "title": "Adult vaccination coverage and missed preventive care opportunities among Filipino adults with diabetes: A cross-sectional study.",
-   "abstract": "Adults with diabetes mellitus are at increased risk of vaccine-preventable infections and complications. Despite recommendations for adult immunization, uptake remains suboptimal in many low- and middle-income countries, including the Philippines, where data remain limited. This cross-sectional study assessed adult immunization coverage and associated clinical and sociodemographic factors among Filipino adults with diabetes recruited from inpatient, outpatient, and community outreach settings at a tertiary hospital. Uptake of influenza, pneumococcal, herpes zoster, hepatitis B, tetanus-diphtheria-pertussis (Td/Tdap), and COVID-19 vaccines was evaluated using prespecified operational definitions. Crude associations and parsimonious multivariable logistic regression models were examined; COVID-19 vaccination was not modeled because only six participants were unvaccinated. Among 284 participants (mean age 61.5&#x2009;&#xb1;&#x2009;12.7&#x202f;y, 55.6% females), uptake was 44.4% for influenza, 49.6% for pneumococcal, 18.1% for herpes zoster, 15.5% for hepatitis B, 23.2% for Td/Tdap, and 97.9% for the primary COVID-19 series. Males had lower adjusted odds of influenza and pneumococcal vaccination, while increasing age was associated with pneumococcal uptake. Middle and high household income and diabetes duration of 5-10&#x202f;y were associated with influenza vaccination. Among adults aged &#x2265;50 y, male sex and high income were associated with herpes zoster vaccination. High income was also associated with hepatitis B and Td/Tdap uptake. Provider recommendation was associated with all outcomes, while lack of provider recommendation, failure to prioritize vaccination, and financial constraints were common reasons for non-vaccination. Uptake was uneven and low for most recommended adult vaccines. Integrating vaccine assessment and counseling into diabetes care while addressing financial and access barriers may improve uptake.",
-   "journal": "Human vaccines & immunotherapeutics",
+   "pmid": "42827254",
+   "title": "Daily image-guided carbon ion stereotactic radiotherapy of hepatocellular carcinoma: paving the way for MR-guided online adaptive treatment.",
+   "abstract": "We aim to quantify the dosimetric benefits of daily online adaptive (DOA) carbon ion stereotactic radiotherapy (CISR) in hepatocellular carcinoma (HCC). 13 patients received 4&#x2009;&#xd7;&#x2009;10.5&#xa0;Gy (RBE-weighted dose) CISR to 14 HCC lesions in challenging locations (N&#x2009;=&#x2009;10: liver dome, N&#x2009;=&#x2009;3: < 1&#xa0;cm from intestines). All patients underwent daily in-room CT, with forward calculation of the baseline plan. Additionally, four patients were shuttled to a 1.5 Tesla MR scanner in treatment position for MRI simulation. Based on visual review of all data, the physician decided to treat or to perform offline plan adaptation and treat another day. We compare the dosimetry properties of four scenarios per fraction: (1) baseline plan, (2) no adaptation, (3) occasional offline adaptation (OOA), (4) DOA. Baseline planning target volume (PTV) and internal target volume (ITV) coverage by the prescribed dose (median coverage: PTV: 97%, ITV: 100%) significantly decreased for no adaptation (PTV: 87.6%, p&#x2009;=&#x2009;0.0001; ITV: 97.7%, p&#x2009;=&#x2009;0.007) and OOA (PTV: 87.8%, p&#x2009;=&#x2009;0.0001; ITV: 97.7%, p&#x2009;=&#x2009;0.007), while DOA maintained high PTV coverage (PTV: 95.7%, p&#x2009;=&#x2009;0.17; ITV: 100%, p&#x2009;=&#x2009;0.53). Frequent violations of organs-at-risk (OAR) dose constraints occurred for no adaptation and OOA (both 20/52 fractions, 38.5%). They affected the bowel, heart and esophagus up to 6&#xa0;cm from the PTV. DOA led to considerably fewer (6/52 fractions, 11.5%) and less intense violations of OAR dose constraints. Daily CT- and MR-guided CISR is feasible in the liver, and demonstrates frequent violations of initial treatment planning objectives when non-adaptive or offline adaptive approaches are followed. DOA could improve target coverage and OAR protection, while particularities of carbon ions such as overdoses far from the target should be considered.",
+   "journal": "Radiation oncology (London, England)",
    "year": "2026",
    "authors": [
-    "Ranee Joy B Jacobo",
-    "Michael L Villa",
-    "Maria Jocelyn C Isidro",
-    "Sahra May O Paragas"
+    "Sebastian Regnery",
+    "Rita Pestana",
+    "Thomas Mielke",
+    "Philipp Hoegen-Sa&#xdf;mannshausen",
+    "Hanna Waldsperger",
+    "Fabian Weykamp",
+    "Friderike K Longarino",
+    "Cedric Beyer",
+    "Jakob Liermann",
+    "Sebastian Kl&#xfc;ter",
+    "J&#xfc;rgen Debus",
+    "Julia Bauer",
+    "Katharina Seidensaal"
    ],
-   "doi": "10.1080/21645515.2026.2742630",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42826175/"
+   "doi": "10.1186/s13014-026-02928-4",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42827254/"
   },
   {
    "pmid": "42827057",
@@ -358,48 +421,28 @@
    "link": "https://pubmed.ncbi.nlm.nih.gov/42827056/"
   },
   {
-   "pmid": "42826714",
-   "title": "Fungus Rhizopus arrhizus promotes MASLD-associated hepatocellular carcinoma through generating kynurenic acid.",
-   "abstract": "Fungi are crucial components of the human gut microbiota. Here, we investigated the role of fungi in metabolic dysfunction-associated steatotic liver disease-associated hepatocellular carcinoma (MASLD-HCC). Rhizopus arrhizus was the top enriched fungus across the progression from MASLD to MASLD-HCC, accelerating tumorigenesis in multiple mouse models. R. arrhizus-conditioned medium increased cell proliferation while reducing cell cycle arrest and apoptosis in human MASLD-HCC cells. Kynurenic acid (KYNA) was identified as the crucial metabolite generated from R. arrhizus, and its upregulation was confirmed in portal vein, liver tissues, and stools of R. arrhizus-treated mice. KYNA promoted the proliferation of MASLD-HCC cells and accelerated tumorigenesis in mice. Mechanistically, KYNA directly bound to IQ motif containing GTPase activating protein 1 (IQGAP1) in tumor cells and activated the oncogenic mitogen-activated protein kinase (MAPK) signaling pathway, thereby facilitating MASLD-HCC development. In summary, R. arrhizus is a pathogenic fungus that promotes MASLD-HCC by producing KYNA. Blocking this host-fungi interaction is a potential therapeutic strategy to suppress MASLD-HCC.",
-   "journal": "Cell metabolism",
+   "pmid": "42826902",
+   "title": "A systemic-absorption-blocked (SEAL) nanoplatform for mRNA-based local immunotherapy.",
+   "abstract": "Rapid transport of locally delivered mRNA lipid nanoparticles (mRNA-LNPs) into systemic circulation induces off-target protein expression and undesired side effects. Here we describe a systemic-absorption-blocked (SEAL) nanoplatform that achieves efficient mRNA delivery to disseminated peritoneal tumors using LNPs with minimized systemic exposure. Intraperitoneal administration of SEAL LNPs significantly reduces unintended mRNA expression in the liver and spleen, while maintaining robust protein expression in peritoneal tumors. Incorporation of cationic helper lipid is demonstrated essential for SEAL LNPs to minimize their systemic exposure. Using an in vitro transwell model to simulate the mesothelial barrier, we further elucidate that SEAL LNPs favor clathrin-mediated endocytosis and Golgi apparatus less involved intracellular trafficking in mesothelial cells, leading to reduced capability to penetrate the mesothelium for lymphatic transport. Intraperitoneal delivery of IL-12 mRNA (mIL-12) using the SEAL platform generates localized IL-12 expression with reduced systemic toxicity, leading to potent antitumor effects in mice bearing colorectal cancer (CRC) peritoneal dissemination. Delivery of mRNA-encoded therapeutic proteins using this platform presents a promising strategy to address peritoneal carcinomatosis.",
+   "journal": "Journal of controlled release : official journal of the Controlled Release Society",
    "year": "2026",
    "authors": [
-    "Xingyu Zhou",
-    "Chuanfa Liu",
-    "Wenchao Wei",
-    "Xueliang Wang",
-    "Yasi Pan",
-    "Ying Jiao",
-    "Shiyu Li",
-    "Yating Zhang",
-    "Harry Cheuk-Hay Lau",
-    "Ruyi Zhang",
-    "Dingwu Li",
-    "Alvin Ho-Kwan Cheung",
-    "Minghua Zheng",
-    "Wen Pan",
-    "Chi Chun Wong",
-    "Vincent Wai-Sun Wong",
-    "Jun Yu",
-    "Xiang Zhang"
+    "Yutao Qiu",
+    "Rong Li",
+    "Xiaoxian Duan",
+    "Zhongqiang Li",
+    "Yu Cai",
+    "Quan Zhou",
+    "Tianhua Zhou",
+    "Xiangrui Liu",
+    "Xuefei Zhou"
    ],
-   "doi": "10.1016/j.cmet.2026.09.005",
+   "doi": "10.1016/j.jconrel.2026.115430",
    "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42826714/"
-  },
-  {
-   "pmid": "42826385",
-   "title": "Correction to \"A Non-Canonical Role for Hepatocyte MLKL in Promoting Mitochondrial Dysfunction and Senescence in the Aging Liver\".",
-   "abstract": "",
-   "journal": "Aging cell",
-   "year": "2026",
-   "authors": [],
-   "doi": "10.1111/acel.70746",
-   "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42826385/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42826902/"
   }
  ],
- "lastUpdated": "2026-10-03T08:43:22.671499+00:00",
+ "lastUpdated": "2026-10-04T03:19:02.994966+00:00",
  "fields": [
   "cardiology",
   "immunotherapy",

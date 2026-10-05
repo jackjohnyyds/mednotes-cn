@@ -59,34 +59,26 @@
   {
    "name": "隐迹之书：重写自我",
    "type": "电影",
-   "rating": "7.8",
+   "rating": "7.7",
    "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
    "doubanLink": "https://movie.douban.com/subject/36554090/",
    "source": "https://movie.douban.com/subject/36554090/"
   },
   {
-   "name": "不讨喜的女性",
+   "name": "莫斯科有高楼",
    "type": "书籍",
-   "rating": "7.5",
+   "rating": "9.2",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38521461/",
-   "source": "https://book.douban.com/subject/38521461/"
+   "doubanLink": "https://book.douban.com/subject/38469258/",
+   "source": "https://book.douban.com/subject/38469258/"
   },
   {
-   "name": "艺术与对象",
+   "name": "三个基尼",
    "type": "书籍",
-   "rating": "8.2",
+   "rating": "9.2",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38449856/",
-   "source": "https://book.douban.com/subject/38449856/"
-  },
-  {
-   "name": "东德童话",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38622753/",
-   "source": "https://book.douban.com/subject/38622753/"
+   "doubanLink": "https://book.douban.com/subject/38405927/",
+   "source": "https://book.douban.com/subject/38405927/"
   },
   {
    "name": "隐蔽嫌疑人",
@@ -97,37 +89,45 @@
    "source": "https://book.douban.com/subject/37147122/"
   },
   {
-   "name": "尼采传（上）",
+   "name": "看见情绪",
    "type": "书籍",
-   "rating": "",
+   "rating": "8.9",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38607113/",
+   "source": "https://book.douban.com/subject/38607113/"
+  },
+  {
+   "name": "理想国",
+   "type": "书籍",
+   "rating": "8.9",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38499966/",
-   "source": "https://book.douban.com/subject/38499966/"
+   "doubanLink": "https://book.douban.com/subject/38535468/",
+   "source": "https://book.douban.com/subject/38535468/"
   },
   {
-   "name": "巴托比",
-   "type": "书籍",
-   "rating": "8.3",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38592120/",
-   "source": "https://book.douban.com/subject/38592120/"
-  },
-  {
-   "name": "二十世纪西方文学理论",
+   "name": "欧洲历史的塑造",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38612861/",
-   "source": "https://book.douban.com/subject/38612861/"
+   "doubanLink": "https://book.douban.com/subject/38584703/",
+   "source": "https://book.douban.com/subject/38584703/"
   },
   {
-   "name": "诗礼相成",
+   "name": "偶像",
+   "type": "书籍",
+   "rating": "8.4",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38564356/",
+   "source": "https://book.douban.com/subject/38564356/"
+  },
+  {
+   "name": "煽动者",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38581006/",
-   "source": "https://book.douban.com/subject/38581006/"
+   "doubanLink": "https://book.douban.com/subject/38361170/",
+   "source": "https://book.douban.com/subject/38361170/"
   }
  ],
- "lastUpdated": "2026-10-04T08:59:27.161388+00:00"
+ "lastUpdated": "2026-10-05T03:29:50.951223+00:00"
 }

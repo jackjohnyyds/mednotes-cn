@@ -1,11 +1,19 @@
 {
  "items": [
   {
-   "title": "刘玥莹评《自由成疾》︱苦难的解放：被身体改写的自由",
-   "link": "https://m.thepaper.cn/detail/34179232",
-   "time": "Mon, 05 Oct 2026 02:46:29 GMT",
+   "title": "2026年诺贝尔生理学或医学奖揭晓",
+   "link": "https://m.thepaper.cn/detail/34202030",
+   "time": "Mon, 05 Oct 2026 09:33:47 GMT",
    "source": "澎湃新闻",
-   "summary": "《自由成疾：美国内战与重建时期非裔美国人的疾病与苦难》，[美]吉姆·唐斯著，刘军译，格致出版社，2026年5月出版，323页，89.00元 近年来，历史学越来越不满足于讲述政治如何改变世界，而开始追问战争、疾病、环境与身体如何塑造历史经验。从疾病史、情感史到身体史的兴起，人们逐渐意识到，那些长期被视为历史背景的生命经验…",
+   "summary": "当地时间10月5日，瑞典卡罗琳医学院宣布，将2026年诺贝尔生理学或医学奖授予卡尔·戴塞洛斯（Karl Deisseroth）、彼得·黑格曼（Peter Hegemann）、格奥尔格·纳格尔（Georg Nagel）三位科学家。",
+   "english": false
+  },
+  {
+   "title": "进博会倒计时30天，九届“全勤生”和“八年老友”准备得如何？",
+   "link": "https://m.thepaper.cn/detail/34201022",
+   "time": "Mon, 05 Oct 2026 08:57:58 GMT",
+   "source": "澎湃新闻",
+   "summary": "再过30天，第九届中国国际进口博览会（以下简称进博会）就将在国家会展中心（上海）举办。作为连续多年参展进博会的忠实粉丝，跨国药企们厉兵秣马地抓紧筹备，不仅明确了将要首发首展的创新药、创新疗法，九届“全勤生”美敦力CEO还将首次来华踏上进博之旅。 10月5日，第九届进博会迎来开幕倒计时30天。进博局供图 “全勤生”首席执…",
    "english": false
   },
   {
@@ -70,6 +78,54 @@
    "time": "Tue, 01 Apr 2025 11:55:48 Z",
    "source": "WHO 新闻",
    "summary": "Dr Tedros Adhanom Ghebreyesus, Director-General of the World Health Organization (WHO), and Thomas Östros, Vice-President of the European Investment Bank (EIB G…",
+   "english": true
+  },
+  {
+   "title": "Early Lampard findings could come within weeks",
+   "link": "https://www.bbc.co.uk/news/articles/cmp3k32k778ko?at_medium=RSS&at_campaign=rss",
+   "time": "Mon, 05 Oct 2026 05:20:22 GMT",
+   "source": "BBC Health",
+   "summary": "Early recommendations could be issued if evidence highlights patient safety risks, the chair says.",
+   "english": true
+  },
+  {
+   "title": "Coroner warns of risk of future deaths at mental health unit where patient was killed",
+   "link": "https://www.bbc.co.uk/news/articles/cqn747k6pem0o?at_medium=RSS&at_campaign=rss",
+   "time": "Thu, 01 Oct 2026 23:59:44 GMT",
+   "source": "BBC Health",
+   "summary": "Hugo Flint-Cahan, 34, was fatally attacked by Rolando Torres-Pena, 22, at a mental health trust in east London.",
+   "english": true
+  },
+  {
+   "title": "Inside India's forest villages, where a dangerous mix of crises led to 32 child deaths",
+   "link": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss",
+   "time": "Wed, 30 Sep 2026 23:41:34 GMT",
+   "source": "BBC Health",
+   "summary": "At least 32 children have died in India's Balaghat district since May amid outbreaks of measles and malaria.",
+   "english": true
+  },
+  {
+   "title": "Family told to call locksmith over mental health fears",
+   "link": "https://www.bbc.co.uk/news/articles/cwe9eyj4gpgzo?at_medium=RSS&at_campaign=rss",
+   "time": "Wed, 30 Sep 2026 04:57:25 GMT",
+   "source": "BBC Health",
+   "summary": "A force should have flagged mental health services after a family called about their son, IOPC says.",
+   "english": true
+  },
+  {
+   "title": "Hidden habits that make your social anxiety worse - and how to break them",
+   "link": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss",
+   "time": "Wed, 30 Sep 2026 00:44:50 GMT",
+   "source": "BBC Health",
+   "summary": "Social anxiety is more common than many think. Here's what you need to know about the condition.",
+   "english": true
+  },
+  {
+   "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
+   "link": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
+   "time": "Tue, 29 Sep 2026 17:39:06 GMT",
+   "source": "BBC Health",
+   "summary": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.",
    "english": true
   }
  ],
@@ -311,5 +367,5 @@
    }
   ]
  },
- "lastUpdated": "2026-10-05T03:29:21.134022+00:00"
+ "lastUpdated": "2026-10-05T09:49:05.251017+00:00"
 }

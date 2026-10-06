@@ -59,26 +59,18 @@
   {
    "name": "隐迹之书：重写自我",
    "type": "电影",
-   "rating": "7.8",
+   "rating": "7.7",
    "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
    "doubanLink": "https://movie.douban.com/subject/36554090/",
    "source": "https://movie.douban.com/subject/36554090/"
   },
   {
-   "name": "莫斯科有高楼",
+   "name": "经学导论",
    "type": "书籍",
-   "rating": "8.8",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38469258/",
-   "source": "https://book.douban.com/subject/38469258/"
-  },
-  {
-   "name": "三个基尼",
-   "type": "书籍",
-   "rating": "9.2",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38405927/",
-   "source": "https://book.douban.com/subject/38405927/"
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/f/frodo/b9c30c34e0a0c469…",
+   "doubanLink": "https://book.douban.com/subject/38521447/",
+   "source": "https://book.douban.com/subject/38521447/"
   },
   {
    "name": "隐蔽嫌疑人",
@@ -89,45 +81,53 @@
    "source": "https://book.douban.com/subject/37147122/"
   },
   {
-   "name": "看见情绪",
+   "name": "盖特伍德奶奶去徒步",
    "type": "书籍",
-   "rating": "8.9",
+   "rating": "8.8",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38607113/",
-   "source": "https://book.douban.com/subject/38607113/"
+   "doubanLink": "https://book.douban.com/subject/37761156/",
+   "source": "https://book.douban.com/subject/37761156/"
   },
   {
-   "name": "理想国",
-   "type": "书籍",
-   "rating": "8.9",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38535468/",
-   "source": "https://book.douban.com/subject/38535468/"
-  },
-  {
-   "name": "欧洲历史的塑造",
+   "name": "蒙古帝国的阴影下",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38584703/",
-   "source": "https://book.douban.com/subject/38584703/"
+   "doubanLink": "https://book.douban.com/subject/38067351/",
+   "source": "https://book.douban.com/subject/38067351/"
   },
   {
-   "name": "偶像",
+   "name": "一个人的博物馆",
    "type": "书籍",
-   "rating": "8.4",
+   "rating": "9.3",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38564356/",
-   "source": "https://book.douban.com/subject/38564356/"
+   "doubanLink": "https://book.douban.com/subject/38584500/",
+   "source": "https://book.douban.com/subject/38584500/"
   },
   {
-   "name": "煽动者",
+   "name": "电影的色彩",
+   "type": "书籍",
+   "rating": "9.4",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38492034/",
+   "source": "https://book.douban.com/subject/38492034/"
+  },
+  {
+   "name": "衣裳哲学",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38361170/",
-   "source": "https://book.douban.com/subject/38361170/"
+   "doubanLink": "https://book.douban.com/subject/37478654/",
+   "source": "https://book.douban.com/subject/37478654/"
+  },
+  {
+   "name": "给予的力量",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38615970/",
+   "source": "https://book.douban.com/subject/38615970/"
   }
  ],
- "lastUpdated": "2026-10-05T09:49:12.174107+00:00"
+ "lastUpdated": "2026-10-06T03:29:47.486191+00:00"
 }

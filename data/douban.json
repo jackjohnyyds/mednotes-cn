@@ -67,7 +67,7 @@
   {
    "name": "德国士人的衰落",
    "type": "书籍",
-   "rating": "9.2",
+   "rating": "9.1",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38535508/",
    "source": "https://book.douban.com/subject/38535508/"
@@ -83,7 +83,7 @@
   {
    "name": "我的风暴，我的庇护所",
    "type": "书籍",
-   "rating": "9.3",
+   "rating": "9.4",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38901091/",
    "source": "https://book.douban.com/subject/38901091/"
@@ -129,5 +129,5 @@
    "source": "https://book.douban.com/subject/38219552/"
   }
  ],
- "lastUpdated": "2026-10-07T03:24:29.745802+00:00"
+ "lastUpdated": "2026-10-07T09:32:16.642249+00:00"
 }

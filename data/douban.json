@@ -11,7 +11,7 @@
   {
    "name": "500英里",
    "type": "电影",
-   "rating": "7.7",
+   "rating": "7.6",
    "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
    "doubanLink": "https://movie.douban.com/subject/36772727/",
    "source": "https://movie.douban.com/subject/36772727/"
@@ -63,71 +63,7 @@
    "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
    "doubanLink": "https://movie.douban.com/subject/36554090/",
    "source": "https://movie.douban.com/subject/36554090/"
-  },
-  {
-   "name": "巴纳姆博物馆",
-   "type": "书籍",
-   "rating": "8.5",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37648900/",
-   "source": "https://book.douban.com/subject/37648900/"
-  },
-  {
-   "name": "电影的色彩",
-   "type": "书籍",
-   "rating": "9.3",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38492034/",
-   "source": "https://book.douban.com/subject/38492034/"
-  },
-  {
-   "name": "穿越",
-   "type": "书籍",
-   "rating": "8.3",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38583596/",
-   "source": "https://book.douban.com/subject/38583596/"
-  },
-  {
-   "name": "明月白雪照着大地",
-   "type": "书籍",
-   "rating": "8.8",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38569327/",
-   "source": "https://book.douban.com/subject/38569327/"
-  },
-  {
-   "name": "我的风暴，我的庇护所",
-   "type": "书籍",
-   "rating": "9.4",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38901091/",
-   "source": "https://book.douban.com/subject/38901091/"
-  },
-  {
-   "name": "意大利蠢事集",
-   "type": "书籍",
-   "rating": "8.8",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38552600/",
-   "source": "https://book.douban.com/subject/38552600/"
-  },
-  {
-   "name": "远山回忆",
-   "type": "书籍",
-   "rating": "8.9",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38549105/",
-   "source": "https://book.douban.com/subject/38549105/"
-  },
-  {
-   "name": "没有月亮的时候，小狗在厨房里打盹",
-   "type": "书籍",
-   "rating": "8.8",
-   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38616283/",
-   "source": "https://book.douban.com/subject/38616283/"
   }
  ],
- "lastUpdated": "2026-10-08T03:30:21.538733+00:00"
+ "lastUpdated": "2026-10-08T09:43:45.220170+00:00"
 }

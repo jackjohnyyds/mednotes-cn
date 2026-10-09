@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "title": "海尔生物主导自动化医用冷库IEC国际标准正式立项",
+   "link": "http://health.people.com.cn/n1/2026/1009/c14739-40811490.html",
+   "time": "Fri, 09 Oct 2026 08:48:00 GMT",
+   "source": "人民网健康",
+   "summary": "10月3日，由海尔生物主导申报的IEC 63590-2-3《医用低温储存设备——第2-3部分：（半）自动化冷藏和冷冻库——性能要求和测试方法》正式立项。 海尔生物相关负责人介绍， 该标准将围绕存储温度分类、温度性能、自动化性能、信息化性能等建立统一要求和测试方法，为生物样本、药品、血液制品、疫苗等安全存储提供更加统一的…",
+   "english": false
+  },
+  {
    "title": "消化道早癌常“悄无声息” 胃肠镜筛查是关键",
    "link": "http://health.people.com.cn/n1/2026/1009/c14739-40811357.html",
    "time": "Fri, 09 Oct 2026 02:10:00 GMT",
@@ -22,22 +30,6 @@
    "time": "Fri, 09 Oct 2026 00:35:00 GMT",
    "source": "人民网健康",
    "summary": "原标题：学生每天综合体育活动2小时 专家提醒：营养别掉队 “不是吃得胖胖的，而是长得壮壮的、练得棒棒的。”近日，在国务院新闻办公室举行的“开局起步‘十五五’”系列主题新闻发布会上，教育部基础教育司司长田祖荫提出了“2115”的工作要求：每天综合体育活动2小时，每天1节体育课，课间休息15分钟。运动量上去了，一个现实问题…",
-   "english": false
-  },
-  {
-   "title": "中国创新药海外授权合作模式持续升级",
-   "link": "http://health.people.com.cn/n1/2026/1009/c14739-40811076.html",
-   "time": "Fri, 09 Oct 2026 00:12:00 GMT",
-   "source": "人民网健康",
-   "summary": "依托不断成熟的创新成果，国内药企“出海”步伐持续加快，对外合作模式不断优化升级，高价值、精细化的跨国授权合作密集落地。 10月8日，江苏亚虹医药科技股份有限公司（以下简称“亚虹医药”）宣布，近日，公司与致力于女性及其健康的全球专科制药公司Theramex HQ UK Limited（以下简称“Theramex”）签订有…",
-   "english": false
-  },
-  {
-   "title": "美国女囚注射死刑失败后下床走动、恢复进食，死刑是否“重来”惹争议",
-   "link": "https://m.thepaper.cn/detail/34217281",
-   "time": "Fri, 09 Oct 2026 03:11:10 GMT",
-   "source": "澎湃新闻",
-   "summary": "10月8日，美国田纳西州被注射两剂致命药物后仍存活的死刑犯派克已能够在他人协助下行走，并开始进食，手臂活动能力也有所恢复。派克的律师称派克身体状况“糟糕”。田纳西州对于是否要再次对派克执行死刑尚无定论。",
    "english": false
   },
   {
@@ -103,10 +95,66 @@
    "source": "WHO 新闻",
    "summary": "Dr Tedros Adhanom Ghebreyesus, Director-General of the World Health Organization (WHO), and Thomas Östros, Vice-President of the European Investment Bank (EIB G…",
    "english": true
+  },
+  {
+   "title": "'I rage and I don't care': Why women are reclaiming their anger",
+   "link": "https://www.bbc.co.uk/news/articles/cmg47lx1pqlko?at_medium=RSS&at_campaign=rss",
+   "time": "Thu, 08 Oct 2026 23:48:05 GMT",
+   "source": "BBC Health",
+   "summary": "Studies suggest women are getting angrier, but are they just more open about it?",
+   "english": true
+  },
+  {
+   "title": "ADHD and autism at risk of over-diagnosis, says government review",
+   "link": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss",
+   "time": "Thu, 08 Oct 2026 23:01:30 GMT",
+   "source": "BBC Health",
+   "summary": "The review, which focuses on younger people, warned there was a risk society was moving from an era of under-diagnosis to over-diagnosis.",
+   "english": true
+  },
+  {
+   "title": "Harry says he 'slipped into depression' after leaving UK",
+   "link": "https://www.bbc.co.uk/news/articles/c623dv9n93evo?at_medium=RSS&at_campaign=rss",
+   "time": "Thu, 08 Oct 2026 18:55:41 GMT",
+   "source": "BBC Health",
+   "summary": "The Duke of Sussex says he had an \"adrenaline crash\" while visiting Vancouver Island to \"get some space\".",
+   "english": true
+  },
+  {
+   "title": "'Ominous signs' of winter pressures as NHS waiting list grows",
+   "link": "https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o?at_medium=RSS&at_campaign=rss",
+   "time": "Thu, 08 Oct 2026 12:42:56 GMT",
+   "source": "BBC Health",
+   "summary": "NHS winter pressures appear to be building already, with rises in waiting times for planned surgery.",
+   "english": true
+  },
+  {
+   "title": "'I was blamed for my baby's death, now NHS needs to change'",
+   "link": "https://www.bbc.co.uk/news/articles/cxe8ry571z9eo?at_medium=RSS&at_campaign=rss",
+   "time": "Thu, 08 Oct 2026 05:42:43 GMT",
+   "source": "BBC Health",
+   "summary": "Neil and Katie Russell are working with the hospital where their daughter died on the scheme.",
+   "english": true
+  },
+  {
+   "title": "New global guidelines warn against obesity drugs for children under 10",
+   "link": "https://www.bbc.co.uk/news/articles/crvg904yw397o?at_medium=RSS&at_campaign=rss",
+   "time": "Wed, 07 Oct 2026 08:07:54 GMT",
+   "source": "BBC Health",
+   "summary": "Care should focus on healthy eating and exercise, not medicines such as weight-loss injections, says the World Health Organization",
+   "english": true
   }
  ],
  "progress": {
   "disease": [
+   {
+    "title": "全周期精准诊疗，破解泌尿和妇科肿瘤诊疗难题",
+    "link": "http://www.jksb.com.cn/html/activities/activitiesNotice/2026/1009/259584.html",
+    "source": "健康时报",
+    "time": "",
+    "summary": "",
+    "english": false
+   },
    {
     "title": "世界脑膜炎日健康脱口秀",
     "link": "http://www.jksb.com.cn/html/activities/activitiesNotice/2026/1004/259480.html",
@@ -126,14 +174,6 @@
    {
     "title": "筑牢心脑防线 清心专注守护",
     "link": "http://www.jksb.com.cn/html/activities/activitiesNotice/2026/0929/259390.html",
-    "source": "健康时报",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "乳腺癌早筛早治，影像检查是关键",
-    "link": "http://www.jksb.com.cn/html/activities/activitiesNotice/2026/0929/259369.html",
     "source": "健康时报",
     "time": "",
     "summary": "",
@@ -214,16 +254,16 @@
     "english": false
    },
    {
-    "title": "艾柯医疗，二闯科创板！",
-    "link": "https://news.yaozh.com/archive/49111.html",
+    "title": "仿制药制胜之道：辅料正成为新的竞争变量",
+    "link": "https://news.yaozh.com/archive/49124.html",
     "source": "药智新闻",
     "time": "",
     "summary": "",
     "english": false
    },
    {
-    "title": "ED药物遭遇“中年危机”",
-    "link": "https://news.yaozh.com/archive/49094.html",
+    "title": "艾柯医疗，二闯科创板！",
+    "link": "https://news.yaozh.com/archive/49111.html",
     "source": "药智新闻",
     "time": "",
     "summary": "",
@@ -327,5 +367,5 @@
    }
   ]
  },
- "lastUpdated": "2026-10-09T03:27:24.898471+00:00"
+ "lastUpdated": "2026-10-09T09:49:05.600365+00:00"
 }

@@ -135,6 +135,22 @@ export function isFavPaper(p) {
   if (!k) return false;
   return getFavPapers().some((x) => favKeyOf(x) === k);
 }
+/** 手动收藏：标题 + 标签 + 链接（与文献前沿 ☆收藏 存入同一列表） */
+export function addManualPaperFav(paper) {
+  const list = getFavPapers();
+  const k = String(paper.link || paper.title || '');
+  if (!k) return false;
+  if (list.some((x) => favKeyOf(x) === k)) return false;
+  list.unshift({
+    title: paper.title || '',
+    tags: Array.isArray(paper.tags) ? paper.tags : [],
+    link: paper.link || '',
+    manual: true,
+    favAt: Date.now(),
+  });
+  store.set('favpapers', list);
+  return true;
+}
 export function saveFavPaper(paper) {
   const list = getFavPapers();
   const k = favKeyOf(paper);

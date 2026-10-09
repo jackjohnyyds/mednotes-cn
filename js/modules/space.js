@@ -3,13 +3,13 @@
  */
 import {
   $, $$, esc, toast, dateKey, uid, openModal, closeModal, firstSentence, fetchViaProxy, dailyPick,
-} from '../utils.js?v=20261009a';
+} from '../utils.js?v=20261009b';
 import {
   store, getNotes, saveNote, deleteNote,
   getLabs, saveLab, deleteLab,
   getBooks, saveBook, deleteBook,
-  getFavPapers,
-} from '../storage.js?v=20261009a';
+  getFavPapers, addManualPaperFav, removeFavPaper,
+} from '../storage.js?v=20261009b';
 
 /* ================= 豆瓣书影音推荐（自动生成，点击直达豆瓣详情页） ================= */
 let recommendCache = [];
@@ -449,30 +449,93 @@ function renderPaperFavs() {
   if (!wrap) return;
   if (!list.length) {
     wrap.innerHTML = '';
-    $('#paperfav-status').innerHTML = '<div class="empty-note" style="text-align:center;padding:16px 0;">还没有收藏文献，可在「文献前沿」板块点击 ☆收藏 保存到这里</div>';
+    $('#paperfav-status').innerHTML = '<div class="empty-note" style="text-align:center;padding:16px 0;">还没有收藏文献，可在「文献前沿」点击 ☆收藏，或点右上角「+ 手动收藏」添加</div>';
     return;
   }
   $('#paperfav-status').innerHTML = '';
   wrap.innerHTML = list.map((p) => {
-    const tags = [p.field, p.journal].filter(Boolean);
+    const tags = Array.isArray(p.tags) && p.tags.length ? p.tags : [p.field, p.journal].filter(Boolean);
     const title = p.titleCn || p.title;
-    return `<a class="book-item paperfav-item" href="${esc(p.link)}" target="_blank" rel="noopener noreferrer">
-      <div style="flex:1;min-width:0;">
-        <div class="book-name">${esc(title)}</div>
-        ${p.titleCn && p.titleCn !== p.title ? `<div class="book-comment">${esc(p.title)}</div>` : ''}
-        <div class="book-meta">
-          ${tags.map((t) => `<span class="chip">${esc(t)}</span>`).join('')}
+    const delBtn = p.manual
+      ? `<button class="btn btn-ghost btn-sm paperfav-del" type="button" data-del="${esc(p.link)}">删除</button>`
+      : '';
+    return `<div class="book-item paperfav-item" style="align-items:center;">
+      <a href="${esc(p.link)}" target="_blank" rel="noopener noreferrer" style="flex:1;min-width:0;text-decoration:none;display:flex;gap:12px;align-items:flex-start;">
+        <div style="flex:1;min-width:0;">
+          <div class="book-name">${esc(title)}</div>
+          ${p.titleCn && p.titleCn !== p.title ? `<div class="book-comment">${esc(p.title)}</div>` : ''}
+          <div class="book-meta">
+            ${tags.map((t) => `<span class="chip">${esc(t)}</span>`).join('')}
+          </div>
         </div>
-      </div>
-      <span class="book-meta" style="white-space:nowrap;">打开原文 ↗</span>
-    </a>`;
+        <span class="book-meta" style="white-space:nowrap;">打开原文 ↗</span>
+      </a>
+      ${delBtn}
+    </div>`;
   }).join('');
+}
+
+/** 手动收藏：标题 + 标签（逗号分隔）+ 文献链接 */
+function openPaperFavModal() {
+  openModal(`
+    <h3>手动收藏文献</h3>
+    <div class="m-field">
+      <label class="field">文献标题
+        <input class="input" id="pf-title" maxlength="200" placeholder="如：Artificial intelligence in cardiac care">
+      </label>
+    </div>
+    <div class="m-field">
+      <label class="field">文献标签（用逗号分隔）
+        <input class="input" id="pf-tags" placeholder="如：心血管, AI, 2026">
+      </label>
+    </div>
+    <div class="m-field">
+      <label class="field">文献链接
+        <input class="input" id="pf-link" placeholder="https://pubmed.ncbi.nlm.nih.gov/…">
+      </label>
+    </div>
+    <div class="m-actions">
+      <button class="btn btn-primary" id="pf-save">保存</button>
+      <button class="btn btn-ghost" id="pf-cancel">取消</button>
+    </div>
+  `, {
+    onMount: () => {
+      $('#pf-save').addEventListener('click', () => {
+        const title = $('#pf-title').value.trim();
+        const link = $('#pf-link').value.trim();
+        if (!title || !link) { toast('标题和链接为必填'); return; }
+        if (!/^https?:\/\//i.test(link)) { toast('请输入以 http(s):// 开头的链接'); return; }
+        const tags = $('#pf-tags').value.split(/[,，]/).map((t) => t.trim()).filter(Boolean);
+        if (addManualPaperFav({ title, tags, link })) {
+          toast('已收藏');
+          closeModal();
+          renderPaperFavs();
+        } else {
+          toast('该文献已收藏过');
+        }
+      });
+      $('#pf-cancel').addEventListener('click', closeModal);
+    },
+  });
+}
+
+function initPaperFavs() {
+  $('#paperfav-add')?.addEventListener('click', openPaperFavModal);
+  $('#paperfav-list')?.addEventListener('click', (e) => {
+    const btn = e.target.closest('.paperfav-del');
+    if (!btn) return;
+    const key = btn.dataset.del;
+    removeFavPaper(key);
+    toast('已删除');
+    renderPaperFavs();
+  });
 }
 
 /* ================= 模块入口 ================= */
 export function initSpace() {
   initSpaceTabs();
   renderPaperFavs();
+  initPaperFavs();
   initNotes();
   initLabs();
   initBooks();

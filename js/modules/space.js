@@ -3,13 +3,14 @@
  */
 import {
   $, $$, esc, toast, dateKey, uid, openModal, closeModal, firstSentence, fetchViaProxy, dailyPick,
-} from '../utils.js?v=20261009b';
+} from '../utils.js?v=20261010a';
 import {
   store, getNotes, saveNote, deleteNote,
   getLabs, saveLab, deleteLab,
   getBooks, saveBook, deleteBook,
   getFavPapers, addManualPaperFav, removeFavPaper,
-} from '../storage.js?v=20261009b';
+  getLitFavs, addLitFav, removeLitFav,
+} from '../storage.js?v=20261010a';
 
 /* ================= 豆瓣书影音推荐（自动生成，点击直达豆瓣详情页） ================= */
 let recommendCache = [];
@@ -442,6 +443,77 @@ function initLiterature() {
   loadLiterature();
 }
 
+/* ================= 文学经典：手动收藏文章（标题 + 链接，点击跳转原网站） ================= */
+function renderLitFavs() {
+  const list = getLitFavs();
+  const wrap = $('#lit-favs');
+  if (!wrap) return;
+  if (!list.length) {
+    wrap.innerHTML = '';
+    $('#lit-favs-status').innerHTML = '<div class="empty-note" style="text-align:center;padding:12px 0;">还没有收藏文章，点「+ 手动收藏」填入标题和链接即可保存</div>';
+    return;
+  }
+  $('#lit-favs-status').innerHTML = '';
+  wrap.innerHTML = list.map((it) => `
+    <div class="book-item lit-fav-item" style="align-items:center;">
+      <a href="${esc(it.link)}" target="_blank" rel="noopener noreferrer" style="flex:1;min-width:0;text-decoration:none;display:flex;gap:12px;align-items:flex-start;">
+        <div style="flex:1;min-width:0;">
+          <div class="book-name">${esc(it.title)}</div>
+        </div>
+        <span class="book-meta" style="white-space:nowrap;">阅读原文 ↗</span>
+      </a>
+      <button class="btn btn-ghost btn-sm lit-fav-del" type="button" data-del="${esc(it.link)}">删除</button>
+    </div>`).join('');
+}
+
+function openLitFavModal() {
+  openModal(`
+    <h3>手动收藏文章</h3>
+    <div class="m-field">
+      <label class="field">文章标题
+        <input class="input" id="lf-title" maxlength="200" placeholder="如：背影 · 朱自清">
+      </label>
+    </div>
+    <div class="m-field">
+      <label class="field">文章链接
+        <input class="input" id="lf-link" placeholder="https://…">
+      </label>
+    </div>
+    <div class="m-actions">
+      <button class="btn btn-primary" id="lf-save">保存</button>
+      <button class="btn btn-ghost" id="lf-cancel">取消</button>
+    </div>
+  `, {
+    onMount: () => {
+      $('#lf-save').addEventListener('click', () => {
+        const title = $('#lf-title').value.trim();
+        const link = $('#lf-link').value.trim();
+        if (!title || !link) { toast('标题和链接为必填'); return; }
+        if (!/^https?:\/\//i.test(link)) { toast('请输入以 http(s):// 开头的链接'); return; }
+        if (addLitFav({ title, link })) {
+          toast('已收藏');
+          closeModal();
+          renderLitFavs();
+        } else {
+          toast('该文章已收藏过');
+        }
+      });
+      $('#lf-cancel').addEventListener('click', closeModal);
+    },
+  });
+}
+
+function initLitFavs() {
+  $('#lit-fav-add')?.addEventListener('click', openLitFavModal);
+  $('#lit-favs')?.addEventListener('click', (e) => {
+    const btn = e.target.closest('.lit-fav-del');
+    if (!btn) return;
+    removeLitFav(btn.dataset.del);
+    toast('已删除');
+    renderLitFavs();
+  });
+}
+
 /* ================= 文献收藏（来自文献前沿 ☆收藏，点击跳转 PubMed 原文） ================= */
 function renderPaperFavs() {
   const list = getFavPapers();
@@ -539,10 +611,13 @@ export function initSpace() {
   initNotes();
   initLabs();
   initBooks();
+  renderLitFavs();
+  initLitFavs();
   initLiterature();
 }
 export function onTabSpace() {
   renderPaperFavs();
+  renderLitFavs();
   renderNotes();
   renderLabs();
   renderBooks();

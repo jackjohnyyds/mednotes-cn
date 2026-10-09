@@ -1,14 +1,14 @@
 /**
  * app.js — 应用主控制器：底部导航路由、英雄时钟、模块装载、每日自动更新、健康自检与自动修复
  */
-import { $, $$, fmtTodayCN, shouldRefreshDaily, markFetched, fetchViaProxy, toast } from './utils.js?v=20261009b';
-import { store } from './storage.js?v=20261009b';
-import { initFocus, onTabFocus } from './modules/focus.js?v=20261009b';
-import { initPapers, onTabPapers, loadPapers } from './modules/papers.js?v=20261009b';
-import { initMednews, onTabMednews, loadNews } from './modules/mednews.js?v=20261009b';
-import { initBriefing, onTabBriefing, loadBrief } from './modules/briefing.js?v=20261009b';
-import { initSpace, onTabSpace } from './modules/space.js?v=20261009b';
-import { initSync } from './sync.js?v=20261009b';
+import { $, $$, fmtTodayCN, shouldRefreshDaily, markFetched, fetchViaProxy, toast } from './utils.js?v=20261010a';
+import { store } from './storage.js?v=20261010a';
+import { initFocus, onTabFocus } from './modules/focus.js?v=20261010a';
+import { initPapers, onTabPapers, loadPapers } from './modules/papers.js?v=20261010a';
+import { initMednews, onTabMednews, loadNews } from './modules/mednews.js?v=20261010a';
+import { initBriefing, onTabBriefing, loadBrief } from './modules/briefing.js?v=20261010a';
+import { initSpace, onTabSpace } from './modules/space.js?v=20261010a';
+import { initSync } from './sync.js?v=20261010a';
 
 const TABS = ['focus', 'papers', 'mednews', 'briefing', 'space'];
 // 需要每日自动更新的资讯类模块及其加载器

@@ -160,6 +160,22 @@ export function saveFavPaper(paper) {
   }
   return list;
 }
+/* ---------------- 文学经典：手动收藏文章（标题 + 链接） ---------------- */
+export function getLitFavs() {
+  return store.get('litfavs', []);
+}
+export function addLitFav(item) {
+  const list = getLitFavs();
+  const k = String(item.link || item.title || '');
+  if (!k) return false;
+  if (list.some((x) => String(x.link || x.title || '') === k)) return false;
+  list.unshift({ title: item.title || '', link: item.link || '', favAt: Date.now() });
+  store.set('litfavs', list);
+  return true;
+}
+export function removeLitFav(key) {
+  store.set('litfavs', getLitFavs().filter((x) => String(x.link || x.title || '') !== String(key)));
+}
 export function removeFavPaper(key) {
   store.set('favpapers', getFavPapers().filter((x) => favKeyOf(x) !== String(key)));
 }

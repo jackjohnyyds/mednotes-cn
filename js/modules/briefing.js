@@ -5,8 +5,8 @@
  * 全部为原文直链，点击新标签打开原网站（梨视频点击跳转播放页），不使用 Google News 等重定向链接。
  * 数据链路：静态 JSON 秒开 → 始终在线聚合（RSSHub / 官方直链 RSS / China Daily 频道页 HTML）覆盖。
  */
-import { $, $$, esc, fetchWithFallback, fetchApiData, fetchViaProxy, fetchHtmlViaProxy, relTime, isEnglish, translateText } from '../utils.js?v=20261003a';
-import { historyAdd } from '../storage.js?v=20261003a';
+import { $, $$, esc, fetchWithFallback, fetchApiData, fetchViaProxy, fetchHtmlViaProxy, relTime, isEnglish, translateText } from '../utils.js?v=20261009a';
+import { historyAdd } from '../storage.js?v=20261009a';
 
 const RSSHUB_INSTANCES = ['https://rsshub.rssforever.com', 'https://rsshub.app'];
 const PER_TAB = 24; // 每栏最终展示条数

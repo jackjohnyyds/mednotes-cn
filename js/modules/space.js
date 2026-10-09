@@ -3,12 +3,13 @@
  */
 import {
   $, $$, esc, toast, dateKey, uid, openModal, closeModal, firstSentence, fetchViaProxy, dailyPick,
-} from '../utils.js?v=20261003a';
+} from '../utils.js?v=20261009a';
 import {
   store, getNotes, saveNote, deleteNote,
   getLabs, saveLab, deleteLab,
   getBooks, saveBook, deleteBook,
-} from '../storage.js?v=20261003a';
+  getFavPapers,
+} from '../storage.js?v=20261009a';
 
 /* ================= 豆瓣书影音推荐（自动生成，点击直达豆瓣详情页） ================= */
 let recommendCache = [];
@@ -441,15 +442,44 @@ function initLiterature() {
   loadLiterature();
 }
 
+/* ================= 文献收藏（来自文献前沿 ☆收藏，点击跳转 PubMed 原文） ================= */
+function renderPaperFavs() {
+  const list = getFavPapers();
+  const wrap = $('#paperfav-list');
+  if (!wrap) return;
+  if (!list.length) {
+    wrap.innerHTML = '';
+    $('#paperfav-status').innerHTML = '<div class="empty-note" style="text-align:center;padding:16px 0;">还没有收藏文献，可在「文献前沿」板块点击 ☆收藏 保存到这里</div>';
+    return;
+  }
+  $('#paperfav-status').innerHTML = '';
+  wrap.innerHTML = list.map((p) => {
+    const tags = [p.field, p.journal].filter(Boolean);
+    const title = p.titleCn || p.title;
+    return `<a class="book-item paperfav-item" href="${esc(p.link)}" target="_blank" rel="noopener noreferrer">
+      <div style="flex:1;min-width:0;">
+        <div class="book-name">${esc(title)}</div>
+        ${p.titleCn && p.titleCn !== p.title ? `<div class="book-comment">${esc(p.title)}</div>` : ''}
+        <div class="book-meta">
+          ${tags.map((t) => `<span class="chip">${esc(t)}</span>`).join('')}
+        </div>
+      </div>
+      <span class="book-meta" style="white-space:nowrap;">打开原文 ↗</span>
+    </a>`;
+  }).join('');
+}
+
 /* ================= 模块入口 ================= */
 export function initSpace() {
   initSpaceTabs();
+  renderPaperFavs();
   initNotes();
   initLabs();
   initBooks();
   initLiterature();
 }
 export function onTabSpace() {
+  renderPaperFavs();
   renderNotes();
   renderLabs();
   renderBooks();

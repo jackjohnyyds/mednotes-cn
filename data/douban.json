@@ -1,4 +1,133 @@
 {
- "items": [],
- "lastUpdated": "2026-10-09T09:49:58.951375+00:00"
+ "items": [
+  {
+   "name": "罗斯",
+   "type": "电影",
+   "rating": "8.5",
+   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/35322132/",
+   "source": "https://movie.douban.com/subject/35322132/"
+  },
+  {
+   "name": "生化危机：爆发夜",
+   "type": "电影",
+   "rating": "7.3",
+   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/37068446/",
+   "source": "https://movie.douban.com/subject/37068446/"
+  },
+  {
+   "name": "野兽之心",
+   "type": "电影",
+   "rating": "7.3",
+   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/36828393/",
+   "source": "https://movie.douban.com/subject/36828393/"
+  },
+  {
+   "name": "500英里",
+   "type": "电影",
+   "rating": "7.7",
+   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/36772727/",
+   "source": "https://movie.douban.com/subject/36772727/"
+  },
+  {
+   "name": "风暴",
+   "type": "电影",
+   "rating": "7.7",
+   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/36488589/",
+   "source": "https://movie.douban.com/subject/36488589/"
+  },
+  {
+   "name": "怪化猫：蛇神",
+   "type": "电影",
+   "rating": "7.2",
+   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/37170498/",
+   "source": "https://movie.douban.com/subject/37170498/"
+  },
+  {
+   "name": "电动维纳斯",
+   "type": "电影",
+   "rating": "7.4",
+   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/37193887/",
+   "source": "https://movie.douban.com/subject/37193887/"
+  },
+  {
+   "name": "隐迹之书：重写自我",
+   "type": "电影",
+   "rating": "7.7",
+   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/36554090/",
+   "source": "https://movie.douban.com/subject/36554090/"
+  },
+  {
+   "name": "凝神时刻",
+   "type": "书籍",
+   "rating": "8.8",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38593398/",
+   "source": "https://book.douban.com/subject/38593398/"
+  },
+  {
+   "name": "魏玛十五年",
+   "type": "书籍",
+   "rating": "8.8",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38529630/",
+   "source": "https://book.douban.com/subject/38529630/"
+  },
+  {
+   "name": "失去",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38591481/",
+   "source": "https://book.douban.com/subject/38591481/"
+  },
+  {
+   "name": "远山回忆",
+   "type": "书籍",
+   "rating": "8.9",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38549105/",
+   "source": "https://book.douban.com/subject/38549105/"
+  },
+  {
+   "name": "愿你的旅途漫长：卡瓦菲斯经典诗集",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38561063/",
+   "source": "https://book.douban.com/subject/38561063/"
+  },
+  {
+   "name": "弗洛伊德与精神分析家的欲望",
+   "type": "书籍",
+   "rating": "8.8",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38529592/",
+   "source": "https://book.douban.com/subject/38529592/"
+  },
+  {
+   "name": "镇子",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38432027/",
+   "source": "https://book.douban.com/subject/38432027/"
+  },
+  {
+   "name": "纪德作品集：生命的变奏",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38584589/",
+   "source": "https://book.douban.com/subject/38584589/"
+  }
+ ],
+ "lastUpdated": "2026-10-10T03:20:12.407385+00:00"
 }

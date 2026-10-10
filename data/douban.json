@@ -20,7 +20,7 @@
    "name": "野兽之心",
    "type": "电影",
    "rating": "7.3",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
    "doubanLink": "https://movie.douban.com/subject/36828393/",
    "source": "https://movie.douban.com/subject/36828393/"
   },
@@ -89,45 +89,45 @@
    "source": "https://book.douban.com/subject/38591481/"
   },
   {
-   "name": "远山回忆",
-   "type": "书籍",
-   "rating": "8.9",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38549105/",
-   "source": "https://book.douban.com/subject/38549105/"
-  },
-  {
-   "name": "愿你的旅途漫长：卡瓦菲斯经典诗集",
+   "name": "素水",
    "type": "书籍",
    "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/37434517/",
+   "source": "https://book.douban.com/subject/37434517/"
+  },
+  {
+   "name": "哲学如何让人获得快乐",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38465261/",
+   "source": "https://book.douban.com/subject/38465261/"
+  },
+  {
+   "name": "总有人留在昨天",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38922959/",
+   "source": "https://book.douban.com/subject/38922959/"
+  },
+  {
+   "name": "亲爱的小狗.2",
+   "type": "书籍",
+   "rating": "9.4",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38561063/",
-   "source": "https://book.douban.com/subject/38561063/"
+   "doubanLink": "https://book.douban.com/subject/38413066/",
+   "source": "https://book.douban.com/subject/38413066/"
   },
   {
-   "name": "弗洛伊德与精神分析家的欲望",
-   "type": "书籍",
-   "rating": "8.8",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38529592/",
-   "source": "https://book.douban.com/subject/38529592/"
-  },
-  {
-   "name": "镇子",
+   "name": "生而有债",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38432027/",
-   "source": "https://book.douban.com/subject/38432027/"
-  },
-  {
-   "name": "纪德作品集：生命的变奏",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38584589/",
-   "source": "https://book.douban.com/subject/38584589/"
+   "doubanLink": "https://book.douban.com/subject/38459362/",
+   "source": "https://book.douban.com/subject/38459362/"
   }
  ],
- "lastUpdated": "2026-10-10T03:20:12.407385+00:00"
+ "lastUpdated": "2026-10-10T09:13:37.526674+00:00"
 }

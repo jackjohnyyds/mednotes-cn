@@ -1,9 +1,73 @@
 {
  "items": [
   {
+   "name": "罗斯",
+   "type": "电影",
+   "rating": "8.5",
+   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/35322132/",
+   "source": "https://movie.douban.com/subject/35322132/"
+  },
+  {
+   "name": "生化危机：爆发夜",
+   "type": "电影",
+   "rating": "7.3",
+   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/37068446/",
+   "source": "https://movie.douban.com/subject/37068446/"
+  },
+  {
+   "name": "野兽之心",
+   "type": "电影",
+   "rating": "7.3",
+   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/36828393/",
+   "source": "https://movie.douban.com/subject/36828393/"
+  },
+  {
+   "name": "500英里",
+   "type": "电影",
+   "rating": "7.6",
+   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/36772727/",
+   "source": "https://movie.douban.com/subject/36772727/"
+  },
+  {
+   "name": "风暴",
+   "type": "电影",
+   "rating": "7.6",
+   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/36488589/",
+   "source": "https://movie.douban.com/subject/36488589/"
+  },
+  {
+   "name": "怪化猫：蛇神",
+   "type": "电影",
+   "rating": "7.1",
+   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/37170498/",
+   "source": "https://movie.douban.com/subject/37170498/"
+  },
+  {
+   "name": "电动维纳斯",
+   "type": "电影",
+   "rating": "7.4",
+   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/37193887/",
+   "source": "https://movie.douban.com/subject/37193887/"
+  },
+  {
+   "name": "隐迹之书：重写自我",
+   "type": "电影",
+   "rating": "7.7",
+   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
+   "doubanLink": "https://movie.douban.com/subject/36554090/",
+   "source": "https://movie.douban.com/subject/36554090/"
+  },
+  {
    "name": "我的奥兰多",
    "type": "书籍",
-   "rating": "9.7",
+   "rating": "9.6",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38644515/",
    "source": "https://book.douban.com/subject/38644515/"
@@ -65,5 +129,5 @@
    "source": "https://book.douban.com/subject/38233483/"
   }
  ],
- "lastUpdated": "2026-10-11T03:20:14.140541+00:00"
+ "lastUpdated": "2026-10-11T09:29:57.882029+00:00"
 }

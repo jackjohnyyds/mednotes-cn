@@ -1,133 +1,69 @@
 {
  "items": [
   {
-   "name": "罗斯",
-   "type": "电影",
+   "name": "我的奥兰多",
+   "type": "书籍",
+   "rating": "9.7",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38644515/",
+   "source": "https://book.douban.com/subject/38644515/"
+  },
+  {
+   "name": "穿越",
+   "type": "书籍",
+   "rating": "8.2",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38583596/",
+   "source": "https://book.douban.com/subject/38583596/"
+  },
+  {
+   "name": "汉政与王道",
+   "type": "书籍",
    "rating": "8.5",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/35322132/",
-   "source": "https://movie.douban.com/subject/35322132/"
+   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/37322645/",
+   "source": "https://book.douban.com/subject/37322645/"
   },
   {
-   "name": "生化危机：爆发夜",
-   "type": "电影",
-   "rating": "7.3",
-   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/37068446/",
-   "source": "https://movie.douban.com/subject/37068446/"
-  },
-  {
-   "name": "野兽之心",
-   "type": "电影",
-   "rating": "7.3",
-   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36828393/",
-   "source": "https://movie.douban.com/subject/36828393/"
-  },
-  {
-   "name": "500英里",
-   "type": "电影",
-   "rating": "7.7",
-   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36772727/",
-   "source": "https://movie.douban.com/subject/36772727/"
-  },
-  {
-   "name": "风暴",
-   "type": "电影",
-   "rating": "7.7",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36488589/",
-   "source": "https://movie.douban.com/subject/36488589/"
-  },
-  {
-   "name": "怪化猫：蛇神",
-   "type": "电影",
-   "rating": "7.2",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/37170498/",
-   "source": "https://movie.douban.com/subject/37170498/"
-  },
-  {
-   "name": "电动维纳斯",
-   "type": "电影",
-   "rating": "7.4",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/37193887/",
-   "source": "https://movie.douban.com/subject/37193887/"
-  },
-  {
-   "name": "隐迹之书：重写自我",
-   "type": "电影",
-   "rating": "7.7",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36554090/",
-   "source": "https://movie.douban.com/subject/36554090/"
-  },
-  {
-   "name": "凝神时刻",
+   "name": "伦敦上学记",
    "type": "书籍",
-   "rating": "8.8",
+   "rating": "8.2",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38570465/",
+   "source": "https://book.douban.com/subject/38570465/"
+  },
+  {
+   "name": "康熙",
+   "type": "书籍",
+   "rating": "9.2",
+   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38381103/",
+   "source": "https://book.douban.com/subject/38381103/"
+  },
+  {
+   "name": "我，不完美博主",
+   "type": "书籍",
+   "rating": "8.4",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38593398/",
-   "source": "https://book.douban.com/subject/38593398/"
+   "doubanLink": "https://book.douban.com/subject/38594942/",
+   "source": "https://book.douban.com/subject/38594942/"
   },
   {
-   "name": "魏玛十五年",
-   "type": "书籍",
-   "rating": "8.8",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38529630/",
-   "source": "https://book.douban.com/subject/38529630/"
-  },
-  {
-   "name": "失去",
+   "name": "将怀疑作为方法",
    "type": "书籍",
    "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38556442/",
+   "source": "https://book.douban.com/subject/38556442/"
+  },
+  {
+   "name": "岁以百年",
+   "type": "书籍",
+   "rating": "9.5",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38591481/",
-   "source": "https://book.douban.com/subject/38591481/"
-  },
-  {
-   "name": "素水",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37434517/",
-   "source": "https://book.douban.com/subject/37434517/"
-  },
-  {
-   "name": "哲学如何让人获得快乐",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38465261/",
-   "source": "https://book.douban.com/subject/38465261/"
-  },
-  {
-   "name": "总有人留在昨天",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38922959/",
-   "source": "https://book.douban.com/subject/38922959/"
-  },
-  {
-   "name": "亲爱的小狗.2",
-   "type": "书籍",
-   "rating": "9.4",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38413066/",
-   "source": "https://book.douban.com/subject/38413066/"
-  },
-  {
-   "name": "生而有债",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38459362/",
-   "source": "https://book.douban.com/subject/38459362/"
+   "doubanLink": "https://book.douban.com/subject/38233483/",
+   "source": "https://book.douban.com/subject/38233483/"
   }
  ],
- "lastUpdated": "2026-10-10T09:13:37.526674+00:00"
+ "lastUpdated": "2026-10-11T03:20:14.140541+00:00"
 }

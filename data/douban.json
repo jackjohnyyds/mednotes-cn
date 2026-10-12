@@ -63,7 +63,71 @@
    "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
    "doubanLink": "https://movie.douban.com/subject/36554090/",
    "source": "https://movie.douban.com/subject/36554090/"
+  },
+  {
+   "name": "卡夫卡箴言集",
+   "type": "书籍",
+   "rating": "8.1",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38583811/",
+   "source": "https://book.douban.com/subject/38583811/"
+  },
+  {
+   "name": "附魅世界的新科学",
+   "type": "书籍",
+   "rating": "8.8",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/37399744/",
+   "source": "https://book.douban.com/subject/37399744/"
+  },
+  {
+   "name": "痛苦·快乐·更大的善好",
+   "type": "书籍",
+   "rating": "8.5",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38232579/",
+   "source": "https://book.douban.com/subject/38232579/"
+  },
+  {
+   "name": "相对于国家的社会",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38395837/",
+   "source": "https://book.douban.com/subject/38395837/"
+  },
+  {
+   "name": "空地",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38613720/",
+   "source": "https://book.douban.com/subject/38613720/"
+  },
+  {
+   "name": "孵化",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38904566/",
+   "source": "https://book.douban.com/subject/38904566/"
+  },
+  {
+   "name": "神圣是什么颜色的",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38547000/",
+   "source": "https://book.douban.com/subject/38547000/"
+  },
+  {
+   "name": "无暇赴死",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38469221/",
+   "source": "https://book.douban.com/subject/38469221/"
   }
  ],
- "lastUpdated": "2026-10-12T10:00:02.091873+00:00"
+ "lastUpdated": "2026-10-12T15:59:52.671926+00:00"
 }

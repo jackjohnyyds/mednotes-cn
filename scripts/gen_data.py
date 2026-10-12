@@ -485,24 +485,35 @@ def gen_douban():
     return {'items': items, 'lastUpdated': datetime.datetime.now(datetime.timezone.utc).isoformat()}
 
 # ---------------- 文学经典（个人空间：每日诗词 + 散文，静态精选库） ----------------
+# 池子需足够大（≥每日展示数 10），否则 dailyPick 每天全量显示、内容无法轮换。
+# 链接统一用古诗文网搜索直达（标题即参数，无需作品 ID，国内可直接访问）。
+def _gsw_url(title):
+    return 'https://www.gushiwen.cn/search.php?type=work&value=' + urllib.parse.quote(title)
+
+LIT_POEMS = [
+    ('静夜思', '唐'), ('登鹳雀楼', '唐'), ('相思', '唐'), ('鹿柴', '唐'), ('竹里馆', '唐'),
+    ('问刘十九', '唐'), ('春晓', '唐'), ('江雪', '唐'), ('望庐山瀑布', '唐'), ('黄鹤楼', '唐'),
+    ('送元二使安西', '唐'), ('九月九日忆山东兄弟', '唐'), ('游子吟', '唐'), ('悯农', '唐'),
+    ('咏鹅', '唐'), ('回乡偶书', '唐'), ('出塞', '唐'), ('凉州词', '唐'), ('枫桥夜泊', '唐'),
+    ('别董大', '唐'), ('早发白帝城', '唐'), ('望天门山', '唐'), ('赠汪伦', '唐'), ('独坐敬亭山', '唐'),
+    ('夜雨寄北', '唐'), ('嫦娥', '唐'), ('乌衣巷', '唐'), ('泊秦淮', '唐'), ('山行', '唐'),
+    ('清明', '唐'), ('江南春', '唐'), ('赤壁', '唐'), ('过故人庄', '唐'), ('望岳', '唐'),
+    ('水调歌头·明月几时有', '宋'), ('念奴娇·赤壁怀古', '宋'), ('声声慢', '宋'), ('如梦令', '宋'),
+    ('鹊桥仙', '宋'), ('满江红', '宋'), ('卜算子·咏梅', '宋'), ('青玉案·元夕', '宋'),
+    ('虞美人', '五代'), ('相见欢', '五代'), ('定风波', '宋'), ('江城子·密州出猎', '宋'),
+]
+LIT_ESSAYS = [
+    ('背影', '朱自清'), ('荷塘月色', '朱自清'), ('匆匆', '朱自清'), ('春', '朱自清'),
+    ('绿', '朱自清'), ('桨声灯影里的秦淮河', '朱自清'), ('冬天', '朱自清'),
+    ('从百草园到三味书屋', '鲁迅'), ('藤野先生', '鲁迅'), ('孔乙己', '鲁迅'),
+    ('社戏', '鲁迅'), ('故乡', '鲁迅'), ('济南的冬天', '老舍'), ('猫', '老舍'),
+    ('养花', '老舍'), ('笑', '冰心'), ('寄小读者', '冰心'), ('雅舍', '梁实秋'),
+    ('白杨礼赞', '茅盾'), ('故都的秋', '郁达夫'), ('落花生', '许地山'), ('差不多先生传', '胡适'),
+    ('荔枝蜜', '杨朔'), ('边城', '沈从文'),
+]
 LIT_STATIC = {
-    'poems': [
-        {'title': '登鹳雀楼', 'dynasty': '唐', 'url': 'https://www.gushiwen.cn/shiwenv_c90ff9ea5a71.aspx'},
-        {'title': '相思', 'dynasty': '唐', 'url': 'https://www.gushiwen.cn/shiwenv_f324eea45183.aspx'},
-        {'title': '鹿柴', 'dynasty': '唐', 'url': 'https://www.gushiwen.cn/shiwenv_e9b1a8b4def0.aspx'},
-        {'title': '竹里馆', 'dynasty': '唐', 'url': 'https://www.gushiwen.cn/shiwenv_4809b5e7a16a.aspx'},
-        {'title': '问刘十九', 'dynasty': '唐', 'url': 'https://www.gushiwen.cn/shiwenv_d09fef17613b.aspx'},
-        {'title': '静夜思', 'dynasty': '唐', 'url': 'https://www.gushiwen.cn/shiwenv_f843c2f8e579.aspx'},
-        {'title': '春晓', 'dynasty': '唐', 'url': 'https://www.gushiwen.cn/shiwenv_1480d3fa2418.aspx'},
-        {'title': '江雪', 'dynasty': '唐', 'url': 'https://www.gushiwen.cn/shiwenv_10b3d3f56d8f.aspx'},
-    ],
-    'essays': [
-        {'title': '背影', 'author': '朱自清', 'url': 'https://zh.wikisource.org/wiki/%E8%83%8C%E5%BD%B1'},
-        {'title': '荷塘月色', 'author': '朱自清', 'url': 'https://zh.wikisource.org/wiki/%E8%8D%B7%E5%A1%98%E6%9C%88%E8%89%B2'},
-        {'title': '匆匆', 'author': '朱自清', 'url': 'https://zh.wikisource.org/wiki/%E5%8C%86%E5%8C%86'},
-        {'title': '从百草园到三味书屋', 'author': '鲁迅', 'url': 'https://zh.wikisource.org/wiki/%E4%BB%8E%E7%99%BE%E8%8D%89%E5%9B%AD%E5%88%B0%E4%B8%89%E5%91%B3%E4%B9%A6%E5%B1%8B'},
-        {'title': '春', 'author': '朱自清', 'url': 'https://zh.wikisource.org/wiki/%E6%98%A5'},
-    ],
+    'poems': [{'title': t, 'dynasty': d, 'url': _gsw_url(t)} for t, d in LIT_POEMS],
+    'essays': [{'title': t, 'author': a, 'url': _gsw_url(t)} for t, a in LIT_ESSAYS],
 }
 
 def gen_literature():

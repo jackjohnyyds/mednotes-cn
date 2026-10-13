@@ -51,7 +51,7 @@
   {
    "name": "电动维纳斯",
    "type": "电影",
-   "rating": "7.4",
+   "rating": "7.3",
    "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
    "doubanLink": "https://movie.douban.com/subject/37193887/",
    "source": "https://movie.douban.com/subject/37193887/"
@@ -63,71 +63,7 @@
    "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
    "doubanLink": "https://movie.douban.com/subject/36554090/",
    "source": "https://movie.douban.com/subject/36554090/"
-  },
-  {
-   "name": "权力与王座",
-   "type": "书籍",
-   "rating": "8.2",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38182714/",
-   "source": "https://book.douban.com/subject/38182714/"
-  },
-  {
-   "name": "底层的珍珠",
-   "type": "书籍",
-   "rating": "7.5",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38622793/",
-   "source": "https://book.douban.com/subject/38622793/"
-  },
-  {
-   "name": "照片的阅读方法",
-   "type": "书籍",
-   "rating": "8.4",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38357093/",
-   "source": "https://book.douban.com/subject/38357093/"
-  },
-  {
-   "name": "我的风暴，我的庇护所",
-   "type": "书籍",
-   "rating": "9.4",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38901091/",
-   "source": "https://book.douban.com/subject/38901091/"
-  },
-  {
-   "name": "近代中国反帝观念的生成与演变（1900—1927）",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38649253/",
-   "source": "https://book.douban.com/subject/38649253/"
-  },
-  {
-   "name": "从心所欲",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38560412/",
-   "source": "https://book.douban.com/subject/38560412/"
-  },
-  {
-   "name": "我的奥兰多",
-   "type": "书籍",
-   "rating": "9.5",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38644515/",
-   "source": "https://book.douban.com/subject/38644515/"
-  },
-  {
-   "name": "赴金山",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38571794/",
-   "source": "https://book.douban.com/subject/38571794/"
   }
  ],
- "lastUpdated": "2026-10-13T03:31:44.278964+00:00"
+ "lastUpdated": "2026-10-13T09:53:30.418699+00:00"
 }

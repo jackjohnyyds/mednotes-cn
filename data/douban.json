@@ -1,133 +1,69 @@
 {
  "items": [
   {
-   "name": "罗斯",
-   "type": "电影",
-   "rating": "8.5",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/35322132/",
-   "source": "https://movie.douban.com/subject/35322132/"
-  },
-  {
-   "name": "生化危机：爆发夜",
-   "type": "电影",
-   "rating": "7.3",
-   "comment": "</p><p><img src=\"https://img2.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/37068446/",
-   "source": "https://movie.douban.com/subject/37068446/"
-  },
-  {
-   "name": "野兽之心",
-   "type": "电影",
-   "rating": "7.3",
-   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36828393/",
-   "source": "https://movie.douban.com/subject/36828393/"
-  },
-  {
-   "name": "500英里",
-   "type": "电影",
-   "rating": "7.6",
-   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36772727/",
-   "source": "https://movie.douban.com/subject/36772727/"
-  },
-  {
-   "name": "风暴",
-   "type": "电影",
-   "rating": "7.6",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36488589/",
-   "source": "https://movie.douban.com/subject/36488589/"
-  },
-  {
-   "name": "怪化猫：蛇神",
-   "type": "电影",
-   "rating": "7.1",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/37170498/",
-   "source": "https://movie.douban.com/subject/37170498/"
-  },
-  {
-   "name": "电动维纳斯",
-   "type": "电影",
-   "rating": "7.4",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/37193887/",
-   "source": "https://movie.douban.com/subject/37193887/"
-  },
-  {
-   "name": "隐迹之书：重写自我",
-   "type": "电影",
-   "rating": "7.6",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36554090/",
-   "source": "https://movie.douban.com/subject/36554090/"
-  },
-  {
-   "name": "卡夫卡箴言集",
+   "name": "权力与王座",
    "type": "书籍",
-   "rating": "8.1",
+   "rating": "8.2",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38182714/",
+   "source": "https://book.douban.com/subject/38182714/"
+  },
+  {
+   "name": "底层的珍珠",
+   "type": "书籍",
+   "rating": "7.5",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38622793/",
+   "source": "https://book.douban.com/subject/38622793/"
+  },
+  {
+   "name": "照片的阅读方法",
+   "type": "书籍",
+   "rating": "8.4",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38357093/",
+   "source": "https://book.douban.com/subject/38357093/"
+  },
+  {
+   "name": "我的风暴，我的庇护所",
+   "type": "书籍",
+   "rating": "9.4",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38583811/",
-   "source": "https://book.douban.com/subject/38583811/"
+   "doubanLink": "https://book.douban.com/subject/38901091/",
+   "source": "https://book.douban.com/subject/38901091/"
   },
   {
-   "name": "附魅世界的新科学",
-   "type": "书籍",
-   "rating": "8.8",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37399744/",
-   "source": "https://book.douban.com/subject/37399744/"
-  },
-  {
-   "name": "痛苦·快乐·更大的善好",
-   "type": "书籍",
-   "rating": "8.5",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38232579/",
-   "source": "https://book.douban.com/subject/38232579/"
-  },
-  {
-   "name": "相对于国家的社会",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38395837/",
-   "source": "https://book.douban.com/subject/38395837/"
-  },
-  {
-   "name": "空地",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38613720/",
-   "source": "https://book.douban.com/subject/38613720/"
-  },
-  {
-   "name": "孵化",
+   "name": "近代中国反帝观念的生成与演变（1900—1927）",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38904566/",
-   "source": "https://book.douban.com/subject/38904566/"
+   "doubanLink": "https://book.douban.com/subject/38649253/",
+   "source": "https://book.douban.com/subject/38649253/"
   },
   {
-   "name": "神圣是什么颜色的",
+   "name": "从心所欲",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38547000/",
-   "source": "https://book.douban.com/subject/38547000/"
+   "doubanLink": "https://book.douban.com/subject/38560412/",
+   "source": "https://book.douban.com/subject/38560412/"
   },
   {
-   "name": "无暇赴死",
+   "name": "我的奥兰多",
+   "type": "书籍",
+   "rating": "9.5",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38644515/",
+   "source": "https://book.douban.com/subject/38644515/"
+  },
+  {
+   "name": "赴金山",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38469221/",
-   "source": "https://book.douban.com/subject/38469221/"
+   "doubanLink": "https://book.douban.com/subject/38571794/",
+   "source": "https://book.douban.com/subject/38571794/"
   }
  ],
- "lastUpdated": "2026-10-12T15:59:52.671926+00:00"
+ "lastUpdated": "2026-10-13T00:31:50.353235+00:00"
 }

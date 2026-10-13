@@ -486,9 +486,28 @@ def gen_douban():
 
 # ---------------- 文学经典（个人空间：每日诗词 + 散文，静态精选库） ----------------
 # 池子需足够大（≥每日展示数 10），否则 dailyPick 每天全量显示、内容无法轮换。
-# 链接统一用古诗文网搜索直达（标题即参数，无需作品 ID，国内可直接访问）。
-def _gsw_url(title):
-    return 'https://www.gushiwen.cn/search.php?type=work&value=' + urllib.parse.quote(title)
+# 链接策略：默认百度百科词条直达（自动重定向到原文词条，国内可访问、含全文）；
+# 个别无百科词条/易消歧义的标题用特例映射（古诗文网已知直链 / 互动百科原文 / 百科精确搜索）。
+def _baike_url(title):
+    return 'https://baike.baidu.com/item/' + urllib.parse.quote(title)
+
+def _baike_search(title):
+    return 'https://baike.baidu.com/search?word=' + urllib.parse.quote(title)
+
+# 特例映射：无百科唯一词条或易跳错（动物/季节/表情等同名）的标题
+LIT_URL_OVERRIDES = {
+    '问刘十九': 'https://www.gushiwen.cn/shiwenv_d09fef17613b.aspx',          # 古诗文网已知直链（含原文）
+    '水调歌头·明月几时有': 'https://baike.baidu.com/item/%E6%B0%B4%E8%B0%83%E6%AD%8C%E5%A4%B4/8517',  # 词牌词条含《明月几时有》
+    '过故人庄': _baike_search('过故人庄 孟浩然'),                              # 无词条，百科精确搜索
+    '冬天': _baike_search('冬天 朱自清散文'),                                  # 百科同名跳「冬季」，改精确搜索
+    '猫': _baike_search('猫 老舍散文'),                                        # 百科同名跳「动物猫」，改精确搜索
+    '笑': 'https://www.baike.com/wikiid/7089250124070147364',                 # 互动百科：冰心《笑》原文
+    '藤野先生': 'https://www.baike.com/wikiid/7537945948134688462',            # 互动百科：藤野严九郎词条
+    '白杨礼赞': 'https://www.baike.com/wikiid/7262692953017384960',            # 互动百科：含作品原文
+}
+
+def _lit_url(title):
+    return LIT_URL_OVERRIDES.get(title, _baike_url(title))
 
 LIT_POEMS = [
     ('静夜思', '唐'), ('登鹳雀楼', '唐'), ('相思', '唐'), ('鹿柴', '唐'), ('竹里馆', '唐'),
@@ -512,8 +531,8 @@ LIT_ESSAYS = [
     ('荔枝蜜', '杨朔'), ('边城', '沈从文'),
 ]
 LIT_STATIC = {
-    'poems': [{'title': t, 'dynasty': d, 'url': _gsw_url(t)} for t, d in LIT_POEMS],
-    'essays': [{'title': t, 'author': a, 'url': _gsw_url(t)} for t, a in LIT_ESSAYS],
+    'poems': [{'title': t, 'dynasty': d, 'url': _lit_url(t)} for t, d in LIT_POEMS],
+    'essays': [{'title': t, 'author': a, 'url': _lit_url(t)} for t, a in LIT_ESSAYS],
 }
 
 def gen_literature():

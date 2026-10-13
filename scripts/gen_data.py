@@ -597,20 +597,46 @@ def gen_literature():
     data['lastUpdated'] = datetime.datetime.now(datetime.timezone.utc).isoformat()
     return data
 
+# ---------------- 全历史热帖（全历史网站历史帖子，点击跳转原帖） ----------------
+# 来源：https://m2.allhistory.com/ （全历史/全知识）官方推荐历史文章，
+# 详情页 https://m2.allhistory.com/article/{id} 可公开访问（SSR 渲染全文，标题已逐条核验）。
+ALLH_STATIC = [
+    {'title': '比殷墟更早！为什么说良渚遗址是中华五千年文明的实证？',
+     'summary': '伟大的城市，伟大的文明',
+     'tag': '全历史', 'url': 'https://m2.allhistory.com/article/5d5532723ae20d0001fe0ccc'},
+    {'title': '成吉思汗创立的蒙古帝国，为何能横扫欧亚大陆？',
+     'summary': '直接统治面积达3300万平方公里的游牧帝国',
+     'tag': '全历史', 'url': 'https://m2.allhistory.com/article/5d400f57d47fa20001ed8020'},
+    {'title': '商代名相伊尹：到底是社稷之臣，还是篡位之贼？',
+     'summary': '商代传奇人物，“水边弃子”伊尹',
+     'tag': '全历史', 'url': 'https://m2.allhistory.com/article/5c78e9ef3ae20d00012e5b98'},
+    {'title': '“不落之城”钓鱼城：蒙古铁骑的折鞭之处',
+     'summary': '阻碍铁骑推进的钓鱼城不仅令南宋政权苟存，更拯救了世界',
+     'tag': '全历史', 'url': 'https://m2.allhistory.com/article/5cbbd0703ae20d0001b2e01a'},
+    {'title': '朱元璋起义——从底层到顶层的逆袭神话',
+     'summary': '经过十五年的南征北讨，曾经的讨饭僧终于实现了人生逆袭',
+     'tag': '全历史', 'url': 'https://m2.allhistory.com/article/5c43d3d53ae20d0001b69246'},
+]
+
+def gen_allhistory():
+    data = {'items': [dict(it) for it in ALLH_STATIC]}
+    data['lastUpdated'] = datetime.datetime.now(datetime.timezone.utc).isoformat()
+    return data
+
 def main():
     out_dir = sys.argv[1] if len(sys.argv) > 1 else 'data'
     import os
     os.makedirs(out_dir, exist_ok=True)
     results = {}
     with ThreadPoolExecutor(max_workers=4) as ex:
-        jobs = {'papers': ex.submit(gen_papers), 'mednews': ex.submit(gen_mednews), 'briefing': ex.submit(gen_briefing), 'douban': ex.submit(gen_douban), 'literature': ex.submit(gen_literature)}
+        jobs = {'papers': ex.submit(gen_papers), 'mednews': ex.submit(gen_mednews), 'briefing': ex.submit(gen_briefing), 'douban': ex.submit(gen_douban), 'literature': ex.submit(gen_literature), 'allhistory': ex.submit(gen_allhistory)}
         for name, fut in jobs.items():
             try:
                 results[name] = fut.result()
             except Exception as e:
                 print('[warn] %s 生成失败: %s' % (name, e), flush=True)
                 results[name] = {'items': []} if name != 'briefing' else {'categories': []}
-    for name in ('papers', 'mednews', 'briefing', 'douban', 'literature'):
+    for name in ('papers', 'mednews', 'briefing', 'douban', 'literature', 'allhistory'):
         path = os.path.join(out_dir, name + '.json')
         with open(path, 'w', encoding='utf-8') as f:
             json.dump(results[name], f, ensure_ascii=False, indent=1)

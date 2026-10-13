@@ -392,6 +392,14 @@ const FALLBACK_LIT = {
   ],
 };
 
+const FALLBACK_ALLH = [
+  { title: '比殷墟更早！为什么说良渚遗址是中华五千年文明的实证？', summary: '伟大的城市，伟大的文明', tag: '全历史', url: 'https://m2.allhistory.com/article/5d5532723ae20d0001fe0ccc' },
+  { title: '成吉思汗创立的蒙古帝国，为何能横扫欧亚大陆？', summary: '直接统治面积达3300万平方公里的游牧帝国', tag: '全历史', url: 'https://m2.allhistory.com/article/5d400f57d47fa20001ed8020' },
+  { title: '商代名相伊尹：到底是社稷之臣，还是篡位之贼？', summary: '商代传奇人物，“水边弃子”伊尹', tag: '全历史', url: 'https://m2.allhistory.com/article/5c78e9ef3ae20d00012e5b98' },
+  { title: '“不落之城”钓鱼城：蒙古铁骑的折鞭之处', summary: '阻碍铁骑推进的钓鱼城不仅令南宋政权苟存，更拯救了世界', tag: '全历史', url: 'https://m2.allhistory.com/article/5cbbd0703ae20d0001b2e01a' },
+  { title: '朱元璋起义——从底层到顶层的逆袭神话', summary: '经过十五年的南征北讨，曾经的讨饭僧终于实现了人生逆袭', tag: '全历史', url: 'https://m2.allhistory.com/article/5c43d3d53ae20d0001b69246' },
+];
+
 async function loadLiterature() {
   const wrap = $('#lit-status');
   if (wrap) wrap.innerHTML = '<div class="spin" style="margin:16px auto;"></div>';
@@ -441,6 +449,34 @@ function initLiterature() {
     renderLiterature();
   });
   loadLiterature();
+  loadAllhistory();
+}
+
+/* ================= 全历史热帖（全历史网站 5 条历史帖子，点击跳转原帖） ================= */
+async function loadAllhistory() {
+  const wrap = $('#lit-allh-status');
+  if (wrap) wrap.innerHTML = '<div class="spin" style="margin:16px auto;"></div>';
+  let items = FALLBACK_ALLH;
+  try {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), 12000);
+    try {
+      const res = await fetch(`data/allhistory.json?v=${new Date().toDateString()}`, { signal: ctrl.signal });
+      if (res.ok) {
+        const data = await res.json();
+        if (data && Array.isArray(data.items) && data.items.length) items = data.items;
+      }
+    } finally { clearTimeout(timer); }
+  } catch { /* 用兜底 */ }
+  const box = $('#lit-allh-list');
+  if (box) {
+    box.innerHTML = items.slice(0, 5).map((it) => `
+      <a class="lit-item" href="${esc(it.url)}" target="_blank" rel="noopener noreferrer">
+        <div class="lit-name">${esc(it.title)}</div>
+        <div class="lit-meta"><span class="chip">${esc(it.tag || '全历史')}</span><span style="opacity:0.6;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${esc(it.summary || '')}</span><span style="opacity:0.6;">阅读原文 ↗</span></div>
+      </a>`).join('');
+  }
+  if (wrap) wrap.innerHTML = '';
 }
 
 /* ================= 文学经典：手动收藏文章（标题 + 链接，点击跳转原网站） ================= */

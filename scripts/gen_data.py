@@ -486,53 +486,110 @@ def gen_douban():
 
 # ---------------- 文学经典（个人空间：每日诗词 + 散文，静态精选库） ----------------
 # 池子需足够大（≥每日展示数 10），否则 dailyPick 每天全量显示、内容无法轮换。
-# 链接策略：默认百度百科词条直达（自动重定向到原文词条，国内可访问、含全文）；
-# 个别无百科词条/易消歧义的标题用特例映射（古诗文网已知直链 / 互动百科原文 / 百科精确搜索）。
-def _baike_url(title):
-    return 'https://baike.baidu.com/item/' + urllib.parse.quote(title)
-
-def _baike_search(title):
-    return 'https://baike.baidu.com/search?word=' + urllib.parse.quote(title)
-
-# 特例映射：无百科唯一词条或易跳错（动物/季节/表情等同名）的标题
-LIT_URL_OVERRIDES = {
-    '问刘十九': 'https://www.gushiwen.cn/shiwenv_d09fef17613b.aspx',          # 古诗文网已知直链（含原文）
-    '水调歌头·明月几时有': 'https://baike.baidu.com/item/%E6%B0%B4%E8%B0%83%E6%AD%8C%E5%A4%B4/8517',  # 词牌词条含《明月几时有》
-    '过故人庄': _baike_search('过故人庄 孟浩然'),                              # 无词条，百科精确搜索
-    '冬天': _baike_search('冬天 朱自清散文'),                                  # 百科同名跳「冬季」，改精确搜索
-    '猫': _baike_search('猫 老舍散文'),                                        # 百科同名跳「动物猫」，改精确搜索
-    '笑': 'https://www.baike.com/wikiid/7089250124070147364',                 # 互动百科：冰心《笑》原文
-    '藤野先生': 'https://www.baike.com/wikiid/7537945948134688462',            # 互动百科：藤野严九郎词条
-    '白杨礼赞': 'https://www.baike.com/wikiid/7262692953017384960',            # 互动百科：含作品原文
+# 链接策略（2026-10-13 定稿）：全部为原文详情页直链，无搜索页/推广页/百科。
+#   诗词 -> 古诗文网详情页 https://www.gushiwen.cn/shiwenv_{id}.aspx （46 首，逐条 HTTP 200 + 标题核验通过）
+#   散文 -> 可可诗词网详情页 https://www.kekeshici.com/sanwen/... （24 篇，逐条 HTTP 200 + 标题核验通过；
+#            sanwen.net 在云环境不可达，kekeshici 为可访问的散文站替代，均含原文正文）
+LIT_URL_MAP = {
+    # ---- 诗词 46 首（古诗文网详情页直链） ----
+    '静夜思': 'https://www.gushiwen.cn/shiwenv_c35a60c1a8e2.aspx',
+    '登鹳雀楼': 'https://www.gushiwen.cn/shiwenv_c90ff9ea5a71.aspx',
+    '相思': 'https://www.gushiwen.cn/shiwenv_f324eea45183.aspx',
+    '鹿柴': 'https://www.gushiwen.cn/shiwenv_e9b1a8b4def0.aspx',
+    '竹里馆': 'https://www.gushiwen.cn/shiwenv_4809b5e7a16a.aspx',
+    '问刘十九': 'https://www.gushiwen.cn/shiwenv_d09fef17613b.aspx',
+    '春晓': 'https://www.gushiwen.cn/shiwenv_ccee5691ba93.aspx',
+    '江雪': 'https://www.gushiwen.cn/shiwenv_58313be2d918.aspx',
+    '望庐山瀑布': 'https://www.gushiwen.cn/shiwenv_62802abab937.aspx',
+    '黄鹤楼': 'https://www.gushiwen.cn/shiwenv_b0d3f72465ef.aspx',
+    '送元二使安西': 'https://www.gushiwen.cn/shiwenv_12a2295aa76b.aspx',
+    '九月九日忆山东兄弟': 'https://www.gushiwen.cn/shiwenv_d75a706935de.aspx',
+    '游子吟': 'https://www.gushiwen.cn/shiwenv_161d06b0b556.aspx',
+    '咏鹅': 'https://www.gushiwen.cn/shiwenv_eeb3869b6242.aspx',
+    '回乡偶书': 'https://www.gushiwen.cn/shiwenv_f459f8ed8d23.aspx',
+    '出塞': 'https://www.gushiwen.cn/shiwenv_b9e14c6e09aa.aspx',
+    '凉州词': 'https://www.gushiwen.cn/shiwenv_9312f5349cd7.aspx',
+    '枫桥夜泊': 'https://www.gushiwen.cn/shiwenv_6fb73f607ad3.aspx',
+    '别董大': 'https://www.gushiwen.cn/shiwenv_4b3ccba01be6.aspx',
+    '早发白帝城': 'https://www.gushiwen.cn/shiwenv_0f81015a040c.aspx',
+    '望天门山': 'https://www.gushiwen.cn/shiwenv_97e6296bfb8d.aspx',
+    '赠汪伦': 'https://www.gushiwen.cn/shiwenv_ca9eaf40a6ce.aspx',
+    '独坐敬亭山': 'https://www.gushiwen.cn/shiwenv_1da5349ad9e4.aspx',
+    '夜雨寄北': 'https://www.gushiwen.cn/shiwenv_e46c43d13b97.aspx',
+    '嫦娥': 'https://www.gushiwen.cn/shiwenv_caef25db347c.aspx',
+    '乌衣巷': 'https://www.gushiwen.cn/shiwenv_8b671db8c10d.aspx',
+    '泊秦淮': 'https://www.gushiwen.cn/shiwenv_8e8011f614fb.aspx',
+    '山行': 'https://www.gushiwen.cn/shiwenv_3c36881bd247.aspx',
+    '清明': 'https://www.gushiwen.cn/shiwenv_d3e3283daac5.aspx',
+    '江南春': 'https://www.gushiwen.cn/shiwenv_33cbdb2cf9b3.aspx',
+    '赤壁': 'https://www.gushiwen.cn/shiwenv_3fb397218a1e.aspx',
+    '过故人庄': 'https://www.gushiwen.cn/shiwenv_4a0d548bebb3.aspx',
+    '望岳': 'https://www.gushiwen.cn/shiwenv_efec283b31e0.aspx',
+    '水调歌头·明月几时有': 'https://www.gushiwen.cn/shiwenv_632c5beb84eb.aspx',
+    '念奴娇·赤壁怀古': 'https://www.gushiwen.cn/shiwenv_5fb51378286c.aspx',
+    '江城子·密州出猎': 'https://www.gushiwen.cn/shiwenv_85b8792a66ac.aspx',
+    '卜算子·咏梅': 'https://www.gushiwen.cn/shiwenv_2523dc7baa84.aspx',
+    '青玉案·元夕': 'https://www.gushiwen.cn/shiwenv_51aa3a553057.aspx',
+    '将进酒': 'https://www.gushiwen.cn/shiwenv_ee16df5673bc.aspx',
+    '登高': 'https://www.gushiwen.cn/shiwenv_eeb217f8cb2d.aspx',
+    '春望': 'https://www.gushiwen.cn/shiwenv_89d3a63c6d7f.aspx',
+    '蜀道难': 'https://www.gushiwen.cn/shiwenv_d59ec5d6c91c.aspx',
+    '行路难·其一': 'https://www.gushiwen.cn/shiwenv_870828ca8aaa.aspx',
+    '梦游天姥吟留别': 'https://www.gushiwen.cn/shiwenv_05e2f6fc757c.aspx',
+    '茅屋为秋风所破歌': 'https://www.gushiwen.cn/shiwenv_8e9ecc95d6a4.aspx',
+    '蜀相': 'https://www.gushiwen.cn/shiwenv_625762a4b089.aspx',
+    # ---- 散文 24 篇（可可诗词网详情页直链） ----
+    '背影': 'https://www.kekeshici.com/sanwen/sanwenshangxi/5947.html',
+    '荷塘月色': 'https://www.kekeshici.com/sanwen/sanwenshangxi/10618.html',
+    '匆匆': 'https://www.kekeshici.com/sanwen/sanwenshangxi/6623.html',
+    '春': 'https://www.kekeshici.com/sanwen/sanwenshangxi/6625.html',
+    '绿': 'https://www.kekeshici.com/sanwen/sanwenshangxi/4389.html',
+    '桨声灯影里的秦淮河': 'https://www.kekeshici.com/sanwen/sanwenshangxi/11634.html',
+    '冬天': 'https://www.kekeshici.com/sanwen/zhuziqing/278398.html',
+    '从百草园到三味书屋': 'https://www.kekeshici.com/sanwen/sanwenshangxi/6619.html',
+    '济南的冬天': 'https://www.kekeshici.com/sanwen/mingpian/11636.html',
+    '闲情': 'https://www.kekeshici.com/sanwen/mingpian/34652.html',
+    '寄小读者': 'https://www.kekeshici.com/sanwen/sanwenshangxi/4275.html',
+    '雅舍': 'https://www.kekeshici.com/sanwen/mingpian/34663.html',
+    '白杨礼赞': 'https://www.kekeshici.com/sanwen/sanwenshangxi/5946.html',
+    '故都的秋': 'https://www.kekeshici.com/sanwen/sanwenshangxi/10212.html',
+    '落花生': 'https://www.kekeshici.com/sanwen/sanwenshangxi/16926.html',
+    '荔枝蜜': 'https://www.kekeshici.com/sanwen/mingpian/34831.html',
+    '阿长与《山海经》': 'https://www.kekeshici.com/sanwen/sanwenshangxi/5020.html',
+    '灯下漫笔': 'https://www.kekeshici.com/sanwen/sanwenshangxi/8310.html',
+    '北京的茶食': 'https://www.kekeshici.com/sanwen/sanwenshangxi/5942.html',
+    '想北平': 'https://www.kekeshici.com/sanwen/sanwenshangxi/4699.html',
+    '我的母亲': 'https://www.kekeshici.com/sanwen/sanwenshangxi/3520.html',
+    '窗': 'https://www.kekeshici.com/sanwen/sanwenshangxi/8018.html',
+    '桃源与沅州': 'https://www.kekeshici.com/sanwen/sanwenshangxi/4527.html',
+    '乌篷船': 'https://www.kekeshici.com/sanwen/sanwenshangxi/3516.html',
 }
-
-def _lit_url(title):
-    return LIT_URL_OVERRIDES.get(title, _baike_url(title))
 
 LIT_POEMS = [
     ('静夜思', '唐'), ('登鹳雀楼', '唐'), ('相思', '唐'), ('鹿柴', '唐'), ('竹里馆', '唐'),
     ('问刘十九', '唐'), ('春晓', '唐'), ('江雪', '唐'), ('望庐山瀑布', '唐'), ('黄鹤楼', '唐'),
-    ('送元二使安西', '唐'), ('九月九日忆山东兄弟', '唐'), ('游子吟', '唐'), ('悯农', '唐'),
+    ('送元二使安西', '唐'), ('九月九日忆山东兄弟', '唐'), ('游子吟', '唐'),
     ('咏鹅', '唐'), ('回乡偶书', '唐'), ('出塞', '唐'), ('凉州词', '唐'), ('枫桥夜泊', '唐'),
     ('别董大', '唐'), ('早发白帝城', '唐'), ('望天门山', '唐'), ('赠汪伦', '唐'), ('独坐敬亭山', '唐'),
     ('夜雨寄北', '唐'), ('嫦娥', '唐'), ('乌衣巷', '唐'), ('泊秦淮', '唐'), ('山行', '唐'),
     ('清明', '唐'), ('江南春', '唐'), ('赤壁', '唐'), ('过故人庄', '唐'), ('望岳', '唐'),
-    ('水调歌头·明月几时有', '宋'), ('念奴娇·赤壁怀古', '宋'), ('声声慢', '宋'), ('如梦令', '宋'),
-    ('鹊桥仙', '宋'), ('满江红', '宋'), ('卜算子·咏梅', '宋'), ('青玉案·元夕', '宋'),
-    ('虞美人', '五代'), ('相见欢', '五代'), ('定风波', '宋'), ('江城子·密州出猎', '宋'),
+    ('水调歌头·明月几时有', '宋'), ('念奴娇·赤壁怀古', '宋'), ('江城子·密州出猎', '宋'),
+    ('卜算子·咏梅', '宋'), ('青玉案·元夕', '宋'),
+    ('将进酒', '唐'), ('登高', '唐'), ('春望', '唐'), ('蜀道难', '唐'), ('行路难·其一', '唐'),
+    ('梦游天姥吟留别', '唐'), ('茅屋为秋风所破歌', '唐'), ('蜀相', '唐'),
 ]
 LIT_ESSAYS = [
     ('背影', '朱自清'), ('荷塘月色', '朱自清'), ('匆匆', '朱自清'), ('春', '朱自清'),
     ('绿', '朱自清'), ('桨声灯影里的秦淮河', '朱自清'), ('冬天', '朱自清'),
-    ('从百草园到三味书屋', '鲁迅'), ('藤野先生', '鲁迅'), ('孔乙己', '鲁迅'),
-    ('社戏', '鲁迅'), ('故乡', '鲁迅'), ('济南的冬天', '老舍'), ('猫', '老舍'),
-    ('养花', '老舍'), ('笑', '冰心'), ('寄小读者', '冰心'), ('雅舍', '梁实秋'),
-    ('白杨礼赞', '茅盾'), ('故都的秋', '郁达夫'), ('落花生', '许地山'), ('差不多先生传', '胡适'),
-    ('荔枝蜜', '杨朔'), ('边城', '沈从文'),
+    ('从百草园到三味书屋', '鲁迅'), ('济南的冬天', '老舍'), ('闲情', '冰心'),
+    ('寄小读者', '冰心'), ('雅舍', '梁实秋'), ('白杨礼赞', '茅盾'), ('故都的秋', '郁达夫'),
+    ('落花生', '许地山'), ('荔枝蜜', '杨朔'), ('阿长与《山海经》', '鲁迅'),
+    ('灯下漫笔', '鲁迅'), ('北京的茶食', '周作人'), ('想北平', '老舍'),
+    ('我的母亲', '胡适'), ('窗', '钱钟书'), ('桃源与沅州', '沈从文'), ('乌篷船', '周作人'),
 ]
 LIT_STATIC = {
-    'poems': [{'title': t, 'dynasty': d, 'url': _lit_url(t)} for t, d in LIT_POEMS],
-    'essays': [{'title': t, 'author': a, 'url': _lit_url(t)} for t, a in LIT_ESSAYS],
+    'poems': [{'title': t, 'dynasty': d, 'url': LIT_URL_MAP[t]} for t, d in LIT_POEMS],
+    'essays': [{'title': t, 'author': a, 'url': LIT_URL_MAP[t]} for t, a in LIT_ESSAYS],
 }
 
 def gen_literature():

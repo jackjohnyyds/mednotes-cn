@@ -1,70 +1,6 @@
 {
  "items": [
   {
-   "name": "罗斯",
-   "type": "电影",
-   "rating": "8.5",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/35322132/",
-   "source": "https://movie.douban.com/subject/35322132/"
-  },
-  {
-   "name": "生化危机：爆发夜",
-   "type": "电影",
-   "rating": "7.3",
-   "comment": "</p><p><img src=\"https://img2.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/37068446/",
-   "source": "https://movie.douban.com/subject/37068446/"
-  },
-  {
-   "name": "野兽之心",
-   "type": "电影",
-   "rating": "7.3",
-   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36828393/",
-   "source": "https://movie.douban.com/subject/36828393/"
-  },
-  {
-   "name": "500英里",
-   "type": "电影",
-   "rating": "7.6",
-   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36772727/",
-   "source": "https://movie.douban.com/subject/36772727/"
-  },
-  {
-   "name": "风暴",
-   "type": "电影",
-   "rating": "7.6",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36488589/",
-   "source": "https://movie.douban.com/subject/36488589/"
-  },
-  {
-   "name": "怪化猫：蛇神",
-   "type": "电影",
-   "rating": "7.1",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/37170498/",
-   "source": "https://movie.douban.com/subject/37170498/"
-  },
-  {
-   "name": "电动维纳斯",
-   "type": "电影",
-   "rating": "7.3",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/37193887/",
-   "source": "https://movie.douban.com/subject/37193887/"
-  },
-  {
-   "name": "隐迹之书：重写自我",
-   "type": "电影",
-   "rating": "7.6",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36554090/",
-   "source": "https://movie.douban.com/subject/36554090/"
-  },
-  {
    "name": "蒙古帝国的阴影下",
    "type": "书籍",
    "rating": "8.7",
@@ -89,45 +25,45 @@
    "source": "https://book.douban.com/subject/38532621/"
   },
   {
-   "name": "人生就是一场化学",
+   "name": "涉过意识之流",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38635825/",
-   "source": "https://book.douban.com/subject/38635825/"
+   "doubanLink": "https://book.douban.com/subject/37455862/",
+   "source": "https://book.douban.com/subject/37455862/"
   },
   {
-   "name": "最好的时光",
+   "name": "拼凑小说",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38427482/",
-   "source": "https://book.douban.com/subject/38427482/"
+   "doubanLink": "https://book.douban.com/subject/37455864/",
+   "source": "https://book.douban.com/subject/37455864/"
   },
   {
-   "name": "我所眷恋的家",
+   "name": "雾港水手",
    "type": "书籍",
-   "rating": "8.6",
+   "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38494939/",
-   "source": "https://book.douban.com/subject/38494939/"
+   "doubanLink": "https://book.douban.com/subject/38551832/",
+   "source": "https://book.douban.com/subject/38551832/"
   },
   {
-   "name": "社会学的想象力",
+   "name": "白马",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38503332/",
+   "source": "https://book.douban.com/subject/38503332/"
+  },
+  {
+   "name": "福柯：广播电台访谈1961-1983 I",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38546847/",
-   "source": "https://book.douban.com/subject/38546847/"
-  },
-  {
-   "name": "诗词格律",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38567112/",
-   "source": "https://book.douban.com/subject/38567112/"
+   "doubanLink": "https://book.douban.com/subject/38915050/",
+   "source": "https://book.douban.com/subject/38915050/"
   }
  ],
- "lastUpdated": "2026-10-15T03:24:37.791536+00:00"
+ "lastUpdated": "2026-10-15T07:51:18.367929+00:00"
 }

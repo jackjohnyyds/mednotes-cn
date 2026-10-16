@@ -1,73 +1,9 @@
 {
  "items": [
   {
-   "name": "罗斯",
-   "type": "电影",
-   "rating": "8.5",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/35322132/",
-   "source": "https://movie.douban.com/subject/35322132/"
-  },
-  {
-   "name": "生化危机：爆发夜",
-   "type": "电影",
-   "rating": "7.3",
-   "comment": "</p><p><img src=\"https://img2.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/37068446/",
-   "source": "https://movie.douban.com/subject/37068446/"
-  },
-  {
-   "name": "野兽之心",
-   "type": "电影",
-   "rating": "7.3",
-   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36828393/",
-   "source": "https://movie.douban.com/subject/36828393/"
-  },
-  {
-   "name": "500英里",
-   "type": "电影",
-   "rating": "7.6",
-   "comment": "</p><p><img src=\"https://img9.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36772727/",
-   "source": "https://movie.douban.com/subject/36772727/"
-  },
-  {
-   "name": "风暴",
-   "type": "电影",
-   "rating": "7.6",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36488589/",
-   "source": "https://movie.douban.com/subject/36488589/"
-  },
-  {
-   "name": "怪化猫：蛇神",
-   "type": "电影",
-   "rating": "7.1",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/37170498/",
-   "source": "https://movie.douban.com/subject/37170498/"
-  },
-  {
-   "name": "电动维纳斯",
-   "type": "电影",
-   "rating": "7.3",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/37193887/",
-   "source": "https://movie.douban.com/subject/37193887/"
-  },
-  {
-   "name": "隐迹之书：重写自我",
-   "type": "电影",
-   "rating": "7.6",
-   "comment": "</p><p><img src=\"https://img3.doubanio.com/view/photo/m_rati…",
-   "doubanLink": "https://movie.douban.com/subject/36554090/",
-   "source": "https://movie.douban.com/subject/36554090/"
-  },
-  {
    "name": "岁以百年",
    "type": "书籍",
-   "rating": "9.4",
+   "rating": "9.3",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38233483/",
    "source": "https://book.douban.com/subject/38233483/"
@@ -89,45 +25,45 @@
    "source": "https://book.douban.com/subject/38536534/"
   },
   {
-   "name": "乌鸦的慰藉",
+   "name": "闲暇时分的男人",
    "type": "书籍",
-   "rating": "9.3",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38521715/",
-   "source": "https://book.douban.com/subject/38521715/"
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38929993/",
+   "source": "https://book.douban.com/subject/38929993/"
   },
   {
-   "name": "照片的阅读方法",
+   "name": "普通炎症",
    "type": "书籍",
-   "rating": "8.3",
+   "rating": "8.9",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38357093/",
-   "source": "https://book.douban.com/subject/38357093/"
+   "doubanLink": "https://book.douban.com/subject/38543160/",
+   "source": "https://book.douban.com/subject/38543160/"
   },
   {
-   "name": "124个梦",
-   "type": "书籍",
-   "rating": "8.5",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38546672/",
-   "source": "https://book.douban.com/subject/38546672/"
-  },
-  {
-   "name": "作为世界象征的游戏",
+   "name": "鼎革之气",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38381132/",
-   "source": "https://book.douban.com/subject/38381132/"
+   "doubanLink": "https://book.douban.com/subject/38518391/",
+   "source": "https://book.douban.com/subject/38518391/"
   },
   {
-   "name": "蒙古帝国的阴影下",
+   "name": "海浪",
    "type": "书籍",
-   "rating": "8.6",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38067351/",
-   "source": "https://book.douban.com/subject/38067351/"
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38632519/",
+   "source": "https://book.douban.com/subject/38632519/"
+  },
+  {
+   "name": "超然的大脑",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38541083/",
+   "source": "https://book.douban.com/subject/38541083/"
   }
  ],
- "lastUpdated": "2026-10-16T03:16:58.094756+00:00"
+ "lastUpdated": "2026-10-16T07:41:52.346552+00:00"
 }

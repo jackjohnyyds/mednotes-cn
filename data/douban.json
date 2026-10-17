@@ -1,69 +1,133 @@
 {
  "items": [
   {
-   "name": "岁以百年",
-   "type": "书籍",
-   "rating": "9.3",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38233483/",
-   "source": "https://book.douban.com/subject/38233483/"
+   "name": "生化危机：爆发夜",
+   "type": "电影",
+   "rating": "7.3",
+   "comment": "故事聚焦奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。</p><p><img src=\"https://…",
+   "doubanLink": "https://movie.douban.com/subject/37068446/",
+   "source": "https://movie.douban.com/subject/37068446/"
   },
   {
-   "name": "真实的事物",
+   "name": "野兽之心",
+   "type": "电影",
+   "rating": "7.3",
+   "comment": "在一场惨烈的坠机事故后，特种部队军官詹姆斯·贝尔蒙特与他的军犬奥丁绝处逢生，被困于极寒险恶的阿拉斯加荒野。</p><p>…",
+   "doubanLink": "https://movie.douban.com/subject/36828393/",
+   "source": "https://movie.douban.com/subject/36828393/"
+  },
+  {
+   "name": "风暴",
+   "type": "电影",
+   "rating": "7.6",
+   "comment": "1919年，在圣保罗，一位年轻的女剧作家赢得了梦寐以求的奖学金，前往巴黎学习戏剧——却发现，追求梦想的最大障碍，竟是生身…",
+   "doubanLink": "https://movie.douban.com/subject/36488589/",
+   "source": "https://movie.douban.com/subject/36488589/"
+  },
+  {
+   "name": "500英里",
+   "type": "电影",
+   "rating": "7.6",
+   "comment": "一对兄弟从英格兰离家出走，前往爱尔兰西海岸寻找与他们疏远的祖父。</p><p><img src=\"https://img…",
+   "doubanLink": "https://movie.douban.com/subject/36772727/",
+   "source": "https://movie.douban.com/subject/36772727/"
+  },
+  {
+   "name": "逃出布迪秀",
+   "type": "电影",
+   "rating": "7.2",
+   "comment": "一个勇敢的女孩和她的朋友们意外受困，他们必须想尽办法从一档诡异、恐怖的儿童电视节目中逃出去。</p><p><img sr…",
+   "doubanLink": "https://movie.douban.com/subject/37446297/",
+   "source": "https://movie.douban.com/subject/37446297/"
+  },
+  {
+   "name": "巴黎绽放的星辰",
+   "type": "电影",
+   "rating": "7.2",
+   "comment": "梦想成为画家的富士子与醉心芭蕾的千鹤在横滨偶然相遇，命运指引下两人重逢于法国巴黎，各自追逐梦想。</p><p><img …",
+   "doubanLink": "https://movie.douban.com/subject/37473691/",
+   "source": "https://movie.douban.com/subject/37473691/"
+  },
+  {
+   "name": "万人之上：冬攀乔戈里峰",
+   "type": "电影",
+   "rating": "7.4",
+   "comment": "K2首次冬季登顶行动夺走了5条人命，这揭示了现代高山攀登运动在商业化、社交媒体影响以及边缘化登山者与传统精英之间冲突方面…",
+   "doubanLink": "https://movie.douban.com/subject/37925649/",
+   "source": "https://movie.douban.com/subject/37925649/"
+  },
+  {
+   "name": "隐迹之书：重写自我",
+   "type": "电影",
+   "rating": "7.6",
+   "comment": "资深剪接师雪美莲通过探索家族历史，试图弄清自己为何拥有一个西式姓氏，并由此揭开了关于文化碰撞、殖民影响以及争议记忆的故事…",
+   "doubanLink": "https://movie.douban.com/subject/36554090/",
+   "source": "https://movie.douban.com/subject/36554090/"
+  },
+  {
+   "name": "万物源起",
+   "type": "书籍",
+   "rating": "8.8",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38219552/",
+   "source": "https://book.douban.com/subject/38219552/"
+  },
+  {
+   "name": "让无权无势者有力",
    "type": "书籍",
    "rating": "",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38553866/",
-   "source": "https://book.douban.com/subject/38553866/"
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38574884/",
+   "source": "https://book.douban.com/subject/38574884/"
   },
   {
-   "name": "夜晚的语言学家",
-   "type": "书籍",
-   "rating": "8.2",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38536534/",
-   "source": "https://book.douban.com/subject/38536534/"
-  },
-  {
-   "name": "闲暇时分的男人",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38929993/",
-   "source": "https://book.douban.com/subject/38929993/"
-  },
-  {
-   "name": "普通炎症",
+   "name": "空地",
    "type": "书籍",
    "rating": "8.9",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38543160/",
-   "source": "https://book.douban.com/subject/38543160/"
+   "doubanLink": "https://book.douban.com/subject/38613720/",
+   "source": "https://book.douban.com/subject/38613720/"
   },
   {
-   "name": "鼎革之气",
+   "name": "痛！",
+   "type": "书籍",
+   "rating": "8.4",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38572011/",
+   "source": "https://book.douban.com/subject/38572011/"
+  },
+  {
+   "name": "家奴的边界",
+   "type": "书籍",
+   "rating": "8.4",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38552861/",
+   "source": "https://book.douban.com/subject/38552861/"
+  },
+  {
+   "name": "了不起的概率思维",
+   "type": "书籍",
+   "rating": "8.9",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38560388/",
+   "source": "https://book.douban.com/subject/38560388/"
+  },
+  {
+   "name": "维柯的哲学",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38557363/",
+   "source": "https://book.douban.com/subject/38557363/"
+  },
+  {
+   "name": "左宗棠全传",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38518391/",
-   "source": "https://book.douban.com/subject/38518391/"
-  },
-  {
-   "name": "海浪",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38632519/",
-   "source": "https://book.douban.com/subject/38632519/"
-  },
-  {
-   "name": "超然的大脑",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38541083/",
-   "source": "https://book.douban.com/subject/38541083/"
+   "doubanLink": "https://book.douban.com/subject/38534918/",
+   "source": "https://book.douban.com/subject/38534918/"
   }
  ],
- "lastUpdated": "2026-10-16T07:41:52.346552+00:00"
+ "lastUpdated": "2026-10-17T03:22:17.274444+00:00"
 }

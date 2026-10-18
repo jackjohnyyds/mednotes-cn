@@ -191,6 +191,54 @@
    "source": "WHO 新闻",
    "summary": "The Riyadh International Humanitarian Forum 2025 was a significant event that underscored the continued partnership between WHO and KSrelief, as well as with ot…",
    "english": true
+  },
+  {
+   "title": "NHS faces more challenging winter than normal, health secretary warns",
+   "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+   "time": "Sun, 18 Oct 2026 07:05:37 GMT",
+   "source": "BBC Health",
+   "summary": "Yvette Cooper has announced £140m investment in England's urgent care system, after summer heatwaves piled pressure on the NHS.",
+   "english": true
+  },
+  {
+   "title": "Pope discharged from hospital days after lung cancer surgery",
+   "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+   "time": "Sat, 17 Oct 2026 13:51:36 GMT",
+   "source": "BBC Health",
+   "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+   "english": true
+  },
+  {
+   "title": "Pope pictured for first time since surgery and cancer diagnosis",
+   "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+   "time": "Fri, 16 Oct 2026 23:20:37 GMT",
+   "source": "BBC Health",
+   "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+   "english": true
+  },
+  {
+   "title": "Russian man linked to deadly London hospitals hack arrested",
+   "link": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
+   "time": "Fri, 16 Oct 2026 15:31:33 GMT",
+   "source": "BBC Health",
+   "summary": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
+   "english": true
+  },
+  {
+   "title": "Covid vaccine compensation scheme set for overhaul after Inquiry criticism",
+   "link": "https://www.bbc.co.uk/news/articles/c3pwgqd4gz9xo?at_medium=RSS&at_campaign=rss",
+   "time": "Fri, 16 Oct 2026 15:02:46 GMT",
+   "source": "BBC Health",
+   "summary": "Ministers promise to reform the scheme that provides financial support for those injured or bereaved by vaccines in the UK.",
+   "english": true
+  },
+  {
+   "title": "Ten-year-old Willow among children to benefit from pioneering same-day test to spot infections",
+   "link": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
+   "time": "Fri, 16 Oct 2026 00:34:45 GMT",
+   "source": "BBC Health",
+   "summary": "Metagenomics offers a new way of detecting infections in intensive care patients.",
+   "english": true
   }
  ],
  "progress": {
@@ -302,126 +350,14 @@
   ],
   "drug": [
    {
-    "title": "老牌药企再度涨停",
-    "link": "https://news.yaozh.com/archive/49147.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "净利预计同比增长170%~190%，但华海药业真正的底牌，才刚刚亮出来",
-    "link": "https://news.yaozh.com/archive/49164.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "4例死亡，FDA紧急叫停临床试验",
-    "link": "https://news.yaozh.com/archive/49148.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "疫苗中隐藏的供应链风险：为什么可持续来源的角鲨烯至关重要",
-    "link": "https://news.yaozh.com/archive/49167.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "影像“新贵”诞生？",
-    "link": "https://news.yaozh.com/archive/49159.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "又一款避孕药上市被拒",
-    "link": "https://news.yaozh.com/archive/49142.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "波士顿科学，心血管业务重组！",
-    "link": "https://news.yaozh.com/archive/49143.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "3·15丨中国药品质量不合格报告",
-    "link": "https://news.yaozh.com/archive/47440.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "3·15丨中成药质量不合格报告",
-    "link": "https://news.yaozh.com/archive/47460.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "3·15丨中药材质量不合格报告",
-    "link": "https://news.yaozh.com/archive/47481.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "第八届合成生物学与生物医学国际研讨会(CSBB 2027)",
-    "link": "https://news.yaozh.com/meeting/detail/2018",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "国际肠道微生态与环境重建展览会（CFMC 同期子展）",
-    "link": "https://news.yaozh.com/meeting/detail/2017",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "第十二届蛋白质与蛋白质组学国际研讨会(CPP 2027)",
-    "link": "https://news.yaozh.com/meeting/detail/2016",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "| 药智新闻",
-    "link": "https://news.yaozh.com/?=yaozh",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "| 药智大讲堂",
-    "link": "https://edu.yaozh.com/",
-    "source": "药智新闻",
+    "title": "首个乙肝治愈新药日本获批上市，多款国产原研药挺进三期临床",
+    "link": "https://news.39.net/shx/260831/n1wttm1.html",
+    "source": "39健康网",
     "time": "",
     "summary": "",
     "english": false
    }
   ]
  },
- "lastUpdated": "2026-10-18T03:23:07.296114+00:00"
+ "lastUpdated": "2026-10-18T07:33:52.810795+00:00"
 }

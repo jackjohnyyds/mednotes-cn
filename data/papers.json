@@ -1,349 +1,382 @@
 {
  "items": [
   {
-   "pmid": "42891570",
-   "title": "A Standardized Workflow for Multimodal Assessment of Right-to-Left Shunt-Related Ischemic Brain Injury.",
-   "abstract": "Right-to-left shunt (RLS) has been associated with cryptogenic stroke, migraine, and other neurological conditions in which ischemic brain injury may be clinically relevant. In routine practice, however, assessment is often fragmented. Shunt presence may be documented, but shunt burden, provoked versus non-provoked patterns, anatomical complexity, and MRI-defined brain injury are not always integrated into a reproducible workflow. Here, we describe a standardized protocol for multimodal assessment of RLS-related ischemic brain injury in a clinically selected cohort. The workflow includes patient screening, exclusion of major vascular and systemic factors that could independently contribute to brain parenchymal injury, contrast-enhanced transcranial Doppler ultrasound (c-TCD) confirmation and shunt grading, brain magnetic resonance imaging (MRI) classification, transthoracic and/or transesophageal echocardiographic anatomical assessment, structured data extraction, and dataset cleaning. To improve reproducibility, the protocol also standardizes key coding steps, including shunt-grade harmonization, classification of RLS as simple or complex, and interpretation of D-dimer values reported below the assay threshold. Using this workflow, a harmonized analytic cohort of 60 RLS-positive patients was established. MRI identified 23 MRI-negative and 37 MRI-positive patients. Representative analyses showed that MRI-positive findings were more frequent in patients with greater shunt burden and more complex anatomical phenotypes. This protocol provides an operational model for incorporating c-TCD, MRI, echocardiography, and structured clinical parameters into the evaluation of MRI-defined ischemic brain injury in RLS-positive patients. It should be interpreted as a workflow for standardized multimodal phenotyping rather than as a standalone physiologic assessment of all clinically significant or hypoxemia-related RLS.",
-   "journal": "Journal of visualized experiments : JoVE",
+   "pmid": "42893443",
+   "title": "Tortuous Coronary Artery Fistula Closed Using a Microvascular Plug in Heart Failure.",
+   "abstract": "Large coronary artery fistulas may result in ischemia and heart failure. A 74-year-old woman was found to have an ejection fraction of 20%-25% with apical and anterior akinesis. A large fistula from the left anterior descending artery to the pulmonary artery was identified as the likely etiology. Multiple attempts at closure failed in the setting of extreme tortuosity with nearly 180&#xb0; bends. Eventually, a 5-mm vascular plug was advanced through a microcatheter and successfully deployed. Follow-up echocardiography demonstrated improvement of the ejection fraction to 40%-45% and complete resolution of the previous wall motion abnormalities. This case illustrates a reversible coronary steal-mediated cardiomyopathy. It highlights the clinical utility of microcatheter-compatible vascular plugs for transcatheter closure of anatomically complex coronary fistulas, even in elderly patients. Percutaneous closure of coronary artery fistulas with microcatheter-compatible devices improves cardiac function even in elderly patients.",
+   "journal": "JACC. Case reports",
    "year": "2026",
    "authors": [
-    "Yiwen Zhang",
-    "Songqi Hou",
-    "Zhenzhen Yu",
-    "Yanyan Huang",
-    "Weibin Chen"
+    "Jasmin Kaur Bhullar",
+    "Christopher Walters"
    ],
-   "doi": "10.3791/72082",
+   "doi": "10.1016/j.jaccas.2026.110613",
    "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42891570/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42893443/"
   },
   {
-   "pmid": "42891555",
-   "title": "A Logistic Regression Prediction Model for Post-PCI In-Hospital Major Adverse Cardiovascular Events in Patients With Acute ST-Segment Elevation Myocardial Infarction: Construction and Internal Validation.",
-   "abstract": "The incidence of in-hospital major adverse cardiovascular events (MACE) remains high in patients with acute ST-segment elevation myocardial infarction (STEMI) after emergency percutaneous coronary intervention (PCI). Existing risk prediction tools mostly focus on preoperative baseline indicators and ignore intraoperative interventional parameters, lacking comprehensive postprocedural risk assessment tools for STEMI patients after PCI. This study is aimed at developing and internally validating a logistic regression prediction model for post-PCI in-hospital MACE in STEMI patients based on multidimensional perioperative clinical indicators, so as to realize accurate postoperative risk stratification and guide individualized perioperative management. We retrospectively included 1195 STEMI patients who underwent emergency PCI at the Chest Pain Center of Lu'an People's Hospital from January 2019 to October 2024. Patients were randomly divided into training (n = 837) and validation (n = 358) sets at a 7:3 ratio. The primary endpoint was in-hospital MACE (composite of cardiogenic shock, malignant arrhythmias, acute heart failure, reinfarction, or all-cause death). A prediction model was constructed using least absolute shrinkage and selection operator (LASSO) regression combined with multivariate logistic regression. Model discrimination was evaluated via the area under the receiver operating characteristic curve (AUC). Head-to-head discriminative comparison with the widely used GRACE and TIMI risk scores was performed using AUC values and the DeLong test to quantify the incremental predictive value of the novel model. Model calibration and clinical utility were assessed via calibration plots, the Hosmer-Lemeshow test, and decision curve analysis (DCA), with internal validation performed in the validation set. A total of 260 patients (21.8%) experienced in-hospital MACE. After LASSO regression screening and multivariate logistic regression analysis, eight independent predictors were identified: admission systolic blood pressure, Killip classification, intervention duration, contrast volume, postprocedural TIMI flow grade, culprit vessel occlusion, serum creatinine, and serum potassium. The training set AUC was 0.84 (95% CI: 0.80-0.87) with a sensitivity of 77.7% and specificity of 78.2%; the validation set AUC was 0.826 (95% CI: 0.782-0.870). Comparative discriminative analysis showed that the traditional GRACE and TIMI risk scores exhibited moderate predictive performance. The training set AUC of the GRACE score was 0.763 (95% CI: 0.724-0.800), and that of the TIMI score was 0.748 (95% CI: 0.708-0.786). In the validation set, the AUC of the GRACE score and TIMI score were 0.751 (95% CI: 0.699-0.800) and 0.736 (95% CI: 0.683-0.786), respectively. The DeLong test confirmed that our novel model achieved significantly higher discriminative ability than both GRACE and TIMI scores in both training and validation cohorts (all p 2 = 5.449, p = 0.709), and DCA demonstrated clinical net benefit within the 5%-80% threshold probability range. The logistic regression prediction model based on eight clinical indicators demonstrated good discrimination, quantitative calibration, and clinical utility for predicting post-PCI in-hospital MACE in STEMI patients. The model integrates preoperative baseline, intraoperative procedural, and laboratory indicators, achieves stable performance after internal validation, and can assist clinicians in postoperative risk stratification of patients, timely identifying high-risk populations after PCI, and optimizing postoperative perioperative management strategies.",
-   "journal": "Cardiovascular therapeutics",
+   "pmid": "42893432",
+   "title": "Endothelial dysfunction and long-term survival in cardiovascular-kidney-metabolic syndrome stages 0-3: An EASIX-based national cohort study.",
+   "abstract": "ObjectiveTo assess the association of the endothelial activation and stress index (EASIX) with all-cause and cardiovascular mortality in adults at cardiovascular-kidney-metabolic (CKM) syndrome stages 0-3.MethodsThis retrospective analysis of a population-based cohort included 10,885 adults aged &#x2265;30 years from NHANES 1999-2018, with mortality follow-up through 2019. EASIX was calculated as lactate dehydrogenase &#xd7; creatinine/platelet count. Survey-weighted Cox models, restricted cubic splines, subgroup analyses and sensitivity analyses evaluated mortality associations.ResultsDuring a median follow-up of 97 months, 1,122 participants died, including 295 from cardiovascular causes. Each one-unit increase in EASIX was associated with all-cause mortality (adjusted hazard ratio [HR] 1.41, 95% confidence interval [CI] 1.24-1.61) and cardiovascular mortality (HR 1.30, 95% CI 1.13-1.49). There was no evidence of non-linearity for all-cause mortality (P = 0.466), while the cardiovascular association was non-linear (P = 0.008). Associations persisted after additional lifestyle adjustment. CKM-stage interactions were not significant in the full cohort.ConclusionsHigher EASIX was associated with greater all-cause and cardiovascular mortality in CKM stages 0-3. Its potential role in clinical risk assessment warrants further validation.",
+   "journal": "Science progress",
    "year": "2026",
    "authors": [
-    "Jun Li",
-    "Geng Pan",
-    "Na Wang",
-    "Mei Wu"
+    "Asiya Abudesimu",
+    "Zhonghua Sun",
+    "Ge Zhang",
+    "Xiangyu Sun",
+    "Xinliang Peng",
+    "Dilixiati Siti",
+    "Xiang Ma"
    ],
-   "doi": "10.1155/cdr/3618662",
+   "doi": "10.1177/00368504261499186",
    "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42891555/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42893432/"
   },
   {
-   "pmid": "42891547",
-   "title": "The Multidimensional Lens: Rethinking HRQoL Assessment in Older Adults After PCI.",
-   "abstract": "",
-   "journal": "Clinical cardiology",
+   "pmid": "42893394",
+   "title": "Cardiology Support Utilization Patterns and Associated Barriers Across Northwestern Ontario.",
+   "abstract": "The Thunder Bay Regional Health Sciences Centre On-Call Cardiology Support Service serves a geographically vast region across Northwestern Ontario where cardiovascular disease is a major burden. The objective is to analyze service utilization patterns including locations, indications, interventions, and barriers. In this 6-month prospective study, cardiologists collected data via survey on calls from rural and remote providers. Descriptive statistics and Fisher's exact test were used. The Canadian Institute for Health Information's Rural Health Systems Model was used for interpretation. Two hundred and six responses across 19 locations identified: common consultations-chest pain, dyspnea, and atrial fibrillation; frequent interventions-medical recommendations, education, and transfer decisions; key barriers-limited personnel knowledge and infrastructure. Significant associations were identified. This study characterized cardiology support service utilization across Northwestern Ontario, identifying key barriers and opportunities to strengthen rural health systems planning and cardiovascular care. These findings can inform targeted initiatives and support future evaluations.",
+   "journal": "Healthcare management forum",
    "year": "2026",
    "authors": [
-    "Xiaoxia Xiao"
+    "Jamal Al-Atawneh",
+    "Paige H Stevenson",
+    "Kelvi Toskovich"
    ],
-   "doi": "10.1002/clc.70484",
+   "doi": "10.1177/08404704261492943",
    "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42891547/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42893394/"
   },
   {
-   "pmid": "42891515",
-   "title": "Social Support Modifies the Pain-Disability Relationship in Degenerative Spine Disease: Evidence From the PROGRES Study.",
-   "abstract": "Low back pain from degenerative spine disease is the main contributor to years lived with disability globally. Although social support is a multifaceted construct with both health-promoting and potentially deleterious effects on chronic pain, whether perceived social support modifies the pain-disability relationship in lumbar degenerative spine disease remains unclear. We hypothesised that social support level would modify the pain-disability association, with distinct predictor patterns of disability emerging for low- versus high-support patients. In this cross-sectional analysis of baseline data from the PROGRES cohort study, 156 pre-operative patients with lumbar degenerative disease (mean age 60.0&#xa0;years; 58.3% female) completed validated measures of pain (Visual Analog Scale [VAS] for radicular and axial pain, supplemented by the pain/discomfort item of the EuroQol EQ-5D-5L [EQ-5D pain]), disability (Oswestry Disability Index [ODI]), health-related quality of life (EQ-5D-5L), and perceived social support (Multidimensional Scale of Perceived Social Support [MSPSS]). Participants were stratified by median MSPSS score into low- (n&#xa0;=&#xa0;83) and high-support (n&#xa0;=&#xa0;73) groups. The primary outcome was the between-group difference in pain-disability correlations, tested with Fisher's z-transformation and Benjamini-Hochberg false discovery rate (FDR) correction. The robustness of dichotomisation was confirmed using moderation analysis with MSPSS as a continuous variable. After FDR correction, the correlation between EQ-5D pain severity and the ODI daily-activities item was significantly stronger in the high-support group than in the low-support group (&#x3c1;&#xa0;=&#xa0;0.69 vs. 0.25; &#x394;&#x3c1;&#xa0;=&#xa0;0.44; P FDR &#xa0;=&#xa0;0.005). Multiple regression models explained more variance of disability in the high-support group (R 2 &#xa0;=&#xa0;31.5%) than in the low-support group (R 2 &#xa0;=&#xa0;16.6%). Depression was a significant predictor of disability in both groups; in the low-support group, it was the sole significant predictor (p&#xa0;=&#xa0;0.037), whereas in the high-support group, radicular (leg) pain emerged as the dominant predictor (B&#xa0;=&#xa0;1.45; &#x3b2;&#xa0;=&#xa0;0.50; p&#xa0;<&#xa0;0.001) alongside depression (B&#xa0;=&#xa0;1.83; &#x3b2;&#xa0;=&#xa0;0.31; p&#xa0;=&#xa0;0.007). Higher perceived social support showed a small positive correlation with radicular pain intensity (&#x3c1;&#xa0;=&#xa0;+0.18; p&#xa0;=&#xa0;0.026), with no significant association with axial pain. Perceived social support appears to influence which factors are most strongly associated with disability rather than uniformly buffering against it. The positive pain-support correlation, restricted to radicular pain, is consistent with operant models of social support in chronic pain, in which clinically unambiguous symptoms may preferentially mobilise support. Brief screening of perceived social support may help inform individualised treatment planning in degenerative spine disease.",
-   "journal": "Musculoskeletal care",
+   "pmid": "42893383",
+   "title": "A self-organized QTPat-based feature-engineering framework for subject-independent classification of English- and Turkish-associated EEG signals.",
+   "abstract": "Our primary aim is to develop an automated feature-engineering framework for subject-independent classification of EEG recordings acquired from English-speaking and Turkish-speaking participant cohorts. Drawing inspiration from a quantum tunnel pattern called QTPat, we introduced a novel approach of dynamically generating directed graphs to extract textural features. For our experiments, we utilized an EEG dataset containing 1652 English sentence-EEG pairs and 1600 Turkish sentence-EEG pairs. These signals were recorded from 20 English-speaking and 20 Turkish subjects who were presented with standardized sentences in their respective native languages. During the experiments, the participants were instructed to carefully contemplate each sentence while wearing a mobile brain cap system that acquired 14-channel EEG signals. Our preprocessing pipeline involved subjecting the EEG signals to multiple filtered wavelet packet decompositions, using both 6 Daubechies and 6 symlet wavelet filters. Subsequently, we extracted textural and statistical features employing the QTPat model, along with 20 statistical moments. To enhance discriminative power, we applied neighborhood component analysis and the Chi2-function to select the most relevant features. The k-nearest neighbor classifier was then employed to calculate predictive vectors. To further refine the results, we introduced an iterative hard majority voting scheme, generating additional voted vectors. Finally, we utilized a greedy algorithm to select the best-channel-wise and overall model results. Using leave-one-subject-out cross-validation (LOSO CV), the proposed framework achieved 96.37% classification accuracy using four selected EEG channels. These findings demonstrate that the QTPat-based architecture can discriminate the two language-associated EEG cohorts under subject-independent evaluation. However, because language and participant population are coupled in the available dataset, the present results should not be interpreted as definitive evidence of language-specific neural decoding. Further studies using within-subject bilingual experimental designs are required to determine whether the identified EEG patterns specifically reflect language-related neural processing.",
+   "journal": "Science progress",
    "year": "2026",
    "authors": [
-    "Tomasz Szczepa&#x144;ski",
-    "Grzegorz Mi&#x119;kisiak",
-    "Marta Ko&#x17a;ba-Goszty&#x142;a",
-    "Natalia &#x15a;wi&#x105;toniowska-Lonc",
-    "Bogdan Czapiga"
+    "Arif Metehan Yildiz",
+    "Tugce Keles",
+    "Mustafa Eris",
+    "Prabal Datta Barua",
+    "Mehmet Baygin",
+    "Burak Tasci",
+    "&#x130;rem Ta&#x15f;c&#x131;",
+    "Sengul Dogan",
+    "Turker Tuncer",
+    "Fatma Ebru Algul",
+    "Ru-San Tan",
+    "Aruna Devi",
+    "U Rajendra Acharya"
    ],
-   "doi": "10.1002/msc.70271",
+   "doi": "10.1177/00368504261499564",
    "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42891515/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42893383/"
   },
   {
-   "pmid": "42891503",
-   "title": "Duration of a vaginal birth after cesarean section depending on the degree of cervical dilation in the prior cesarean delivery: A retrospective study.",
-   "abstract": "Labor and birth lead to significant immunological and regenerative changes in the uterus, such that multiparous women typically experience faster and more effective labor than primiparous women. In this retrospective study, we examined the influence of labor activity and childbirth progress in the previous pregnancy on the duration of vaginal delivery of a second child in women with a history of one cesarean section. A total of 200 women bearing their second child with a trial of labor after cesarean who presented for delivery between January 2018 and December 2022 at the Clinic St. Hedwig (a tertiary maternity hospital of University of Regensburg, Germany) were included. Three subgroups were analyzed: women with a history of elective cesarean section, those with a history of cesarean section during the first stage of labor, and those with a history of cesarean section during the second stage of labor. The two stages were defined depending on the cervical dilation (first stage <10&#x2009;cm, second stage: full dilatation). The duration of labor was defined as time between regular contractions or time of rupture of the membranes (whatever was first) to childbirth. A t-test and Pearson correlation analysis were conducted (using SigmaPlot 14.0). In 75.5% of cases (151/200), a vaginal birth (VBAC, vaginal birth after cesarean section) was achieved, and in 24.5% of cases (49/200), an unplanned repeat cesarean section was performed. The median duration of labor for VBAC in women with a history of elective cesarean was 12.2&#x2009;h (interquartile range [IQR] 6.9-19.5), for those with a history of cesarean during the first stage of labor 10.0&#x2009;h (IQR 6.0-16.2), and for those with a history of cesarean during the second stage of labor 8.0&#x2009;h (IQR 3.9-12.0). Women with a history of cesarean during the second stage of labor deliver 4&#x2009;h faster than women with a history of elective cesarean. Even if labor must be terminated during the first stage, an advanced degree of cervical dilation has a shortening effect on the duration of a subsequent VBAC.",
-   "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+   "pmid": "42893359",
+   "title": "Patterns of cardiovascular disease subtypes and associated factors among young adults in Peshawar, Pakistan: a multicenter hospital-based cross-sectional study.",
+   "abstract": "Cardiovascular diseases (CVDs) are a major cause of morbidity and mortality. Evidence on CVD subtypes in young Pakistani adults is limited. This study characterized CVD subtypes and associated factors among young adults in Peshawar Khyber Pakhtunkhwa, Pakistan. A multicentre, cross-sectional study was conducted at four hospitals among patients aged 18-45&#x2009;years. Data were extracted from three-year hospital records. Associations were assessed using chi-square/Fisher's exact tests and logistic regression. 8,650 CVD cases, 2,090 (24.2%) were young adults, predominantly male (64.6%), with a median age of 40&#x2009;years (IQR: 36-44). ACS was the most common subtype (61.0%), followed by cardiomyopathy (39.0%). Overweight/obesity (77.0%), hypertension (56.5%), smoking (39.7%), dyslipidaemia (21.8%), and diabetes (14.4%) were the most prevalent factors. Compared with ACS, cardiomyopathy was independently associated with high heart rate, hypertension, dyslipidaemia, diabetes, and family history. Smoking was associated with lower odds of cardiomyopathy than ACS (aOR: 0.50, 95% CI: 0.41-0.61, p &#x2009;<&#x2009;0.001). Young adults accounted for 24.2% of CVD cases, with ACS and cardiomyopathy the most common subtypes, highlighting the need for targeted strategies. The cross-sectional design, findings indicate subtype differences rather than causal effects, while supporting smoking cessation and early hypertension detection in young adults. Cardiovascular disease (CVD) is often considered a health problem that mainly affects older adults. However, many young adults also develop serious heart conditions, which can lead to long-term health complications and place an additional burden on healthcare systems. This study examined the patterns of cardiovascular disease among young adults aged 18&#x2013;45&#x2009;years who received treatment at four major public tertiary care hospitals in Peshawar Khyber Pakhtunkhwa, Pakistan. We reviewed hospital records collected over a three-year period to identify the most common types of cardiovascular disease and the factors associated with them. Among 8,650 patients with cardiovascular disease, 2,090 (24.2%) were young adults. The two most common conditions were acute coronary syndrome (ACS), which includes conditions caused by reduced blood flow to the heart, and a broader cardiomyopathy. Overweight and obesity, high blood pressure, smoking, abnormal blood lipid levels, diabetes, and a family history of cardiovascular disease were common among these patients. Our findings highlight the substantial burden of cardiovascular disease among young adults in this hospital-based population. These results may help healthcare professionals and policymakers better understand the characteristics of young adults with cardiovascular disease and support future prevention and management strategies.",
+   "journal": "Future cardiology",
    "year": "2026",
    "authors": [
-    "N Mawas",
-    "A K&#xf6;ninger",
-    "M Rauh",
-    "I Abou Tabikh",
-    "M Kappelmeyer",
-    "A Schnabel"
+    "Nauman Arif",
+    "Imran Khan",
+    "Taj Ali Khan",
+    "Saima Afaq",
+    "Bilal Ahmad",
+    "Gulzar Ahmad",
+    "Muhammad Ijaz",
+    "Zia Ul Haq"
    ],
-   "doi": "10.1002/ijgo.71360",
+   "doi": "10.1080/14796678.2026.2739742",
    "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42891503/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42893359/"
   },
   {
-   "pmid": "42891601",
-   "title": "The Trolley Problem of Perioperative Immunotherapy in Head and Neck Cancer.",
-   "abstract": "Perioperative immunotherapy has emerged as a new therapeutic paradigm in the management of locally advanced head and neck cancer following the publication of the KEYNOTE-689 trial, which demonstrated improved event-free survival with the addition of neoadjuvant and adjuvant pembrolizumab to surgery and risk-adapted adjuvant therapy. While these results represent important progress for a field that has seen few meaningful advances in decades, implementation of this strategy within real-world health-care systems may introduce unintended consequences. In the Canadian context, where head and neck cancer care is highly regionalized, perioperative immunotherapy may significantly lengthen the diagnosis-to-treatment interval through additional consultations, biomarker testing, and systemic therapy administration prior to definitive surgery. Delays in treatment initiation are themselves associated with worse oncologic outcomes and may narrow the window for curative resection in some patients. Beyond progression to unresectability, perioperative delay may also lead to surgical escalation, requiring more extensive resections associated with major functional consequences for speech, swallowing, and quality of life. These outcomes are difficult to capture within traditional trial endpoints yet remain highly relevant to patients and clinicians. The survival benefit observed in KEYNOTE-689 appeared largely driven by a reduction in distant recurrence, raising an important clinical question regarding the acceptable degree of locoregional morbidity to prevent systemic relapse. The recently published NIVOPOSTOP trial offers a potentially more conservative strategy by introducing postoperative immunotherapy without delaying surgery. Ultimately, the challenge is not whether progress should occur, but how it should be implemented within systems already constrained by delays and limited resources. Additional real-world and phase IV evidence will be essential to identify which patients derive net benefit from perioperative immunotherapy and how this strategy can be integrated safely into clinical practice.",
-   "journal": "Journal of otolaryngology - head & neck surgery = Le Journal d'oto-rhino-laryngologie et de chirurgie cervico-faciale",
+   "pmid": "42893588",
+   "title": "Multifunctional Magneto&#x2011;Thermal Probe Enhances the Efficacy of Tumor Therapy as a Tumor Nanovaccine.",
+   "abstract": "Magnetic hyperthermia therapy (MHT) is an emerging thermotherapeutic approach that has shown promising potential in cancer treatment. However, conventional MHT strategies exhibit limited capacity to activate anti-tumor immune responses, an essential factor for preventing cancer recurrence and metastasis. Therefore, improving the immunomodulatory efficacy of MHT remains a critical challenge. This study designed and developed a novel magneto-thermal probe, PSRNP, by conjugating anti-PD-L1 and RS09 peptides onto the surface of superparamagnetic iron oxide nanoparticles. The resulting PSRNP nanoprobes demonstrated excellent magneto-thermal conversion efficiency and favorable biocompatibility. In vivo analysis demonstrated that PSRNP-mediated MHT effectively remodels the tumor microenvironment. Meanwhile, PSRNP-mediated MHT showed superior immune activation effects, with a 5.14-fold increase in intratumoral CD86 + cells and a 3.30-fold increase in CD137 + cells compared with the Fe 3 O 4 -mediated MHT group. Furthermore, PSRNP-mediated MHT potentiated the therapeutic efficacy of tumor-infiltrating lymphocyte therapy and prevented tumor recurrence after surgical resection. The PSRNP probe represents an innovative platform for improving the immunotherapeutic performance of MHT in solid tumors. The findings of this study establish a theoretical and experimental foundation for advancing MHT as a synergistic cancer treatment strategy.",
+   "journal": "Small (Weinheim an der Bergstrasse, Germany)",
    "year": "2026",
    "authors": [
-    "No&#xe9;mie Villemure-Poliquin",
-    "Ian Witterick",
-    "Eric Monteiro",
-    "John De Almeida",
-    "Antoine Eskander",
-    "Joel Davies"
+    "Jiaqian Li",
+    "Yimeng Li",
+    "Pengli Gao",
+    "Guanghui Li",
+    "Lishuang Guo",
+    "Yuan Feng",
+    "Jie Tian",
+    "Yu An"
    ],
-   "doi": "10.1177/19160216261487369",
+   "doi": "10.1002/smll.76209",
    "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42891601/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42893588/"
   },
   {
-   "pmid": "42891584",
-   "title": "Radiation-Induced Esophagitis: From Clinical Observation to Precision Management.",
-   "abstract": "For the past seven decades, radiation-induced esophagitis (RE) has been a major dose-limiting acute toxicity of thoracic radiotherapy, substantially impairing patients' quality of life and their ability to complete planned treatment courses. Research on RE has progressed from phenomenological reporting to multidimensional quantification and, more recently, toward precision-driven intervention. This review provides a comprehensive overview of current research on the epidemiology, pathophysiology, diagnosis, risk stratification, predictive modeling, prevention, and treatment of radiation-induced esophagitis. Dose-volume parameters established an important quantitative framework for risk assessment, while more recent advances in genomic profiling, functional imaging, and artificial intelligence have supported the development of integrative multi-omics predictive models. Pharmacological prophylaxis has shown limited success in randomized trials, whereas technical refinements in radiation delivery and emerging regenerative approaches offer promising alternatives. Persistent knowledge gaps remain, including the need for prospective multicenter validation of omics-derived models, re-evaluation of RE risk in the immunotherapy era, investigation of chronomodulated treatment scheduling, and translation of tissue-engineering strategies into clinical practice. The review is intended to provide clinicians and investigators with a comprehensive reference and to support future research in thoracic radiation oncology.",
-   "journal": "Journal of visualized experiments : JoVE",
+   "pmid": "42893571",
+   "title": "Dual Metabolic Inhibition Via Vanadium-NO Synergistic Nanoplatform Potentiates Cancer Immunotherapy.",
+   "abstract": "Immunotherapy has emerged as a pivotal strategy in cancer treatment. However, tumor metabolic reprogramming not only promotes cancer cell survival but also fosters an immunosuppressive tumor microenvironment (TME), thereby hindering immune activation. To address these challenges, we developed a novel multifunctional hybrid nanoplatform, termed VTLM, via microfluidics-assisted self-assembly of bioactive vanadium species and an arginine-based nitric oxide (NO) donor. This nanoplatform synergistically modulates tumor metabolism to potentiate antitumor immunity. Specifically, we observed that vanadium species in VTLM reduce pyruvate kinase M2 (PKM2) expression and enzymatic activity, which may contribute to the suppression of tumor glycolysis, while tumor cell-targeted NO release induces mitochondrial damage, ultimately enforcing a dual metabolic blockade. This strategy overcomes the metabolic plasticity of tumor cells, a major obstacle in single-pathway metabolic targeting. Importantly, VTLM-induced metabolic collapse not only drives lactate depletion within the TME but also promotes immunogenic cell death, thereby reversing immunosuppression and amplifying antitumor responses. Furthermore, VTLM exhibited marked therapeutic efficacy in a 4T1 subcutaneous tumor model, achieving an 80.7% tumor weight-based inhibition rate alongside robust intratumoral immune activation. Collectively, this study establishes a nanoplatform centered on multi-metabolic regulation, which may hold potential for further preclinical evaluation as a strategy to enhance cancer immunotherapy.",
+   "journal": "Small (Weinheim an der Bergstrasse, Germany)",
    "year": "2026",
    "authors": [
-    "Yaqi Song",
-    "Biao Gu",
-    "Gang Ma",
-    "Xudong Song",
-    "Wubi Zhou",
-    "Changsong Xu",
-    "Honglei Luo",
-    "Jingjing Dai"
+    "Ruizhi Tian",
+    "Ze Song",
+    "Zhengyi Lan",
+    "Qing Liu",
+    "Ziyi Cheng",
+    "Bicheng Han",
+    "Ming Ma",
+    "Hangrong Chen"
    ],
-   "doi": "10.3791/74837",
+   "doi": "10.1002/smll.76361",
    "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42891584/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42893571/"
   },
   {
-   "pmid": "42891574",
-   "title": "Immune Profiles and Immunotherapy Efficacy in Sinonasal Malignancies: A Scoping Review.",
-   "abstract": "Little is understood about the efficacy of immunotherapeutic strategies against sinonasal malignancies (SN) or their immunologic profiles. This review summarizes key immune markers within SN tumors and underscores known data on the efficacy of checkpoint inhibitors. The MEDLINE, Embase, Cochrane Central Register of Controlled Trials, and Web of Science databases were searched from database inception to present to identify studies on SN malignancies, including SN squamous cell carcinoma (SNSCCa), adenocarcinoma (SNAC), undifferentiated carcinoma (SNUC), and olfactory neuroblastoma (ONB), their immune profiles, and immunotherapy efficacy. Included studies were those that either investigated the tumor immune profile (cellular or molecular) or reported findings following the use of immune checkpoint inhibitors. Two separate teams of two reviewers performed dual, independent screening and full-text review of 675 studies, with 52 included in the final analysis. Anti-programmed cell death protein-1 (PD-1) immunotherapy is the most investigated immune checkpoint inhibitor against SN malignancies. Checkpoint inhibitor efficacy showed the most promise for SNSCCa with comparatively few studies in SNAC, SNUC, and ONB. The prognostic value of tumor-infiltrating lymphocytes (TIL) density and programmed death ligand-1 (PD-L1) expression vary greatly between SN tumor subtypes. TILs, not PD-L1 expression, most consistently correlate with survival in SNSCCa, SNAC, and SNUC. ONBs are predominantly immune-cold. SN tumor rarity and heterogeneity limits research in immunotherapy efficacy and prognostic biomarkers. Multi-institutional research endeavors aimed at evaluating both checkpoint inhibitor efficacy and the SN tumor immune microenvironment are essential in advancing SN tumor management.",
-   "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+   "pmid": "42893475",
+   "title": "Therapeutic Peptide-Programmed Liquid-Crystalline Topology Switching for pH-Gated Postoperative Cancer Immunotherapy.",
+   "abstract": "Stimuli-responsive depots for postoperative cancer therapy often treat therapeutic payloads as passive cargo, resulting in premature leakage and limited on-demand activation. Herein, we report a therapeutic peptide-programmed liquid-crystalline depot in which the Vpr-derived antitumor peptide (VDAP) functions simultaneously as an immunotherapeutic effector and a supramolecular topology regulator. At physiological pH, cationic &#x3b1;-helical VDAP was electrostatically anchored by oleic acid-containing lipid domains, reinforcing a compact inverse hexagonal (H II ) topology associated with reduced peptide diffusion. In the acidic postoperative tumor microenvironment, protonation of oleic acid could disrupt anionic anchoring, whereas histidine protonation within VDAP amplified intrachannel electrostatic repulsion. This cooperative peptide-lipid charge reprogramming could drive graded liquid-crystalline topology remodeling from a diffusion-restrictive H II organization to a more interconnected bicontinuous cubic Im3&#x304;m network, consistent with increased pH-responsive peptide release. In an orthotopic incomplete-resection breast tumor model, the depot induced immunogenic tumor destruction, enhanced damage-associated molecular pattern release, promoted dendritic cell maturation and CD8 + T cell infiltration, and reshaped the immunosuppressive surgical bed. These results demonstrate that electrostatic-topology-gated VDAP-enabled supramolecular topology switching provides effective adaptive local cancer immunotherapy, effectively suppressing postoperative tumor recurrence and attenuating pulmonary metastasis.",
+   "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
    "year": "2026",
    "authors": [
-    "Ayad Ali",
-    "Ahmad Hamdan",
-    "Areeb Shah",
-    "Amani Alvi",
-    "Elio Issa",
-    "Afash Haleem",
-    "Sarah Cantrell",
-    "Ryan Thorpe",
-    "David W Jang",
-    "Bradley J Goldstein",
-    "Ralph A Hachem"
+    "Yan Yan",
+    "Bin Chen",
+    "Yanqing Wang",
+    "Yuxi Hou",
+    "Zhenlin Ma",
+    "Zini Yang",
+    "Xia Yin",
+    "Yiling Chen",
+    "Litao Huang",
+    "Menghan Cai",
+    "Xinlin Liu",
+    "Yi Zhun Zhu",
+    "Li Ye"
    ],
-   "doi": "10.1002/ohn.70411",
+   "doi": "10.1002/advs.78360",
    "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42891574/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42893475/"
   },
   {
-   "pmid": "42891536",
-   "title": "B Cell Deficiency Protects Against&#xa0;the Development of c-MET and Beta-Catenin Driven Hepatocellular Carcinoma in Mice.",
-   "abstract": "Hepatocellular carcinoma (HCC), a lethal form of liver cancer, continues to show rising mortality rates despite advancements in immunotherapies. This highlights the need for more effective treatments. Recent studies linked the presence of B cells within human tumors, including HCC, to improved responses to immunotherapy and better prognoses. Specifically, tumor-infiltrating B cells have been associated with reduced cancer cell proliferation, suggesting that B cell-mediated responses may be harnessed as a potential therapeutic strategy against HCC. However, in advanced HCC, IL-10-producing regulatory B cells accumulate and promote tumor growth. These paradoxical findings on B cells in human HCC highlight the necessity for clarifying the specific functions of B cells in HCC development to develop B cell-targeted therapies. To investigate the role of B cells in HCC, we used B cell-deficient (muMT) mice and anti-CD20 antibodies to deplete B cells in WT mice. In both systems, we observed a strong protection against liver tumor formation upon HCC induction, indicating the presence of a potent anti-tumor effect in the absence of B cells before HCC induction. Additionally, depletion of B cells after tumor foci have formed in the liver at later stage of HCC also potently suppressed tumor growth. Functionally, depletion of CD4 + and CD8 + T cells partially restored susceptibility to tumor growth, suggesting that B cell depletion suppresses HCC development partly through enhanced T cell-mediated immunity. These findings reveal an underappreciated tumor-suppressing effect of B cells in HCC and suggest that targeting the mechanisms of B cell suppression may boost anti-tumor responses in HCC.",
-   "journal": "Cell biology international",
+   "pmid": "42893434",
+   "title": "Personalized allogeneic hematopoietic stem cell transplantation in myelodysplastic syndromes: Integrating molecular risk, donor selection, and post-transplant strategies.",
+   "abstract": "Allogeneic hematopoietic stem cell transplantation (allo-HSCT) remains the only treatment with curative potential for myelodysplastic syndromes (MDS). This review synthesizes MDS-specific evidence on transplant indication and timing, conditioning, donor choice, molecular predictors, and post-transplant surveillance. Prospective biologic-assignment studies support a survival benefit in fit older adults with higher-risk MDS. The Molecular International Prognostic Scoring System (IPSS-M), transplant-specific cytogenetic and mutational factors, comorbidity, and transfusion burden refine selection beyond the Revised International Prognostic Scoring System (IPSS-R). Alternative donors expand access, including haploidentical transplantation with post-transplant cyclophosphamide. Conditioning intensity should reflect both disease risk and patient fitness, with regimen-level scoring emerging for cord blood transplantation. Although non-relapse mortality has decreased over time, relapse remains the major unresolved cause of failure. MDS-specific measurable residual disease, graft-versus-host disease, cytomegalovirus assessment, and risk-adapted post-transplant interventions provide a practical framework for individualized care.",
+   "journal": "Cell transplantation",
    "year": "2026",
    "authors": [
-    "Fang Wang",
-    "Eun Bi Lim",
-    "Rehan Mehta",
-    "Yee Ling Wu"
-   ],
-   "doi": "10.1002/cbin.70227",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42891536/"
-  },
-  {
-   "pmid": "42891529",
-   "title": "A Novel Molecular Etiology of Paradoxical Hereditary Thrombocytosis Caused by Germline JAK2 Loss-of-Function.",
-   "abstract": "",
-   "journal": "American journal of hematology",
-   "year": "2026",
-   "authors": [
-    "Guillaume Beziat",
-    "Elodie Rosa",
-    "Caroline Marty",
-    "Alyx Faurel",
-    "Hana Raslova",
-    "Lucie Rigolot",
-    "Christophe Marzac",
-    "Christine Bellann&#xe9;-Chantelot",
-    "William Vainchenker",
-    "Eric Delabesse",
-    "V&#xe9;ronique De Mas",
-    "Isabelle Plo"
-   ],
-   "doi": "10.1002/ajh.70524",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42891529/"
-  },
-  {
-   "pmid": "42891588",
-   "title": "MicroRNA Regulatory Networks in Alcohol-Associated Liver Disease: Mechanisms from Steatosis and Inflammation to Fibrosis.",
-   "abstract": "Alcohol-associated liver disease (ALD) is a leading cause of liver-related morbidity and mortality worldwide and progresses through steatosis, alcohol-associated hepatitis, fibrosis, and cirrhosis. MicroRNAs (miRNAs) are established post-transcriptional regulators whose roles in ALD-associated signaling networks have been increasingly characterized. Recent high-throughput sequencing and functional studies have revealed dual regulatory roles of miRNA families, such as miR-122, miR-155, and miR-21, at different disease stages. However, most studies have focused on individual miRNAs, and network-level cooperative regulation and clinical translation remain underexplored. This narrative review examines the molecular mechanisms of miRNAs in alcohol-induced steatosis, inflammation, and fibrosis, with a particular focus on network-level cooperative regulation. Key findings indicate that miRNAs function as stage-specific and cell-type-specific regulators, with miR-122, miR-155, miR-21, miR-29, and miR-34a acting as central network nodes. These insights provide a framework for the identification of early diagnostic biomarkers and potential therapeutic targets in ALD.",
-   "journal": "Journal of visualized experiments : JoVE",
-   "year": "2026",
-   "authors": [
-    "Du Shihao",
-    "Yuan Dongqin",
-    "Liu Qianqian",
-    "Ge Jianing",
-    "Li Zhijun"
-   ],
-   "doi": "10.3791/73126",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42891588/"
-  },
-  {
-   "pmid": "42891562",
-   "title": "Resurgence of Sexually Transmitted Hepatitis C Virus Infection in Men Who Have Sex With Men Living With HIV.",
-   "abstract": "In 2023-2025, HCV transmission in men who have sex with men (MSM) living with HIV in Hong Kong resurged. This study aims to assess the epidemiologic patterns between 2011 and 2025. Among 288 MSM with sexually acquired HCV infection, 73% were diagnosed at least 12 months after HIV diagnosis, and 98% had ever achieved HIV viral load suppression. Comparing with Period 1 (2015-2022) featuring a large HCV genotype 3a cluster (89 diagnoses) and a few smaller HCV genotype 1a clusters (size of 2 to 13), Period 2 (2023-2025) was dominated by two HCV genotype 1a clusters (7 and 16 new diagnoses). Transmission of genotype 3a viruses subsided in Period 2, with only 3 new diagnoses. Comparing with Period 1, a higher proportion of MSM with HCV diagnoses in Period 2 self-reported sexualised injecting drug use (OR&#x2009;=&#x2009;3.82, 95% CI 1.59-9.20) and HCV direct-acting antivirals therapy (no treatment as reference group, OR&#x2009;=&#x2009;3.72, 95%CI 1.82-7.60). The epidemic rebound by a different HCV genotype was likely contributed by increased engagement in chemsex and post-COVID-19 population mobility.",
-   "journal": "Journal of medical virology",
-   "year": "2026",
-   "authors": [
-    "Shui-Shan Lee",
-    "Denise Pui-Chung Chan",
-    "Bonnie Chun-Kwan Wong",
-    "Danny King Fai Cheung",
-    "Ngai Sze Wong"
-   ],
-   "doi": "10.1002/jmv.71185",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42891562/"
-  },
-  {
-   "pmid": "42891145",
-   "title": "Spontaneous Bilateral Vesical Artery Pseudoaneurysms Presenting With Massive Recurrent Hematuria and Obstructive Acute Kidney Injury: A Case Report.",
-   "abstract": "Spontaneous development of vesical artery pseudoaneurysm (VA-PA) as a cause of life-threatening hematuria is very rare. Most of the existing reports are due to trauma or other types of pelvic surgeries/urological procedures. Incomplete hemostasis in these patients can lead to subsequent complications such as clot retention, severe blood loss resulting in anemia and obstructive AKI. We report this extremely rare case of a 35&#x2009;year old lady with bilateral VA-PA causing recurrent episodes of massive hematuria and obstructive AKI that was ultimately resolved by selective embolization. A 35-year-old female presented with a history of gross hematuria along with clot retention and severe anemia. She also had signs of obstructive AKI which required her to have temporary dialysis. Cystoscopy showed intravesical clot but no bleed site was identified on initial evaluation. On contrast-enhanced CT scan, there were pseudoaneurysms found from both sides coming off from left superior and right inferior branches of vesical artery. Following confirmation by selective pelvic angiogram, we did a superselective embolization using micro coils and PVOH particles to occlude both pseudoaneurysms. This resulted in immediate cessation of hematuria, normalization of renal functions and stabilization of Hb values. At last follow-up done in 6&#x2009;weeks' time, all symptoms had resolved and there was complete thrombosis of both the lesions seen on imaging. Bilateral spontaneous vesical artery pseudoaneurysm is a condition that must be suspected in a patient presenting with recurrent episodes of severe hematuria despite having undergone seemingly successful endoscopic treatment. Immediate imaging of the vessels and selective angioembolization is the surest means of diagnosis and treatment, thus avoiding further complications.",
-   "journal": "Clinical case reports",
-   "year": "2026",
-   "authors": [
-    "Dheeraj Kumar Alias Sailish",
-    "Amisha Kumari",
-    "Hadia Jamil",
-    "Sardar Ravi Singh",
-    "Muhammad Hassaan Javaid",
-    "Muddassir Khalid",
-    "Fred Segawa"
-   ],
-   "doi": "10.1002/ccr3.73739",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42891145/"
-  },
-  {
-   "pmid": "42891086",
-   "title": "Autoimmune hepatitis following long-term denosumab therapy in a patient with Hashimoto thyroiditis.",
-   "abstract": "Denosumab, a receptor activator of nuclear factor-&#x3ba;B ligand (RANKL) inhibitor, is widely used to treat osteoporosis. Its role as a trigger for autoimmune hepatitis (AIH) remains uncertain. We report a 68-year-old woman with osteoporosis and Hashimoto thyroiditis who developed jaundice and severe hepatocellular liver injury after 3 years of denosumab therapy. Alternative viral, obstructive, and metabolic causes were excluded. Liver biopsy demonstrated interface hepatitis with a lymphoplasmacytic portal infiltrate consistent with AIH, and autoimmune serologies were positive. Hemophagocytic lymphohistiocytosis was excluded, and an International AIH Score of 17 supported a diagnosis of definite AIH. Treatment with corticosteroid-based immunosuppression resulted in complete biochemical remission, and denosumab was discontinued with transition to zoledronic acid to prevent rebound bone loss. Whether this case represents drug-induced autoimmune-like hepatitis or de novo idiopathic AIH occurring in a susceptible individual cannot be determined definitively. Clinicians should maintain a low threshold for evaluating liver injury in patients receiving denosumab who develop jaundice or marked transaminase elevation.",
-   "journal": "JCEM case reports",
-   "year": "2026",
-   "authors": [
-    "Jacob Maniattu",
-    "McAnto Antony",
-    "Alvin Maliakal"
-   ],
-   "doi": "10.1210/jcemcr/luag251",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42891086/"
-  },
-  {
-   "pmid": "42890657",
-   "title": "Analysis and prediction of trends in birth population and HBsAg-positive pregnant women in Zaozhuang City, 2012-2024.",
-   "abstract": "To analyze trends and project future changes in birth population and HBsAg-positive pregnant women in Zaozhuang City from 2012 to 2024, providing baseline data and evidence for optimizing resource allocation and formulating strategies to eliminate mother-to-child transmission (MTCT) of hepatitis B virus (HBV). Data on annual births and HBsAg-positive pregnant women were col from the Zaozhuang Statistical Yearbook and the Shandong Provincial Immunization Program Information System (2012 -2024). Birth rate and maternal HBsAg prevalence were calculated. Trends were analyzed using Joinpoint regression to estimate annual percent change (APC) and average annual percent change (AAPC). Curve regression models were fitted to project 2025 levels. Time series analysis based on monthly data was performed for forecasting. The birth rate declined significantly overall (AAPC = -6.676%, p = 0.015), ranging from 5.989&#x2030; to 17.383&#x2030; during 2012 -2024. A period of rapid decline occurred from 2017 to 2021 (APC = -18.730%, p = 0.018). The mean maternal HBsAg prevalence was 2.896%. A significant decreasing trend was observed from 2015 to 2024 (APC = -4.442%, p = 0.001). The birth rate and maternal HBsAg prevalence were best fitted by exponential and quadratic function models, respectively, yielding 2025 projections of 5.876&#x2030; and 1.755%. ARIMA models were selected as optifor forecasting monthly time series: ARIMA(0,1,0)(0,1,2)&#x2081;&#x2082; for birth count and ARIMA(0,1,1)(1,1,1)&#x2081;&#x2082; for HBsAg-positive pregnant women count. Fertility levels and maternal HBsAg prevalence in Zaozhuang City exhibit sustained declining trends. The fitted model can be used for short-term prediction, providing robust evidence to inform regional healthcare resource planning and the development of comprehensive interventions to eliminate HBV MTCT.",
-   "journal": "Frontiers in public health",
-   "year": "2026",
-   "authors": [
-    "Xiwang Sun",
-    "Changling Bian",
-    "Jingjing Zhu"
-   ],
-   "doi": "10.3389/fpubh.2026.1933547",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42890657/"
-  },
-  {
-   "pmid": "42891465",
-   "title": "RAS Mutations as Prognostic Biomarkers in Digestive Cancers: From Binary Classification to Variant-Specific and Context-Dependent Risk Stratification.",
-   "abstract": "In digestive cancers, activating RAS mutations - primarily KRAS, less frequently NRAS - are among the most prevalent oncogenic drivers. Their clinical significance depends strongly on the tumor type, disease stage, treatment context, and specific RAS variant. In colorectal cancer (CRC), RAS alterations are well-established predictors of resistance to anti-EGFR therapy. However, KRAS G12C-mutant tumors represent a distinct subgroup with demonstrated sensitivity to KRAS G12C inhibitors. However, growing evidence supports the negative prognostic impact of RAS mutations on both primary CRC and colorectal cancer liver metastases (CRLM) in both post-resection and adjuvant therapies. In pancreatic ductal adenocarcinoma (PDAC), where KRAS alterations are nearly universal, prognostic evaluation has evolved from a binary mutant versus wild-type classification to a more refined approach based on mutation subtype (e.g., G12D/V vs. G12R) and KRAS mutant dosage, both of which influence clinical outcomes. In biliary tract cancers, KRAS mutations occur in a relevant subset and are consistently associated with poor survival. Liquid biopsy approaches increasingly enable noninvasive detection and longitudinal monitoring. In gastric cancer, RAS alterations are less frequent overall but may identify biologically aggressive subsets and may also be associated with inferior outcomes under HER2-targeted therapy in selected populations. This review synthesizes contemporary data supporting RAS alterations as prognostic biomarkers across digestive cancers, highlights practical considerations for integrating variant-level RAS information into risk stratification and trial designs, and discusses how emerging RAS-directed therapies may reshape the prognostic significance of specific molecular subsets.",
-   "journal": "Cureus",
-   "year": "2026",
-   "authors": [
-    "Lucien Grados",
-    "Rami Rhaiem",
-    "Koceila Amroun",
-    "Perrine Zimmermann",
-    "Sophie Deguelte",
-    "Elia Gigante",
-    "Olivier Bouche",
-    "Reza Kianmanesh"
-   ],
-   "doi": "10.7759/cureus.116374",
-   "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42891465/"
-  },
-  {
-   "pmid": "42891457",
-   "title": "Dosimetric and Treatment Delivery Efficiency Comparison of Two Ring-gantry Linear Accelerator Platforms for Liver Stereotactic Body Radiotherapy.",
-   "abstract": "The purpose of this study was to compare the dosimetric performance and treatment delivery efficiency of two ring-gantry linear accelerator platforms, Helical Tomotherapy and Halcyon, in stereotactic body radiation therapy (SBRT) for liver metastasis. A retrospective dosimetric analysis was conducted on 16 patients with solitary liver metastasis. For each patient, SBRT plans were generated using the Accuray treatment planning system (TPS) (Tomotherapy) and Eclipse TPS (Halcyon). Plan evaluation included conformity, homogeneity, and gradient indices, along with target coverage and organs at risk (OAR) dose-volume parameters, in accordance with Radiation Therapy Oncology Group-1112 (RTOG-1112) guidelines. Treatment efficiency was assessed using monitor units (MU) and beam-on time (BOT). Statistical analysis was performed using paired t -tests (SPSS v28.0), with P < 0.05 considered statistically significant. Both platforms achieved acceptable target coverage and OAR constraints. Conformity index and gradient index were comparable. Halcyon showed improved planning target volume homogeneity, lower normal liver V15 Gy, reduced OAR doses, and significantly lower MU and BOT ( P < 0.05), indicating superior treatment efficiency. Both Tomotherapy and Halcyon are capable of generating high-quality liver SBRT plans with comparable target coverage. However, Halcyon demonstrated improved normal tissue sparing and enhanced treatment efficiency.",
-   "journal": "Journal of medical physics",
-   "year": "2026",
-   "authors": [
-    "Srikanth Guduru",
-    "Rohith Singareddy",
-    "N V N Madhusudhana Sresty",
-    "Deleep Kumar Gudipudi",
-    "Aparna Dode"
-   ],
-   "doi": "10.4103/jmp.jmp_91_26",
-   "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42891457/"
-  },
-  {
-   "pmid": "42891339",
-   "title": "Microbiome-pancreatic cancer crosstalk: From tumor biology to therapeutic intervention.",
-   "abstract": "Pancreatic cancer (PC) remains one of the most lethal malignancies worldwide, characterized by dense desmoplastic stroma, profound immunosuppression, and poor responsiveness to conventional therapies. Accumulating evidence positions the intratumoral microbiome, encompassing bacteria as well as understudied fungal and viral components, as a critical regulator of PC pathogenesis, tumor microenvironment (TME) remodeling, and therapeutic efficacy. In this review, we synthesize the current understanding of the pancreatic intratumoral microbiome, including its distinct composition relative to normal pancreatic tissue, gut microbiota, and oral microbiota. The PC intratumoral microbiome is characterized by enrichment of validated pro-tumorigenic drivers (e.g., Pseudomonas , Bacteroides species) alongside protective taxa (e.g., Lactobacillus species). These taxonomic profiles vary significantly based on disease stage, patient demographics, and treatment history. We dissected the mechanisms by which microbes and their derivatives drive PC initiation and progression, including immune suppression through modulation of myeloid-derived suppressor cells and regulatory T cells, metabolic reprogramming involving short-chain fatty acids and the tryptophan metabolite 3-indoleacetic acid (3-IAA), and stromal remodeling via activation of cancer-associated fibroblasts. The influence of the microbiome on therapeutic response is examined, with particular emphasis on microbial-mediated mechanisms that undermine treatment efficacy. We further summarize diagnostic and prognostic biomarkers, including salivary microbial signatures with moderate sensitivity and specificity, circulating microbial DNA, and composite microbial risk scores that integrate multiple bacterial species to predict survival. Therapeutic strategies targeting the microbiome are discussed, distinguishing clinically translatable approaches from experimental concepts requiring further validation. Finally, we outline challenges in standardizing profiling methods, validating microbial signatures across diverse populations, and translating preclinical insights to clinical practice, emphasizing the need for multi-omics integration and interdisciplinary collaboration to advance microbiome-driven PC management.",
-   "journal": "iMetaOmics",
-   "year": "2026",
-   "authors": [
-    "Yuqin Xie",
-    "Jingyuan Ye",
-    "Sheng Wang",
-    "Maoyun Liu",
-    "Fengsheng Dai",
-    "Mingzhen Bai",
-    "Yi Wang",
-    "Athena Savoji",
     "Yu Wang",
-    "Phillip B Hylemon",
-    "Huiping Zhou",
-    "Hui Li",
-    "Dewei Li"
+    "Xumeng Zhao",
+    "Mi Zhou",
+    "Yi Xiao"
    ],
-   "doi": "10.1002/imo2.70126",
-   "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42891339/"
+   "doi": "10.1177/09636897261499610",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42893434/"
   },
   {
-   "pmid": "42890995",
-   "title": "Gallium-68 (68Ga)-Labelled Prostate-Specific Membrane Antigen Positron Emission Tomography/Computed Tomography in the Initial Staging of High-Risk Prostatic Adenocarcinoma: Reclassification to Oligometastatic Disease and Change in Treatment Intent.",
-   "abstract": "Prostate cancer is among the most frequently diagnosed malignancies worldwide. In high-risk disease, conventional imaging underestimates nodal and skeletal extent, so treatment intent may be defined on incomplete staging. Positron emission tomography (PET) with gallium-68 (68Ga)-labelled prostate-specific membrane antigen (PSMA) ligands has shown superior diagnostic accuracy in this setting. A 69-year-old man, Eastern Cooperative Oncology Group (ECOG) performance status 0, presented with urinary symptoms and a rising prostate-specific antigen, from 18.2 to 34.1 ng/mL, with a doubling time under three months. Multiparametric magnetic resonance imaging (MRI) showed a Prostate Imaging-Reporting and Data System (PI-RADS) 5 lesion with extraprostatic extension, and biopsy of 12 cores (six per lobe) demonstrated acinar adenocarcinoma, Gleason 8 (4+4), International Society of Urological Pathology (ISUP) grade group 4, with perineural invasion and involvement of five of six left-sided cores; all six right-sided cores were tumor-free. PET/computed tomography (CT) was performed on a digital Siemens Biograph Vision 450 (Erlangen, Germany) after intravenous administration of 110.63 MBq (2.99 mCi) of 68Ga-PSMA imaging and therapy (I&T), with acquisition at 70 minutes and a delayed thoracic study. Images were read using the Prostate Cancer Molecular Imaging Standardized Evaluation (PROMISE) V2 criteria with molecular imaging Tumor, Node, Metastasis (miTNM) staging. With background references of standardized uptake value&#xa0;normalized to lean body mass (SUL) 1.2 for blood pool, 4.0 for liver, and 20.1 for parotid gland, the left-lobe prostatic lesion showed SUL 10.6, PSMA-expressing tumor volume (PSMA-TV) 10.09 cc, and PSMA total lesion (PSMA-TL) 53.23, with a PRIMARY score of 4. A 15 mm left internal iliac node with SUL 6.9, an 8 mm para-aortic node with SUL 3.2, and a 6 mm blastic lesion in the right sixth anterior costal arch with SUL 1.4, rising to 1.5 on delayed imaging, were identified. Whole-body tumor burden was PSMA-TV 15.09 cc and PSMA-TL 60.9. Staging was miT3a, miN1, miM1a, and unifocal miM1b, the latter based on an indeterminate bone lesion. The original treatment plan, prostate and pelvic radiotherapy with short-course androgen blockade and locoregional curative intent, was replaced by androgen deprivation with enzalutamide, prostate and pelvic radiotherapy, and stereotactic body radiotherapy to the para-aortic node and the costal lesion. Prostate-specific antigen fell to 0.15 ng/mL at three months and to undetectable levels at the six-month assessment. Molecular imaging reclassified disease regarded as high-risk localized as presumed low-volume oligometastatic and changed treatment intent from locoregional curative to intensified systemic therapy with metastasis-directed radiotherapy, with an early deep biochemical response on follow-up, which does not by itself establish durable oncological control.",
+   "pmid": "42893424",
+   "title": "CAR-T Cell Therapy in Solid Tumors: Implications of Satri-cel for Gastric and Gastrointestinal Cancers.",
+   "abstract": "",
+   "journal": "Technology in cancer research & treatment",
+   "year": "2026",
+   "authors": [
+    "George Laliotis",
+    "Anwaar Saeed"
+   ],
+   "doi": "10.1177/15330338261499846",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42893424/"
+  },
+  {
+   "pmid": "42893132",
+   "title": "Multifactorial Contributors to Diagnostic Delay in a High-Risk Patient with Hepatocellular Carcinoma: A Case Report with Clinical Lessons.",
+   "abstract": "Patients at high risk for primary liver cancer (PLC) are recommended to undergo PLC surveillance at least every six months. Alpha-fetoprotein (AFP) is a commonly used biomarker; however, approximately 15-30% of PLC cases remain AFP-negative throughout their course. Therefore, surveillance in high-risk populations should be based on liver imaging. Any newly detected or progressive lesion should be further characterized by contrast-enhanced computed tomography (CT), contrast-enhanced magnetic resonance imaging (MRI), or contrast-enhanced ultrasound, following guideline-based classification and follow-up recommendations. This case details a 45-year-old Chinese male with hepatitis B virus (HBV) infection, type 2 diabetes mellitus, and a family history of PLC. As a high-risk individual for PLC, he did not undergo regular PLC surveillance for three years. During opportunistic encounters for acute myocardial infarction and abdominal pain, the attending specialists failed to appreciate the progression of liver imaging findings. In addition, the COVID-19 pandemic may have further aggravated pre-existing difficulties with follow-up and access to care, contributing to a delayed diagnosis of PLC. This case illustrates how a combination of physician-related, patient-related, and social-environmental factors contributed to surveillance failure and diagnostic delay in a high-risk patient with PLC. It reflects on why guideline-recommended interventions were not implemented at each healthcare encounter, how to correctly interpret AFP, and how to improve adherence to surveillance among high-risk populations for PLC. The insights from this case aim to inform systematic improvements in PLC monitoring for patients with chronic HBV infection.",
+   "journal": "International medical case reports journal",
+   "year": "2026",
+   "authors": [
+    "Jiao Hu",
+    "Liping Guo",
+    "Tongen Chen",
+    "Jingfeng Zhang",
+    "Qiaoqiao Jiang"
+   ],
+   "doi": "10.2147/IMCRJ.S638448",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42893132/"
+  },
+  {
+   "pmid": "42892985",
+   "title": "The ncRNA-Epigenetic-Cuproptosis Axis in Liver Diseases: From Copper Homeostasis to Precision Hepatology.",
+   "abstract": "Cuproptosis, a recently defined copper-dependent form of regulated cell death driven by excess intracellular copper, is characterized by copper binding to lipoylated tricarboxylic acid (TCA) cycle proteins, causing aberrant protein oligomerization, iron-sulfur cluster loss, and proteotoxic stress. Given the liver's central role in copper homeostasis, hepatocytes are particularly vulnerable to this death modality. This review examines the emerging non-coding RNA (ncRNA)-epigenetic-cuproptosis axis in liver diseases, critically evaluating the evidence across a spectrum from well-established biochemical principles to largely hypothetical connections. Epigenetic mechanisms, including DNA methylation, histone modifications, and N6-methyladenosine (m6A) RNA modifications, can modulate cuproptosis sensitivity. The methyltransferase-like 3 (METTL3)-m6A- fragile X messenger ribonucleoprotein 1 (FMR1)-ferredoxin 1 (FDX1) axis, which confers cuproptosis resistance in hepatocellular carcinoma (HCC) through translational repression of FDX1, represents the strongest mechanistic evidence in hepatic contexts. ncRNAs, including microRNAs (miRNAs), long non-coding RNAs (lncRNAs), and circular RNAs (circRNAs), add additional regulatory layers; miR-133a-5p has been shown to facilitate cuproptosis in hepatocellular carcinoma by targeting ATP7B. We additionally highlight high-copper HCC phenotypes, the MYC-CTR1 and COMMD3 pro-tumor axes, and ferroptosis-cuproptosis combination strategies as priority translational directions. We systematically evaluate the ncRNA-epigenetic-cuproptosis axis across major liver diseases, including metabolic-associated steatotic liver disease, alcohol-associated liver disease, viral hepatitis, cholestatic liver disease, hepatic fibrosis, ischemia-reperfusion injury, Wilson disease, and HCC. Evidence tiers range from direct functional validation, such as copper ionophore-induced cuproptosis in HCC cells and cholestatic liver injury models, through promising but incomplete data, to largely bioinformatic associations lacking functional validation. Translational opportunities include biomarker development, copper ionophore-based therapeutics, and ncRNA-targeted interventions; we further distinguish mechanistic evidence from available human clinical data and outline how tumor copper phenotype, ncRNA signatures, viral etiology, immune context, and individual copper metabolism status could inform precision hepatology. We identify six priority questions and propose a research roadmap to advance this field from correlative associations toward rigorous mechanistic understanding, quantification of cuproptosis relative to established liver-cell death pathways, and eventual clinical implementation in precision hepatology.",
+   "journal": "Journal of clinical and experimental hepatology",
+   "year": "2027",
+   "authors": [
+    "Guobing Wang",
+    "Guoying Jiang",
+    "Jun Tao",
+    "Wenqi Feng"
+   ],
+   "doi": "10.1016/j.jceh.2026.103675",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42892985/"
+  },
+  {
+   "pmid": "42892970",
+   "title": "Multifocal intracranial aneurysms and a clinical diagnosis of ruptured retinal arterial macroaneurysm in presumed hepatitis B-associated polyarteritis nodosa: A case report.",
+   "abstract": "Polyarteritis nodosa (PAN) is a necrotizing medium-artery vasculitis; intracranial aneurysms are rare. A woman in her early thirties with hypertension and hepatitis B surface antigen (HBsAg) positivity presented with thunderclap headache, vomiting, and blurred vision. Available records described intracranial hemorrhage associated with a right posterior cerebral artery (PCA) aneurysm, but the index computed tomography/angiography images and full report were unavailable to classify the hemorrhage. The aneurysm was coil embolized with intentional parent-vessel sacrifice. Subsequent magnetic resonance imaging showed right occipitotemporal and thalamic infarction with hemorrhagic transformation-an expected consequence of right PCA sacrifice. A small acute left caudate infarct outside the treated territory raised a separate multifocal or embolic mechanism. Time-of-flight magnetic resonance angiography showed the partially occluded right P2p/P3 PCA aneurysm and 2 distal left internal carotid artery aneurysms. During the same admission, subhyaloid and intraretinal hemorrhage led to a clinical diagnosis of ruptured retinal arterial macroaneurysm; no fundus photograph, fluorescein angiogram, or optical coherence tomography angiography was available, and follow-up structural optical coherence tomography did not show the lesion. Elevated inflammatory markers, neuropathic symptoms, multifocal aneurysms, and HBsAg positivity led rheumatology to a working diagnosis of HBV-associated PAN. Because no biopsy or visceral angiography was performed and accepted classification criteria were not securely met, the diagnosis is described as presumed. The teaching point is attribution: the dominant stroke was iatrogenic; the contralateral infarct and multifocal aneurysms prompted systemic evaluation; ocular hemorrhage may be a clue but does not establish shared vasculitic causation.",
+   "journal": "Radiology case reports",
+   "year": "2026",
+   "authors": [
+    "Alain Mbongo",
+    "Fred Otieno",
+    "Jacquiline Mavuti",
+    "Jabir Mohamed",
+    "Edwin Mogere"
+   ],
+   "doi": "10.1016/j.radcr.2026.09.039",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42892970/"
+  },
+  {
+   "pmid": "42892919",
+   "title": "Burden, healthcare utilization, and costs of chronic liver disease-related hospitalizations in California: a population-based study of trends and projections, 2005-2035.",
+   "abstract": "Long-term trends in hospitalization burden, healthcare utilization, and costs of chronic liver disease (CLD) in the United States remain poorly characterized. Using statewide hospital discharge data, we quantified trends from 2005 to 2018 and projected future burden through 2035 across demographic subgroups. We used average annual percent change (AAPC) to quantify trends in hospitalized patients, hospitalizations, deaths, along with age-standardized rates (ASHPR, ASHR, and ASMR); hospitalizations per patient-year, average length of stay, 30-day readmission, in-hospital mortality; and inflation-adjusted hospital charges (2019 US dollars). Analyses were conducted overall and for hepatitis B virus(HBV), hepatitis C virus(HCV), alcohol-associated liver disease(ALD), and metabolic dysfunction-associated steatotic liver disease (MASLD). From 2005 to 2018, hospitalized CLD patients increased from 71,214 to 122,810 (AAPC, 4.37%; 95% CI, 3.87%-4.88%), and deaths from 11,455 to 24,560 (6.02%; 4.20%-7.86%). ASHPR increased from 275.12 to 377.88 per 100,000, and ASMR from 45.53 to 74.77. Hospitalizations and charges increased from 116,482 to 185,268 and $9.63 billion to $18.63 billion, while in-hospital mortality declined (AAPC, -7.02%; 95% CI, -8.72%-5.30%). MASLD- and ALD-related hospitalizations increased, whereas HBV- and HCV-related hospitalizations declined. Men had higher hospitalization and mortality rates, particularly for ALD. Hispanic populations had the fastest-rising burden, driven by MASLD; HBV burden was concentrated among non-Hispanic Asian populations, whereas overall CLD and ALD-related mortality were highest among non-Hispanic White populations. Findings highlight the need for targeted prevention and screening, early management of metabolic and alcohol-related risk factors, and equitable access to liver care. No funding.",
+   "journal": "Lancet regional health. Americas",
+   "year": "2026",
+   "authors": [
+    "Hong Fan",
+    "Xianhua Mao",
+    "Xiaonan Su",
+    "Jie Wang",
+    "Taotao Yan",
+    "Ramsey Cheung",
+    "Mindie H Nguyen"
+   ],
+   "doi": "10.1016/j.lana.2026.101653",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42892919/"
+  },
+  {
+   "pmid": "42892787",
+   "title": "Estimation of Antimicrobial-Resistant Mycoplasma genitalium Infections in People Aged 14-59 Years: Results From the National Health and Nutrition Examination Survey, United States, 2017-2018.",
+   "abstract": "Mycoplasma genitalium antimicrobial resistance is common in US sexual health clinics. Population-level prevalence is unknown. We tested National Health and Nutrition Examination Survey (2017-2018) specimens for M genitalium resistance mutations (n = 58). Macrolide resistance prevalence was 42.7% (95% CI, 24.4%-62.7%). Quinolone resistance was not detected. Macrolide resistance testing should guide azithromycin treatment.",
+   "journal": "Open forum infectious diseases",
+   "year": "2026",
+   "authors": [
+    "Lisa E Manhart",
+    "Mary Bridget Waters",
+    "Christine M Khosropour",
+    "Kristen M Kreisel",
+    "Anika Parker",
+    "Emily D Pollock",
+    "Kevin Hybiske",
+    "J&#xf8;rgen S Jensen"
+   ],
+   "doi": "10.1093/ofid/ofag641",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42892787/"
+  },
+  {
+   "pmid": "42893504",
+   "title": "Primetime for the Gasdermins Seesaw in Intestinal Homeostasis and Digestive Disorders.",
+   "abstract": "The five pore-forming gasdermins (GSDMs, namely GSDMA-E) are best known for executing pyroptosis, a lytic and highly inflammatory form of programmed cell death. Accumulating evidence over the past decade has unveiled diverse nonlytic functions of GSDMs in digestive homeostasis and disease. GSDMs preserve intestinal barrier integrity and mucosal immunity under physiological conditions, whereas their dysregulated activation fuels tissue injury across a spectrum of digestive diseases, including inflammatory bowel disease, acute intestinal injury, radiation enteritis, acute pancreatitis, and liver disorders. Notably, the functional outcome of GSDM activation is highly context-dependent: the same protein can be either protective or injurious. This duality extends to digestive oncology, where GSDM-mediated pyroptosis can stimulate or suppress antitumor immunity. GSDM-targeted drugs, including GSDMD agonists, GSDMD inhibitors, and GSDME inhibitors, have shown encouraging efficacy in preclinical models, although none have yet reached the clinic. Here, we review the dual roles of GSDMs across the digestive system, outline the mechanistic basis of their form-, cell-, and tissue-specific functions, and discuss the progress and remaining challenges in GSDM-targeted therapy.",
+   "journal": "Medicinal research reviews",
+   "year": "2026",
+   "authors": [
+    "Qiong Liu",
+    "Huihong Liu",
+    "Ye Liu",
+    "Chunhui Wang"
+   ],
+   "doi": "10.1002/med.70114",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42893504/"
+  },
+  {
+   "pmid": "42893482",
+   "title": "Hepatocyte CBX2 Safeguards Hepatic Lipid Homeostasis by Elevating Ca 2+ -CaMKK2-AMPK Signaling to Counter MASLD.",
+   "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) affects approximately one-third of adults and lacks effective pharmacological therapies. Here, we identify Chromobox 2 (CBX2), a Polycomb-associated chromatin regulator, as a previously unrecognized regulator of hepatic lipid homeostasis. CBX2 expression is markedly reduced in hepatocytes from patients with MASLD, multiple mouse models (db/db, ob/ob, HFD, and HFHC), and steatotic hepatocytes in vitro. Hepatocyte-specific CBX2 overexpression ameliorates hepatic steatosis, improves glucose metabolism, and suppresses inflammation, whereas CBX2 deficiency exacerbates these metabolic disturbances. Mechanistically, CBX2 enhances H3K4me3 enrichment at the Orai1 promoter, promoting Orai1 transcription and increasing intracellular Ca 2+ levels. Elevated Ca 2+ activates the CaMKK2-AMPK signaling pathway, leading to ACC phosphorylation, inhibition of de novo lipogenesis (FAS, ACC, and SCD-1), enhancement of fatty acid oxidation (PPAR&#x3b1; and CPT-1a), and suppression of NF-&#x3ba;B/JNK-mediated inflammation. Genetic and pharmacological interventions further establish the necessity of this Ca 2+ -CaMKK2-AMPK axis for CBX2-mediated metabolic protection. Collectively, our findings reveal a CBX2-driven metabolic regulatory circuit and highlight CBX2 and its downstream signaling pathway as potential therapeutic targets for MASLD.",
+   "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+   "year": "2026",
+   "authors": [
+    "Xiang Wei",
+    "Li Lin",
+    "Xiuyun Wang",
+    "Hui Du",
+    "Menglong Zhang",
+    "Kechao Tang",
+    "Han Gao",
+    "Xinrui Xie",
+    "Jingya Gao",
+    "Xu Wang",
+    "Zhenglin Wang",
+    "Siwei Huang",
+    "Lei Zhang",
+    "Fang Gu",
+    "Gong-Hong Wei",
+    "Yinliang Qi",
+    "Wei Chen",
+    "Yongsheng Chang",
+    "Huabing Zhang"
+   ],
+   "doi": "10.1002/advs.78372",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42893482/"
+  },
+  {
+   "pmid": "42893197",
+   "title": "Cannabidiol (CBD) for Pain: A Narrative Review of Evidence to Date.",
+   "abstract": "Cannabidiol (CBD), the principal non-intoxicating phytocannabinoid of Cannabis sativa , is widely marketed and self-administered for pain relief, yet its regulatory status as an analgesic remains unapproved. This review synthesizes preclinical mechanistic data, human pharmacokinetic data, and clinical trial evidence across major pain conditions in order to summarize the current evidence for, or against, efficacy and safety for pain. A synthesis of published information was conducted using PubMed/MEDLINE, PubMed Central, Cochrane Library, ScienceDirect, and other databases, integrating findings from systematic reviews, meta-analyses, randomized controlled trials (RCTs), and pharmacology reviews on CBD (independent of combination products where possible) and pain of any etiology. Preclinical and mechanistic data support plausible physical analgesic pathways for CBD, including receptor modulation, indirect enhancement of endocannabinoid tone via fatty-acid-binding-protein (FABP) inhibition, and anti-inflammatory effects. However, translation to clinical benefit has been inconsistent. In the largest meta-analysis of cannabinoids for pain, cannabinoids reduced chronic pain and improved sleep quality, but effect sizes fell below predefined minimally important clinical differences, and cannabinoids showed no benefit for acute or cancer pain, while increasing non-serious adverse events. CBD randomized trials in knee osteoarthritis, fibromyalgia, and acute low back pain have consistently failed to separate from placebo, whereas smaller/lower-quality trials and observational surveys report subjective benefit. Safety data increasingly point to dose-dependent hepatotoxicity risk. Despite strong biological plausibility and considerable consumer use, current high-quality evidence does not support CBD monotherapy as an effective analgesic across most pain conditions studied to date. Safety monitoring, particularly of liver enzymes at higher doses, is warranted.",
    "journal": "Cureus",
    "year": "2026",
    "authors": [
-    "Carlos Paul Villalba-Meneses",
-    "Adriana P Noboa",
-    "Veronica Marcela Villegas-Paredes"
+    "Robert B Raffa",
+    "Joseph V Pergolizzi",
+    "Frank Breve",
+    "Eugene Vortsman",
+    "Giustino Varrassi",
+    "Salah N El-Tallawy"
    ],
-   "doi": "10.7759/cureus.116379",
+   "doi": "10.7759/cureus.118057",
    "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42890995/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42893197/"
+  },
+  {
+   "pmid": "42893059",
+   "title": "Incidence and mortality of invasive fungal infections among patients admitted in intensive care units in India: findings from a multicentric registry-based study (2023-25).",
+   "abstract": "Invasive fungal infections (IFIs) are challenging to treat in critical care, particularly among patients treated in Intensive care units (ICUs). The existing evidence on IFIs from India remains fragmented. This study characterises IFI incidence, risk factors, resistance pattern, treatment and outcome among patients admitted to ICUs. This multicentre observational study leveraged registry data on IFIs among patients admitted to 63 ICUs in eight Advanced Mycology Diagnostic and Research centres in India between January 2023 and November 2025. Patients with proven and probable IFI according to European Organisation for Research and Treatment of Cancer/Mycoses Study Group Education and Research Consortium (EORTC/MSGERC) 2020 and the modified Aspergillus intensive care unit (AspICU) 2020 criteria were included. IFI incidence to hospital admission, all-cause in-hospital mortality, pathogen distribution and antifungal susceptibility were recorded. Mortality-associated factors were estimated using multivariable logistic regression and Cox proportional hazards analysis. Among 178,417 ICU admissions, 2500 IFI patients were identified with an incidence of 14/1000 admissions (95% CI 13.5-14.6) and all-cause mortality of 53.6% (95% CI 51.7-55.6%). Invasive candidiasis was the most frequently reported (57.1%), followed by invasive aspergillosis (37%), mucormycosis (3.4%), trichosporonosis (1.8%), pneumocystis pneumonia (1.1%), and cryptococcosis (1.2%). Median age of the patients was 45 years (IQR: 26-60), with 61.9% males and 38.1% females. Among candidiasis, Candida tropicalis predominated (35.6%), while Candida auris exhibited high fluconazole resistance (61.7%) and elevated amphotericin B minimum inhibitory concentrations (MICs) (40.7%). Aspergillus fumigatus (50.8%) and Aspergillus flavus (38.7%) predominated among culture-positive aspergillosis, with generally low MICs. Exploratory multivariable analyses showed that sepsis, chronic liver disease, immunosuppression, corticosteroid exposure, and total parenteral nutrition were associated with higher mortality in invasive candidiasis, whereas mechanical ventilation, corticosteroid exposure, and immunosuppression were associated with higher mortality in invasive aspergillosis. The study findings highlight a high IFI burden and mortality among patients admitted in ICUs of India, with mortality exceeding 50%, underscoring the need for continuous surveillance, rapid diagnostics, infection control and antifungal stewardship. This study was funded by the Indian Council of Medical Research (ICMR), Delhi (Grant ID: 157401).",
+   "journal": "The Lancet regional health. Southeast Asia",
+   "year": "2026",
+   "authors": [
+    "Shivani Popli Goyal",
+    "Saurabh Sharma",
+    "Harleen Kaur",
+    "Kh Jitenkumar Singh",
+    "Niwin Konthoujam",
+    "Immaculata Xess",
+    "Jayanthi Savio",
+    "Umabala Pamidimukkala",
+    "Prashant Gupta",
+    "Tadepalli Karuna",
+    "Anjali Shetty",
+    "Vinay Kumar Hallur",
+    "Reema Nath",
+    "Gagandeep Singh",
+    "Priyadarshini A Padaki",
+    "Sukanya Sudhaharan",
+    "Diptanu Paul",
+    "Chaitali Konwar",
+    "Taruna Madan Gupta",
+    "Madhuchhanda Das",
+    "MycoNet Surveillance Group"
+   ],
+   "doi": "10.1016/j.lansea.2026.100877",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42893059/"
   }
  ],
- "lastUpdated": "2026-10-18T07:33:29.558346+00:00",
+ "lastUpdated": "2026-10-19T03:22:00.195123+00:00",
  "fields": [
   "cardiology",
   "immunotherapy",

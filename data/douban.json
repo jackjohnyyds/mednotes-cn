@@ -35,7 +35,7 @@
   {
    "name": "逃出布迪秀",
    "type": "电影",
-   "rating": "7.3",
+   "rating": "7.2",
    "comment": "一个勇敢的女孩和她的朋友们意外受困，他们必须想尽办法从一档诡异、恐怖的儿童电视节目中逃出去。</p><p><img sr…",
    "doubanLink": "https://movie.douban.com/subject/37446297/",
    "source": "https://movie.douban.com/subject/37446297/"
@@ -67,7 +67,7 @@
   {
    "name": "真爱的起源是抵抗",
    "type": "书籍",
-   "rating": "",
+   "rating": "7.6",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38583589/",
    "source": "https://book.douban.com/subject/38583589/"
@@ -89,45 +89,45 @@
    "source": "https://book.douban.com/subject/38635638/"
   },
   {
-   "name": "赴金山",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38571794/",
-   "source": "https://book.douban.com/subject/38571794/"
-  },
-  {
-   "name": "民主的蜂群",
+   "name": "川流不息",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38483067/",
-   "source": "https://book.douban.com/subject/38483067/"
+   "doubanLink": "https://book.douban.com/subject/38903937/",
+   "source": "https://book.douban.com/subject/38903937/"
   },
   {
-   "name": "凝神时刻",
+   "name": "共鸣",
    "type": "书籍",
-   "rating": "8.5",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38490032/",
+   "source": "https://book.douban.com/subject/38490032/"
+  },
+  {
+   "name": "那刺眼的黑暗",
+   "type": "书籍",
+   "rating": "",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38593398/",
-   "source": "https://book.douban.com/subject/38593398/"
+   "doubanLink": "https://book.douban.com/subject/37180720/",
+   "source": "https://book.douban.com/subject/37180720/"
   },
   {
-   "name": "山林水火",
+   "name": "我的老台北",
    "type": "书籍",
    "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38928066/",
-   "source": "https://book.douban.com/subject/38928066/"
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38594734/",
+   "source": "https://book.douban.com/subject/38594734/"
   },
   {
-   "name": "拼凑小说",
+   "name": "春天存留",
    "type": "书籍",
    "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37455864/",
-   "source": "https://book.douban.com/subject/37455864/"
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38521386/",
+   "source": "https://book.douban.com/subject/38521386/"
   }
  ],
- "lastUpdated": "2026-10-19T03:22:15.431256+00:00"
+ "lastUpdated": "2026-10-19T08:17:01.728156+00:00"
 }

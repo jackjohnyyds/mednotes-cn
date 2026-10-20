@@ -67,7 +67,7 @@
   {
    "name": "现代主义",
    "type": "书籍",
-   "rating": "8",
+   "rating": "7.5",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38553867/",
    "source": "https://book.douban.com/subject/38553867/"
@@ -75,7 +75,7 @@
   {
    "name": "莫斯科有高楼",
    "type": "书籍",
-   "rating": "8.5",
+   "rating": "7.7",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38469258/",
    "source": "https://book.douban.com/subject/38469258/"
@@ -129,5 +129,5 @@
    "source": "https://book.douban.com/subject/38923734/"
   }
  ],
- "lastUpdated": "2026-10-20T03:23:03.517911+00:00"
+ "lastUpdated": "2026-10-20T08:01:43.652669+00:00"
 }

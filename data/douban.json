@@ -1,69 +1,133 @@
 {
  "items": [
   {
-   "name": "凝神时刻",
-   "type": "书籍",
-   "rating": "8.6",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38593398/",
-   "source": "https://book.douban.com/subject/38593398/"
+   "name": "生日快乐",
+   "type": "电影",
+   "rating": "8.9",
+   "comment": "8岁的小女仆托哈不遗余力地确保她最好的朋友内莉——她那位富有的雇主的女儿——能举办一场成功的生日派对。</p><p><i…",
+   "doubanLink": "https://movie.douban.com/subject/37322586/",
+   "source": "https://movie.douban.com/subject/37322586/"
   },
   {
-   "name": "翅膀",
-   "type": "书籍",
-   "rating": "6.5",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38596642/",
-   "source": "https://book.douban.com/subject/38596642/"
+   "name": "登峰传奇：丹增诺盖",
+   "type": "电影",
+   "rating": "7.7",
+   "comment": "出生于西藏的丹增和新西兰人艾德蒙加入英国登山队，一同挑战登顶珠峰，克服难以逾越的困难，完成曾经被认为不可能的事情。</p…",
+   "doubanLink": "https://movie.douban.com/subject/36887293/",
+   "source": "https://movie.douban.com/subject/36887293/"
   },
   {
-   "name": "昨日清晨",
+   "name": "害群之马",
+   "type": "电影",
+   "rating": "7.5",
+   "comment": "一名处境艰难的小学教师，在一名学生受伤后，开始做出一些令人疑惑的决定。</p><p><img src=\"https://…",
+   "doubanLink": "https://movie.douban.com/subject/36623663/",
+   "source": "https://movie.douban.com/subject/36623663/"
+  },
+  {
+   "name": "杯雪·一战成名",
+   "type": "电影",
+   "rating": "7.5",
+   "comment": "改编自作家小椴经典作品《杯雪·夜雨打金荷》，以小人物逆袭博弈呈现权谋与侠义碰撞，以粗砾美学打造南宋江湖风貌。</p><p…",
+   "doubanLink": "https://movie.douban.com/subject/37516455/",
+   "source": "https://movie.douban.com/subject/37516455/"
+  },
+  {
+   "name": "逃出布迪秀",
+   "type": "电影",
+   "rating": "7.4",
+   "comment": "一个勇敢的女孩和她的朋友们意外受困，他们必须想尽办法从一档诡异、恐怖的儿童电视节目中逃出去。</p><p><img sr…",
+   "doubanLink": "https://movie.douban.com/subject/37446297/",
+   "source": "https://movie.douban.com/subject/37446297/"
+  },
+  {
+   "name": "生化危机：爆发夜",
+   "type": "电影",
+   "rating": "7.3",
+   "comment": "故事聚焦奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。</p><p><img src=\"https://…",
+   "doubanLink": "https://movie.douban.com/subject/37068446/",
+   "source": "https://movie.douban.com/subject/37068446/"
+  },
+  {
+   "name": "一个夜晚与三个夏天",
+   "type": "电影",
+   "rating": "7.2",
+   "comment": "北漂多年的导演桑吉回到故乡拉萨拍摄一部与自己童年有关的电影，通过其童年、少年、成年三个夏天的成长片段，展现了当代拉萨青年…",
+   "doubanLink": "https://movie.douban.com/subject/36449264/",
+   "source": "https://movie.douban.com/subject/36449264/"
+  },
+  {
+   "name": "野兽之心",
+   "type": "电影",
+   "rating": "7.3",
+   "comment": "在一场惨烈的坠机事故后，特种部队军官詹姆斯·贝尔蒙特与他的军犬奥丁绝处逢生，被困于极寒险恶的阿拉斯加荒野。</p><p>…",
+   "doubanLink": "https://movie.douban.com/subject/36828393/",
+   "source": "https://movie.douban.com/subject/36828393/"
+  },
+  {
+   "name": "东德童话",
    "type": "书籍",
    "rating": "8.2",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38622753/",
+   "source": "https://book.douban.com/subject/38622753/"
+  },
+  {
+   "name": "附魅世界的新科学",
+   "type": "书籍",
+   "rating": "7.4",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/37399744/",
+   "source": "https://book.douban.com/subject/37399744/"
+  },
+  {
+   "name": "什么都不是的人才是快乐的",
+   "type": "书籍",
+   "rating": "8.4",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38635468/",
+   "source": "https://book.douban.com/subject/38635468/"
+  },
+  {
+   "name": "当“修多罗”成为经典",
+   "type": "书籍",
+   "rating": "9.3",
+   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38597195/",
+   "source": "https://book.douban.com/subject/38597195/"
+  },
+  {
+   "name": "四大门",
+   "type": "书籍",
+   "rating": "8.5",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38647828/",
-   "source": "https://book.douban.com/subject/38647828/"
+   "doubanLink": "https://book.douban.com/subject/38594511/",
+   "source": "https://book.douban.com/subject/38594511/"
   },
   {
-   "name": "何以近代",
+   "name": "日本漫画千年",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38522388/",
-   "source": "https://book.douban.com/subject/38522388/"
+   "doubanLink": "https://book.douban.com/subject/37844089/",
+   "source": "https://book.douban.com/subject/37844089/"
   },
   {
-   "name": "地方精英与治理模式",
+   "name": "绿色密封蜡",
    "type": "书籍",
-   "rating": "8.8",
+   "rating": "7.7",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/36573595/",
-   "source": "https://book.douban.com/subject/36573595/"
+   "doubanLink": "https://book.douban.com/subject/38612696/",
+   "source": "https://book.douban.com/subject/38612696/"
   },
   {
-   "name": "西方文化中的神秘学",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38495046/",
-   "source": "https://book.douban.com/subject/38495046/"
-  },
-  {
-   "name": "穷亲戚",
+   "name": "洛夫戴先生的小出游",
    "type": "书籍",
    "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38644894/",
-   "source": "https://book.douban.com/subject/38644894/"
-  },
-  {
-   "name": "索涅奇卡",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38589669/",
-   "source": "https://book.douban.com/subject/38589669/"
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38567087/",
+   "source": "https://book.douban.com/subject/38567087/"
   }
  ],
- "lastUpdated": "2026-10-26T08:17:49.813411+00:00"
+ "lastUpdated": "2026-10-27T08:30:18.139468+00:00"
 }

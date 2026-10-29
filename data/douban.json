@@ -67,7 +67,7 @@
   {
    "name": "拥抱的姿势",
    "type": "书籍",
-   "rating": "8.2",
+   "rating": "8.3",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38636018/",
    "source": "https://book.douban.com/subject/38636018/"
@@ -89,45 +89,45 @@
    "source": "https://book.douban.com/subject/38631100/"
   },
   {
-   "name": "倩女",
-   "type": "书籍",
-   "rating": "8.5",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38556587/",
-   "source": "https://book.douban.com/subject/38556587/"
-  },
-  {
-   "name": "让无权无势者有力",
-   "type": "书籍",
-   "rating": "7.2",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38574884/",
-   "source": "https://book.douban.com/subject/38574884/"
-  },
-  {
-   "name": "糖果屋",
+   "name": "身体与命运",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37527555/",
-   "source": "https://book.douban.com/subject/37527555/"
+   "doubanLink": "https://book.douban.com/subject/38991222/",
+   "source": "https://book.douban.com/subject/38991222/"
   },
   {
-   "name": "衣裳哲学",
+   "name": "被强制抛弃的人",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38460954/",
+   "source": "https://book.douban.com/subject/38460954/"
+  },
+  {
+   "name": "跨区域",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37478654/",
-   "source": "https://book.douban.com/subject/37478654/"
+   "doubanLink": "https://book.douban.com/subject/38645415/",
+   "source": "https://book.douban.com/subject/38645415/"
   },
   {
-   "name": "假如生活欺骗了你",
+   "name": "《孝经》与儒学两千年",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38908548/",
-   "source": "https://book.douban.com/subject/38908548/"
+   "doubanLink": "https://book.douban.com/subject/38521450/",
+   "source": "https://book.douban.com/subject/38521450/"
+  },
+  {
+   "name": "未失之物的经济学",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/39000303/",
+   "source": "https://book.douban.com/subject/39000303/"
   }
  ],
- "lastUpdated": "2026-10-29T03:33:36.934172+00:00"
+ "lastUpdated": "2026-10-29T09:07:33.975094+00:00"
 }

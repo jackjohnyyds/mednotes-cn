@@ -65,44 +65,60 @@
    "source": "https://movie.douban.com/subject/36828393/"
   },
   {
+   "name": "拥抱的姿势",
+   "type": "书籍",
+   "rating": "8.2",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38636018/",
+   "source": "https://book.douban.com/subject/38636018/"
+  },
+  {
    "name": "康熙",
    "type": "书籍",
-   "rating": "9",
+   "rating": "8.5",
    "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38381103/",
    "source": "https://book.douban.com/subject/38381103/"
   },
   {
-   "name": "昨日清晨",
-   "type": "书籍",
-   "rating": "8",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38647828/",
-   "source": "https://book.douban.com/subject/38647828/"
-  },
-  {
-   "name": "经学导论",
-   "type": "书籍",
-   "rating": "9.2",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38521447/",
-   "source": "https://book.douban.com/subject/38521447/"
-  },
-  {
-   "name": "巴贝特的盛宴",
-   "type": "书籍",
-   "rating": "7.6",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38612695/",
-   "source": "https://book.douban.com/subject/38612695/"
-  },
-  {
-   "name": "逃离NPD",
+   "name": "开山令",
    "type": "书籍",
    "rating": "",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38934955/",
-   "source": "https://book.douban.com/subject/38934955/"
+   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38631100/",
+   "source": "https://book.douban.com/subject/38631100/"
+  },
+  {
+   "name": "倩女",
+   "type": "书籍",
+   "rating": "8.5",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38556587/",
+   "source": "https://book.douban.com/subject/38556587/"
+  },
+  {
+   "name": "让无权无势者有力",
+   "type": "书籍",
+   "rating": "7.2",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38574884/",
+   "source": "https://book.douban.com/subject/38574884/"
+  },
+  {
+   "name": "糖果屋",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/37527555/",
+   "source": "https://book.douban.com/subject/37527555/"
+  },
+  {
+   "name": "衣裳哲学",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/37478654/",
+   "source": "https://book.douban.com/subject/37478654/"
   },
   {
    "name": "假如生活欺骗了你",
@@ -111,23 +127,7 @@
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38908548/",
    "source": "https://book.douban.com/subject/38908548/"
-  },
-  {
-   "name": "我们所见或似见的一切",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38570609/",
-   "source": "https://book.douban.com/subject/38570609/"
-  },
-  {
-   "name": "教汉语",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38574468/",
-   "source": "https://book.douban.com/subject/38574468/"
   }
  ],
- "lastUpdated": "2026-10-28T09:08:32.535974+00:00"
+ "lastUpdated": "2026-10-29T03:33:36.934172+00:00"
 }

@@ -1,20 +1,20 @@
 {
  "items": [
   {
+   "name": "黑球",
+   "type": "电影",
+   "rating": "8.6",
+   "comment": "影片以西班牙传奇同志诗人费德里戈·加西亚·洛尔卡一份仅存四页的未竟剧本《黑球》为锚点，用160分钟精妙地编织了一幅叙事三…",
+   "doubanLink": "https://movie.douban.com/subject/37215318/",
+   "source": "https://movie.douban.com/subject/37215318/"
+  },
+  {
    "name": "生日快乐",
    "type": "电影",
    "rating": "8.9",
    "comment": "8岁的小女仆托哈不遗余力地确保她最好的朋友内莉——她那位富有的雇主的女儿——能举办一场成功的生日派对。</p><p><i…",
    "doubanLink": "https://movie.douban.com/subject/37322586/",
    "source": "https://movie.douban.com/subject/37322586/"
-  },
-  {
-   "name": "登峰传奇：丹增诺盖",
-   "type": "电影",
-   "rating": "7.7",
-   "comment": "出生于西藏的丹增和新西兰人艾德蒙加入英国登山队，一同挑战登顶珠峰，克服难以逾越的困难，完成曾经被认为不可能的事情。</p…",
-   "doubanLink": "https://movie.douban.com/subject/36887293/",
-   "source": "https://movie.douban.com/subject/36887293/"
   },
   {
    "name": "害群之马",
@@ -25,44 +25,44 @@
    "source": "https://movie.douban.com/subject/36623663/"
   },
   {
+   "name": "登峰传奇：丹增诺盖",
+   "type": "电影",
+   "rating": "7.7",
+   "comment": "出生于西藏的丹增和新西兰人艾德蒙加入英国登山队，一同挑战登顶珠峰，克服难以逾越的困难，完成曾经被认为不可能的事情。</p…",
+   "doubanLink": "https://movie.douban.com/subject/36887293/",
+   "source": "https://movie.douban.com/subject/36887293/"
+  },
+  {
+   "name": "茫然女王",
+   "type": "电影",
+   "rating": "7.9",
+   "comment": "随着痴呆症逐渐侵蚀这位女性表达内心世界的能力，她的丈夫和女儿竭力为她着想，在爱与照料、保护及自主权之间那条脆弱的界线上艰…",
+   "doubanLink": "https://movie.douban.com/subject/35765242/",
+   "source": "https://movie.douban.com/subject/35765242/"
+  },
+  {
+   "name": "突如其来",
+   "type": "电影",
+   "rating": "7.7",
+   "comment": "玛丽-露在巴黎附近经营一家养老院，致力于提供更人性化的老年护理。她与一位身患晚期癌症的日本戏剧导演之间的友谊，进一步坚定…",
+   "doubanLink": "https://movie.douban.com/subject/37342630/",
+   "source": "https://movie.douban.com/subject/37342630/"
+  },
+  {
+   "name": "忘却之岛",
+   "type": "电影",
+   "rating": "7.7",
+   "comment": "一对挚友被困在神秘的“忘却之岛”，而他们唯一的逃生之路，可能会让他们失去共同度过的一生中的所有回忆。</p><p><im…",
+   "doubanLink": "https://movie.douban.com/subject/37317906/",
+   "source": "https://movie.douban.com/subject/37317906/"
+  },
+  {
    "name": "杯雪·一战成名",
    "type": "电影",
    "rating": "7.5",
    "comment": "改编自作家小椴经典作品《杯雪·夜雨打金荷》，以小人物逆袭博弈呈现权谋与侠义碰撞，以粗砾美学打造南宋江湖风貌。</p><p…",
    "doubanLink": "https://movie.douban.com/subject/37516455/",
    "source": "https://movie.douban.com/subject/37516455/"
-  },
-  {
-   "name": "逃出布迪秀",
-   "type": "电影",
-   "rating": "7.4",
-   "comment": "一个勇敢的女孩和她的朋友们意外受困，他们必须想尽办法从一档诡异、恐怖的儿童电视节目中逃出去。</p><p><img sr…",
-   "doubanLink": "https://movie.douban.com/subject/37446297/",
-   "source": "https://movie.douban.com/subject/37446297/"
-  },
-  {
-   "name": "生化危机：爆发夜",
-   "type": "电影",
-   "rating": "7.3",
-   "comment": "故事聚焦奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。</p><p><img src=\"https://…",
-   "doubanLink": "https://movie.douban.com/subject/37068446/",
-   "source": "https://movie.douban.com/subject/37068446/"
-  },
-  {
-   "name": "一个夜晚与三个夏天",
-   "type": "电影",
-   "rating": "7.2",
-   "comment": "北漂多年的导演桑吉回到故乡拉萨拍摄一部与自己童年有关的电影，通过其童年、少年、成年三个夏天的成长片段，展现了当代拉萨青年…",
-   "doubanLink": "https://movie.douban.com/subject/36449264/",
-   "source": "https://movie.douban.com/subject/36449264/"
-  },
-  {
-   "name": "野兽之心",
-   "type": "电影",
-   "rating": "7.3",
-   "comment": "在一场惨烈的坠机事故后，特种部队军官詹姆斯·贝尔蒙特与他的军犬奥丁绝处逢生，被困于极寒险恶的阿拉斯加荒野。</p><p>…",
-   "doubanLink": "https://movie.douban.com/subject/36828393/",
-   "source": "https://movie.douban.com/subject/36828393/"
   },
   {
    "name": "康熙",
@@ -129,5 +129,5 @@
    "source": "https://book.douban.com/subject/38999511/"
   }
  ],
- "lastUpdated": "2026-10-30T03:53:33.125841+00:00"
+ "lastUpdated": "2026-10-30T09:17:30.937202+00:00"
 }

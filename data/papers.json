@@ -1,385 +1,345 @@
 {
  "items": [
   {
-   "pmid": "42957479",
-   "title": "Associations of cumulative exposure, variability, and longitudinal profiles of CHG index with incident myocardial infarction among community-dwelling Chinese adults: a longitudinal analysis.",
-   "abstract": "The cholesterol, high-density lipoprotein cholesterol, and glucose (CHG) has been proposed as a composite metabolic index that may reflect disturbances in glucose and lipid metabolism associated with insulin resistance. We aimed to systematically evaluate the individual and joint associations of long-term patterns of the CHG index, including cumulative exposure, variability, and longitudinal profiles, with the risk of incident myocardial infarction (MI) among community-dwelling Chinese adults. This prospective cohort study included 72,312 participants from the Kailuan Study who completed three consecutive health examinations between 2006 and 2015. Multiple indicators were derived to characterize long-term patterns of the CHG index, including time-weighted cumulative CHG (TW-cumCHG), cumulative CHG burden, duration of elevated CHG, visit-to-visit CHG variability (CHGV), and longitudinal CHG profiles. Cox proportional hazards models were used to estimate hazard ratios (HRs) and 95% confidence intervals (CIs) for incident MI. Discriminative performance was evaluated using the 10-year time-dependent area under the receiver operating characteristic curve (AUC). During a median follow-up of 11.61 years, 2818 incident MI events were documented. After multivariable adjustment, the HR for incident MI was 2.17 (95% CI, 1.91-2.48) for participants in the highest quartile of TW-cumCHG, 1.64 (95% CI, 1.50-1.79) for those with a cumulative CHG burden >0, and 2.13 (95% CI, 1.87-2.41) for those with 6 years of elevated CHG exposure. Greater visit-to-visit CHGV and persistently high longitudinal CHG profiles were also associated with a higher risk of MI. Participants with both high TW-cumCHG and high CHGV had the greatest risk. Long-term CHG patterns provided modest incremental discrimination for incident MI beyond traditional risk factors and the individual CHG components, including FBG, TC, and HDL-C. Long-term patterns of the CHG index were associated with the risk of incident MI, potentially reflecting cumulative glucose-lipid exposure and metabolic instability. These findings highlight the significance of long-term CHG assessment and its potential to provide modest incremental information for early MI risk stratification beyond traditional risk factors.",
-   "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+   "pmid": "42962045",
+   "title": "Association between coronary artery calcium score and myocardial ischemia assessed by stress perfusion cardiac magnetic resonance imaging.",
+   "abstract": "Coronary artery calcium (CAC) scoring effectively stratifies cardiovascular risk, and stress perfusion cardiac magnetic resonance (CMR) accurately detects myocardial ischemia. We aimed to investigate the prevalence and factors associated with myocardial ischemia on CMR in patients with CAC, and to assess the clinical impact of myocardial ischemia following CMR. This study included 215 patients aged &#x2265;18 years who underwent CAC scoring for risk stratification, followed by stress CMR between 2013 and 2026. The prevalence and predictors of myocardial ischemia were investigated. Receiver operating characteristic (ROC) analysis was performed to assess the association between CAC scores and myocardial ischemia. Additionally, subsequent clinical management following CMR was determined. The mean age was 69.3&#x2009;&#xb1;&#x2009;9.1 years (60.9% male). The average 10-year PREVENT risk score was 18.6&#x2009;&#xb1;&#x2009;8.7%. Overall, myocardial ischemia was present in 26.0% of patients (56/215): 17.1% in the CAC 300-999 Agatston units (AU) group (14/82) and 41.6% in the CAC&#x2009;&#x2265;&#x2009;1,000 AU group (42/101). CAC score was the only independent predictor of myocardial ischemia (adjusted OR 1.07, 95%CI 1.03&#x2009;-&#x2009;1.10; p&#x2009; 0.05).The number of ischemic segments increased with increasing CAC scores (p&#x2009;<&#x2009;0.001). ROC analysis demonstrated an optimal cutoff threshold of CAC&#x2009;&#x2265;&#x2009;1,093 AU for detecting myocardial ischemia (AUC 0.75, p&#x2009;<&#x2009;0.001). The clinical impact of stress CMR included medication changes in 37.2% of patients, while 18.1% underwent invasive procedures. In patients with CAC scores undergoing stress CMR, the prevalence of myocardial ischemia was approximately one-fourth and was associated with higher CAC scores. Stress CMR may influence clinical management in this population. Larger or prospective studies validating these findings and evaluating prognosis are warranted.",
+   "journal": "PloS one",
    "year": "2026",
    "authors": [
-    "Wenqi Xu",
-    "Xiaorong Li",
-    "Shuohua Chen",
-    "Shouling Wu",
-    "Yongzheng Guo",
-    "Yong Xia"
+    "Yodying Kaolawanich",
+    "Methat Meechuen",
+    "Issarayus Laohabut",
+    "Thanawat Ruengchaisiwawaith",
+    "Thananya Boonyasirinant"
    ],
-   "doi": "10.1016/j.numecd.2026.105032",
+   "doi": "10.1371/journal.pone.0361659",
    "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42957479/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42962045/"
   },
   {
-   "pmid": "42957478",
-   "title": "Reply to the letter to the editor on synergistic impact of insulin resistance and hepatic fibrosis on cardiovascular events in patients with coronary artery disease.",
+   "pmid": "42961951",
+   "title": "Sex-Specific Prognostic Significance of Interventricular Septal Thickness in Heart Failure.",
+   "abstract": "Interventricular septal (IVS) thickness is routinely measured by echocardiography, yet its prognostic significance in heart failure (HF), and whether it differs by sex, remains uncertain. This retrospective study included patients with HF from the SHEBAHEART registry (2009-2025). IVS thickness was classified as normal ( 1.3 cm), using identical thresholds by sex. Associations with all-cause mortality were evaluated using Kaplan-Meier analysis and multivariable Cox models adjusted for age, body mass index, systolic blood pressure, comorbidities, and left ventricular ejection fraction, with formal testing for sex-by-IVS interaction. Among 20,836 patients (median age, 74 years; 39% women), 41% had mild and 18% had severe IVS thickening. During a median follow-up of 4 years, 11,930 patients (57%) died; 4-year Kaplan-Meier cumulative mortality increased across IVS categories (35%, 39%, and 42%; P < 0.001). In primary complete-case analysis (n = 13,902), the sex-by-IVS interaction was significant (P = 0.030). Adjusted hazard ratios (95% confidence intervals) for mild and severe thickening were 1.16 (1.07-1.26) and 1.19 (1.08-1.32) in women, compared with 1.02 (0.96-1.09) and 1.07 (0.99-1.16) in men. The sex-by-IVS interaction remained significant in multiple-imputation and time-varying Cox analyses, but not with sex-specific IVS reference partitions. With common absolute IVS thresholds, increased septal thickness was more strongly associated with all-cause mortality in women than in men with HF. These findings support evaluation of IVS thickness as a potential component of sex-specific risk stratification in HF.",
+   "journal": "ESC heart failure",
+   "year": "2026",
+   "authors": [
+    "Alon Kaplan",
+    "Viana Copeland",
+    "Ranel Loutati",
+    "Boris Fishman",
+    "Yishay Wasserstrum",
+    "Assi Milwidsky",
+    "Tal Hasin",
+    "Rafael Kuperstein",
+    "Elad Maor",
+    "Michael Arad"
+   ],
+   "doi": "10.1093/eschf/xvag275",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42961951/"
+  },
+  {
+   "pmid": "42961949",
+   "title": "Sex-Specific Mechanisms and Therapeutics in Heart Failure: Translating Biology into Personalized Care.",
+   "abstract": "Sex is one of the most consistent, yet clinically underexploited, determinants of heart failure phenotype, mechanism and outcome. Building on landmark reviews and the 2024 scientific statement of the Heart Failure Association, which documented well-recognized phenotypic differences but noted that their mechanisms remain only partially defined, this review examines how sex differences in heart failure arise and how firmly they should guide practice. Epidemiologically, female predominance in heart failure with preserved ejection fraction is age- and menopause-dependent rather than lifelong. Mechanistically, sex-divergent hormonal signalling, autonomic tone, coronary microvascular dysfunction and myocardial fibrosis often produce similar phenotypes through different mechanisms: microvascular dysfunction is similarly prevalent in both sexes but linked to fibrosis in women and to atherosclerotic risk factors in men, and oestradiol regulates collagen synthesis in opposite directions in female and male cardiac fibroblasts. Clinically, comorbidities carry divergent prognostic weight by sex. Graded against the strength of evidence, sodium-glucose cotransporter 2 inhibitors show established sex-neutral efficacy, whereas the greater benefit of angiotensin receptor-neprilysin inhibition and mineralocorticoid receptor antagonism in women rests on subgroup signals that await confirmation. Natriuretic peptide concentrations are substantially sex-dependent, yet diagnostic thresholds remain sex-neutral, although sex-specific calibration is methodologically achievable. Women remain underrepresented in heart failure trials and less often referred to specialized care. Heart failure is therefore best understood as a sex-differentiated syndrome whose frameworks were built largely around male-pattern disease. Sex-calibrated trial enrolment, sex-specific biomarker and ejection fraction thresholds, and stratification by menopausal stage are concrete next steps towards personalized care.",
+   "journal": "ESC heart failure",
+   "year": "2026",
+   "authors": [
+    "Zolt&#xe1;n Papp",
+    "Stephan von Haehling",
+    "Jan Biegus",
+    "Be&#xe1;ta B&#xf3;di",
+    "Rebeka Rita V&#xe1;g&#xf3;",
+    "Zs&#xf3;fia P&#xf3;lik",
+    "Attila Borb&#xe9;ly"
+   ],
+   "doi": "10.1093/eschf/xvag274",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42961949/"
+  },
+  {
+   "pmid": "42961838",
+   "title": "Unusual coexistence of vascular compression syndromes: Nutcracker, Dunbar, and May-Thurner syndromes.",
+   "abstract": "Vascular compression syndromes represent a group of rare conditions caused by extrinsic compression of veins or arteries by surrounding anatomical structures. These disorders are often underdiagnosed due to nonspecific symptoms, and the coexistence of multiple syndromes in a single patient is extremely rare. We report an 18-year-old woman with no past medical history who presented with intermittent abdominal and lumbar pain and progressive weight loss, without haematuria. Initial ultrasonography and contrast-enhanced computed tomography revealed the coexistence of Nutcracker, Dunbar (median arcuate ligament), and May-Thurner syndromes. The patient underwent open surgical management via median laparotomy, involving median arcuate ligament section to relieve coeliac trunk compression, transposition of the left renal vein, and decompression of the left common iliac vein by mobilisation of the right common iliac artery. The postoperative course was uneventful, with significant symptom relief and favourable long-term outcomes. This case highlights the diagnostic challenges and therapeutic complexity associated with combined vascular compression syndromes, emphasising the importance of a multidisciplinary surgical approach.",
+   "journal": "Cardiovascular journal of Africa",
+   "year": "2026",
+   "authors": [
+    "H&#xe8;la Ben Jma&#xe0;",
+    "Zied Ben Ayed",
+    "Faten Dhouib",
+    "Hafedh Daly",
+    "Rahma Kallel",
+    "Imed Frikha"
+   ],
+   "doi": "10.5830/CVJA-2026-047",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42961838/"
+  },
+  {
+   "pmid": "42961836",
+   "title": "Expanding interventional cardiology in sub-Saharan Africa: Progress, barriers, and a path forward.",
+   "abstract": "Cardiovascular disease is an increasingly significant cause of morbidity and mortality in sub-Saharan Africa, driven by demographic growth, population ageing, and epidemiological transition. Despite the growing burden of ischaemic heart disease and other cardiovascular conditions, access to interventional cardiology services remains severely limited across the region. Critical shortages of percutaneous coronary intervention facilities, catheterisation laboratories, and trained interventional cardiologists contribute to delayed treatment and preventable mortality. Additional barriers include high infrastructure and equipment costs, limited financing mechanisms, inadequate insurance coverage, workforce shortages, and geographic inequities in access to care. Nevertheless, emerging programs in Uganda, Kenya, and Ethiopia demonstrate that sustainable progress is achievable through strategic partnerships, local workforce development, public-private collaboration, and regional professional networks. Expanding interventional cardiology capacity will require coordinated investments in infrastructure, training, financing, referral systems, and policy prioritisation. Strengthening these systems is essential to achieving equitable cardiovascular care and improving outcomes across sub-Saharan Africa.",
+   "journal": "Cardiovascular journal of Africa",
+   "year": "2026",
+   "authors": [
+    "Sammer Marzouk",
+    "Ketan Tamirisa",
+    "Faraan Rahim",
+    "Yaman Kanaan",
+    "Erick Mahatara",
+    "Peter Kisenge",
+    "Khuzeima Khanbhai"
+   ],
+   "doi": "10.5830/CVJA-2026-043",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42961836/"
+  },
+  {
+   "pmid": "42962193",
+   "title": "Review Article: mRNA CARs: An Emerging New-Old Idea.",
+   "abstract": "Chimeric antigen receptor (CAR) T cell therapy has transformed cancer immunotherapy. Still, conventional viral vectors carry risks of insertional mutagenesis, are costly to manufacture, and can cause persistent on-target/off-tumor toxicity. Messenger RNA (mRNA) platforms offer a nonintegrating, transient alternative that enables rapid, modular expression of CARs and accessory molecules and can be extensively optimized. mRNA CAR T cells can be manufactured in days, and their transient expression allows repeat dosing and mitigates prolonged toxicity. Preclinical studies show that electroporation or lipid nanoparticle delivery can generate potent CAR-engineered immune cells. Beyond oncology, transient mRNA CARs are explored for autoimmune diseases such as systemic lupus erythematosus, lupus nephritis and myasthenia gravis, where short-lived CAR expression can reset autoreactive B-cell compartments while avoiding long-term immunosuppression. Emerging delivery strategies, including targeted lipid nanoparticles that program T cells in vivo, could eliminate the need for ex vivo cell manufacture and extend CAR therapy to fibrosis and regenerative medicine. Collectively, these developments position mRNA-engineered CARs as a flexible, safer and scalable platform that complements or potentially surpasses viral CAR technologies in oncology, autoimmunity and beyond.",
+   "journal": "Critical reviews in oncogenesis",
+   "year": "2026",
+   "authors": [
+    "Yochai Wolf"
+   ],
+   "doi": "10.1615/CritRevOncog.2026066109",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42962193/"
+  },
+  {
+   "pmid": "42962192",
+   "title": "Review Article: Untapped Potential: Peptide Ligands as Guides for Engineered T Cells.",
+   "abstract": "The seminal studies of the late Prof. Zelig Eshhar, the creator of \"T-bodies,\" ushered in a new era of targeted cellular immunotherapy. As T-bodies came to be known as chimeric antigen receptors (CARs), the molecular requirements of these fusion proteins evolved, as did the technology enabling their expression in T cells. CAR T cells are fast becoming a mainstay therapy for hematological cancers such as multiple myeloma, and they are expanding into the field of solid cancer therapy. Nonetheless, one key barrier to their applicability is the limited number of tumor-specific targets that have been validated. An alternate approach which has until recently been almost totally bypassed is the use of peptide libraries to screen for and discover ligands capable of guiding the engineered T cells to novel cancer cell-restricted receptors. Peptides as targeting moieties have many advantages. This review summarizes the current state-of-the-art in the discovery and application of peptide-guided CAR-T cells in cancer immunotherapy.",
+   "journal": "Critical reviews in oncogenesis",
+   "year": "2026",
+   "authors": [
+    "Michael A Firer",
+    "Dinorah Friedmann-Morvinski"
+   ],
+   "doi": "10.1615/CritRevOncog.2026066487",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42962192/"
+  },
+  {
+   "pmid": "42962191",
+   "title": "Review Article: Taming the Neuroinflammatory Cost of CAR T Therapy.",
+   "abstract": "Chimeric antigen receptor (CAR) T cell therapy has transformed the treatment of refractory haematological malignancies, yet its success remains limited by cytokine release syndrome and immune effector cell-associated neurotoxicity syndrome. Although earlier intervention with tocilizumab and corticosteroids has reduced the incidence of severe toxicity, these strategies act after inflammatory signaling is already established and do not reliably prevent isolated or delayed neurological complications. This has shifted the field from reactive management towards prevention at the level of the cellular product itself. Manufacturing conditions, cellular compositions and differentiation state can shape the inflammatory setpoint of CAR T cells, but attempts to preserve less-differentiated, highly proliferative populations may also increase expansion-driven toxicity. Construct engineering therefore aims not simply to weaken CAR activity, but to recalibrate antigen recognition, signaling strength and cytokine output while preserving durable tumor control. Multimodal reversible CAR engineering approaches via drug-gated receptors, safety switches, transient surface shielding, and targeted CAR degradation, further recast CAR T cells as tuneable therapeutic systems rather than fixed products. However, most evidence remains preclinical or derived from small, heterogeneous studies. Progress will depend on prospective trials that evaluate efficacy and neurotoxicity together, using harmonised product analytics, neurological endpoints and longitudinal biomarker sampling to define clinically meaningful safety/activity trade-offs.",
+   "journal": "Critical reviews in oncogenesis",
+   "year": "2026",
+   "authors": [
+    "Stefan Corradini",
+    "Charlotte Graham"
+   ],
+   "doi": "10.1615/CritRevOncog.2026066328",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42962191/"
+  },
+  {
+   "pmid": "42962190",
+   "title": "Review Article: A Scientific Journey with Zelig Eshhar at the Dawn of Monoclonal Antibody Research.",
+   "abstract": "Professor Zelig Eshhar, a colleague, collaborator, and dear friend, is known worldwide as the visionary who laid the foundations for chimeric antigen receptor (CAR)-T cell therapy, a breakthrough that transformed cancer immunotherapy. Long before this revolutionary achievement, however, Zelig profoundly influenced research at the Weizmann Institute of Science by introducing the then state-of-the-art hybridoma technology for the generation of monoclonal antibodies (mAbs), which he brought directly from the oven of Nobel laureates Georges K&#xc3;&#xb6;hler and C&#xc3;&#xa9;sar Milstein. Through his expertise and the dedication of his legendary team, Tova Waks, his indispensable partner for 55 years, Orith Gigi-Leitner, and Sara Barak, this technology rapidly became an invaluable resource for investigators throughout the Institute. My collaboration with Zelig during the 1980s led to the generation of monoclonal antibodies against a series of biologically important proteins, including interferons, other cytokines, their soluble receptors, the unique IL-18 Binding Protein (IL-18BP), and, years later, glutamate oxaloacetate transaminase 1 (GOT1). These antibodies proved to be remarkably versatile research tools, suitable for neutralization, affinity chromatography, immunoassays, flow cytometry, immunoblotting, and numerous other applications. Most importantly, they enabled the affinity purification of in-house corresponding recombinant cytokines. The antibodies proved far more than analytical reagents. They became indispensable tools for both basic research and translational medicine. Together, these unique reagents formed the foundation of a ligand-affinity strategy that led to the discovery of previously unknown cytokine receptors and binding proteins. Those include the type I interferon receptor, the second TNF receptor (TBPII), and the unexpected IL-18 Binding Protein. These discoveries not only advanced our understanding of cytokine biology but also paved the way for therapeutics such as Rebif&#x174;, Enbrel&#x174;, Remicade&#x174; and Tadekinig alfaTM, used in the treatment of autoimmune, inflammatory, and genetic diseases, such as multiple sclerosis, rheumatoid arthritis and Crohn's disease. While our scientific paths diverged in 1989, Zelig's toward the revolutionary concept of chimeric antigen receptors and mine toward cytokine receptors and binding proteins, they ultimately converged again as TNF and IL-18BP antagonists found applications in enhancement of CAR-T therapy and in management of potential inflammatory complications associated with this therapy. This chapter stands as a testament to Zelig's vision in introducing and advancing monoclonal antibody technology at the Weizmann Institute.",
+   "journal": "Critical reviews in oncogenesis",
+   "year": "2026",
+   "authors": [
+    "Daniela Novick"
+   ],
+   "doi": "10.1615/CritRevOncog.2026066174",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42962190/"
+  },
+  {
+   "pmid": "42962189",
+   "title": "Review Article: Recent Progress in CAR T Signaling: Maneuvering CARs Further along the TCR Signaling Pathway.",
+   "abstract": "T cell functions are tightly regulated by signaling through the MHC-restricted T cell antigen receptor (TCR), a multi-chain complex that synergizes with CD28 and other costimulatory receptors. Beginning in the late 1980s, simplified chimeric constructs illuminated core mechanisms of TCR signaling, while setting the stage for the development of chimeric antigen receptor (CAR) T cell therapies. Composed of a single transmembrane chain, US Food and Drug Administration (FDA)-approved, second-generation CARs link an antibody-based recognition moiety to intracellular costimulatory and CD3 &#x3b6; signaling motifs. CARs harness key aspects of T cell mediated immunity while bypassing MHC-restriction; yet these single-chain constructs do not recapitulate the extraordinary antigen sensitivity of the native TCR. Emerging evidence attributes this deficit, in part, to impaired CAR coupling to the LAT-SLP-76 signalosome, a multi-protein complex downstream of ZAP-70, that integrates TCR proximal signals and drives PLC-&#x3b3;1-dependent cellular responses. Recent studies describe innovative strategies to increase CAR T sensitivity, potency and specificity, by replacing or supplementing conventional CARs with LAT or SLP-76-based constructs that enhance signalosome engagement and promote ITK- and PLC-&#x3b3;1-mediated signaling. These advances chart a path toward more effective CAR T therapies, while illuminating the mechanisms by which LAT and SLP-76 govern antigen sensitivity.",
+   "journal": "Critical reviews in oncogenesis",
+   "year": "2026",
+   "authors": [
+    "Wan-Lin Lo",
+    "Deborah Yablonski"
+   ],
+   "doi": "10.1615/CritRevOncog.2026065228",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42962189/"
+  },
+  {
+   "pmid": "42962196",
+   "title": "Facilitators and Barriers to Implementing HIV and Hepatitis C Screening Programs Among Providers in Clinical Settings in the United States: A Qualitative Perspective.",
    "abstract": "",
-   "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+   "journal": "The Journal of the Association of Nurses in AIDS Care : JANAC",
    "year": "2026",
-   "authors": [
-    "Zhihao Zheng",
-    "Kefei Dou"
-   ],
-   "doi": "10.1016/j.numecd.2026.104954",
-   "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42957478/"
+   "authors": [],
+   "doi": "10.1097/JNC.0000000000000713",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42962196/"
   },
   {
-   "pmid": "42957475",
-   "title": "Cumulative remnant cholesterol-adiposity product indices and incident cardiometabolic multimorbidity: a prospective CHARLS analysis.",
-   "abstract": "Remnant cholesterol (RC) and excess adiposity are jointly implicated in cardiometabolic disease, but whether their repeated joint burden adds information beyond a single measurement remains uncertain. We examined associations of cumulative RC-adiposity product indices and two-wave exposure patterns with incident cardiometabolic multimorbidity (CMM). We included 5458 adults aged &#x2265;45 years from the China Health and Retirement Longitudinal Study who were free of CMM in both 2011 and 2015. RC was multiplied by 11 adiposity indices at Wave 1 (2011-2012) and Wave 3 (2015) to derive time-weighted cumulative indices. CMM was defined as at least two of diabetes mellitus, heart disease, and stroke by 2020. Among 567 incident cases, higher cumulative RC-body mass index (RC-BMI), RC-body roundness index (RC-BRI), and RC-Chinese visceral adiposity index (RC-CVAI) were associated with higher odds after multivariable adjustment (per-1-SD odds ratios 1.167 [95% CI, 1.077-1.264], 1.188 [1.095-1.287], and 1.165 [1.076-1.260]; highest-versus lowest-quartile odds ratios 2.266, 2.322, and 2.292). The prioritized indices modestly improved discrimination over covariates alone (&#x394;AUC 0.004-0.007; DeLong P&#x202f;&#x2264;&#x202f;0.033), and formal comparisons against component and interaction models supported their interpretation as pragmatic markers of joint remnant-adiposity burden rather than as synergistic constructs. Exploratory analyses suggested that hsCRP mediated a modest proportion of these associations (indirect proportions, 16.6%-21.3%). Sustained exposure and adverse two-wave patterns of RC-adiposity composite indices, particularly those reflecting central or visceral adiposity, were associated with incident CMM and may complement conventional risk stratification.",
-   "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+   "pmid": "42961555",
+   "title": "Acute-on-chronic liver failure: a global multisociety consensus on definitions.",
+   "abstract": "The acute-on-chronic liver failure (ACLF) multisociety harmonisation initiative represents a global collaborative effort to establish a unified, evidence-based framework for the definition, diagnosis, grading, and management of ACLF. Building on the strengths of existing regional definitions and integrating diverse international perspectives, this consensus provides a pragmatic, globally applicable foundation for clinical practice, research, and education. It also establishes a common framework for patient stratification, organ dysfunction and failure assessment, critical care management, liver transplantation, and the design of future phase II/III trials. Standardised, regulatory-aligned endpoints are expected to improve cross-study comparability, strengthen collaboration, and accelerate development of effective ACLF therapies.",
+   "journal": "Hepatology international",
    "year": "2026",
-   "authors": [
-    "Xiaozhou Su",
-    "Hong Wen",
-    "Feng Huang",
-    "Zhiyu Zeng"
-   ],
-   "doi": "10.1016/j.numecd.2026.105031",
-   "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42957475/"
+   "authors": [],
+   "doi": "10.1007/s12072-026-11169-2",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42961555/"
   },
   {
-   "pmid": "42957442",
-   "title": "Associations of Plasma Branched-Chain Amino Acids With Incident Atherosclerotic Cardiovascular Disease by Sex and Type 2 Diabetes Status Among Chinese Adults.",
-   "abstract": "Evidence on associations between branched-chain amino acids (BCAAs) and atherosclerotic cardiovascular disease (ASCVD) remains limited, particularly in Chinese populations. We investigated associations between BCAAs and ASCVD and whether they differed by sex and Type 2 diabetes (T2D). Using a case-cohort design within a Chinese prospective cohort, we included a random subcohort (n&#x2009;=&#x2009;2163) and incident ASCVD cases (n&#x2009;=&#x2009;674). Plasma BCAA concentrations were quantified by ultra-performance liquid chromatography-tandem mass spectrometry. Associations of BCAAs with incident ASCVD were evaluated using Prentice-weighted Cox proportional hazards models, with stratified analyses and interaction tests by sex and T2D. Mediation analyses assessed the contribution of BCAAs to associations between T2D and ASCVD. During a median follow-up of 10.3&#x2009;years, plasma BCAAs were positively associated with ASCVD. Associations appeared more pronounced among female participants, although interaction tests by sex were not statistically significant. Among female participants, significant associations were only observed in those with T2D, with hazard ratios (95% CIs) of 2.014 (1.185-3.423), 1.867 (1.142-3.052), 1.814 (1.071-3.078) and 2.030 (1.197-3.442) per standard deviation increment in ln-transformed total BCAA, isoleucine, leucine and valine, respectively. Additive interactions with T2D were detected for total BCAA and leucine. For male participants, no significant associations were observed, regardless of T2D status. Notably, total BCAA, leucine and valine partially mediated the association between T2D and ASCVD among female participants, with mediated proportions of 7.89%, 7.68% and 6.76%, respectively. Higher plasma BCAA concentrations were associated with increased incident ASCVD risk, supporting their potential role as metabolic markers of ASCVD.",
-   "journal": "Diabetes, obesity & metabolism",
-   "year": "2026",
-   "authors": [
-    "Shuyao Su",
-    "Fangchao Liu",
-    "Feiyang Ma",
-    "Shufeng Chen",
-    "Keyong Huang",
-    "Jie Cao",
-    "Yan Wang",
-    "Hongfan Li",
-    "Ling Yu",
-    "Xiaoqing Liu",
-    "Jianfeng Huang",
-    "Dongfeng Gu",
-    "Xiangfeng Lu",
-    "Jianxin Li"
-   ],
-   "doi": "10.1111/dom.71492",
-   "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42957442/"
-  },
-  {
-   "pmid": "42957415",
-   "title": "Circadian clock adjusted classes improve sleep, circadian health, and academic performance in medical freshmen.",
-   "abstract": "University students often experience circadian misalignment with academic schedules, which may impair performance. This study evaluated whether a later-start schedule improves academic outcomes and circadian rhythms in first-year medical students. Incoming students ( n = 220) completed the Munich Chronotype Questionnaire; those with high social jetlag (SJL >120 min, n = 71) were randomized into either a later-start schedule (LS; classes &#x2265;10:00 a.m., n = 30) or a standard early-start schedule (ES; 8:00 a.m., n = 41). Actigraphy data were collected from 112 students prior to examinations. Based on the objective temperature circadian phase (TCP) with a median acrophase split at 3:59 a.m. ES participants were categorized asearly (ETCP-ES, n = 41) or late (LTCP-ES, n = 41). All LS participants exhibited a TCP later than 3:59 a.m. and remained LTCP-LS group ( n = 30). Associations between scheduling, circadian metrics, and exam scores were analyzed using regression and sex-adjusted ANCOVA. TCP predicted exam scores overall (&#x3b2; = -0.217, p = 0.021), most evidently within ES (&#x3b2; = -0.291, p = 0.008). LTCP-ES students scored lower than ETCP-ES students ( p = 0.025). LTCP-LS students performed similarly to ETCP-ES students and showed greater circadian robustness, including higher rest-activity stability (p = 0.031), greater blue-light stability ( p = 0.029), and longer sleep duration ( p = 0.013).",
-   "journal": "Chronobiology international",
-   "year": "2026",
-   "authors": [
-    "Denis Gubin",
-    "Liina Danilova",
-    "Sergey Kolomeichuk",
-    "Mikhail Borisenkov",
-    "Julia Boldyreva",
-    "Svetlana Solovieva",
-    "Elena Khramova",
-    "Ivan Petrov",
-    "Larisa Alkhimova",
-    "Svetlana Roslyakova",
-    "Germaine Cornelissen",
-    "Dietmar Weinert"
-   ],
-   "doi": "10.1080/07420528.2026.2753657",
-   "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42957415/"
-  },
-  {
-   "pmid": "42957492",
-   "title": "Immortal time bias, absent comparator, and CA19-9 overinterpretation in cholangiocarcinoma immunotherapy.",
+   "pmid": "42960980",
+   "title": "Letter: The Q425R Variant in Chronic Hepatitis Delta-Distinguishing Cirrhosis Prevalence From Portal Hypertension Severity. Authors' Reply.",
    "abstract": "",
-   "journal": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
+   "journal": "Alimentary pharmacology & therapeutics",
    "year": "2026",
    "authors": [
-    "Haleema Rahman"
+    "Sara Cmet",
+    "Edmondo Falleti",
+    "Elisabetta Degasperi",
+    "Pietro Lampertico",
+    "Pierluigi Toniutto"
    ],
-   "doi": "10.1016/j.dld.2026.10.017",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42957492/"
-  },
-  {
-   "pmid": "42957460",
-   "title": "Interleukin 4-receptor-&#x3b1; blockade in localised scleroderma: a phase 2 proof-of-concept study.",
-   "abstract": "Fibrotic diseases are a major therapeutic challenge. In humans, fibrosing diseases are often associated with an interleukin (IL-) 4/T H 2 signature. In preclinical mouse models, development of fibrosis critically depends on IL-4/signal transducer and activator of transcription 6 (STAT6). Yet, the role of IL-4/IL-13 in human fibrosing diseases remains unknown, and treatment development requires a deeper understanding of the role of IL-4/IL-13 in the pathogenesis. The local inflammation and the development of fibrosis in localised scleroderma (LS) are similar to those in systemic sclerosis and other fibrosing diseases. In this article, we investigated the role of IL-4/IL-13 signalling in LS in a randomised, placebo-controlled clinical trial (ClinicalTrials.gov registration: NCT04200755). We studied the effect of 6 months of blocking IL-4-receptor &#x3b1; with dupilumab on disease progression, sclerosis-associated inflammation, and sclerosis-specific gene expression. Already this short-term intervention resulted in a significant clinical improvement over placebo, a significant attenuation of the local inflammation, a specific and significant reduction of the IL-4/IL-13-dependent gene signature, and a partial suppression of genes coding for fibrosis-inducing proteins. Thus, selective inhibition of IL-4/IL-13 prevents the progression of LS and is promising for therapeutic prevention of other fibrosing diseases.",
-   "journal": "Annals of the rheumatic diseases",
-   "year": "2026",
-   "authors": [
-    "Sabine A Eming",
-    "Alexander Kreuter",
-    "Matthias Hahn",
-    "Kamran Ghoreschi",
-    "Pia Moinzadeh",
-    "Nicolas Hunzelmann",
-    "Kerstin Becker",
-    "Nils Reiche",
-    "Anne Adams",
-    "Kija Shah-Hosseini",
-    "Martin Hellmich",
-    "Sebastian Willenborg",
-    "David E Sanin",
-    "Martin R&#xf6;cken",
-    "Thomas Krieg"
-   ],
-   "doi": "10.1016/j.ard.2026.09.022",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42957460/"
-  },
-  {
-   "pmid": "42957456",
-   "title": "Multilayered mechanisms driving sexual dimorphism in antitumor immunity.",
-   "abstract": "Biological sex is a major variable associated with cancer incidence and treatment response, but how it affects antitumor immunity is not well understood. This review highlights the multilayered mechanisms driving sex differences in antitumor immunity. At the molecular level, tumor suppressor and oncogene alterations can be sex-biased and lead to the activation of noncanonical, immune-altering pathways. At the tissue level, resident immune niches and the commensal microbiome modulate sex-biased inflammation. Finally, at the organismal level, sex hormones and chromosomes, which act systemically across tissues, drive divergent inflammatory responses. Together, these mechanisms drive sex-specific antitumor responses, including differences in immunotherapy efficacy and toxicity. Further elucidating these mechanisms will advance precision oncology through sex-stratified treatment strategies and improve preclinical and clinical study designs.",
-   "journal": "Trends in immunology",
-   "year": "2026",
-   "authors": [
-    "Maryam Faisal",
-    "Nourhan Abdelfattah",
-    "Kyuson Yun"
-   ],
-   "doi": "10.1016/j.it.2026.09.007",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42957456/"
-  },
-  {
-   "pmid": "42957452",
-   "title": "Glutamine metabolic interaction network reshapes tumor immunotherapy resistance.",
-   "abstract": "Glutamine metabolism is often viewed as a cancer cell dependency, but its biological consequences depend on how glutamine and its carbon- and nitrogen-derived metabolites are used across malignant, immune, and stromal compartments. In this article, we introduce the glutamine metabolic interaction network (GMIN) as an analytical framework that integrates nutrient partitioning, competition, metabolic cooperation, and metabolite-mediated regulation while distinguishing candidate associations from functionally supported interactions. We review the biochemical, spatial, and treatment-dependent determinants of GMIN states, including emerging evidence for metabolic remodeling during immunotherapy resistance. Current clinical evidence neither supports uniform glutaminase 1 dependence nor establishes a single preferred strategy for glutamine-directed intervention. GMIN may therefore provide a framework for identifying context-specific glutamine-centered interactions and prioritizing them for state-resolved therapeutic targeting.",
-   "journal": "Trends in immunology",
-   "year": "2026",
-   "authors": [
-    "Shao-Cheng Tang",
-    "Jiang-Xi Liu",
-    "Yi-Ming Wang",
-    "Hao Wang",
-    "Ling Lu"
-   ],
-   "doi": "10.1016/j.it.2026.10.001",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42957452/"
-  },
-  {
-   "pmid": "42957256",
-   "title": "History of Smoking and Prognosis of Patients With Non-small Cell Lung Cancer.",
-   "abstract": "Smoking is a known risk factor for the development of non-small-cell lung cancer (NSCLC). However, conflicting results are reported in the literature regarding the risk of smoking on the prognosis of patients with NSCLC. Moreover, these studies were often conducted before the era of personalized targeted therapy and immunotherapy, which can significantly improve the prognosis of patients. The aim of the present study was to evaluate the prognosis of patients with NSCLC in relation to their smoking history. This retrospective multicentre study included all patients from the Czech LUCAS registry with baseline tumour characteristics. Overall survival was assessed using Kaplan-Meier estimates, with differences between groups evaluated by the log-rank test and multivariate Cox regression model, adjusting for covariates and stratifying by disease stage when proportional hazards assumptions were violated. A total of 3,372 patients were included. In the univariate model, non-smokers had a significantly better prognosis than former and current heavy smokers (with a history of &#x2265;40 pack-years), hazard ratio=1.19 (95% confidence interval=1.01-1.42), p =0.043; and hazard ratio 1.19 (95% confidence interval=0.03-1.37), p =0.018, respectively. This relationship was not significant in the multivariate model. The absence of a prognostic significance of smoking at the time of NSCLC diagnosis was also demonstrated in a multivariate model both in patients with advanced disease treated with anticancer drugs and in patients who underwent surgery. Although smoking/ex-smoking at the time of NSCLC diagnosis had a negative prognostic impact in univariate analysis, multivariate analysis did not demonstrate smoking itself as an independent prognostic factor for NSCLC. Therefore, other factors, including poorer performance status, likely contributed to the poorer outcome for smokers.",
-   "journal": "In vivo (Athens, Greece)",
-   "year": "2026",
-   "authors": [
-    "Martin Svaton",
-    "Petr Domecky",
-    "Ondrej Venclicek",
-    "Jana Krejci",
-    "Michal Hrnciarik",
-    "Ondrej Fischer",
-    "Marie Drosslerova",
-    "Daniel Hricisak",
-    "Karel Odrazka",
-    "Miloslav Marel"
-   ],
-   "doi": "10.21873/invivo.14508",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42957256/"
-  },
-  {
-   "pmid": "42957051",
-   "title": "Locus-Specific Endogenous Retroviral Transcriptional Modulation in Viral Hepatitis-Driven Hepatocellular Carcinoma.",
-   "abstract": "Human endogenous retroviruses (HERVs) are remnants of ancient infections integrated into the primate germ line. HERV transcriptional reactivation has been observed in several diseases, including cancer, where it may reflect epigenetic deregulation, cellular stress, inflammation, and infections. Hepatocellular Carcinoma (HCC) is one of the most diffuse and deadly cancers worldwide, with chronic hepatitis infections as major etiological factors. In this context, the activation of specific HERV loci in HCC and their relationship with the broader tumor-associated transcriptional landscape remain poorly defined. Here, we characterized the expression of &#x223c;3,300 HERVs in a public RNA-seq dataset comprising HCC samples, predominantly of viral etiology, and non-HCC liver controls. We identified 185 differentially expressed HERVs, predominantly upregulated in HCC (n=145): comparisons with GTEx healthy liver transcriptomes, inflammatory gene profiling, and covariate-adjusted analyses supported the consistency of this HCC-associated transcriptional signature. Aggregate expression scores of upregulated and downregulated HERVs showed significant associations with histological grade, with opposite trends across G1-G3 tumors. 16 HERV loci were consistently upregulated in all tumor tissues, and their aggregate expression increased significantly with histological grade, supporting their prioritization as a candidate HCC-associated signature. HERV-correlated pathway analyses revealed grade-associated patterns involving metabolic, inflammatory, interferon-related, and proliferative transcriptional programs. De novo transcript reconstruction identified candidate HERV-derived transcripts requiring experimental validation. Overall, the study provides a comprehensive characterization of HERV modulation in a predominantly viral-associated HCC cohort and identifies conserved HERV signatures embedded within the broader transcriptomic remodeling, for future independent and functional studies of their potential relevance to liver cancer biology.",
-   "journal": "Tumour virus research",
-   "year": "2026",
-   "authors": [
-    "Nicole Grandi",
-    "Elena Soddu",
-    "Saili Chabukswar",
-    "Sante Scognamiglio",
-    "Yun Yen",
-    "Ching-Hsuan Liu",
-    "Liang-Tzung Lin",
-    "Enzo Tramontano"
-   ],
-   "doi": "10.1016/j.tvr.2026.200352",
+   "doi": "10.1111/apt.71081",
    "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42957051/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42960980/"
   },
   {
-   "pmid": "42956892",
-   "title": "Persistent Hepatocyte Plasticity and Lipid Metabolic Reprogramming After Hepatitis C Virus Cure.",
-   "abstract": "Chronic hepatitis C virus (HCV) infection disrupts hepatocyte polarity and promotes epithelial-mesenchymal transition (EMT), contributing to liver disease progression. Although direct-acting antivirals (DAAs) eradicate HCV infection in most patients, the risk of fibrosis progression and hepatocellular carcinoma persists after viral clearance. Whether antiviral cure fully restores hepatocyte differentiation, polarity, and epithelial identity programs remains unclear. We investigated whether HCV-induced EMT and lipid metabolism alterations are fully reversible following DAA treatment. Huh7 hepatoma cells and Huh7 cells stably expressing a full-length HCV replicon were cultured in three-dimensional Matrigel to assess morphogenesis, polarity-associated features, and EMT. Spheroid morphology, canalicular-like organization, EMT markers, and transcriptomic signatures were analyzed using microscopy, immunofluorescence, RT-qPCR, and microarray analysis. The effects of DAA treatment (sofosbuvir with or without velpatasvir) were evaluated in vitro. Publicly available transcriptomic data from liver biopsies collected before therapy and within five days after its completion, were analyzed. HCV replicon expression altered canalicular-like organization and induced actin-rich protrusions in 90% of Huh7-R spheroids. DAA treatment efficiently suppressed HCV replicon expression and partially restored epithelial morphology, reducing protrusions to 25%, without normalizing them to the control level (2.5%). EMT-associated changes, including reduced E-cadherin and increased N-cadherin expression, were only partially corrected by DAA treatment. Transcriptomic EMT scoring showed persistent mesenchymal features in DAA-treated cells and in patient biopsies collected at the end of treatment. In parallel, genes involved in lipid metabolism and hepatocyte differentiation remained dysregulated. These findings show incomplete restoration of epithelial organization after suppression of HCV replicon expression in vitro and incomplete normalization of selected transcriptional signatures at the end of DAA treatment in patient liver samples. They suggest that cellular plasticity and metabolic reprogramming may persist after treatment and contribute to long-term liver disease risk.",
-   "journal": "Cellular and molecular gastroenterology and hepatology",
+   "pmid": "42960853",
+   "title": "Ten Years Later: Molecular Detection and Circulation of Enteric Viruses in Italian Pig Herds.",
+   "abstract": "Enteric viral infections remain a major challenge for the swine industry, particularly in young animals, and represent a potential source of zoonotic risk. Ten years after a previous survey conducted in Italy, we performed a cross-sectional study investigating mostly the same viruses to evaluate the persistence and circulation of different enteric viruses in Italian pig farms. A total of 240 pooled swine fecal samples from asymptomatic swine, collected from 12 pig farms in Northern and Central Italy, were analyzed for hepatitis E virus (HEV), porcine astrovirus (PAstV), porcine kobuvirus (PKoV), rotavirus A (RVA), caliciviruses (norovirus; NoV and sapovirus; SaV), and coronaviruses (CoVs). Overall, frequent circulation of enteric viruses was confirmed, with common codetection of multiple viruses within the same samples. PAstV and PKoV were each detected in 10 of 12 farms, followed by RVA in 9 farms, HEV in 6 farms, and caliciviruses in 1 farm; no CoV RNA was detected. PAstV, PKoV, HEV, RVA, and calicivirus RNA were detected in 70.0%, 51.2%, 27.1%, 19.6%, and 1.3% of pooled fecal samples, respectively, and 61.7% of pools contained RNA from two or more viruses. Caliciviruses were rarely detected, while no CoVs were identified, indicating either a limited circulation in the investigated farms or in fecal samples, being mostly associated with respiratory diseases. Associations between viral detection and pig age, supply-chain affiliation, and herd size were assessed using generalized estimating equation (GEE) models accounting for within-farm clustering. Although crude pool-level detection frequencies differed among categories, no statistically significant associations were identified. Although comparison with previous studies should be interpreted cautiously because the sampled farms and some diagnostic assays were not identical, this study demonstrates the continued circulation of several enteric viruses in Italian pig farms. The result highlights the importance of molecular surveillance to safeguard animal health and assess risks of interspecies transmission.",
+   "journal": "Transboundary and emerging diseases",
    "year": "2026",
    "authors": [
-    "Jean Agnetti",
-    "Samy Cherief",
-    "Christophe Desterke",
-    "Vanessa Bou-Malham",
-    "Nassima Benzoubir",
-    "Tuan Zea Tan",
-    "Jean Paul Thiery",
-    "Didier Samuel",
-    "Ama Gassama-Diagne"
+    "Ilaria Di Bartolo",
+    "Fabio Ostanello",
+    "Giovanni Ianiro",
+    "Luca De Sabato",
+    "Chiara Settanni",
+    "Irene Berselli",
+    "David Ranucci",
+    "Marina Monini"
    ],
-   "doi": "10.1016/j.jcmgh.2026.101927",
+   "doi": "10.1155/tbed/4011873",
    "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42956892/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42960853/"
   },
   {
-   "pmid": "42956872",
-   "title": "Structural characterization and hepatoprotective activities of polysaccharides from Campanumoea javanica Bl.",
-   "abstract": "Campanumoea javanica Bl. is a traditional herb used in Southwestern China for its \"Qi-invigorating\" and immune-strengthening properties. An acidic pectic heteropolysaccharide, CJPC, was isolated from its roots by hot water extraction followed by DEAE Sepharose Fast Flow and Sephacryl S-200 HR chromatography. CJP-C had a weight-average molecular weight of 32.6&#x202f;kDa and consisted mainly of galactose, galacturonic acid, arabinose, and rhamnose (molar ratio 2.53:1.86:1.03:1.00). Its backbone comprised a homogalacturonan (HG) domain of &#x3b1;-1,4-linked GalpA residues and an RG-I domain of alternating &#x3b1;-1,4-GalpA and &#x3b1;-1,2-Rhap residues, the latter branched at O-4 of rhamnose with &#x3b2;-1,4-galactan, &#x3b2;-1,6-galactan, and &#x3b1;-1,5-arabinan side chains. Crude CJP and purified CJP-C showed broadly comparable immunomodulatory and antioxidant activities in vitro. In a Con A-induced autoimmune hepatitis mouse model, CJP (1200&#x202f;mg/kg) significantly reduced serum ALT/AST, alleviated hepatic necrosis and inflammation, restored SOD and GSH-Px activities, lowered MDA, and suppressed IL-6, IL-1&#x3b2;, IFN-&#x3b3;, MIP-1&#x3b1;, and ICAM-1. CJP treatment was associated with reduced total STAT1 protein expression, while T-bet levels were unchanged and SOCS1, a direct STAT1 target, was downregulated. These findings indicate that CJP alleviates Con A-induced hepatic injury, an effect associated with reduced oxidative stress and suppression of inflammatory signaling involving the IFN-&#x3b3;/STAT1 axis, supporting its potential as a functional food or adjunctive therapy pending further validation.",
-   "journal": "International journal of biological macromolecules",
+   "pmid": "42960466",
+   "title": "Trends in hepatitis E virus incidence and seroprevalence in the Netherlands, 1988 to 2025.",
+   "abstract": "BACKGROUNDHepatitis E virus (HEV) can cause serious liver disease, especially in immunosuppressed patients. In 2013, the Netherlands started HEV-RNA screening of donations for production of solvent detergent (S/D)-treated plasma. Since 2017, all Dutch blood donations are screened.AIMTo study trends in HEV infection, we analysed the prevalence of HEV antibodies in Dutch donors since 1988, and HEV-RNA screening results since 2013.METHODSPrevalence of anti-HEV IgG antibodies was determined in donor samples from 2023, and compared to our previous serosurveillance studies, performed on donor samples collected in 1988, 2000 and 2011. We collected HEV-RNA screening results of S/D plasma donations since 2013, and of all blood donations since 2017.RESULTSIn 2023, 24.3% of donors tested positive for anti-HEV antibodies. Seroprevalence increased with age. An age-cohort effect contributed to an overall decline in seroprevalence compared with 1988, reflecting historically higher infection pressure. Among donors born after 1950, seroprevalence rose in samples collected after 2000. HEV-RNA screening results initially revealed a high incidence that declined sharply after 2015, followed by an upward trend beginning in 2020. HEV-RNA positivity was more common in male and older donors.CONCLUSIONThe data indicate substantial historical fluctuations of HEV infection pressure. High seroprevalence in the late 20th century suggests widespread past exposure, followed by a prolonged period of reduced infection rates. Around 2000, HEV appears to have re-emerged, with increasing seroprevalence among younger donors. Screening has revealed marked year-to-year variability in incidence, underscoring dynamic patterns of HEV circulation.",
+   "journal": "Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin",
    "year": "2026",
    "authors": [
-    "Qiong Jin",
-    "Zhong-Yi Chen",
-    "Pei-Feng Zhu",
-    "Bin-Yuan Hu",
-    "Wen Hong Tan",
-    "Zhu-Ya Yang",
-    "Lu Liu"
+    "Franke A Quee",
+    "Boris M Hogema",
+    "Katja van den Hurk",
+    "Ed Slot",
+    "Hans L Zaaijer"
    ],
-   "doi": "10.1016/j.ijbiomac.2026.155087",
+   "doi": "10.2807/1560-7917.ES.2026.31.43.2600103",
    "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42956872/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42960466/"
   },
   {
-   "pmid": "42956092",
-   "title": "Label-Free Nucleic Acid Amplification in a Self-regulated All-Fiber Photothermal Microcavity.",
-   "abstract": "Nucleic acid amplification commonly relies on fluorescent labels and electrically driven thermal control, limiting simplicity, scalability, and remote deployment. Here, we establish a label-free optical strategy based on amplification-associated refractive-index (RI) evolution within a confined optothermal microcavity. During amplification, the accumulation of nucleic acid products alters the composition and molecular polarizability of the reaction medium, contributing to a progressive increase in its effective RI. This bulk RI change is converted into interferometric phase accumulation under thermally stabilized conditions, enabling real-time optical readout without labels. We implement this strategy in a 0.94 nL fiber Fabry-Perot microcavity that integrates localized optothermal regulation and phase-sensitive interrogation within a single optical pathway. The confined geometry enables rapid optothermal heating, reaching a 1 &#xb0;C temperature rise in 15 ms, nearly three orders of magnitude faster than conventional electrical heating. Using hepatitis B virus (HBV) DNA as a model target, we achieve a detection limit of 5.24 copies/nL and quantitative agreement with fluorescence-based assays, while isothermal amplification reduces the total assay time by approximately 50% relative to commercial qPCR. Frequency-division multiplexing enables parallel multi-target analysis, while stable transmission is maintained over 20 km fiber links. Our results establish amplification-associated RI evolution as a promising label-free transduction mechanism for fiber-integrated molecular diagnostics.",
-   "journal": "ACS sensors",
+   "pmid": "42961991",
+   "title": "Associated factors for stress ulcers and gastrointestinal bleeding in patients with sepsis or septic shock: A systematic review.",
+   "abstract": "Sepsis continues to be a major contributor to death among critically ill individuals and places a heavy strain on healthcare resources. In addition to causing systemic inflammation and affecting hemodynamics, sepsis has a significant effect on the gastrointestinal system, leading to complications like stress ulcers and notable gastrointestinal bleeding (GIB), which worsen patient outcomes. While stress ulcer prophylaxis (SUP) has traditionally been included in sepsis treatment protocols, the concept of applying it universally is being increasingly scrutinized due to the absence of definitive mortality advantages and the risk of adverse effects, such as hospital-acquired pneumonia. Nevertheless, there is a notable gap in synthesized research that specifically addresses the independent risk factors for stress ulcers in sepsis patients. We carried out a systematic review in accordance with PRISMA standards, exploring eight databases (CNKI, Wanfang, VIP, Sinomed, PubMed, Web of Science, Embase, and Cochrane Library) from their inception until September 1, 2026. We included observational analytical studies (either cohort or case-control) that examined factors linked to stress ulcers or significant gastrointestinal bleeding in adult patients with sepsis. Two researchers independently handled the selection of studies, extraction of data, and evaluation of quality using the Newcastle-Ottawa Scale. Due to the limited number of studies for each association between associated factors and outcomes, a narrative synthesis was utilized. A total of six studies encompassing 131,568 individuals suffering from sepsis or septic shock were analyzed. The incidence rates of stress ulcers or gastrointestinal bleeding (GIB) varied between 2.0% and 32.3%. The identified associated factors were divided into three categories: patient-related (older age, history of GIB, cirrhosis, HIV, cancer/immunosuppression), disease-related (coagulopathy, kidney impairment, high BUN levels, severity of illness scores, source of infection), and treatment-related (mechanical ventilation, use of anticoagulants, corticosteroid therapy, duration of ICU stay). Specifically for stress ulcer, factors such as respiratory failure, high BUN levels, shock, and increased HMGB1/TLR2/TLR4 levels were found to be independently linked to a higher odds. In summary, the likelihood of developing stress ulcers and gastrointestinal bleeding in patients with sepsis is shaped by a variety of factors related to the patient, their illness, and the treatments they receive. Key indicators that consistently emerge include issues with blood coagulation, the presence of shock, the need for mechanical ventilation, liver and kidney dysfunction, the severity of the disease, and any previous occurrences of gastrointestinal bleeding. These results advocate for tailored strategies for stress ulcer prophylaxis based on individual risk rather than a one-size-fits-all approach, offering crucial insights for precise clinical decision-making. Additional high-quality research is essential to confirm and enhance the understanding of these associated factors. PROSPERO (CRD420251242849).",
+   "journal": "PloS one",
    "year": "2026",
    "authors": [
-    "Minglu Yan",
-    "Guixue Cheng",
-    "Xue Zhou",
-    "Ya-Nan Zhang",
-    "Yong Zhao",
-    "Stephen C Warren-Smith",
-    "Linh V Nguyen",
-    "Xiaosong Qin",
-    "Xuegang Li"
+    "Jin Wang",
+    "Xingwei Zhu",
+    "Linhui Jin",
+    "Yafei Liu",
+    "Man Tao",
+    "Zhijuan He",
+    "Xiaoxia Tang",
+    "Guilan Zhang",
+    "Hailin Zhu"
    ],
-   "doi": "10.1021/acssensors.6c03616",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42956092/"
-  },
-  {
-   "pmid": "42955714",
-   "title": "Community Health Worker Interventions Addressing Social Determinants of Health in Chronic Disease: A Systematic Review.",
-   "abstract": "Chronic diseases disproportionately affect people facing social and economic adversity. Community health workers (CHWs) are increasingly recognized as a key workforce for addressing social determinants of health (SDOH). However, evidence for the effect of CHW-led interventions on social and clinical outcomes among US adults with chronic disease is limited. This systematic review evaluated the effects of CHW-led interventions on SDOH and health outcomes. Following PRISMA guidelines and a registered Prospero protocol, we searched PubMed, Scopus, and Embase (Ovid) in April 2024 for US-based randomized or quasi-experimental studies involving adults with chronic disease and a patient-facing CHW intervention addressing at least 1 SDOH domain. Eligible studies were required to have a comparator group and report social or health outcomes. We used standardized forms to extract data and assess quality. We identified 1,939 records and screened 1,058 abstracts. We reviewed 110 full-text articles; 7 studies met inclusion criteria. All were randomized controlled trials addressing at least 1 SDOH domain. Interventions most commonly targeted health care access, housing stability, or care coordination among adults with diabetes, HIV, asthma, hepatitis C, or hearing loss. CHW interventions demonstrated improvements in several condition-specific clinical outcomes, but overall effects on major clinical indicators were modest and inconsistent. CHW-led interventions show promise for addressing social needs and improving engagement in care among adults with chronic disease, but evidence of meaningful clinical benefit is still limited. The lack of large, well-powered trials underscores the need for more rigorous research to strengthen the evidence base for CHW-driven SDOH interventions in US health systems.",
-   "journal": "Preventing chronic disease",
-   "year": "2026",
-   "authors": [
-    "Marcee Wilder",
-    "Aleksandra Degtyar",
-    "Jasmine McKay",
-    "Shruti Mavuri",
-    "Mia Bolton",
-    "Lynne D Richardson",
-    "Kimberly Souffront"
-   ],
-   "doi": "10.5888/pcd23.260132",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42955714/"
-  },
-  {
-   "pmid": "42957496",
-   "title": "French prospective cohort study of predictors of fruquintinib efficacy in real-world metastatic colorectal cancer (PRODIGE 108 - COHORTE 2320 - COFRUQ).",
-   "abstract": "Colorectal cancer (CRC) is the third most common cancer and the second leading cause of cancer-related deaths worldwide. In unresectable metastatic (m)CRC, systemic therapy is the standard of care, and maintaining anti-angiogenic pressure remains important in the chemorefractory setting, as shown in 2nd and 3rd line treatment. Fruquintinib, a selective tyrosine kinase inhibitor of VEGF receptors 1, 2, and 3, recently demonstrated a 2.6-month overall survival benefit versus placebo in advanced mCRC and is now a new option for heavily pre-treated patients. However, real-world data on fruquintinib use and predictors of its efficacy remain limited. PRODIGE108-COHORTE2320 - COFRUQ (NCT07124858) is a French multicentre prospective observational cohort primarily designed to identify clinical and biological factors associated with fruquintinib efficacy under real-world conditions. The primary endpoint is investigator-assessed overall survival. Main secondary objectives include progression-free survival, objective response rate, disease control rate, safety, and quality of life. Eligible patients are &#x2265;18 years old with histologically confirmed mCRC receiving fruquintinib within its EMA indication. Biological studies (tumour and blood collection) will identify prognostic and predictive biomarkers, alongside pharmacokinetic analyses. The cohort aims to enrol 300 patients over 3 years and has been open for enrolment in France since March 2026.",
-   "journal": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
-   "year": "2026",
-   "authors": [
-    "Marie Muller",
-    "Thomas Aparicio",
-    "Romain Cohen",
-    "Claire Gallois",
-    "Alexis Delattre",
-    "Elena Paillaud",
-    "Thibault Mazard",
-    "Manon Pelkowski",
-    "Jean-Marc Phelip",
-    "Violaine Randrian",
-    "Pierre Laurent-Puig",
-    "Lauriane Goldwirt",
-    "Audrey Perret",
-    "Jean-Baptiste Bachet",
-    "Faiza Khemissa Akouz",
-    "Corinne Couteau",
-    "Vincent Hautefeuille",
-    "C&#xf4;me Lepage",
-    "David Tougeron"
-   ],
-   "doi": "10.1016/j.dld.2026.10.010",
+   "doi": "10.1371/journal.pone.0361608",
    "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42957496/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42961991/"
   },
   {
-   "pmid": "42957275",
-   "title": "Co-delivery of Sorafenib and Anti-miR-21 via a CD44-guided Nanocarrier for Dual-pathway Inhibition in HCC Cells.",
-   "abstract": "The clinical efficacy of sorafenib against hepatocellular carcinoma (HCC) is severely limited by limited efficacy and off-target toxicity. Overexpression of oncogenic miR-21 has been identified as a key driver of these limitations, as it downregulates the tumor suppressors PTEN and PDCD4, thereby aberrantly activating both the PI3K/Akt and STAT3 signaling pathways. To address the limitations of conventional sorafenib therapy, we aimed to construct a smart nanocarrier capable of simultaneously delivering sorafenib (SF) and anti-miR-21 specifically to HCC cells. We designed a core-shell nanoparticle consisting of a PAMAM dendrimer/anti-miR-21 polyplex core and a hyaluronic acid-sorafenib conjugate shell. This architecture enables CD44-mediated active targeting and pH-responsive drug release in the acidic tumor microenvironment. The antitumor activity of the co-delivery system was evaluated in vitro using HepG2 cells, with assessments of cell proliferation, migration, apoptosis, and the underlying signaling pathways. The prepared nanoparticle exhibited potent anti-proliferative, anti-migratory, and pro-apoptotic effects in HepG2 cells. Mechanistic studies revealed that these benefits were associated with the reduced phosphorylation of key proteins in both the PI3K/Akt/mTOR and STAT3 cascades, effectively counteracting the therapy limitations that are normally fueled by miR-21 overexpression. Our findings demonstrate that CD44-guided co-delivery of sorafenib and anti-miR-21 provides a promising nanotherapeutic strategy to counteract therapy limitations through coordinated blockade of two major oncogenic pathways in HCC cells.",
-   "journal": "In vivo (Athens, Greece)",
+   "pmid": "42961778",
+   "title": "Senescence-modulating nanoparticles SELECT the right senescent cells to treat fibrosis and cancer.",
+   "abstract": "Cellular senescence contributes dynamically to fibrosis and cancer depending on the senescent cell type and its tissue remodeling senescence-associated secretory phenotype; however, current senotherapies lack specificity in targeting pathogenic senescent cells and have limiting toxicities. In a recent issue of Science, Hinterleitner and colleagues designed P-selectin-directed nanoparticles (SMNPs) capable of delivering senotherapies specifically to pathogenic P-selectin+ senescent macrophages in fibrotic tissues while preventing uptake in beneficial senescent endothelial cells. Precision targeting by SMNPs resolved fibrosis and restored organ function in the lung and liver and minimized senotherapeutic toxicity in mice. In tumor models, SMNP targeting of this small senescent macrophage subset was sufficient to overcome fibrosis-mediated immune exclusion and sensitize liver and lung cancers to T cell-directed immunotherapy. P-selectin+ macrophages with senescent features were also enriched in fibrotic human tissues and treatment-refractory cancer patient samples. Overall, this study provides a platform for reducing the toxicity and enhancing the specificity of senotherapies necessary to advance their clinical development for treating chronic disease.",
+   "journal": "Cancer research",
    "year": "2026",
    "authors": [
-    "Lipeng Xu",
-    "Ling Qin",
-    "Wenying Zhao"
+    "Haruka Mori",
+    "Meghan L Brassil",
+    "Marcus Ruscetti"
    ],
-   "doi": "10.21873/invivo.14493",
+   "doi": "10.1158/0008-5472.CAN-26-4564",
    "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42957275/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42961778/"
   },
   {
-   "pmid": "42957211",
-   "title": "Patterns of Progression on Posttreatment Imaging During [ 177 Lu]Lu-PSMA Radiopharmaceutical Therapy.",
-   "abstract": "We characterized patterns of treatment response and progression during [ 177 Lu]Lu-PSMA radiopharmaceutical therapy (RPT) using serial posttreatment SPECT/CT and prostate-specific membrane antigen (PSMA) PET imaging and evaluated cycle-by-cycle prostate-specific antigen (PSA)-imaging concordance. Methods: We retrospectively analyzed 361 patients from 2 academic centers who received at least 2 cycles of [ 177 Lu]Lu-PSMA RPT between May 2017 and March 2025. Posttreatment SPECT/CT scans were qualitatively evaluated to determine the site and pattern of response and progression, including PSMA low-avidity and PSMA-negative disease. Progression was defined by the appearance of new lesions or at least a 2-fold growth in preexisting lesions on SPECT/CT. PSA response was defined per Prostate Cancer Clinical Trials Working Group 3 criteria as at least a 50% decline from baseline. For cycle-by-cycle concordance analysis, PSA change was classified directionally as rising or falling relative to the prior cycle. In patients who paused or completed RPT after response, progression imaging was compared with the final on-treatment SPECT/CT scan. Results: Overall, 290 of 361 (80%) patients demonstrated a decrease in lesion size or number on posttreatment imaging. Of 312 patients with baseline bone disease, 81% demonstrated a response on posttreatment imaging. In total, 156 of 361 patients (43%) demonstrated progression during treatment. New osseous lesions developed in 132 patients, of whom 89 (67%) had PSMA low-avidity disease. At cycle 2, 64% of new lesions were osseous, increasing to at least 90% by cycles 4-6. PSMA-negative progression occurred in 22 patients (6%), predominantly in the liver ( n = 11) and lymph nodes ( n = 8), with 59% detected at cycle 2. Among 81 patients with imaging available at PSA progression after treatment completion or pause, 74 (91%) had imaging progression; of these, 69 (93%) demonstrated osseous and 13 (18%) nodal progression. PSA and imaging were discordant in 25%-43% of patients across cycles, with discordance increasing from cycle 2 to cycle 6. Conclusion: Progression during [ 177 Lu]Lu-PSMA RPT occurs most frequently in bone, with 67% of patients with new osseous lesions demonstrating a PSMA low-avidity disease component. PSMA-negative progression is uncommon and tends to emerge early. PSA-imaging discordance is frequent, underscoring the need for integrated imaging assessment throughout treatment.",
-   "journal": "Journal of nuclear medicine : official publication, Society of Nuclear Medicine",
+   "pmid": "42960452",
+   "title": "Acidic bile salt&#x2011;induced DNA methylation promotes APE1 upregulation through miR&#x2011;128&#x2011;3p silencing in esophageal adenocarcinoma.",
+   "abstract": "Esophageal adenocarcinoma (EAC) is an aggressive malignancy with rapidly rising incidence in Western populations and a poor 5&#x2011;year survival rate of <20%. It commonly develops from Barrett's esophagus, a metaplastic condition driven by chronic exposure to acidic bile salts (ABS). Apurinic/apyrimidinic endonuclease 1 (APE1) serves a central role in this process by coordinating DNA repair and redox signaling pathways that promote tumor cell survival, inflammation and progression. Despite its importance, the upstream regulatory mechanisms controlling APE1 in EAC remain incompletely understood. The present study aimed to identify a novel epigenetic mechanism linking reflux&#x2011;induced stress to APE1 upregulation through microRNA (miR) regulation. Bioinformatics analysis of downregulated miRNAs in EAC and the 3'untranslated region of APE1 revealed that miR&#x2011;128&#x2011;3p has a predicted binding site within the APE1 3'untranslated region. Functional validation using luciferase reporter assays confirmed direct binding of miR&#x2011;128&#x2011;3p to APE1. Exposure to ABS resulted in marked suppression of miR&#x2011;128&#x2011;3p expression, concomitant with increased APE1 levels. Mechanistically, ABS induces DNA methyltransferase (DNMT1) expression, leading to hypermethylation of the CpG&#x2011;rich miR&#x2011;128&#x2011;3p promoter and transcriptional silencing. DNMT1 knockdown or inhibition reversed miR&#x2011;128&#x2011;3p suppression and decreased promoter methylation, restoring its regulatory effect on APE1. Collectively, these findings defined a DNMT1/miR&#x2011;128&#x2011;3p/APE1 regulatory pathway that links reflux&#x2011;induced epigenetic modifications to oncogenic signaling in EAC, highlighting potential therapeutic targets for this malignancy.",
+   "journal": "Oncology reports",
    "year": "2026",
    "authors": [
-    "Surekha Yadav",
-    "Sobia Khan",
-    "Abuzar Moradi Tuchayi",
-    "Moein Moradpour",
-    "Stellamaris Nwihim",
-    "Ivan de Kouchkovsky",
-    "Robert R Flavell",
-    "Rahul R Aggarwal",
-    "Louise Emmett",
-    "Thomas A Hope"
+    "Farah Ballout",
+    "Heng Lu",
+    "Lei Chen",
+    "Dunfa Peng",
+    "Zheng Chen",
+    "Steven Chen",
+    "Xiaodian Sun",
+    "Alexander Zaika",
+    "Ladan Fazlollahi",
+    "Jianwen Que",
+    "Oliver McDonald",
+    "Wael El-Rifai"
    ],
-   "doi": "10.2967/jnumed.126.272228",
+   "doi": "10.3892/or.2026.9216",
    "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42957211/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42960452/"
   },
   {
-   "pmid": "42957178",
-   "title": "Commonly used special stains and immunostains in liver pathology: diagnostic utility and pitfalls.",
-   "abstract": "",
-   "journal": "Journal of clinical pathology",
+   "pmid": "42960449",
+   "title": "Emerging role of non&#x2011;coding RNAs in the progression of MASLD&#x2011;driven hepatocellular carcinoma (Review).",
+   "abstract": "Metabolic dysfunction&#x2011;associated steatotic liver disease (MASLD) is the most prevalent chronic liver disease worldwide and a leading cause of liver&#x2011;related morbidity and mortality. MASLD encompasses a pathological spectrum ranging from metabolic dysfunction&#x2011;associated steatohepatitis to cirrhosis and hepatocellular carcinoma (HCC), making it the fastest&#x2011;growing contributor to the global incidence of HCC. Non&#x2011;coding RNAs (ncRNAs), once regarded as 'genomic dark matter', are increasingly recognised as key regulatory molecules in a variety of liver diseases. However, their systematic involvement in the malignant progression from MASLD to HCC remains incompletely understood. Emerging evidence suggests that ncRNAs play critical roles in modulating the major pathophysiological processes underlying MASLD&#x2011;driven HCC progression, including dysregulated lipid metabolism, chronic inflammation, oxidative stress, immune imbalance and gut microbiota disruption. The present review systematically examines the specific functions of major ncRNA classes, including microRNAs, long ncRNAs and circular RNAs, in the pathogenesis of MASLD&#x2011;driven HCC. In addition, given their considerable diagnostic and therapeutic potential, the present review evaluates the prospects of ncRNAs as novel biomarkers and therapeutic targets to facilitate the early detection and precision treatment of MASLD&#x2011;driven HCC.",
+   "journal": "International journal of molecular medicine",
    "year": "2026",
    "authors": [
-    "Nigar Anjuman Khurram",
-    "Jordon Gates",
-    "Chhagan Bihari",
-    "Karlene Stanton",
-    "Lara Berklite",
-    "Dhanpat Jain"
+    "Weihua Zheng",
+    "Caiyan An",
+    "Long Xia",
+    "Hongquan Wang",
+    "Yumin Wang",
+    "Junjing Zhang"
    ],
-   "doi": "10.1136/jcp-2026-211041",
+   "doi": "10.3892/ijmm.2026.6029",
    "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42957178/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42960449/"
+  },
+  {
+   "pmid": "42960427",
+   "title": "Technetium-99m macroaggregated albumin scan before yttrium-90 radioembolization: what to look for and why it matters.",
+   "abstract": "Yttrium-90 (90Y) radioembolization is an established locoregional therapy for primary and metastatic liver malignancies. Technetium-99m macroaggregated albumin (99mTc-MAA) remains the standard clinically established surrogate for vascular simulation, lung-shunt assessment, detection of extrahepatic deposition, evaluation of tumor and normal-liver perfusion, and predictive dosimetry. Interpretation is nevertheless affected by nonidentity between MAA and therapeutic microspheres and by method-specific technical biases. 99mTc-MAA particles and 90Y microspheres differ in size, shape, density, number of particles, embolic effect, and flow behavior. A systematic and clinically practical approach to 99mTc-MAA interpretation can improve patient selection, reduce the risk of nontarget irradiation, and support safer and more effective radioembolization treatment. This pictorial and narrative review summarizes the current evidence on the applications, interpretation, and limitations of the pretreatment 99mTc-MAA scan before 90Y radioembolization, with emphasis on lung shunt fraction, extrahepatic tracer uptake, intrahepatic distribution, and the evolving role of personalized dosimetry.",
+   "journal": "Nuclear medicine communications",
+   "year": "2026",
+   "authors": [
+    "Anjali Jain",
+    "Rashid Al Sukaiti",
+    "Subhash Kheruka",
+    "Sharjeel Usmani",
+    "Khulood Al Riyami",
+    "Asiya Al Busaidi",
+    "Aisha Ismaila",
+    "Rigel Marlin Yambao",
+    "Alok Kumar Mittal"
+   ],
+   "doi": "10.1097/MNM.0000000000002261",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42960427/"
   }
  ],
- "lastUpdated": "2026-10-30T09:17:32.291617+00:00",
+ "lastUpdated": "2026-10-31T03:20:03.267244+00:00",
  "fields": [
   "cardiology",
   "immunotherapy",

@@ -1,345 +1,393 @@
 {
  "items": [
   {
-   "pmid": "42962045",
-   "title": "Association between coronary artery calcium score and myocardial ischemia assessed by stress perfusion cardiac magnetic resonance imaging.",
-   "abstract": "Coronary artery calcium (CAC) scoring effectively stratifies cardiovascular risk, and stress perfusion cardiac magnetic resonance (CMR) accurately detects myocardial ischemia. We aimed to investigate the prevalence and factors associated with myocardial ischemia on CMR in patients with CAC, and to assess the clinical impact of myocardial ischemia following CMR. This study included 215 patients aged &#x2265;18 years who underwent CAC scoring for risk stratification, followed by stress CMR between 2013 and 2026. The prevalence and predictors of myocardial ischemia were investigated. Receiver operating characteristic (ROC) analysis was performed to assess the association between CAC scores and myocardial ischemia. Additionally, subsequent clinical management following CMR was determined. The mean age was 69.3&#x2009;&#xb1;&#x2009;9.1 years (60.9% male). The average 10-year PREVENT risk score was 18.6&#x2009;&#xb1;&#x2009;8.7%. Overall, myocardial ischemia was present in 26.0% of patients (56/215): 17.1% in the CAC 300-999 Agatston units (AU) group (14/82) and 41.6% in the CAC&#x2009;&#x2265;&#x2009;1,000 AU group (42/101). CAC score was the only independent predictor of myocardial ischemia (adjusted OR 1.07, 95%CI 1.03&#x2009;-&#x2009;1.10; p&#x2009; 0.05).The number of ischemic segments increased with increasing CAC scores (p&#x2009;<&#x2009;0.001). ROC analysis demonstrated an optimal cutoff threshold of CAC&#x2009;&#x2265;&#x2009;1,093 AU for detecting myocardial ischemia (AUC 0.75, p&#x2009;<&#x2009;0.001). The clinical impact of stress CMR included medication changes in 37.2% of patients, while 18.1% underwent invasive procedures. In patients with CAC scores undergoing stress CMR, the prevalence of myocardial ischemia was approximately one-fourth and was associated with higher CAC scores. Stress CMR may influence clinical management in this population. Larger or prospective studies validating these findings and evaluating prognosis are warranted.",
-   "journal": "PloS one",
-   "year": "2026",
-   "authors": [
-    "Yodying Kaolawanich",
-    "Methat Meechuen",
-    "Issarayus Laohabut",
-    "Thanawat Ruengchaisiwawaith",
-    "Thananya Boonyasirinant"
-   ],
-   "doi": "10.1371/journal.pone.0361659",
-   "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42962045/"
-  },
-  {
-   "pmid": "42961951",
-   "title": "Sex-Specific Prognostic Significance of Interventricular Septal Thickness in Heart Failure.",
-   "abstract": "Interventricular septal (IVS) thickness is routinely measured by echocardiography, yet its prognostic significance in heart failure (HF), and whether it differs by sex, remains uncertain. This retrospective study included patients with HF from the SHEBAHEART registry (2009-2025). IVS thickness was classified as normal ( 1.3 cm), using identical thresholds by sex. Associations with all-cause mortality were evaluated using Kaplan-Meier analysis and multivariable Cox models adjusted for age, body mass index, systolic blood pressure, comorbidities, and left ventricular ejection fraction, with formal testing for sex-by-IVS interaction. Among 20,836 patients (median age, 74 years; 39% women), 41% had mild and 18% had severe IVS thickening. During a median follow-up of 4 years, 11,930 patients (57%) died; 4-year Kaplan-Meier cumulative mortality increased across IVS categories (35%, 39%, and 42%; P < 0.001). In primary complete-case analysis (n = 13,902), the sex-by-IVS interaction was significant (P = 0.030). Adjusted hazard ratios (95% confidence intervals) for mild and severe thickening were 1.16 (1.07-1.26) and 1.19 (1.08-1.32) in women, compared with 1.02 (0.96-1.09) and 1.07 (0.99-1.16) in men. The sex-by-IVS interaction remained significant in multiple-imputation and time-varying Cox analyses, but not with sex-specific IVS reference partitions. With common absolute IVS thresholds, increased septal thickness was more strongly associated with all-cause mortality in women than in men with HF. These findings support evaluation of IVS thickness as a potential component of sex-specific risk stratification in HF.",
-   "journal": "ESC heart failure",
-   "year": "2026",
-   "authors": [
-    "Alon Kaplan",
-    "Viana Copeland",
-    "Ranel Loutati",
-    "Boris Fishman",
-    "Yishay Wasserstrum",
-    "Assi Milwidsky",
-    "Tal Hasin",
-    "Rafael Kuperstein",
-    "Elad Maor",
-    "Michael Arad"
-   ],
-   "doi": "10.1093/eschf/xvag275",
-   "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42961951/"
-  },
-  {
-   "pmid": "42961949",
-   "title": "Sex-Specific Mechanisms and Therapeutics in Heart Failure: Translating Biology into Personalized Care.",
-   "abstract": "Sex is one of the most consistent, yet clinically underexploited, determinants of heart failure phenotype, mechanism and outcome. Building on landmark reviews and the 2024 scientific statement of the Heart Failure Association, which documented well-recognized phenotypic differences but noted that their mechanisms remain only partially defined, this review examines how sex differences in heart failure arise and how firmly they should guide practice. Epidemiologically, female predominance in heart failure with preserved ejection fraction is age- and menopause-dependent rather than lifelong. Mechanistically, sex-divergent hormonal signalling, autonomic tone, coronary microvascular dysfunction and myocardial fibrosis often produce similar phenotypes through different mechanisms: microvascular dysfunction is similarly prevalent in both sexes but linked to fibrosis in women and to atherosclerotic risk factors in men, and oestradiol regulates collagen synthesis in opposite directions in female and male cardiac fibroblasts. Clinically, comorbidities carry divergent prognostic weight by sex. Graded against the strength of evidence, sodium-glucose cotransporter 2 inhibitors show established sex-neutral efficacy, whereas the greater benefit of angiotensin receptor-neprilysin inhibition and mineralocorticoid receptor antagonism in women rests on subgroup signals that await confirmation. Natriuretic peptide concentrations are substantially sex-dependent, yet diagnostic thresholds remain sex-neutral, although sex-specific calibration is methodologically achievable. Women remain underrepresented in heart failure trials and less often referred to specialized care. Heart failure is therefore best understood as a sex-differentiated syndrome whose frameworks were built largely around male-pattern disease. Sex-calibrated trial enrolment, sex-specific biomarker and ejection fraction thresholds, and stratification by menopausal stage are concrete next steps towards personalized care.",
-   "journal": "ESC heart failure",
-   "year": "2026",
-   "authors": [
-    "Zolt&#xe1;n Papp",
-    "Stephan von Haehling",
-    "Jan Biegus",
-    "Be&#xe1;ta B&#xf3;di",
-    "Rebeka Rita V&#xe1;g&#xf3;",
-    "Zs&#xf3;fia P&#xf3;lik",
-    "Attila Borb&#xe9;ly"
-   ],
-   "doi": "10.1093/eschf/xvag274",
-   "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42961949/"
-  },
-  {
-   "pmid": "42961838",
-   "title": "Unusual coexistence of vascular compression syndromes: Nutcracker, Dunbar, and May-Thurner syndromes.",
-   "abstract": "Vascular compression syndromes represent a group of rare conditions caused by extrinsic compression of veins or arteries by surrounding anatomical structures. These disorders are often underdiagnosed due to nonspecific symptoms, and the coexistence of multiple syndromes in a single patient is extremely rare. We report an 18-year-old woman with no past medical history who presented with intermittent abdominal and lumbar pain and progressive weight loss, without haematuria. Initial ultrasonography and contrast-enhanced computed tomography revealed the coexistence of Nutcracker, Dunbar (median arcuate ligament), and May-Thurner syndromes. The patient underwent open surgical management via median laparotomy, involving median arcuate ligament section to relieve coeliac trunk compression, transposition of the left renal vein, and decompression of the left common iliac vein by mobilisation of the right common iliac artery. The postoperative course was uneventful, with significant symptom relief and favourable long-term outcomes. This case highlights the diagnostic challenges and therapeutic complexity associated with combined vascular compression syndromes, emphasising the importance of a multidisciplinary surgical approach.",
-   "journal": "Cardiovascular journal of Africa",
-   "year": "2026",
-   "authors": [
-    "H&#xe8;la Ben Jma&#xe0;",
-    "Zied Ben Ayed",
-    "Faten Dhouib",
-    "Hafedh Daly",
-    "Rahma Kallel",
-    "Imed Frikha"
-   ],
-   "doi": "10.5830/CVJA-2026-047",
-   "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42961838/"
-  },
-  {
-   "pmid": "42961836",
-   "title": "Expanding interventional cardiology in sub-Saharan Africa: Progress, barriers, and a path forward.",
-   "abstract": "Cardiovascular disease is an increasingly significant cause of morbidity and mortality in sub-Saharan Africa, driven by demographic growth, population ageing, and epidemiological transition. Despite the growing burden of ischaemic heart disease and other cardiovascular conditions, access to interventional cardiology services remains severely limited across the region. Critical shortages of percutaneous coronary intervention facilities, catheterisation laboratories, and trained interventional cardiologists contribute to delayed treatment and preventable mortality. Additional barriers include high infrastructure and equipment costs, limited financing mechanisms, inadequate insurance coverage, workforce shortages, and geographic inequities in access to care. Nevertheless, emerging programs in Uganda, Kenya, and Ethiopia demonstrate that sustainable progress is achievable through strategic partnerships, local workforce development, public-private collaboration, and regional professional networks. Expanding interventional cardiology capacity will require coordinated investments in infrastructure, training, financing, referral systems, and policy prioritisation. Strengthening these systems is essential to achieving equitable cardiovascular care and improving outcomes across sub-Saharan Africa.",
-   "journal": "Cardiovascular journal of Africa",
-   "year": "2026",
-   "authors": [
-    "Sammer Marzouk",
-    "Ketan Tamirisa",
-    "Faraan Rahim",
-    "Yaman Kanaan",
-    "Erick Mahatara",
-    "Peter Kisenge",
-    "Khuzeima Khanbhai"
-   ],
-   "doi": "10.5830/CVJA-2026-043",
-   "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42961836/"
-  },
-  {
-   "pmid": "42962193",
-   "title": "Review Article: mRNA CARs: An Emerging New-Old Idea.",
-   "abstract": "Chimeric antigen receptor (CAR) T cell therapy has transformed cancer immunotherapy. Still, conventional viral vectors carry risks of insertional mutagenesis, are costly to manufacture, and can cause persistent on-target/off-tumor toxicity. Messenger RNA (mRNA) platforms offer a nonintegrating, transient alternative that enables rapid, modular expression of CARs and accessory molecules and can be extensively optimized. mRNA CAR T cells can be manufactured in days, and their transient expression allows repeat dosing and mitigates prolonged toxicity. Preclinical studies show that electroporation or lipid nanoparticle delivery can generate potent CAR-engineered immune cells. Beyond oncology, transient mRNA CARs are explored for autoimmune diseases such as systemic lupus erythematosus, lupus nephritis and myasthenia gravis, where short-lived CAR expression can reset autoreactive B-cell compartments while avoiding long-term immunosuppression. Emerging delivery strategies, including targeted lipid nanoparticles that program T cells in vivo, could eliminate the need for ex vivo cell manufacture and extend CAR therapy to fibrosis and regenerative medicine. Collectively, these developments position mRNA-engineered CARs as a flexible, safer and scalable platform that complements or potentially surpasses viral CAR technologies in oncology, autoimmunity and beyond.",
-   "journal": "Critical reviews in oncogenesis",
-   "year": "2026",
-   "authors": [
-    "Yochai Wolf"
-   ],
-   "doi": "10.1615/CritRevOncog.2026066109",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42962193/"
-  },
-  {
-   "pmid": "42962192",
-   "title": "Review Article: Untapped Potential: Peptide Ligands as Guides for Engineered T Cells.",
-   "abstract": "The seminal studies of the late Prof. Zelig Eshhar, the creator of \"T-bodies,\" ushered in a new era of targeted cellular immunotherapy. As T-bodies came to be known as chimeric antigen receptors (CARs), the molecular requirements of these fusion proteins evolved, as did the technology enabling their expression in T cells. CAR T cells are fast becoming a mainstay therapy for hematological cancers such as multiple myeloma, and they are expanding into the field of solid cancer therapy. Nonetheless, one key barrier to their applicability is the limited number of tumor-specific targets that have been validated. An alternate approach which has until recently been almost totally bypassed is the use of peptide libraries to screen for and discover ligands capable of guiding the engineered T cells to novel cancer cell-restricted receptors. Peptides as targeting moieties have many advantages. This review summarizes the current state-of-the-art in the discovery and application of peptide-guided CAR-T cells in cancer immunotherapy.",
-   "journal": "Critical reviews in oncogenesis",
-   "year": "2026",
-   "authors": [
-    "Michael A Firer",
-    "Dinorah Friedmann-Morvinski"
-   ],
-   "doi": "10.1615/CritRevOncog.2026066487",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42962192/"
-  },
-  {
-   "pmid": "42962191",
-   "title": "Review Article: Taming the Neuroinflammatory Cost of CAR T Therapy.",
-   "abstract": "Chimeric antigen receptor (CAR) T cell therapy has transformed the treatment of refractory haematological malignancies, yet its success remains limited by cytokine release syndrome and immune effector cell-associated neurotoxicity syndrome. Although earlier intervention with tocilizumab and corticosteroids has reduced the incidence of severe toxicity, these strategies act after inflammatory signaling is already established and do not reliably prevent isolated or delayed neurological complications. This has shifted the field from reactive management towards prevention at the level of the cellular product itself. Manufacturing conditions, cellular compositions and differentiation state can shape the inflammatory setpoint of CAR T cells, but attempts to preserve less-differentiated, highly proliferative populations may also increase expansion-driven toxicity. Construct engineering therefore aims not simply to weaken CAR activity, but to recalibrate antigen recognition, signaling strength and cytokine output while preserving durable tumor control. Multimodal reversible CAR engineering approaches via drug-gated receptors, safety switches, transient surface shielding, and targeted CAR degradation, further recast CAR T cells as tuneable therapeutic systems rather than fixed products. However, most evidence remains preclinical or derived from small, heterogeneous studies. Progress will depend on prospective trials that evaluate efficacy and neurotoxicity together, using harmonised product analytics, neurological endpoints and longitudinal biomarker sampling to define clinically meaningful safety/activity trade-offs.",
-   "journal": "Critical reviews in oncogenesis",
-   "year": "2026",
-   "authors": [
-    "Stefan Corradini",
-    "Charlotte Graham"
-   ],
-   "doi": "10.1615/CritRevOncog.2026066328",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42962191/"
-  },
-  {
-   "pmid": "42962190",
-   "title": "Review Article: A Scientific Journey with Zelig Eshhar at the Dawn of Monoclonal Antibody Research.",
-   "abstract": "Professor Zelig Eshhar, a colleague, collaborator, and dear friend, is known worldwide as the visionary who laid the foundations for chimeric antigen receptor (CAR)-T cell therapy, a breakthrough that transformed cancer immunotherapy. Long before this revolutionary achievement, however, Zelig profoundly influenced research at the Weizmann Institute of Science by introducing the then state-of-the-art hybridoma technology for the generation of monoclonal antibodies (mAbs), which he brought directly from the oven of Nobel laureates Georges K&#xc3;&#xb6;hler and C&#xc3;&#xa9;sar Milstein. Through his expertise and the dedication of his legendary team, Tova Waks, his indispensable partner for 55 years, Orith Gigi-Leitner, and Sara Barak, this technology rapidly became an invaluable resource for investigators throughout the Institute. My collaboration with Zelig during the 1980s led to the generation of monoclonal antibodies against a series of biologically important proteins, including interferons, other cytokines, their soluble receptors, the unique IL-18 Binding Protein (IL-18BP), and, years later, glutamate oxaloacetate transaminase 1 (GOT1). These antibodies proved to be remarkably versatile research tools, suitable for neutralization, affinity chromatography, immunoassays, flow cytometry, immunoblotting, and numerous other applications. Most importantly, they enabled the affinity purification of in-house corresponding recombinant cytokines. The antibodies proved far more than analytical reagents. They became indispensable tools for both basic research and translational medicine. Together, these unique reagents formed the foundation of a ligand-affinity strategy that led to the discovery of previously unknown cytokine receptors and binding proteins. Those include the type I interferon receptor, the second TNF receptor (TBPII), and the unexpected IL-18 Binding Protein. These discoveries not only advanced our understanding of cytokine biology but also paved the way for therapeutics such as Rebif&#x174;, Enbrel&#x174;, Remicade&#x174; and Tadekinig alfaTM, used in the treatment of autoimmune, inflammatory, and genetic diseases, such as multiple sclerosis, rheumatoid arthritis and Crohn's disease. While our scientific paths diverged in 1989, Zelig's toward the revolutionary concept of chimeric antigen receptors and mine toward cytokine receptors and binding proteins, they ultimately converged again as TNF and IL-18BP antagonists found applications in enhancement of CAR-T therapy and in management of potential inflammatory complications associated with this therapy. This chapter stands as a testament to Zelig's vision in introducing and advancing monoclonal antibody technology at the Weizmann Institute.",
-   "journal": "Critical reviews in oncogenesis",
-   "year": "2026",
-   "authors": [
-    "Daniela Novick"
-   ],
-   "doi": "10.1615/CritRevOncog.2026066174",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42962190/"
-  },
-  {
-   "pmid": "42962189",
-   "title": "Review Article: Recent Progress in CAR T Signaling: Maneuvering CARs Further along the TCR Signaling Pathway.",
-   "abstract": "T cell functions are tightly regulated by signaling through the MHC-restricted T cell antigen receptor (TCR), a multi-chain complex that synergizes with CD28 and other costimulatory receptors. Beginning in the late 1980s, simplified chimeric constructs illuminated core mechanisms of TCR signaling, while setting the stage for the development of chimeric antigen receptor (CAR) T cell therapies. Composed of a single transmembrane chain, US Food and Drug Administration (FDA)-approved, second-generation CARs link an antibody-based recognition moiety to intracellular costimulatory and CD3 &#x3b6; signaling motifs. CARs harness key aspects of T cell mediated immunity while bypassing MHC-restriction; yet these single-chain constructs do not recapitulate the extraordinary antigen sensitivity of the native TCR. Emerging evidence attributes this deficit, in part, to impaired CAR coupling to the LAT-SLP-76 signalosome, a multi-protein complex downstream of ZAP-70, that integrates TCR proximal signals and drives PLC-&#x3b3;1-dependent cellular responses. Recent studies describe innovative strategies to increase CAR T sensitivity, potency and specificity, by replacing or supplementing conventional CARs with LAT or SLP-76-based constructs that enhance signalosome engagement and promote ITK- and PLC-&#x3b3;1-mediated signaling. These advances chart a path toward more effective CAR T therapies, while illuminating the mechanisms by which LAT and SLP-76 govern antigen sensitivity.",
-   "journal": "Critical reviews in oncogenesis",
-   "year": "2026",
-   "authors": [
-    "Wan-Lin Lo",
-    "Deborah Yablonski"
-   ],
-   "doi": "10.1615/CritRevOncog.2026065228",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42962189/"
-  },
-  {
-   "pmid": "42962196",
-   "title": "Facilitators and Barriers to Implementing HIV and Hepatitis C Screening Programs Among Providers in Clinical Settings in the United States: A Qualitative Perspective.",
+   "pmid": "42963189",
+   "title": "The case for targeted heart failure case finding in obesity.",
    "abstract": "",
-   "journal": "The Journal of the Association of Nurses in AIDS Care : JANAC",
+   "journal": "European journal of preventive cardiology",
    "year": "2026",
-   "authors": [],
-   "doi": "10.1097/JNC.0000000000000713",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42962196/"
+   "authors": [
+    "B M van Dalen",
+    "P A Motiram",
+    "M Chitu",
+    "G-J Geersing",
+    "R A de Boer",
+    "B D Westenbrink"
+   ],
+   "doi": "10.1093/eurjpc/zwag567",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42963189/"
   },
   {
-   "pmid": "42961555",
-   "title": "Acute-on-chronic liver failure: a global multisociety consensus on definitions.",
+   "pmid": "42963183",
+   "title": "Changes in Long-Term Care Needs, Healthcare Costs, and Mortality Risk After Transcatheter Aortic Valve Implantation in Japan: The Longevity Improvement & Fair Evidence Study.",
+   "abstract": "Transcatheter aortic valve implantation (TAVI) is increasingly performed in older adults with severe aortic stenosis, but there is limited evidence on their post-procedure changes in care needs, healthcare costs, and mortality risk. This retrospective cohort study used linked medical and long-term care (LTC) insurance claims data from 1361 patients aged &#x2265;&#x2009;75&#x2009;years who underwent TAVI in 13 Japanese municipalities. Patients were stratified into four groups by baseline certified care needs level: Independent (n&#x2009;=&#x2009;725), Support Level 1-2 (n&#x2009;=&#x2009;321), LTC Level 1-2 (n&#x2009;=&#x2009;208), and LTC Level 3-5 (n&#x2009;=&#x2009;107). Among 532 patients in the 36-month observation cohort, 53% were independent at baseline, and approximately half of those remained independent at 36&#x2009;months. Monthly total medical and LTC costs at 36&#x2009;months were approximately 5 times higher in the LTC Level 3-5 group than the Independent group. The LTC Level 3-5 group also showed significantly higher all-cause mortality (hazard ratio 3.19, 95% confidence interval 2.18-4.67). Higher baseline care needs are associated with poorer outcomes and higher costs after TAVI. Incorporating care needs levels into clinical assessments may inform clinical decision-making and resource planning in older populations.",
+   "journal": "Geriatrics & gerontology international",
+   "year": "2026",
+   "authors": [
+    "Toshiharu Sassa",
+    "Megumi Maeda",
+    "Futoshi Oda",
+    "Tomohiro Sakamoto",
+    "Haruhisa Fukuda"
+   ],
+   "doi": "10.1111/ggi.70890",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42963183/"
+  },
+  {
+   "pmid": "42963177",
+   "title": "The body fights back-inflammation in acute pulmonary embolism.",
+   "abstract": "",
+   "journal": "Journal of thrombosis and haemostasis : JTH",
+   "year": "2026",
+   "authors": [
+    "Jeffrey Diamond",
+    "Sameer Prasada",
+    "George A Stouffer"
+   ],
+   "doi": "10.1016/j.jtha.2026.08.003",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42963177/"
+  },
+  {
+   "pmid": "42963148",
+   "title": "Management of Patients After Cardiac Arrest.",
+   "abstract": "Cardiac arrest remains a significant cause of morbidity and mortality, although contemporary care now enables potential survival with good neurologic outcome. The core acute management goals for survivors of cardiac arrest are to provide organ support, sustain adequate hemodynamics, and evaluate the underlying cause of the cardiac arrest. In this article, the authors review the current state of knowledge and clinical intensive care unit practice recommendations for patients after cardiac arrest, particularly focusing on important areas of uncertainty, such as targeted temperature management, neuroprognostication, coronary evaluation, and hemodynamic targets.",
+   "journal": "Cardiac electrophysiology clinics",
+   "year": "2026",
+   "authors": [
+    "Damien Smith",
+    "Benjamin B Kenigsberg"
+   ],
+   "doi": "10.1016/j.ccep.2026.08.004",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42963148/"
+  },
+  {
+   "pmid": "42963146",
+   "title": "Arrhythmias in Adult Congenital Heart Disease Heart Failure.",
+   "abstract": "Heart failure and arrhythmias represent 2 major causes of mortality and morbidity in adults with congenital heart disease. Arrhythmias and heart failure are interdependent, and one may exacerbate the other. Treatment of one also has a positive impact on the other. Management approaches need to be multifaceted, including pharmacotherapy, optimization of hemodynamic status with catheter-based or surgical interventions, and specific management of arrhythmia with device or catheter ablation therapy.",
+   "journal": "Cardiac electrophysiology clinics",
+   "year": "2026",
+   "authors": [
+    "Anudeep K Dodeja",
+    "Shailendra Upadhyay"
+   ],
+   "doi": "10.1016/j.ccep.2026.08.002",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42963146/"
+  },
+  {
+   "pmid": "42963203",
+   "title": "DNA Immunotherapy (INO-3107) Long-Term Efficacy Supported by Enhanced Immunogenicity in HPV-6/11 RRP.",
+   "abstract": "Recurrent respiratory papillomatosis (RRP), caused by chronic HPV-6/11 infection, leads to repeated papilloma growth requiring frequent surgical removal. DNA immunotherapy INO-3107 aims to induce HPV antigen-specific T-cell responses and reduce surgical burden. This analysis evaluated HPV-specific immune responses after INO-3107 and their association with long-term clinical outcomes. Adults with HPV-6/11-associated RRP received INO-3107 in a Phase 1/2 trial and were followed for one year, with additional clinical follow-up in a long-term extension. Number of surgeries in Years 1 and 2 was compared with the pre-treatment year. Blood and laryngotracheal tissue collected at Day 0 and Year 1 were analyzed for treatment-related changes in T-cell activity. Safety was assessed throughout. Thirty-two patients were treated; 28 continued into Year 2. At Year 1, most evaluable patients showed increased T-cell activity: 73% (19/26) demonstrated persistent expanded T-cell populations in blood, 71% (12/17) showed higher T-cell clone counts in laryngotracheal tissue, indicating site-specific immune infiltration. Antiviral T-cell signatures were enriched in 88% for CD4+ Th1 and CD8+ cytotoxic, and 71% for CD8+ effector memory, suggesting durable proinflammatory and memory responses in airway tissue. Mean annual surgeries decreased over time in the overall population (Baseline: 4.1, Year 1: 1.7, Year 2: 0.9). Similar durable reductions were observed in Responder subgroups. INO-3107 was well-tolerated, with no treatment-related serious adverse events. INO-3107 generates increased HPV-directed T-cell responses and substantially reduced surgical procedures over two years, supporting its ability to provide long-term clinical benefit in RRP without requiring additional surgeries during the dosing window.",
+   "journal": "The Laryngoscope",
+   "year": "2026",
+   "authors": [
+    "Milan R Amin",
+    "Peter C Belafsky",
+    "Simon R Best",
+    "Aaron D Friedman",
+    "Adam M Klein",
+    "David G Lott",
+    "Ted Mau",
+    "Randal C Paniello",
+    "Seth M Pransky",
+    "Nabil F Saba",
+    "Stefani A Slog",
+    "Elisabeth Gillespie",
+    "Christopher Welsh",
+    "Michael Dallas",
+    "Matthew P Morrow",
+    "Jeffrey M Skolnik"
+   ],
+   "doi": "10.1002/lary.71016",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42963203/"
+  },
+  {
+   "pmid": "42963104",
+   "title": "Epigenetic targeting of an HBO1-H3K9la-CHI3L1 axis reduces regulatory B cell-mediated CD8 + T cell dysfunction in lung adenocarcinoma.",
+   "abstract": "",
+   "journal": "Journal for immunotherapy of cancer",
+   "year": "2026",
+   "authors": [
+    "Xuyu Gu",
+    "Junjie Zhu",
+    "Tao Ge",
+    "Keyi Chen",
+    "Yang Yang",
+    "Kaiqi Jin",
+    "Xinnan Xu"
+   ],
+   "doi": "10.1136/jitc-2026-015190",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42963104/"
+  },
+  {
+   "pmid": "42963103",
+   "title": "G&#x3b1;i3 acts as a metabolic checkpoint orchestrating TAMs immunosuppression and lipid metabolism in glucose-deprived hepatocellular carcinoma.",
+   "abstract": "",
+   "journal": "Journal for immunotherapy of cancer",
+   "year": "2026",
+   "authors": [
+    "Meixi Lu",
+    "Yaoyao Li",
+    "Siyu Du",
+    "Senlin Lian",
+    "Jiajing Luo",
+    "Yi Fang",
+    "Yangyang Jin",
+    "Mingjun Gao",
+    "Xiaowei Wang",
+    "Minghui Zheng",
+    "Jie Wang",
+    "Yuanhong Xu",
+    "Chao Jiang",
+    "Runqiu Jiang"
+   ],
+   "doi": "10.1136/jitc-2026-015875",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42963103/"
+  },
+  {
+   "pmid": "42963101",
+   "title": "Epigenetic demethylation sensitizes cancer cells to CAR-M triggered pyroptosis and remodels inflammatory immune responses in the tumor microenvironment to potentiate CAR-M cell therapy.",
+   "abstract": "",
+   "journal": "Journal for immunotherapy of cancer",
+   "year": "2026",
+   "authors": [
+    "Wenhui Chu",
+    "Yuanhui Xu",
+    "Liting Lin",
+    "Zixuan Ye",
+    "Meixi Jiang",
+    "Yuanyuan Li",
+    "Xiaoya Deng",
+    "Ziqi Qiuzhuo",
+    "Yuqiong Xia",
+    "Xianghan Zhang",
+    "Lili Jiang",
+    "Lin Gu",
+    "Pengbo Ning",
+    "Zhihui Chen"
+   ],
+   "doi": "10.1136/jitc-2026-015535",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42963101/"
+  },
+  {
+   "pmid": "42963020",
+   "title": "Lemon extracellular vesicle-integrated in-situ hydrogel: A multifunctional platform for the synergistic treatment of breast cancer via chemotherapy, photodynamic therapy, and immunotherapy.",
+   "abstract": "Combination therapy has attracted widespread attention in the field of cancer treatment. However, the complexity of the tumor microenvironment makes it difficult to achieve precise targeting and controlled drug release at the tumor site. Therefore, this study developed a multifunctional delivery system (LEVs-Gel@DOX/Ce6) that integrates combination therapy with smart controlled release: Lemon extracellular vesicles (LEVs) were used as the carrier scaffold to load doxorubicin (DOX) and dihydropyrrole e6 (Ce6) into nanoparticles, which were then dispersed in a smart hydrogel (Gel) composed of oxidized hyaluronic acid (OHA) and carboxymethyl chitosan (CMCs). Following intratumoral injection combined with 660&#x202f;nm laser irradiation (Laser, +L), the system utilizes the hydrogel's local reservoir function to achieve prolonged drug retention while enabling precise, pH-responsive drug release. Through the synergistic effects of chemotherapy, photodynamic therapy, and immunotherapy, this system directly kills tumor cells by activating apoptosis and ferrocytosis pathways, induces immunogenic cell death (ICD) to stimulate an antitumor immune response, and simultaneously inhibits autophagolysosomal degradation and tumor cell proliferation. In vivo tumor suppression experiments showed that the system achieved a 92.32% inhibition rate against 4T1 breast cancer, delivering highly effective and low-toxicity therapeutic outcomes and providing a novel strategy for the precision treatment of breast cancer.",
+   "journal": "International journal of biological macromolecules",
+   "year": "2026",
+   "authors": [
+    "Jianguo Gao",
+    "Xinyu Dong",
+    "Xingjuan Gao",
+    "Yanqing Wu",
+    "Yingzhi Lu",
+    "Yuwei Zhao",
+    "Xiaoqing Cai"
+   ],
+   "doi": "10.1016/j.ijbiomac.2026.155090",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42963020/"
+  },
+  {
+   "pmid": "42963096",
+   "title": "Regional disparities in hepatitis C treatment initiation and treatment delay in Saudi Arabia: a retrospective observational study.",
+   "abstract": "",
+   "journal": "BMJ open",
+   "year": "2026",
+   "authors": [
+    "Abdulkarim Alhussain",
+    "Sonila M Tomini",
+    "Panayotes Demakakos"
+   ],
+   "doi": "10.1136/bmjopen-2026-121143",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42963096/"
+  },
+  {
+   "pmid": "42963064",
+   "title": "Haemorrhagic cholecystitis with gallbladder rupture and haemoperitoneum in an elderly patient with autoimmune hepatitis on immunosuppression.",
+   "abstract": "",
+   "journal": "BMJ case reports",
+   "year": "2026",
+   "authors": [
+    "Karar Nasser",
+    "Katherine Goodall",
+    "Jessie Cole"
+   ],
+   "doi": "10.1136/bcr-2026-273660",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42963064/"
+  },
+  {
+   "pmid": "42962885",
+   "title": "'Hepatitis Delta in Spain: A Nationwide Prospective Characterization of Active Infection and Liver Disease Severity' - Author's reply.",
+   "abstract": "",
+   "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+   "year": "2026",
+   "authors": [
+    "Ana Alberola",
+    "Adolfo de Salazar",
+    "Federico Garc&#xed;a"
+   ],
+   "doi": "10.1016/j.cmi.2026.10.028",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42962885/"
+  },
+  {
+   "pmid": "42962711",
+   "title": "Acute-on-chronic liver failure: A global multisociety consensus on definitions.",
    "abstract": "The acute-on-chronic liver failure (ACLF) multisociety harmonisation initiative represents a global collaborative effort to establish a unified, evidence-based framework for the definition, diagnosis, grading, and management of ACLF. Building on the strengths of existing regional definitions and integrating diverse international perspectives, this consensus provides a pragmatic, globally applicable foundation for clinical practice, research, and education. It also establishes a common framework for patient stratification, organ dysfunction and failure assessment, critical care management, liver transplantation, and the design of future phase II/III trials. Standardised, regulatory-aligned endpoints are expected to improve cross-study comparability, strengthen collaboration, and accelerate development of effective ACLF therapies.",
-   "journal": "Hepatology international",
+   "journal": "Annals of hepatology",
    "year": "2026",
-   "authors": [],
-   "doi": "10.1007/s12072-026-11169-2",
+   "authors": [
+    "European Association for the Study of the Liver (EASL)(&#x204e;)",
+    "American Association for the Study of Liver Diseases (AASLD)(&#x204e;)",
+    "Asia-Pacific Association for the Study of the Liver (APASL)",
+    "Latin American Association for the Study of the Liver (ALEH)",
+    "Society on Liver Disease in Africa (SOLDA)"
+   ],
+   "doi": "10.1016/j.aohep.2026.102453",
    "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42961555/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42962711/"
   },
   {
-   "pmid": "42960980",
-   "title": "Letter: The Q425R Variant in Chronic Hepatitis Delta-Distinguishing Cirrhosis Prevalence From Portal Hypertension Severity. Authors' Reply.",
-   "abstract": "",
-   "journal": "Alimentary pharmacology & therapeutics",
+   "pmid": "42962676",
+   "title": "The Prevalence of Occult Hepatitis B Virus Infection in Immunized Children Born to Mothers Who Are Hepatitis B Carriers.",
+   "abstract": "Occult hepatitis B virus infection is characterized by the presence of hepatitis B virus DNA despite the undetectable hepatitis B surface antigen. This study aimed to determine the prevalence of occult hepatitis B virus infection in children born to hepatitis B surface antigen-positive mothers who received complete immunoprophylaxis. This cross-sectional study included 99 children. All received hepatitis B vaccination and hepatitis B immune globulin within 24 hours after birth. Serological markers and serum hepatitis B virus DNA were assessed in children aged 9 months to 15 years. All children were negative for hepatitis B surface antigen and serum hepatitis B virus DNA. The prevalence of serum-detectable occult hepatitis B virus infection was 0% (95% confidence interval: 0-3.6%). Anti-hepatitis B surface antibody seropositivity (&#x2265;&#x2009;10 IU/L) was observed in 66.7% of the children. Four children older than 24 months were positive for anti-hepatitis B core IgG antibody and anti-hepatitis B e antibody, possibly reflecting previous exposure without evidence of active infection. In these children, serum hepatitis B virus DNA remained negative at the initial assessment and at the 6- and 12-month follow-up assessments. No serum-detectable occult hepatitis B virus infection cases were identified. Complete immunoprophylaxis appears effective in this population; however, larger prospective studies with serial hepatitis B virus DNA testing are needed. Eine okkulte Hepatitis-B-Virusinfektion (OBI) ist durch das Vorhandensein von HBV-DNA bei nicht nachweisbarem HBsAg gekennzeichnet. Ziel dieser Studie war es, die Pr&#xe4;valenz der OBI bei Kindern zu ermitteln, die von HBsAg-positiven M&#xfc;ttern geboren wurden, die eine vollst&#xe4;ndige Immunprophylaxe erhalten hatten.An dieser Querschnittsstudie nahmen 99 Kinder teil. Alle erhielten innerhalb von 24 Stunden nach der Geburt eine Hepatitis-B-Impfung und HBIG. Serologische Marker und die HBV-DNA im Serum wurden bei Kindern im Alter von 9 Monaten bis 15 Jahren bestimmt.Alle Kinder waren negativ f&#xfc;r HBsAg und HBV-DNA im Serum. Die Pr&#xe4;valenz einer im Serum nachweisbaren OBI betrug 0% (95%-KI: 0&#x2013;3,6%). Bei 66,7% der Kinder wurde eine Anti-HBs-Seropositivit&#xe4;t (&#x2265;&#x2009;10 IE/l) festgestellt. Vier Kinder, die &#xe4;lter als 24 Monate waren, waren positiv auf Anti-HBc-IgG und Anti-HBe, was m&#xf6;glicherweise auf eine fr&#xfc;here Exposition ohne Anzeichen einer aktiven Infektion hindeutet. Bei diesen Kindern blieb die HBV-DNA im Serum bei der Erstuntersuchung sowie bei den Nachuntersuchungen nach 6 und 12 Monaten negativ.Es wurden keine F&#xe4;lle von OBI festgestellt, die im Serum nachweisbar waren. Eine vollst&#xe4;ndige Immunprophylaxe scheint bei dieser Population wirksam zu sein; es sind jedoch gr&#xf6;&#xdf;ere prospektive Studien mit serienm&#xe4;&#xdf;igen HBV-DNA-Tests erforderlich.",
+   "journal": "Klinische Padiatrie",
    "year": "2026",
    "authors": [
-    "Sara Cmet",
-    "Edmondo Falleti",
-    "Elisabetta Degasperi",
-    "Pietro Lampertico",
-    "Pierluigi Toniutto"
+    "Yasin Sel&#xe7;uk Yardibi",
+    "Gonca H Ustundag"
    ],
-   "doi": "10.1111/apt.71081",
+   "doi": "10.1055/a-2982-2078",
    "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42960980/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42962676/"
   },
   {
-   "pmid": "42960853",
-   "title": "Ten Years Later: Molecular Detection and Circulation of Enteric Viruses in Italian Pig Herds.",
-   "abstract": "Enteric viral infections remain a major challenge for the swine industry, particularly in young animals, and represent a potential source of zoonotic risk. Ten years after a previous survey conducted in Italy, we performed a cross-sectional study investigating mostly the same viruses to evaluate the persistence and circulation of different enteric viruses in Italian pig farms. A total of 240 pooled swine fecal samples from asymptomatic swine, collected from 12 pig farms in Northern and Central Italy, were analyzed for hepatitis E virus (HEV), porcine astrovirus (PAstV), porcine kobuvirus (PKoV), rotavirus A (RVA), caliciviruses (norovirus; NoV and sapovirus; SaV), and coronaviruses (CoVs). Overall, frequent circulation of enteric viruses was confirmed, with common codetection of multiple viruses within the same samples. PAstV and PKoV were each detected in 10 of 12 farms, followed by RVA in 9 farms, HEV in 6 farms, and caliciviruses in 1 farm; no CoV RNA was detected. PAstV, PKoV, HEV, RVA, and calicivirus RNA were detected in 70.0%, 51.2%, 27.1%, 19.6%, and 1.3% of pooled fecal samples, respectively, and 61.7% of pools contained RNA from two or more viruses. Caliciviruses were rarely detected, while no CoVs were identified, indicating either a limited circulation in the investigated farms or in fecal samples, being mostly associated with respiratory diseases. Associations between viral detection and pig age, supply-chain affiliation, and herd size were assessed using generalized estimating equation (GEE) models accounting for within-farm clustering. Although crude pool-level detection frequencies differed among categories, no statistically significant associations were identified. Although comparison with previous studies should be interpreted cautiously because the sampled farms and some diagnostic assays were not identical, this study demonstrates the continued circulation of several enteric viruses in Italian pig farms. The result highlights the importance of molecular surveillance to safeguard animal health and assess risks of interspecies transmission.",
-   "journal": "Transboundary and emerging diseases",
+   "pmid": "42963107",
+   "title": "Long-Term Durability and Safety Signals of Systemic AAV Gene Therapy for Haemophilia A and B: A Systematic Review.",
+   "abstract": "Adeno-associated virus (AAV) gene therapy can provide sustained endogenous factor expression after a single infusion, but durability and safety differ across products. We synthesised long-term efficacy and clinically interpretable safety outcomes while avoiding inappropriate class-level pooling. Five databases were searched from inception to 15 May 2026 for prospective systemic AAV trials in haemophilia A or B. Overlapping reports were linked by trial identifier, vector/transgene, dose, enrolment, sites, sample size and follow-up. One additional eligible report published within the search window was identified during peer review and incorporated. The primary outcome was product-specific factor activity at the latest follow-up with clinical durability. Prophylaxis status, bleeding and safety were synthesised descriptively by product because baseline regimens, outcome definitions and observation windows were not sufficiently harmonised for cross-product pooling. Risk of bias was assessed with ROBINS-I. Fourteen unique cohorts were included: six in haemophilia A and eight in haemophilia B. Reported long-term factor activity remained product-specific. The GS001 Phase 1 study reported median FVIII activity of 5.6&#x2009;IU/dL at Week 144 in the low-dose cohort and 42.7&#x2009;IU/dL at Week 104 in the high-dose cohort. Prophylaxis and zero-treated-bleed outcomes were not pooled because baseline treatment, restart criteria, denominators and observation windows differed. Liver abnormalities, immunosuppressive exposure, treatment-related serious adverse events and loss of expression varied by product. Rare inhibitor and thrombotic events reported outside the eligible prospective cohort synthesis reinforce the need for ongoing product-specific surveillance. Selected patients experienced sustained haemostatic benefit, and several FIX programmes showed stable multiyear expression. Because assays, products, immune-management strategies and follow-up differed, counselling and surveillance should remain product-specific. Standardised longitudinal reporting is required for stronger comparative conclusions.",
+   "journal": "European journal of haematology",
    "year": "2026",
    "authors": [
-    "Ilaria Di Bartolo",
-    "Fabio Ostanello",
-    "Giovanni Ianiro",
-    "Luca De Sabato",
-    "Chiara Settanni",
-    "Irene Berselli",
-    "David Ranucci",
-    "Marina Monini"
+    "Mahboob Younus Shaik",
+    "Jay Patel",
+    "Sunil Kakadia",
+    "Stephen Divers"
    ],
-   "doi": "10.1155/tbed/4011873",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42960853/"
-  },
-  {
-   "pmid": "42960466",
-   "title": "Trends in hepatitis E virus incidence and seroprevalence in the Netherlands, 1988 to 2025.",
-   "abstract": "BACKGROUNDHepatitis E virus (HEV) can cause serious liver disease, especially in immunosuppressed patients. In 2013, the Netherlands started HEV-RNA screening of donations for production of solvent detergent (S/D)-treated plasma. Since 2017, all Dutch blood donations are screened.AIMTo study trends in HEV infection, we analysed the prevalence of HEV antibodies in Dutch donors since 1988, and HEV-RNA screening results since 2013.METHODSPrevalence of anti-HEV IgG antibodies was determined in donor samples from 2023, and compared to our previous serosurveillance studies, performed on donor samples collected in 1988, 2000 and 2011. We collected HEV-RNA screening results of S/D plasma donations since 2013, and of all blood donations since 2017.RESULTSIn 2023, 24.3% of donors tested positive for anti-HEV antibodies. Seroprevalence increased with age. An age-cohort effect contributed to an overall decline in seroprevalence compared with 1988, reflecting historically higher infection pressure. Among donors born after 1950, seroprevalence rose in samples collected after 2000. HEV-RNA screening results initially revealed a high incidence that declined sharply after 2015, followed by an upward trend beginning in 2020. HEV-RNA positivity was more common in male and older donors.CONCLUSIONThe data indicate substantial historical fluctuations of HEV infection pressure. High seroprevalence in the late 20th century suggests widespread past exposure, followed by a prolonged period of reduced infection rates. Around 2000, HEV appears to have re-emerged, with increasing seroprevalence among younger donors. Screening has revealed marked year-to-year variability in incidence, underscoring dynamic patterns of HEV circulation.",
-   "journal": "Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin",
-   "year": "2026",
-   "authors": [
-    "Franke A Quee",
-    "Boris M Hogema",
-    "Katja van den Hurk",
-    "Ed Slot",
-    "Hans L Zaaijer"
-   ],
-   "doi": "10.2807/1560-7917.ES.2026.31.43.2600103",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42960466/"
-  },
-  {
-   "pmid": "42961991",
-   "title": "Associated factors for stress ulcers and gastrointestinal bleeding in patients with sepsis or septic shock: A systematic review.",
-   "abstract": "Sepsis continues to be a major contributor to death among critically ill individuals and places a heavy strain on healthcare resources. In addition to causing systemic inflammation and affecting hemodynamics, sepsis has a significant effect on the gastrointestinal system, leading to complications like stress ulcers and notable gastrointestinal bleeding (GIB), which worsen patient outcomes. While stress ulcer prophylaxis (SUP) has traditionally been included in sepsis treatment protocols, the concept of applying it universally is being increasingly scrutinized due to the absence of definitive mortality advantages and the risk of adverse effects, such as hospital-acquired pneumonia. Nevertheless, there is a notable gap in synthesized research that specifically addresses the independent risk factors for stress ulcers in sepsis patients. We carried out a systematic review in accordance with PRISMA standards, exploring eight databases (CNKI, Wanfang, VIP, Sinomed, PubMed, Web of Science, Embase, and Cochrane Library) from their inception until September 1, 2026. We included observational analytical studies (either cohort or case-control) that examined factors linked to stress ulcers or significant gastrointestinal bleeding in adult patients with sepsis. Two researchers independently handled the selection of studies, extraction of data, and evaluation of quality using the Newcastle-Ottawa Scale. Due to the limited number of studies for each association between associated factors and outcomes, a narrative synthesis was utilized. A total of six studies encompassing 131,568 individuals suffering from sepsis or septic shock were analyzed. The incidence rates of stress ulcers or gastrointestinal bleeding (GIB) varied between 2.0% and 32.3%. The identified associated factors were divided into three categories: patient-related (older age, history of GIB, cirrhosis, HIV, cancer/immunosuppression), disease-related (coagulopathy, kidney impairment, high BUN levels, severity of illness scores, source of infection), and treatment-related (mechanical ventilation, use of anticoagulants, corticosteroid therapy, duration of ICU stay). Specifically for stress ulcer, factors such as respiratory failure, high BUN levels, shock, and increased HMGB1/TLR2/TLR4 levels were found to be independently linked to a higher odds. In summary, the likelihood of developing stress ulcers and gastrointestinal bleeding in patients with sepsis is shaped by a variety of factors related to the patient, their illness, and the treatments they receive. Key indicators that consistently emerge include issues with blood coagulation, the presence of shock, the need for mechanical ventilation, liver and kidney dysfunction, the severity of the disease, and any previous occurrences of gastrointestinal bleeding. These results advocate for tailored strategies for stress ulcer prophylaxis based on individual risk rather than a one-size-fits-all approach, offering crucial insights for precise clinical decision-making. Additional high-quality research is essential to confirm and enhance the understanding of these associated factors. PROSPERO (CRD420251242849).",
-   "journal": "PloS one",
-   "year": "2026",
-   "authors": [
-    "Jin Wang",
-    "Xingwei Zhu",
-    "Linhui Jin",
-    "Yafei Liu",
-    "Man Tao",
-    "Zhijuan He",
-    "Xiaoxia Tang",
-    "Guilan Zhang",
-    "Hailin Zhu"
-   ],
-   "doi": "10.1371/journal.pone.0361608",
+   "doi": "10.1111/ejh.70348",
    "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42961991/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42963107/"
   },
   {
-   "pmid": "42961778",
-   "title": "Senescence-modulating nanoparticles SELECT the right senescent cells to treat fibrosis and cancer.",
-   "abstract": "Cellular senescence contributes dynamically to fibrosis and cancer depending on the senescent cell type and its tissue remodeling senescence-associated secretory phenotype; however, current senotherapies lack specificity in targeting pathogenic senescent cells and have limiting toxicities. In a recent issue of Science, Hinterleitner and colleagues designed P-selectin-directed nanoparticles (SMNPs) capable of delivering senotherapies specifically to pathogenic P-selectin+ senescent macrophages in fibrotic tissues while preventing uptake in beneficial senescent endothelial cells. Precision targeting by SMNPs resolved fibrosis and restored organ function in the lung and liver and minimized senotherapeutic toxicity in mice. In tumor models, SMNP targeting of this small senescent macrophage subset was sufficient to overcome fibrosis-mediated immune exclusion and sensitize liver and lung cancers to T cell-directed immunotherapy. P-selectin+ macrophages with senescent features were also enriched in fibrotic human tissues and treatment-refractory cancer patient samples. Overall, this study provides a platform for reducing the toxicity and enhancing the specificity of senotherapies necessary to advance their clinical development for treating chronic disease.",
-   "journal": "Cancer research",
+   "pmid": "42962921",
+   "title": "Brief report: Clinical and Functional Characterization of Rare Germline and Somatic EGFR Variants in Three Patients with Non-Small Cell Lung Cancer.",
+   "abstract": "To date hereditary risk factors for non-small cell lung cancer (NSCLC) are poorly understood. While most cases are considered sporadic, rare monogenic germline alterations in EGFR and TP53 have been reported to be associated with increased risk of NSCLC. While identification and accurate functional characterization of such variants are essential for improving risk assessment and personalized therapeutic strategies, they remain limited. Germline whole genome sequencing (WGS) was performed to identify potential hereditary causes of NSCLC within Task Force 5 of the German National Network for Genomic Medicine. Detected EGFR variants were further investigated using in silico structural modeling and in vitro functional characterization in Ba/F3 cell models to investigate their oncogenic potential and sensitivity to tyrosine kinase inhibitors (TKIs). We identified two different EGFR germline variants (NM_005228.5:c.2155G>A, p.(Gly719Ser); NM_005228.5: c.2327G>A, p.(Arg776His)) in three patients with NSCLC, each harboring a different somatic compound variants (p.(Gly719Ser)+p.(Ser768Ile), p.(Gly719Ala)+p.(Arg776His), p.(Arg776His)+p.(Leu861Gln) (liver metastasis) and p.(Arg776His)+p.(Gly719Ser)). In silico analyses predict that p.(Gly719Ser) and p.(Gly719Ala) stabilize the active EGFR kinase conformation, whereas p.(Ser768Ile), p.(Arg776His) and p.(Leu861Gln) destabilize the inactive conformation. Consistent with these predictions, cis co-expression of the compound variants in the Ba/F3 assay demonstrated oncogenic activity and sensitivity to afatinib. Clinically two individuals achieved a partial response to afatinib treatment. These findings highlight the clinical relevance of germline EGFR variants in NSCLC and support the value of in-silico and in-vitro analyses for variant interpretation and response prediction. Broadening germline testing and functional variant characterization may enhance risk prediction and targeted therapy for individuals with NSCLC.",
+   "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
    "year": "2026",
    "authors": [
-    "Haruka Mori",
-    "Meghan L Brassil",
-    "Marcus Ruscetti"
+    "Rebecca Prielipp",
+    "Corinna Albers-Leischner",
+    "Yana Sharapova",
+    "Jonas Arnold",
+    "J&#xfa;lia Wiggeshoff",
+    "Judith B&#xf6;thig",
+    "Maximilian Christopeit",
+    "Carsten Bokemeyer",
+    "Melanie Janning",
+    "Sonja Loges",
+    "Sarah W&#xf6;lffling",
+    "Tim Hutschenreiter",
+    "Daniela Aust",
+    "Sascha Br&#xfc;ckmann",
+    "Sylvia Herold",
+    "Maret Sch&#xfc;tz",
+    "Dirk Koschel",
+    "Birgit Kra&#xdf;ler",
+    "Janna Siemanowski-Hrach",
+    "Sabine Merkelbach-Bruse",
+    "Vanessa Welter",
+    "Reinhard B&#xfc;ttner",
+    "J&#xfc;rgen Wolf",
+    "Axel Hillmer",
+    "Evelin Schr&#xf6;ck",
+    "Diana Le Duc",
+    "Martin Wermke",
+    "Arne Jahn"
    ],
-   "doi": "10.1158/0008-5472.CAN-26-4564",
+   "doi": "10.1016/j.jtho.2026.106222",
    "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42961778/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42962921/"
   },
   {
-   "pmid": "42960452",
-   "title": "Acidic bile salt&#x2011;induced DNA methylation promotes APE1 upregulation through miR&#x2011;128&#x2011;3p silencing in esophageal adenocarcinoma.",
-   "abstract": "Esophageal adenocarcinoma (EAC) is an aggressive malignancy with rapidly rising incidence in Western populations and a poor 5&#x2011;year survival rate of <20%. It commonly develops from Barrett's esophagus, a metaplastic condition driven by chronic exposure to acidic bile salts (ABS). Apurinic/apyrimidinic endonuclease 1 (APE1) serves a central role in this process by coordinating DNA repair and redox signaling pathways that promote tumor cell survival, inflammation and progression. Despite its importance, the upstream regulatory mechanisms controlling APE1 in EAC remain incompletely understood. The present study aimed to identify a novel epigenetic mechanism linking reflux&#x2011;induced stress to APE1 upregulation through microRNA (miR) regulation. Bioinformatics analysis of downregulated miRNAs in EAC and the 3'untranslated region of APE1 revealed that miR&#x2011;128&#x2011;3p has a predicted binding site within the APE1 3'untranslated region. Functional validation using luciferase reporter assays confirmed direct binding of miR&#x2011;128&#x2011;3p to APE1. Exposure to ABS resulted in marked suppression of miR&#x2011;128&#x2011;3p expression, concomitant with increased APE1 levels. Mechanistically, ABS induces DNA methyltransferase (DNMT1) expression, leading to hypermethylation of the CpG&#x2011;rich miR&#x2011;128&#x2011;3p promoter and transcriptional silencing. DNMT1 knockdown or inhibition reversed miR&#x2011;128&#x2011;3p suppression and decreased promoter methylation, restoring its regulatory effect on APE1. Collectively, these findings defined a DNMT1/miR&#x2011;128&#x2011;3p/APE1 regulatory pathway that links reflux&#x2011;induced epigenetic modifications to oncogenic signaling in EAC, highlighting potential therapeutic targets for this malignancy.",
-   "journal": "Oncology reports",
+   "pmid": "42962841",
+   "title": "ROS-responsive supramolecular hydrogel system for the controlled release of oncolytic adenovirus and paclitaxel in cancer therapy.",
+   "abstract": "The synergistic combination of oncolytic adenovirus (oAd) and paclitaxel chemodrug holds great potential for cancer therapy as it can enhance cell apoptosis, the viral replication in cancer cells, and induce a potent antitumor effect. However, clinical output is insufficient because of the rapid blood clearance and inactivation of viral activity within high-reactive oxygen species (ROS) tumor microenvironment (TME). In this regard, we have developed an ROS responsive supramolecular hydrogel (mPEG-b-PCL-DPMP/&#x3b1;-cyclodextrin (DPMP/&#x3b1;-CD hydrogel)) system to protect oAd bioactivity while providing sustained, localized co-delivery of paclitaxel (PTX). The amount of ROS was evaluated by fluorescence measurements using H 2 DCFDA as a probe and confirmed that there was a significant decrease in ROS level by DPMP/&#x3b1;-CD hydrogel. An in vivo degradation study showed that the hydrogel underwent substantial degradation within one week. Furthermore, oAd and PTX encapsulated in DPMP/&#x3b1;-CD hydrogel were released consistently and retained the viral activity, exhibiting cancer cell killing efficacy under strong tumor microenvironment conditions. In vivo, a single intratumoral injection formed a stable depot that persisted for over a week, leading to superior tumor regression in H460 xenograft models compared to naked oAd or PTX alone. Histological and biochemical analyses confirmed no detectable histopathological abnormalities in the examined major organs or elevations in the measured serum liver and kidney injury markers under the conditions evaluated. Altogether, this ROS-responsive shield-and-release injectable supramolecular hydrogel platform loaded with oAd/PTX exhibits downregulated ROS level at tumor microenvironment and enhanced anti-tumor effect. STATEMENT OF SIGNIFICANCE: &#x2022; An active shield-scavenge-release hydrogel was engineered to enhance oncolytic adenovirus/paclitaxel (oAd/PTX) combination therapy. &#x2022; The hydrogel protects oxidation-sensitive adenovirus while enabling sustained local viral release. &#x2022; ROS-responsive dipentaerythritol hexakis(3-mercaptopropionate) (DPMP) segments convert the oxidative tumor microenvironment into a therapeutic release trigger. &#x2022; PTX-loaded hydrophobic domains support prolonged chemotherapy without disrupting hydrogel architecture. &#x2022; Sustained oAd/PTX co-release amplifies viral replication, tumor cell killing, and antitumor efficacy. &#x2022; A single intratumoral administration achieves durable tumor suppression with minimal systemic toxicity.",
+   "journal": "Acta biomaterialia",
    "year": "2026",
    "authors": [
-    "Farah Ballout",
-    "Heng Lu",
-    "Lei Chen",
-    "Dunfa Peng",
-    "Zheng Chen",
-    "Steven Chen",
-    "Xiaodian Sun",
-    "Alexander Zaika",
-    "Ladan Fazlollahi",
-    "Jianwen Que",
-    "Oliver McDonald",
-    "Wael El-Rifai"
+    "Yuebin Zhao",
+    "Dayananda Kasala",
+    "Jinsun Park",
+    "Ao Jiao",
+    "Thai Minh Duy Le",
+    "Jinwoo Hong",
+    "A-Rum Yoon",
+    "Chae-Ok Yun"
    ],
-   "doi": "10.3892/or.2026.9216",
+   "doi": "10.1016/j.actbio.2026.10.036",
    "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42960452/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42962841/"
   },
   {
-   "pmid": "42960449",
-   "title": "Emerging role of non&#x2011;coding RNAs in the progression of MASLD&#x2011;driven hepatocellular carcinoma (Review).",
-   "abstract": "Metabolic dysfunction&#x2011;associated steatotic liver disease (MASLD) is the most prevalent chronic liver disease worldwide and a leading cause of liver&#x2011;related morbidity and mortality. MASLD encompasses a pathological spectrum ranging from metabolic dysfunction&#x2011;associated steatohepatitis to cirrhosis and hepatocellular carcinoma (HCC), making it the fastest&#x2011;growing contributor to the global incidence of HCC. Non&#x2011;coding RNAs (ncRNAs), once regarded as 'genomic dark matter', are increasingly recognised as key regulatory molecules in a variety of liver diseases. However, their systematic involvement in the malignant progression from MASLD to HCC remains incompletely understood. Emerging evidence suggests that ncRNAs play critical roles in modulating the major pathophysiological processes underlying MASLD&#x2011;driven HCC progression, including dysregulated lipid metabolism, chronic inflammation, oxidative stress, immune imbalance and gut microbiota disruption. The present review systematically examines the specific functions of major ncRNA classes, including microRNAs, long ncRNAs and circular RNAs, in the pathogenesis of MASLD&#x2011;driven HCC. In addition, given their considerable diagnostic and therapeutic potential, the present review evaluates the prospects of ncRNAs as novel biomarkers and therapeutic targets to facilitate the early detection and precision treatment of MASLD&#x2011;driven HCC.",
-   "journal": "International journal of molecular medicine",
+   "pmid": "42962835",
+   "title": "Comparative cytogenotoxicity of benzo[b]fluoranthene and benzo[ghi]perylene and their binary mixture in human peripheral blood, lung (A549), and liver (HepG2) cells.",
+   "abstract": "Polycyclic aromatic hydrocarbons (PAHs) occur in complex mixtures, yet their comparative cytogenotoxic effects remain insufficiently characterized. We investigated benzo[b]fluoranthene (BbF), benzo[ghi]perylene (BghiP), and their binary mixture in human blood-derived models, A549, and HepG2 cells. Viability was assessed using fluorescent dual staining or MTT, while genotoxicity was evaluated using alkaline comet and cytokinesis-block micronucleus assays. BbF reduced blood-cell viability across a broader concentration range than BghiP, whereas A549 cells showed minimal cytotoxic responses. HepG2 cells exhibited concentration- and time-dependent viability reductions and significant DNA damage after 24h of individual and binary exposure. Binary exposure increased nuclear buds in A549 cells and nucleoplasmic bridges in HepG2 cells; micronucleus frequencies increased without consistently reaching statistical significance. Responses varied across models and endpoints under controlled in vitro conditions. These findings support further investigation of co-occurring PAHs, although additivity, synergism, and antagonism were not evaluated.",
+   "journal": "Environmental toxicology and pharmacology",
    "year": "2026",
    "authors": [
-    "Weihua Zheng",
-    "Caiyan An",
-    "Long Xia",
-    "Hongquan Wang",
-    "Yumin Wang",
-    "Junjing Zhang"
+    "Luka Kazensky",
+    "Vilena Ka&#x161;uba",
+    "Matja&#x17e; Novak",
+    "Katarina Matkovi&#x107;",
+    "Marko Geri&#x107;",
+    "Mirta Mili&#x107;",
+    "Gordana Pehnec",
+    "Bojana &#x17d;egura",
+    "Goran Gajski"
    ],
-   "doi": "10.3892/ijmm.2026.6029",
+   "doi": "10.1016/j.etap.2026.105222",
    "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42960449/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42962835/"
   },
   {
-   "pmid": "42960427",
-   "title": "Technetium-99m macroaggregated albumin scan before yttrium-90 radioembolization: what to look for and why it matters.",
-   "abstract": "Yttrium-90 (90Y) radioembolization is an established locoregional therapy for primary and metastatic liver malignancies. Technetium-99m macroaggregated albumin (99mTc-MAA) remains the standard clinically established surrogate for vascular simulation, lung-shunt assessment, detection of extrahepatic deposition, evaluation of tumor and normal-liver perfusion, and predictive dosimetry. Interpretation is nevertheless affected by nonidentity between MAA and therapeutic microspheres and by method-specific technical biases. 99mTc-MAA particles and 90Y microspheres differ in size, shape, density, number of particles, embolic effect, and flow behavior. A systematic and clinically practical approach to 99mTc-MAA interpretation can improve patient selection, reduce the risk of nontarget irradiation, and support safer and more effective radioembolization treatment. This pictorial and narrative review summarizes the current evidence on the applications, interpretation, and limitations of the pretreatment 99mTc-MAA scan before 90Y radioembolization, with emphasis on lung shunt fraction, extrahepatic tracer uptake, intrahepatic distribution, and the evolving role of personalized dosimetry.",
-   "journal": "Nuclear medicine communications",
+   "pmid": "42962805",
+   "title": "Chronic Alcohol Consumption Expands Bone Marrow Myelopoiesis While Suppressing Splenic Hematopoiesis.",
+   "abstract": "Chronic alcohol consumption-mediated immune dysregulation elevates the risk of multiple diseases, yet how these immunological alterations manifest across tissues remains poorly understood. Here, we investigated the impact of chronic alcohol consumption on hematopoiesis and immune homeostasis across the bone marrow (BM), spleen (SP), and peripheral blood (PB) using female C57BL/6 mice fed a Lieber-DeCarli liquid diet with 6% (v/v) ethanol for 6 weeks. Alcohol consumption induced a mild hepatic injury, evidenced by increased liver weight, elevated plasma levels of alanine aminotransferase (ALT) and aspartate aminotransferase (AST), and hepatic steatosis without fibrosis. Immune phenotyping by high-dimensional spectral flow cytometry showed that, in the BM, alcohol expanded myeloid-biased multipotent progenitors 2 and 3 (MPP2 and MPP3), granulocyte-monocyte progenitors (GMPs), and macrophages. Conversely, the SP exhibited reduced abundance and proliferative activity of lineage-negative c-KIT-positive (LK) and megakaryocyte-erythroid progenitor (MEP) populations, resulting in impaired erythropoiesis. Despite these tissue-specific alterations, PB exhibited comparatively subtle and more variable changes than the BM and SP. These findings demonstrate that alcohol-mediated hematopoietic remodeling is tissue-specific and may not be fully captured by PB analyses. They further highlight the potential need for improved tissue-informed biomarkers and diagnostic approaches to detect and monitor alcohol-mediated immune remodeling beyond PB.",
+   "journal": "Experimental hematology",
    "year": "2026",
    "authors": [
-    "Anjali Jain",
-    "Rashid Al Sukaiti",
-    "Subhash Kheruka",
-    "Sharjeel Usmani",
-    "Khulood Al Riyami",
-    "Asiya Al Busaidi",
-    "Aisha Ismaila",
-    "Rigel Marlin Yambao",
-    "Alok Kumar Mittal"
+    "Hami Hemati",
+    "Chih-Ling Wang",
+    "Xiangzhen Wei",
+    "Ilhem Messaoudi",
+    "Mary Mohrin"
    ],
-   "doi": "10.1097/MNM.0000000000002261",
+   "doi": "10.1016/j.exphem.2026.105961",
    "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42960427/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42962805/"
   }
  ],
- "lastUpdated": "2026-10-31T03:20:03.267244+00:00",
+ "lastUpdated": "2026-10-31T09:04:36.150636+00:00",
  "fields": [
   "cardiology",
   "immunotherapy",

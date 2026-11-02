@@ -67,7 +67,7 @@
   {
    "name": "何以近代",
    "type": "书籍",
-   "rating": "7.4",
+   "rating": "7.8",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38522388/",
    "source": "https://book.douban.com/subject/38522388/"
@@ -75,7 +75,7 @@
   {
    "name": "码头上的异乡人",
    "type": "书籍",
-   "rating": "8.7",
+   "rating": "8.6",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38541645/",
    "source": "https://book.douban.com/subject/38541645/"
@@ -89,45 +89,45 @@
    "source": "https://book.douban.com/subject/37434517/"
   },
   {
-   "name": "凝神时刻",
-   "type": "书籍",
-   "rating": "8.7",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38593398/",
-   "source": "https://book.douban.com/subject/38593398/"
-  },
-  {
-   "name": "墙",
-   "type": "书籍",
-   "rating": "9.5",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38616010/",
-   "source": "https://book.douban.com/subject/38616010/"
-  },
-  {
-   "name": "随风远走",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38999511/",
-   "source": "https://book.douban.com/subject/38999511/"
-  },
-  {
-   "name": "涉过意识之流",
+   "name": "志怪",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37455862/",
-   "source": "https://book.douban.com/subject/37455862/"
+   "doubanLink": "https://book.douban.com/subject/38521378/",
+   "source": "https://book.douban.com/subject/38521378/"
   },
   {
-   "name": "空地",
+   "name": "拉维尼亚",
    "type": "书籍",
-   "rating": "8.4",
+   "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38613720/",
-   "source": "https://book.douban.com/subject/38613720/"
+   "doubanLink": "https://book.douban.com/subject/38570440/",
+   "source": "https://book.douban.com/subject/38570440/"
+  },
+  {
+   "name": "请勿打扰",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38615559/",
+   "source": "https://book.douban.com/subject/38615559/"
+  },
+  {
+   "name": "清季的革命团体",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38940929/",
+   "source": "https://book.douban.com/subject/38940929/"
+  },
+  {
+   "name": "布莱希特戏剧选",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38553181/",
+   "source": "https://book.douban.com/subject/38553181/"
   }
  ],
- "lastUpdated": "2026-11-02T03:57:59.004300+00:00"
+ "lastUpdated": "2026-11-02T10:17:35.367874+00:00"
 }

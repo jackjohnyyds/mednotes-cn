@@ -67,7 +67,7 @@
   {
    "name": "一个梦境旅行家的笔记",
    "type": "书籍",
-   "rating": "",
+   "rating": "7.9",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38451628/",
    "source": "https://book.douban.com/subject/38451628/"
@@ -83,7 +83,7 @@
   {
    "name": "达洛维夫人在邦德街",
    "type": "书籍",
-   "rating": "9.4",
+   "rating": "8.9",
    "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38632522/",
    "source": "https://book.douban.com/subject/38632522/"
@@ -129,5 +129,5 @@
    "source": "https://book.douban.com/subject/38913931/"
   }
  ],
- "lastUpdated": "2026-11-04T03:42:35.094699+00:00"
+ "lastUpdated": "2026-11-04T10:09:52.870800+00:00"
 }

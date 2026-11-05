@@ -187,18 +187,34 @@ def parse_pubmed_xml(xml):
     return out
 
 def esearch_ids(field):
-    """NCBI E-utilities esearch，带限流规避与重试（无 key 限流约 3 req/s）"""
+    """取 PubMed 最新 PMID 列表。
+
+    首选 E-utilities esearch（retmode=xml），该接口近期在服务端间歇性返回
+    HTTP 500（同一 URL 时而 200 时而 500），因此失败时回退到 PubMed 网页
+    搜索结果页解析 data-article-id，两者拿到的是同一套 PMID。
+    """
     q = urllib.parse.quote(field)
-    url = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%s&retmax=5&sort=date&retmode=json' % q
+    url = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%s&retmax=5&sort=date&retmode=xml' % q
     for attempt in range(3):
         try:
-            data = fetch_json(url)
-            ids = (data.get('esearchresult') or {}).get('idlist', []) or []
+            xml = fetch(url, 20)
+            ids = re.findall(r'<Id>(\d+)</Id>', xml)
             if ids:
                 return ids
         except Exception:
             pass
-        time.sleep(1.5 * (attempt + 1))
+        time.sleep(1.2 * (attempt + 1))
+    # 回退通道：PubMed 网页搜索（按日期排序），HTML 中 data-article-id 即 PMID
+    try:
+        html = fetch('https://pubmed.ncbi.nlm.nih.gov/?term=%s&sort=date&size=10' % q, 25)
+        seen = []
+        for pid in re.findall(r'data-article-id="(\d+)"', html):
+            if pid not in seen:
+                seen.append(pid)
+        if seen:
+            return seen[:5]
+    except Exception:
+        pass
     return []
 
 def gen_papers(fields=None):

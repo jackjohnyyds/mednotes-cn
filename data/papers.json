@@ -1,6 +1,373 @@
 {
- "items": [],
- "lastUpdated": "2026-11-05T10:04:58.160820+00:00",
+ "items": [
+  {
+   "pmid": "42987314",
+   "title": "Assessing the Quality of AI Explanations of Atrial Fibrillation: Comparative Analysis of ChatGPT and Google Gemini.",
+   "abstract": "Atrial fibrillation (AF) is one of the most common arrhythmias and is associated with multiple risk factors, including stroke and heart failure. Therefore, it is important that accurate and comprehensive educational resources on AF are available. Artificial intelligence (AI) platforms such as Google Gemini and ChatGPT are emerging tools for medical education. To our knowledge, this is the first study to assess the quality of these platforms for AF education. This pilot study aimed to (1) assess the quality of ChatGPT and Google Gemini explanations of AF and its treatment, (2) compare responses from both platforms, and (3) analyze differences in interpretation between cardiologists and nonmedical professionals. The prompt \"Explain atrial fibrillation and how to treat it to a patient\" was entered into both ChatGPT and Google Gemini. The responses, along with a survey created in Google Forms, were sent out to potential participants between September and October 2024. The survey questions were derived from the Patient Education Materials Assessment Tool for Printable Materials and DISCERN criteria. Each survey question was multiple choice and rated on a 5-point Likert scale, where 1 indicated strong disagreement and 5 indicated strong agreement. Averages of each answer from the survey were calculated and compared using the Wilcoxon signed-rank test. The survey was completed by 28 participants, including cardiologists and cardiology fellows and 17 nonmedical professionals (college graduates not employed in the medical field). No significant overall quality differences were observed between ChatGPT and Google Gemini. When comparing participant groups, cardiologists rated AI-generated responses higher than nonmedical professionals for perceived bias (mean 3.82 vs mean 4.33; P=.04) and for explaining consequences of no treatment (mean 2.85 vs mean 1.86; P=.005). In contrast, nonmedical professionals rated structural and organizational features more favorably than cardiologists, including visual cues (mean 3.97 vs mean 2.48; P<.001), informative headers (mean 4.77 vs mean 3.95; P=.001), concise sections (mean 4.71 vs mean 4.29; P=.04), identifiable patient actions (mean 4.21 vs mean 3.19; P=.04), and references to additional resources (mean 2.65 vs mean 1.71; P=.006). The comparable quality of ChatGPT and Google Gemini suggests that both are viable for AF education. Differences in ratings of organizational features versus perceptions of bias and consequences of no treatment highlight a disconnect between cardiologists and nonmedical professionals. To optimize clinical application, cardiologists should evaluate both comprehensiveness and clarity of AI-generated responses. This serves as a pilot study, and future research should focus on longitudinal studies of AI-generated responses and their effects on clinical outcomes.",
+   "journal": "JMIR formative research",
+   "year": "2026",
+   "authors": [
+    "Jasneel Kahlam",
+    "Alexander Sacher",
+    "Kyrollos Saad",
+    "David Zhang",
+    "Rohit Sekandalapuram",
+    "Quang Dai La",
+    "David F Lo",
+    "John P Reilly"
+   ],
+   "doi": "10.2196/73715",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42987314/"
+  },
+  {
+   "pmid": "42987258",
+   "title": "Generation of 12-Lead Electrocardiogram Using Smartwatches in Patients With Cardiac Conditions: Clinical Validation Study.",
+   "abstract": "Smartwatches have significantly expanded personal health monitoring capabilities; however, their application in comprehensive cardiac assessment remains limited by single-lead electrocardiogram (ECG) acquisition. The inability to directly obtain augmented limb leads represents a major limitation for the evaluation of ischemic and arrhythmogenic conditions. This study aimed to present and preliminarily evaluate a methodology for generating augmented limb leads (augmented voltage right [aVR], augmented voltage left [aVL], and augmented voltage foot [aVF]) from sequential smartwatch recordings through signal synchronization and RR interval alignment, and to combine this approach with precordial smartwatch recordings to reconstruct a full 12-lead ECG in a proof-of-concept setting. A signal-processing framework was developed to preserve ECG morphology across sequential smartwatch lead recordings. The method is based on RR interval-guided temporal resampling, enabling interlead synchronization and analytical reconstruction of augmented limb leads. A prospective proof-of-concept clinical validation was conducted in 20 cases with diverse cardiac pathologies, including 1 healthy control. Smartwatch-derived ECGs were compared with standard 12-lead ECGs. Evaluation included expert-based clinical interpretation by 85 health care professionals and objective quantitative analysis of key electrocardiographic parameters, including heart rate, PR interval, QRS duration, QT interval, QTc, RR interval, P-wave duration, and PP interval. Mean values, SDs, and intermethod differences were calculated to assess agreement and variability. Reconstruction of a 12-lead ECG from smartwatch-acquired signals was successfully achieved in all cases. Visual correlation scores between smartwatch-derived and conventional ECGs ranged from 78.1% to 91.3% across specialty-level means (mean 81.1, SD 22.7), indicating high perceived concordance; individual case-level scores ranged more widely, from 47.0% to 96.3%. Evaluator-perceived axis agreement reached 95.4% across all cases, while the investigators' direct axis measurements showed complete concordance in all cases. Quantitative analysis demonstrated small mean differences between modalities, with particularly high agreement observed in structurally stable parameters such as heart rate (mean 77.2, SD 22.3 vs mean 75.9, SD 23.1 bpm; &#x394;=1.3 bpm) and PR interval (mean 176.2, SD 29.1 vs mean 180.8, SD 19.8 ms; &#x394;=-4.6 ms). Greater variability was observed in atrial activation parameters such as P-wave duration (&#x394;=-13.3 ms) and time-dependent parameters such as QT (&#x394;=-19.2 ms) and QTc (&#x394;=-12.7 ms). This proof-of-concept study demonstrates the feasibility of reconstructing a full 12-lead ECG from smartwatch-derived signals using a synchronization-based approach. The results demonstrated generally small mean differences between conventional and smartwatch-derived ECG measurements, although larger interval differences were observed in some individual cases. Importantly, due to the sequential nature of signal acquisition, the proposed methodology does not aim to achieve direct waveform equivalence but rather clinically meaningful agreement in electrocardiographic parameters. These findings support the potential of smartwatches as accessible tools for advanced cardiac monitoring and broaden their applicability beyond single-lead screening.",
+   "journal": "JMIR cardio",
+   "year": "2026",
+   "authors": [
+    "Mauro Buelga Su&#xe1;rez",
+    "Carmen Plaza-Seco",
+    "Roberto Mat&#xed;a Franc&#xe9;s",
+    "Gonzalo Luis Alonso Salinas",
+    "Manuel Blanco-Velasco"
+   ],
+   "doi": "10.2196/86621",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42987258/"
+  },
+  {
+   "pmid": "42987229",
+   "title": "Postoperative Neuromuscular Paresis and Overlap Syndrome Related to Immune Checkpoint Inhibitors: A Case Report.",
+   "abstract": "Immune checkpoint inhibitors (ICIs) can cause rare, severe immune-related adverse events. ICI-related overlap syndrome of myositis, myocarditis, and myasthenia gravis (3M) is uncommon yet carries high morbidity and mortality. We report a case with postoperative ICI-induced 3M syndrome that developed extremity paresis following proximal humerus resection and reconstruction. His clinical course was complicated by respiratory failure and septic shock, requiring intensive care. He was treated with intravenous immunoglobulin, corticosteroids, and plasmapheresis, leading to gradual recovery. This case highlights a rare postoperative presentation of 3M syndrome and underscores the importance of early recognition and prompt management.",
+   "journal": "JBJS case connector",
+   "year": "2026",
+   "authors": [
+    "Barlas Goker",
+    "Ilem Karaca",
+    "Andrew Johns",
+    "Jean-Bernard Durand",
+    "Joseph Nates",
+    "Robert L Satcher"
+   ],
+   "doi": "e26.00251",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42987229/"
+  },
+  {
+   "pmid": "42987180",
+   "title": "Extracorporeal Membrane Oxygenation for Pediatric Lung Transplantation: An Extracorporeal Life Support Organization Registry Study, 2000-2022.",
+   "abstract": "We aimed to identify factors associated with greater odds of survival, as well as odds of successful lung transplantation (LTx) in pediatric patients undergoing extracorporeal membrane oxygenation (ECMO) as a bridge-to-LTx (BTT) or supported with ECMO after LTx. Retrospective cohort study using the Extracorporeal Life Support Organization (ELSO) registry. International ECMO centers submitting data to the ELSO registry. Pediatric patients younger than 19 years old who were supported with ECMO before or after LTx between 2000 and 2022. None. We identified 194 pediatric patients who used ECMO as a bridge to LTx, and 63% survived to hospital discharge. We failed to identify an association between ECMO modality (i.e., venovenous vs. venoarterial) and odds of survival. Central venoarterial ECMO cannulation was associated with greater odds of receiving a LTx compared with not receiving a LTx (30/85 [35%] vs. 15/109 [14%]; odds ratio [OR], 3.42; 95% CI, 1.69-6.91). In the 109 patients who did not receive a LTx, ECMO cannulation delayed after hospital day 7 was associated with lower odds of survival (OR, 0.34; 95% CI, 0.15-0.75). ECMO post-LTx occurred in 95 patients, 62% received venoarterial or veno-venoarterial ECMO, and 48 of 95 (51%) survived to hospital discharge. In patients requiring ECMO post-LTx, cystic fibrosis was associated with lower odds of survival (OR, 0.31; 95% CI, 0.12-0.79) and pulmonary hypertension was associated with greater odds of survival (OR, 5.04; 95% CI, 1.68-15.1). Our data show that ECMO was used to support children as a BTT and for stabilization of postoperative LTx recipients. Early initiation of ECMO was associated with greater odds of survival in patients undergoing BTT who did not receive LTx. Further studies, including additional patients and focused LTx-related data, are needed to better characterize and delineate treatment options in this population.",
+   "journal": "Pediatric critical care medicine : a journal of the Society of Critical Care Medicine and the World Federation of Pediatric Intensive and Critical Care Societies",
+   "year": "2026",
+   "authors": [
+    "Ruth Riedl",
+    "Marc M Anders",
+    "Taylor L Olson",
+    "Pilar Anton-Martin",
+    "Peta M A Alexander",
+    "Erika R O'Neil"
+   ],
+   "doi": "10.1097/PCC.0000000000004019",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42987180/"
+  },
+  {
+   "pmid": "42987137",
+   "title": "The health of the New Zealand cardiac sonographer workforce: cardiac sonographer workforce survey.",
+   "abstract": "The aim of this study was to quantify the current state of the cardiac sonographer workforce within Health New Zealand - Te Whatu Ora. In 2024, the Cardiac Society of Australia and New Zealand surveyed all Health New Zealand - Te Whatu Ora echocardiography departments to collect workforce data on cardiac sonographers. Population data were obtained from Health New Zealand - Te Whatu Ora. A total of 109 Health New Zealand - Te Whatu Ora-employed cardiac sonographers were identified. Of these, 72 (70%) were female and 71 (70%) trained in New Zealand. Twenty percent were aged over 50 years, with experience ranging from trainees to 45 years in practice. Nationally, there was one cardiac sonographer per 49,000 people, compared with one per 14,000 in Australia. In two of the five districts with the highest proportions of M&#x101;ori and Pacific people, this ratio exceeded the national average: Northland (1:69,000) and Hawke's Bay (1:62,000). Workforce capacity remained largely unchanged over time, from 1.4 full-time equivalent (FTE) per 100,000 population in 2010 to 1.6 FTE per 100,000 in 2024, while vacancies increased from 3.2 FTE (4.5%) in 2013 to 15.9 FTE (19%) in 2024. New Zealand has substantially fewer cardiac sonographers than Australia, with little growth in workforce capacity and a fivefold increase in vacancies since 2013, raising concerns about workforce sustainability and equitable access to echocardiography services.",
+   "journal": "The New Zealand medical journal",
+   "year": "2026",
+   "authors": [
+    "Stacey Neilson",
+    "Ellen Woodcock",
+    "Selwyn P Wong",
+    "Martin K Stiles"
+   ],
+   "doi": "10.26635/6965.7663",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42987137/"
+  },
+  {
+   "pmid": "42987260",
+   "title": "Practical Recommendations for Implementing Remote Patient Monitoring for Patients Receiving Bispecific Antibodies for Multiple Myeloma.",
+   "abstract": "Bispecific antibodies are novel immunotherapies approved for the treatment of patients with relapsed or refractory multiple myeloma (MM). While these therapies induce deep and durable responses, they are associated with adverse events, such as cytokine release syndrome and immune effector cell-associated neurotoxicity syndrome, that require specific protocols for monitoring, prevention, and treatment. Due to the potential risk of cytokine release syndrome and immune effector cell-associated neurotoxicity syndrome, current US labeling recommends inpatient administration during step-up dosing of bispecific antibodies, which typically occurs in academic centers and can often restrict the number of patients that can be treated. The administration of bispecific antibodies in the outpatient and community setting can enhance the patient experience and reduce resource use, which is a barrier to the widespread uptake of these treatments. With bispecific antibodies being evaluated in earlier lines of therapy for MM, the broader use of these agents will underscore the need for more accessible and less resource-intensive options that ensure safe outpatient administration. In this Viewpoint, we aim to provide practical recommendations built from our own real-world perspectives and case examples for institutions seeking to implement remote patient monitoring (RPM) strategies to support the outpatient dosing of bispecific antibodies in patients with MM. We discuss how the use of RPM has the potential to improve adverse event detection and management, improve patient outcomes, and decrease resource use and costs. While specific approaches will vary based on the needs of each treatment center, our experiences suggest that RPM implementation can be safe and feasible for both academic and community practices.",
+   "journal": "JMIR cancer",
+   "year": "2026",
+   "authors": [
+    "Cindy Varga",
+    "Eric Schaefer"
+   ],
+   "doi": "10.2196/95949",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42987260/"
+  },
+  {
+   "pmid": "42987249",
+   "title": "HPV Vaccination Among Medicaid-Insured 9-12-year-Olds in Texas.",
+   "abstract": "IntroductionNational organizations support starting HPV vaccination at age 9 to increase initiation and completion of the vaccine series. This study aimed to assess the patterns of HPV vaccination initiation for Texas children who are enrolled in Medicaid.MethodsUsing a retrospective cohort design, we examined Texas 2021 Medicaid data for children ages 9-12 years who had not previously received an HPV vaccine and were continuously enrolled in 2020-2021 (n=513,949). We assessed risk of HPV vaccine initiation based on sex, race/ethnicity, county rural/urban status, and zip code level education. We assessed effect modification for age and HPV vaccination by race/ethnicity and rural/urban location. Analyses were conducted in SAS Enterprise version 7.1.ResultsFor initiation, 7.8% of 9-10-year-olds and 31.5% of 11-12-year-olds had received the HPV vaccine. Rates were higher for those residing in metro area (8.5% in 9-10 and 32.6% in 11-12) than in an urban area (3.0% in 9-10 and 24.6% in 11-12). Rates were highest among Hispanic youth (9.7% in 9-10 and 35.7% in 11-12). Effect modification was present for race/ethnicity and rural/urban status, respectively.ConclusionsChildren enrolled in Medicaid in Texas had lower initiation of HPV vaccination at ages 9-10. Different HPV vaccination patterns emerged by race/ethnicity (highest among Hispanic and Metropolitan, respectively) compared to children vaccinated at ages 11-12 years old. Additional research is needed to determine if differences in vaccination patterns may occur by prioritizing earlier age of HPV vaccination.",
+   "journal": "Cancer control : journal of the Moffitt Cancer Center",
+   "year": "2026",
+   "authors": [
+    "Erika L Thompson",
+    "Yong Shan",
+    "Jacqueline M Hirth",
+    "Miranda Cano",
+    "Yong-Fang Kuo"
+   ],
+   "doi": "10.1177/10732748261505753",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42987249/"
+  },
+  {
+   "pmid": "42987219",
+   "title": "IL-15/IL-15R&#x3b1;-targeted CRISPRa boosts NK cell effector function against HIV-infected cells.",
+   "abstract": "Like many other immune cell types, natural killer (NK) cells exhibit impaired functionality in people with HIV (PWH), limiting their ability to efficiently target and eliminate HIV-infected cells and contributing to the persistence of the HIV reservoir. Recently, adoptive NK cell therapy using activated or engineered NK cells has emerged as a promising immunotherapeutic strategy for cancer; however, its application to HIV remains in the early stages of development. NK cells primarily rely on interleukin-15 (IL-15) signaling for their development, survival, and maintenance, and dysregulated IL-15 signaling has been reported in PWH. We hypothesized that simultaneous enhancement of IL-15 and IL-15 receptor alpha (IL-15R&#x3b1;) expression would improve NK cell effector function and promote clearance of HIV reservoir. Utilizing dCas9-VPR-mediated multiplex CRISPR activation (CRISPRa), we successfully upregulated both IL-15 and IL-15R&#x3b1; expression in the same primary NK cells without altering the genomic sequence. CRISPRa-treated NK cells displayed increased IL-15 and IL-15R&#x3b1; transcript levels, as measured by RT-qPCR and significantly elevated surface expression of IL-15R&#x3b1;, as determined by flow cytometry. Enhanced IL-15/IL-15R&#x3b1; expression increased NK cell metabolic activity and cytotoxicity against target K562 cells, a chronic myelogenous leukemia cell line, indicating improved effector function. Furthermore, in co-culture experiments using an HIV-positive T-cell line, IL-15/IL-15R&#x3b1;-CRISPRa-treated NK cells demonstrated enhanced target cell elimination and increased secretion of IFN-&#x3b3;. Together, these findings provide a proof of concept that multiplex CRISPRa can be used to enhance NK cell function, representing a novel strategy to improve persistence and therapeutic efficacy in HIV and other disease settings.",
+   "journal": "Journal of leukocyte biology",
+   "year": "2026",
+   "authors": [
+    "Samuel Brancazio",
+    "Tricia H Burdo",
+    "Liang Shan",
+    "Rafal Kaminski"
+   ],
+   "doi": "10.1093/jleuko/qiag140",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42987219/"
+  },
+  {
+   "pmid": "42987071",
+   "title": "The political context of COVID-19 vaccination in Brazil: evidence from a nationwide population-based study.",
+   "abstract": "We examined the association between political context and COVID-19 vaccination in Brazil by linking individual vaccination data from 33,320 participants in the nationally representative EPICOVID-19 II study with municipal electoral data from the second round of the 2022 presidential election. Municipal political context was measured by the proportion of valid votes for the Partido Liberal (PL) presidential candidate. Complete COVID-19 vaccination, at the individual level, was defined as receipt of two or more doses. Higher municipal support for the PL candidate was correlated with lower vaccination coverage (r=-0.37). Each 10-percentage-point increase in PL vote share was associated with lower odds of complete vaccination (OR=0.76; 95%CI 0.72-0.81). A weaker association was also observed for influenza vaccination (OR=0.88; 95%CI 0.82-0.95). These findings suggest that political and informational environments may influence vaccination behaviors and should be considered in future public health communication strategies, particularly in politically polarized settings. Examinamos a associa&#xe7;&#xe3;o entre o contexto pol&#xed;tico e a vacina&#xe7;&#xe3;o contra a COVID-19 no Brasil, combinando dados individuais de vacina&#xe7;&#xe3;o de 33.320 participantes do estudo EPICOVID-19 II, representativo da popula&#xe7;&#xe3;o brasileira, com dados eleitorais municipais do segundo turno da elei&#xe7;&#xe3;o presidencial de 2022. O contexto pol&#xed;tico municipal foi mensurado pela propor&#xe7;&#xe3;o de votos v&#xe1;lidos recebidos pelo candidato &#xe0; Presid&#xea;ncia da Rep&#xfa;blica pelo Partido Liberal (PL). Considerou-se esquema vacinal completo contra a COVID-19 o recebimento de duas ou mais doses. Maior apoio municipal ao candidato do PL esteve correlacionado a menor cobertura vacinal (r=-0,37). A cada aumento de 10 pontos percentuais na propor&#xe7;&#xe3;o de votos no candidato do PL, observou-se menor chance de esquema vacinal completo (RO=0,76; IC95%: 0,72-0,81). Tamb&#xe9;m foi observada associa&#xe7;&#xe3;o, de menor magnitude, com a vacina&#xe7;&#xe3;o contra influenza (RO=0,88; IC95%: 0,82-0,95). Esses achados sugerem que os contextos pol&#xed;tico e informacional podem influenciar comportamentos relacionados &#xe0; vacina&#xe7;&#xe3;o e devem ser considerados em futuras estrat&#xe9;gias de comunica&#xe7;&#xe3;o em sa&#xfa;de p&#xfa;blica, especialmente em cen&#xe1;rios de elevada polariza&#xe7;&#xe3;o pol&#xed;tica. Examinamos la asociaci&#xf3;n entre el contexto pol&#xed;tico y la vacunaci&#xf3;n contra la COVID-19 en Brasil, combinando datos individuales de vacunaci&#xf3;n de 33.320 participantes del estudio EPICOVID-19 II, representativo de la poblaci&#xf3;n brasile&#xf1;a, con datos electorales municipales de la segunda vuelta de las elecciones presidenciales de 2022. El contexto pol&#xed;tico municipal se midi&#xf3; mediante la proporci&#xf3;n de votos v&#xe1;lidos obtenidos por el candidato presidencial del Partido Liberal (PL). Se defini&#xf3; como esquema completo de vacunaci&#xf3;n contra la COVID-19 haber recibido dos o m&#xe1;s dosis. Un mayor apoyo municipal al candidato del PL mostr&#xf3; correlaci&#xf3;n con una menor cobertura de vacunaci&#xf3;n (r=-0,37). Por cada aumento de 10 puntos porcentuales en la proporci&#xf3;n de votos al candidato del PL, se observ&#xf3; una menor chance de contar con un esquema de vacunaci&#xf3;n completo (OR=0,76; IC95%: 0,72-0,81). Tambi&#xe9;n se observ&#xf3; una asociaci&#xf3;n de menor magnitud con la vacunaci&#xf3;n contra la influenza (OR=0,88; IC95%: 0,82-0,95). Estos hallazgos sugieren que los contextos pol&#xed;tico e informativo pueden influir en los comportamientos relacionados con la vacunaci&#xf3;n y deber&#xed;an ser considerados en futuras estrategias de comunicaci&#xf3;n en salud p&#xfa;blica, especialmente en contextos de elevada polarizaci&#xf3;n pol&#xed;tica.",
+   "journal": "Ciencia & saude coletiva",
+   "year": "2026",
+   "authors": [
+    "Romina Buffarini",
+    "Cesar Gomes Victora",
+    "Mari&#xe2;ngela Freitas da Silveira",
+    "Pedro Curi Hallal"
+   ],
+   "doi": "10.1590/1413-812320263110.16232026",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42987071/"
+  },
+  {
+   "pmid": "42987056",
+   "title": "A practical machine learning approach to identifying adverse effects due to COVID-19 vaccines.",
+   "abstract": "This study aims to elucidate potential connections between various health-related factors and reported adverse effects (AEs) following COVID-19 vaccination. Using the \"snowball sampling\" method, we collected data from 301 Brazilians participants, both sexes, who underwent COVID-19 vaccination during SARS-CoV-2 pandemic. We also collected data from general health status, vaccine type received, sleep quality, physical activity levels, dietary habits, alcohol consumption, history of COVID-19 infection, and the use of chronic medications. Employing a decision tree regression (DTR) model, we sought to unravel intricate associations between lifestyle, health profile, and AEs attributed to COVID-19 vaccines. Our DTR analysis revealed that AEs tended to be lower in older individuals, with sleep quality further influencing this decrease (all P&#x2264;0.02). Intriguingly, individuals with suboptimal sleep efficiency were also users of medication, and notably, medication usage appeared to mitigate AEs in this subgroup (all P&#x2264;0.01). Here, we demonstrate that the DTR is a valuable model for investigating the AEs related to COVID-19 vaccines. In summary, our findings underscore the impact of age, sleep efficiency, and medication use for non-COVID-19-related conditions in explaining the observed AEs following COVID-19 vaccination.",
+   "journal": "Ciencia & saude coletiva",
+   "year": "2026",
+   "authors": [
+    "Elias de Fran&#xe7;a",
+    "Camila G Marques",
+    "Geovana S Foga&#xe7;a Leite",
+    "Ana Carolina O Magalh&#xe3;es",
+    "Erico C Caperuto",
+    "Ronaldo Vagner Thomatieli-Santos"
+   ],
+   "doi": "10.1590/1413-812320263110.03992024",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42987056/"
+  },
+  {
+   "pmid": "42987221",
+   "title": "The Impact of the Modified Kidney Donor Profile Index on the Nonuse of Kidneys From Donors With Hepatitis C.",
+   "abstract": "Donor hepatitis C virus (HCV) status was removed from the Kidney Donor Profile Index (KDPI) in October 2024 to better align the score with contemporary outcomes. Little is known about patterns in nonuse and utilization of HCV-exposed kidneys following this revision. We analyzed Organ Procurement and Transplantation Network data for 145&#x2009;425 deceased donor kidneys recovered for transplantation between January 2020 and June 2025. Donor HCV status was categorized as nucleic acid test (NAT)+, NAT-/antibody (Ab)+, or NAT-/Ab-. Multivariable logistic regression adjusted for donor characteristics was used to evaluate kidney nonuse. Multinomial logistic regression adjusted for donor and recipient characteristics was used to assess donor HCV status among transplanted kidneys. Through 2024, kidneys from both NAT+ and NAT-/Ab+ donors had higher adjusted odds of nonuse than NAT-/Ab- kidneys. In early 2025, NAT+ kidneys had their lowest observed adjusted odds ratio (aOR) of nonuse during the study period but remained significantly higher than NAT-/Ab- kidneys (aOR, 1.30; 95% confidence interval [CI], 1.01-1.67), whereas NAT-/Ab+ kidneys attenuated to nonsignificance (aOR, 1.19; 95% CI, 0.84-1.72). Despite increased candidate willingness to accept both NAT+ and NAT-/Ab+ kidneys from 2020 to 2025, the odds of transplanting NAT+ compared with NAT-/Ab- kidneys did not increase after the KDPI revision (aOR, 0.99; 95% CI, 0.88-1.12). However, transplanting NAT-/Ab+ kidneys increased (aOR, 1.27; 95% CI, 1.13-1.43). Removal of HCV from the KDPI equation has improved utilization of NAT-/Ab+ kidneys, whereas NAT+ kidneys continued to experience excess nonuse despite rising candidate willingness to accept HCV-exposed kidneys.",
+   "journal": "Transplantation",
+   "year": "2026",
+   "authors": [
+    "Dema Yaseen Alsabbagh",
+    "Massini Merzkani",
+    "Mengmeng Ji",
+    "Siobhan Sutcliffe",
+    "Mei Wang",
+    "Muhammad Ulusyar Khan",
+    "Abd Asslam Qannus",
+    "Krista L Lentine",
+    "Gaurav Gupta",
+    "Su-Hsin Chang",
+    "Tarek Alhamad"
+   ],
+   "doi": "10.1097/TP.0000000000005955",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42987221/"
+  },
+  {
+   "pmid": "42987008",
+   "title": "[RNA to RNA: Natural incorporation of exogenous sequences in mammalian positive-sense RNA virus genomes].",
+   "abstract": "The incorporation of exogenous sequences into viral genomes is well documented among many positive-sense single-stranded RNA viruses. This review provides an overview of exogenous inserts detected in mammalian viruses: accessory genes of coronavirus of cellular or other viral origin, cellular RNA insertions in the genomes of bovine viral diarrhoea virus and hepatitis E virus, and the sequence of a viral enzyme within enterovirus genomes, etc. Such inserts have also been described in defective viral genomes, which may contribute to their persistence within viral populations. The mechanisms underlying these insertions remain unclear: are they driven by viral poly-merase-mediated template switching, or do they arise from polymerase-independent events? The fact that genomes harbouring such inserts are rarely detected in nature does not imply that insertion events are uncommon; rather, most genomes containing inserts are likely subjected to counter-selection, for instance because their functions are disrupted or because they exceed the packaging constraints of the viral capsid. This likely explains why certain contexts (in vitro culture, replication in immunocompromised patients) favour their detection. Thus, genomes containing exogenous inserts may be more common than usually assumed. They could continuously contribute to the viral quasispecies, emerging at detectable frequencies only when an abrupt environmental shift reveals their selective advantage. For this reason, studies investigating the diversity of these atypical genomes, their frequency within the viral quasispecies, and the phenotypic traits they confer could deepen our understanding of the genetic plasticity of positive-sense RNA viruses and their capacity to adapt to new environments.",
+   "journal": "Virologie (Montrouge, France)",
+   "year": "2026",
+   "authors": [
+    "Nolwenn Jouvenet",
+    "S&#xe9;bastien Lhomme",
+    "Ma&#xeb;l Bessaud"
+   ],
+   "doi": "10.1684/vir.2026.1152",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42987008/"
+  },
+  {
+   "pmid": "42987006",
+   "title": "RNA to RNA: Natural incorporation of exogenous sequences in mammalian positive-sense RNA virus genomes.",
+   "abstract": "The incorporation of exogenous sequences into viral genomes is well documented among many positive-sense single-stranded RNA viruses. This review provides an overview of exogenous inserts detected in mammalian viruses: accessory genes of coronavirus of cellular or other viral origin, cellular RNA insertions in the genomes of bovine viral diarrhoea virus and hepatitis E virus, the sequence of a viral enzyme within enterovirus genomes, etc. Such inserts have also been described in defective viral genomes, which may contribute to their persistence within viral populations. The mechanisms underlying these insertions remain unclear: are they driven by viral polymerase-mediated template switching, or do they arise from polymerase-independent events? The fact that genomes harbouring such inserts are rarely detected in nature does not prove that insertion events are uncommon; rather, most genomes containing inserts are likely subjected to counter-selection, for instance because their functions are disrupted or because they exceed the packaging constraints of the viral capsid. This likely explains why certain contexts (in vitro culture, replication in immunocompromised patients) favour their detection. Thus, genomes containing exogenous inserts may be more common than usually assumed. They could continuously contribute to the viral quasispecies, emerging at detectable frequencies only when an abrupt environmental shift reveals their selective advantage. For this reason, studies investigating the diversity of these atypical genomes, their frequency within the viral quasispecies, and the phenotypic traits they confer could deepen our understanding of the genetic plasticity of positive-sense RNA viruses and their capacity to adapt to new environments.",
+   "journal": "Virologie (Montrouge, France)",
+   "year": "2026",
+   "authors": [
+    "Nolwenn Jouvenet",
+    "S&#xe9;bastien Lhomme",
+    "Ma&#xeb;l Bessaud"
+   ],
+   "doi": "10.1684/vir.2026.1162",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42987006/"
+  },
+  {
+   "pmid": "42986898",
+   "title": "Comparing attenuation parameter and liver stiffness measurement using Hepatus and Fibroscan for the evaluation of steatosis and fibrosis in patients with chronic liver disease: A prospective study.",
+   "abstract": "There are limited studies comparing Hepatus (HP), a novel visual transient elastography device with Fibroscan (FS), one of the most studied and validated non-invasive tests in the field of hepatology. HP and FS examinations were performed on patients with chronic liver disease by two operators, healthcare providers from different background, twice on each patient, at two different time points, independent of each other. The data for 158 patients with 1264 examinations was analysed. There was moderate to strong correlation for attenuation parameter (Spearman's rho 0.67, p&#x2009; S0,&#x2009;>&#x2009;S1 and >S2 and substantial agreement for diagnosis of unlikely and likely compensated advanced chronic liver disease. The interquartile range (IQR) for attenuation parameter and IQR/median for LSM were lower for HP compared with FS (12 dB/m vs 33 dB/m, p&#x2009;<&#x2009;0.001, and 13% vs 14%, p&#x2009;<&#x2009;0.001, respectively). The intra- and inter-observer reliability using both devices were good to excellent with intraclass correlation coefficients of 0.86-0.97. Subgroup analyses demonstrated that agreement between HP and FS was maintained across obese and non-obese patients as well as patients with viral hepatitis and metabolic dysfunction-associated steatotic liver disease. HP had shorter examination time (43 s vs 62 s, p&#x2009;<&#x2009;0.001) and fewer invalid measurements (0 vs 1, p&#x2009;<&#x2009;0.001). HP demonstrated good comparability and reproducibility with FS for the assessment of hepatic steatosis and fibrosis, with shorter examination time and fewer invalid measurements.",
+   "journal": "PloS one",
+   "year": "2026",
+   "authors": [
+    "Cain-En Lim",
+    "Ram Prasad Sinnanaidu",
+    "Xin Tong Ng",
+    "Jin Ying Teh",
+    "Farahani Khamis",
+    "Anushya Vijayananthan",
+    "Wah-Kheong Chan"
+   ],
+   "doi": "10.1371/journal.pone.0359831",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42986898/"
+  },
+  {
+   "pmid": "42986775",
+   "title": "Human Pegivirus Type 1 Coinfections: Epidemiology, Heterogeneity and Clinical Implications.",
+   "abstract": "This narrative review explores the complex landscape of coinfections involving Human Pegivirus Type 1 (HPgV), a member of the Hepaciviridae family previously known as GB virus type C or hepatitis G virus. Structurally similar to hepatitis C virus (HCV), HPgV is lymphotropic and while viraemia in healthy donors is asymptomatic, it has been associated with the onset of several non-Hodgkin lymphoma subtypes. We begin with an overview of HPgV's genomic features, classification, transmission routes and natural history, including spontaneous clearance and post-infection anti-E2 antibody development. As of 03 February 2026, a PubMed search yielded 346 relevant studies from which data were synthesized, reporting HPgV coinfection across human immunodeficiency virus (HIV), HCV, hepatitis B virus and other viral diseases - highlighting genotype distributions, geographic variability and population-specific patterns. In summary, HPgV shows a reproducible signal in HIV coinfections, suggesting potential therapeutic benefits, while its impact on chronic hepatitis, acute infections and lymphoma risk remains preliminary and requires further investigation. This review highlights the need for rigorous prospective studies with standardized protocols to clarify HPgV's true impact on human health and its potential for therapeutic application.",
+   "journal": "The Journal of general virology",
+   "year": "2026",
+   "authors": [
+    "Mathieu Garand",
+    "Ching Ching Zhang",
+    "Grace Guo",
+    "Ting Zhong",
+    "Jack T Stapleton",
+    "Pirooz Eghtesady"
+   ],
+   "doi": "10.1099/jgv.0.002365",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42986775/"
+  },
+  {
+   "pmid": "42986959",
+   "title": "Tumor metastasis co-opts liver hematopoiesis to promote immunosuppression.",
+   "abstract": "Cancer-associated hematopoietic abnormalities contribute to systemic immunosuppression. However, whether tumors can initiate localized extramedullary hematopoiesis to suppress antitumor immunity remains unclear. In this study, we identify a distinct form of hepatic hematopoiesis driven by liver metastasis-associated hematopoietic stem cells (LM-HSCs). Liver metastases establish ectopic periportal hematopoietic niches that recruit bone marrow HSCs through Kupffer cell-dependent C-C motif chemokine receptor 1 (CCR1) signaling. Although LM-HSCs retain self-renewal and multipotency, cAMP response element-binding protein (CREB) activation skews their differentiation toward the myeloid lineage, particularly annexin A1-positive (ANXA1 + ) immature neutrophils. These neutrophils produce glucocorticoids, which activate glucocorticoid receptor signaling in a paracrine manner and induce immune checkpoint receptor expression and functional anergy in CD8 + T and natural killer cells. Collectively, these findings suggest that liver metastases reprograms hepatic hematopoiesis to promote immunosuppression.",
+   "journal": "Science (New York, N.Y.)",
+   "year": "2026",
+   "authors": [
+    "Qiang Pan",
+    "Xuege Wang",
+    "Yaqi Li",
+    "Ni Li",
+    "Ying Han",
+    "Guoying Zhang",
+    "Jiacheng Guo",
+    "Le Zhang",
+    "Aoyuan Cui",
+    "Yongqiang Gu",
+    "Yannan Lian",
+    "Wei Zhang",
+    "Naiheng Lin",
+    "Beitao Xu",
+    "Zige Jin",
+    "Xin Zeng",
+    "Lan Wang",
+    "Yu Li",
+    "Junjie Peng",
+    "Xiaoming Wang",
+    "Zhengquan Yu",
+    "Gui-Hua Wang",
+    "Wei Lu",
+    "Jun Qin"
+   ],
+   "doi": "10.1126/science.aea3046",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42986959/"
+  },
+  {
+   "pmid": "42986891",
+   "title": "Genomic ascertainment refines the population prevalence and phenotype associations of germline TERT variants.",
+   "abstract": "Individuals with deleterious germline variants in telomerase (encoded by TERT) are at high risk of pulmonary fibrosis (PF), liver disease (LD), bone marrow failure, head/neck squamous cell carcinoma (HNSCC), and other complications. Clinically ascertained cohorts are subject to biased ascertainment of affected individuals and families with early onset, complex disease. This study used genomic ascertainment to determine prevalence of deleterious TERT variants and the associated risks of telomere biology disorder (TBD) phenotypes. TERT variants were extracted from exome sequencing data in UK Biobank (UKB, 469,377 exomes) and Geisinger-Regeneron DiscovEHR collaboration (DiscovEHR, 170,503 exomes). Cases were individuals with heterozygous deleterious TERT variants classified per modified ACMG/AMP criteria. Controls excluded rare, exonic, and splice site TERT variants. Electronic health records were assessed for TBD-related ICD10 codes. Case-control comparisons were done separately for UKB and DiscovEHR, accounting for smoking, alcohol, BMI, sex, genetic ancestry, and birthyear. There were 64 deleterious TERT variants in 203 UKB participants and 32 in 138 DiscovEHR participants. Prevalence estimates were 1:2,312 in UKB and 1:1,235 in DiscovEHR. Risk of PF was significantly increased for TERT heterozygotes compared with controls (UKB: odds ratio [OR] 10.9 95% confidence interval [CI]: 6.11-19.45, p&#x2009;<&#x2009;0.001; DiscovEHR: OR 6.64, 95% CI: 3.31-13.3, p&#x2009;<&#x2009;0.001). Deleterious TERT variants were also associated with higher risk of LD (OR 2.4, 95% CI:1.25-4.59, p&#x2009;=&#x2009;0.038) and HNSCC (OR 5.75, 95% CI: 2.36-14.02, p&#x2009;=&#x2009;0.001) in UKB but not in DiscovEHR. Rare deleterious TERT variants were present in 0.04 to 0.08% of the populations studied. Genomic ascertainment shows a predominance of pulmonary phenotypes, with PF associated with deleterious TERT variants in both cohorts. Associations with LD and HNSCC were observed only in UKB, possibly reflecting cohort differences including healthy volunteer bias. These findings illustrate the clinical importance of genetic diagnosis, and need for TBD-specific clinical trials.",
+   "journal": "PLoS genetics",
+   "year": "2026",
+   "authors": [
+    "Marena R Niewisch",
+    "Sherifa A Akinniyi",
+    "Kelvin C de Andrade",
+    "Jung Kim",
+    "Logan P Zeigler",
+    "Jeremy S Haley",
+    "Gretchen Urban",
+    "David J Carey",
+    "Douglas R Stewart",
+    "Sharon A Savage"
+   ],
+   "doi": "10.1371/journal.pgen.1012352",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42986891/"
+  },
+  {
+   "pmid": "42986544",
+   "title": "Prognostic Value of the Preoperative Systemic Immune-Inflammation Index for Overall Survival After Surgical Resection for Gallbladder Cancer: A Systematic Review and Meta-Analysis.",
+   "abstract": "The systemic immune-inflammation index (SII) reflects the balance between tumor-promoting inflammation and antitumor immunity, but its prognostic role in gallbladder cancer (GBC) remains uncertain. We aimed to evaluate the prognostic value of preoperative SII in patients undergoing resection for GBC. This systematic review and meta-analysis was reported in accordance with PRISMA 2020. PubMed, Embase, Web of Science, and Scopus were searched from inception through November 1, 2025. For the primary meta-analysis, the most comprehensively adjusted hazard ratio (HR) was selected when available; a directly reported univariable HR was used when no adjusted SII-specific estimate was reported. Sensitivity and supplementary analyses pooled multivariable-adjusted and univariable HRs separately. Log-transformed HRs were pooled using random-effects models with restricted maximum likelihood estimation. Seven retrospective cohorts comprising 2,153 patients were included in the systematic review, of which six studies comprising 2,067 patients contributed directly comparable high-versus-low HRs to the primary meta-analysis. Higher preoperative SII was associated with poorer overall survival (OS) (pooled HR 2.06; 95% CI 1.70-2.51; I&#xb2; = 3.6%). The association remained significant in the sensitivity analysis restricted to five studies reporting multivariable-adjusted HRs (pooled adjusted HR 2.10; 95% CI 1.39-3.20; I&#xb2; = 22.0%). The supplementary univariable analysis also demonstrated an association with poorer OS (pooled HR 3.11; 95% CI 1.68-5.75; I&#xb2; = 75.2%). One study reporting only a continuous per-unit HR was synthesized narratively. Higher preoperative SII is associated with poorer OS after resection for GBC. Its incremental value for clinical risk stratification requires prospective evaluation and independent external validation. PROSPERO CRD420251185808.",
+   "journal": "Journal of gastrointestinal cancer",
+   "year": "2026",
+   "authors": [
+    "Mohammadsadra Shamohammadi",
+    "Armaghan Abbasi Garavand",
+    "Kimia Jalalian Rad",
+    "Seyedeh Mohadese Mosavi Mirkalaie",
+    "Mansour Bahardoust",
+    "Amirarsalan Varmahziar"
+   ],
+   "doi": "10.1007/s12029-026-01626-4",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42986544/"
+  },
+  {
+   "pmid": "42986537",
+   "title": "Locoregional Approaches for Breast Cancer Liver Metastases: A Review.",
+   "abstract": "The liver is involved in 30%-50% of patients with metastatic breast cancer and, when it becomes a dominant site of disease, portends survival inferior to bone- or soft-tissue-predominant metastasis. Systemic therapy-endocrine, HER2-directed, cytotoxic, and antibody-drug conjugates-remains the backbone of care for metastatic breast cancer. Most (>&#x2009;95%) patients with breast cancer liver metastases (BCLM) harbor extrahepatic disease. Thus, the role of locoregional approaches for BCLM is limited. Moreover, given the heterogeneity of retrospective studies, selection bias, and lack of high level evidence, the survival benefit of locoregional therapies for BCLM remains inconclusive. On the other hand, locoregional therapy may be valuable for durable local control, symptom palliation, and, in highly selected oligometastatic patients, potentially prolonged disease-free intervals. This review surveys the four principal locoregional modalities for BCLM: surgical resection, ablation, transarterial therapies (chemoembolization and yttrium-90 radioembolization), and stereotactic body radiotherapy. Across all modalities the evidence is dominated by retrospective and case-matched series. Case-matched surgical cohorts report 5-year overall survival rates of 50-69% in rigorously selected patients, yet a controlled comparison found no survival advantage over medical therapy. Modality choice should be multidisciplinary and biology-informed, weighing molecular subtype, hepatic tumor burden, extrahepatic disease, and response to systemic therapy. Further prospective studies are needed to define the optimal role and sequencing of these interventions.",
+   "journal": "Journal of gastrointestinal cancer",
+   "year": "2026",
+   "authors": [
+    "Kristen M Quinn",
+    "Yun Shin Chun"
+   ],
+   "doi": "10.1007/s12029-026-01618-4",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42986537/"
+  },
+  {
+   "pmid": "42986300",
+   "title": "Northward shift in cancer mortality inequality across Japanese prefectures, 1995-2023, a nationwide ecological study.",
+   "abstract": "Cancer has been the leading cause of death in Japan since the 1980s, with known variation across prefectures, but evidence on how this pattern has changed over time is limited. We analysed age-standardized cancer mortality across all 47 Japanese prefectures in 1995 and 2023 using vital statistics data. For each prefecture, excess mortality was calculated relative to a leave-one-out national reference and standardized to the 1995 national population. Excess mortality was decomposed by cancer site. We also compared prefectures' age-standardized mortality rates (ASMRs) between the two years. All-cancer ASMR declined in every prefecture. In 2023, excess mortality ranged from 32&#xb7;6 per 100&#x2009;000 (95% CI 26&#xb7;8 to 38&#xb7;4) in Aomori to -22&#xb7;4 (-26&#xb7;1 to -18&#xb7;6) in Nagano, a gap of 55&#xb7;0 deaths per 100&#x2009;000, with 30 prefectures differing significantly from the national reference. The geographic pattern shifted between 1995 and 2023. In 1995, excess mortality was concentrated in western Japan, particularly Osaka and Fukuoka, and was largely driven by liver cancer. By 2023, excess mortality had shifted to northern prefectures, led by Aomori and Hokkaido, and was distributed across multiple cancer types, including colorectal, lung, and stomach cancer. The overall gap narrowed from 69&#xb7;6 to 55&#xb7;0 per 100&#x2009;000. Geographic inequality in cancer mortality persisted in Japan, but its pattern changed substantially. The findings suggest that national cancer control should monitor subnational inequality directly and support regionally targeted strategies.",
+   "journal": "Japanese journal of clinical oncology",
+   "year": "2026",
+   "authors": [
+    "Hasan Jamil",
+    "Aminu Kende Abubakar",
+    "Hirokazu Tanaka",
+    "Kota Katanoda"
+   ],
+   "doi": "10.1093/jjco/hyag190",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42986300/"
+  }
+ ],
+ "lastUpdated": "2026-11-06T03:19:33.954147+00:00",
  "fields": [
   "cardiology",
   "immunotherapy",

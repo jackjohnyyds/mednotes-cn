@@ -1,6 +1,70 @@
 {
  "items": [
   {
+   "name": "黑球",
+   "type": "电影",
+   "rating": "8.7",
+   "comment": "影片以西班牙传奇同志诗人费德里戈·加西亚·洛尔卡一份仅存四页的未竟剧本《黑球》为锚点，用160分钟精妙地编织了一幅叙事三…",
+   "doubanLink": "https://movie.douban.com/subject/37215318/",
+   "source": "https://movie.douban.com/subject/37215318/"
+  },
+  {
+   "name": "可能的爱",
+   "type": "电影",
+   "rating": "8.6",
+   "comment": "四位陌生人的命运偶然交织，由此引发了错综复杂的情感纠葛，这些纠葛不仅挑战了他们现有的关系，更迫使他们直面关于爱情与承诺的…",
+   "doubanLink": "https://movie.douban.com/subject/36847425/",
+   "source": "https://movie.douban.com/subject/36847425/"
+  },
+  {
+   "name": "每时每刻",
+   "type": "电影",
+   "rating": "7.7",
+   "comment": "一场悲剧让一位母亲、她的女儿和一名少年走到了一起。这三个原本毫无交集的人在自责与宽恕的纠结中，踏上了前往特内里费岛的旅程…",
+   "doubanLink": "https://movie.douban.com/subject/36159749/",
+   "source": "https://movie.douban.com/subject/36159749/"
+  },
+  {
+   "name": "突如其来",
+   "type": "电影",
+   "rating": "7.7",
+   "comment": "玛丽-露在巴黎附近经营一家养老院，致力于提供更人性化的老年护理。她与一位身患晚期癌症的日本戏剧导演之间的友谊，进一步坚定…",
+   "doubanLink": "https://movie.douban.com/subject/37342630/",
+   "source": "https://movie.douban.com/subject/37342630/"
+  },
+  {
+   "name": "茫然女王",
+   "type": "电影",
+   "rating": "7.9",
+   "comment": "随着痴呆症逐渐侵蚀这位女性表达内心世界的能力，她的丈夫和女儿竭力为她着想，在爱与照料、保护及自主权之间那条脆弱的界线上艰…",
+   "doubanLink": "https://movie.douban.com/subject/35765242/",
+   "source": "https://movie.douban.com/subject/35765242/"
+  },
+  {
+   "name": "杯雪·一战成名",
+   "type": "电影",
+   "rating": "7.5",
+   "comment": "改编自作家小椴经典作品《杯雪·夜雨打金荷》，以小人物逆袭博弈呈现权谋与侠义碰撞，以粗砾美学打造南宋江湖风貌。</p><p…",
+   "doubanLink": "https://movie.douban.com/subject/37516455/",
+   "source": "https://movie.douban.com/subject/37516455/"
+  },
+  {
+   "name": "逃出布迪秀",
+   "type": "电影",
+   "rating": "7.4",
+   "comment": "一个勇敢的女孩和她的朋友们意外受困，他们必须想尽办法从一档诡异、恐怖的儿童电视节目中逃出去。</p><p><img sr…",
+   "doubanLink": "https://movie.douban.com/subject/37446297/",
+   "source": "https://movie.douban.com/subject/37446297/"
+  },
+  {
+   "name": "害群之马",
+   "type": "电影",
+   "rating": "7.5",
+   "comment": "一名处境艰难的小学教师，在一名学生受伤后，开始做出一些令人疑惑的决定。</p><p><img src=\"https://…",
+   "doubanLink": "https://movie.douban.com/subject/36623663/",
+   "source": "https://movie.douban.com/subject/36623663/"
+  },
+  {
    "name": "东德童话",
    "type": "书籍",
    "rating": "8.2",
@@ -27,7 +91,7 @@
   {
    "name": "世界诞生之日",
    "type": "书籍",
-   "rating": "9.1",
+   "rating": "9.3",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38552193/",
    "source": "https://book.douban.com/subject/38552193/"
@@ -65,5 +129,5 @@
    "source": "https://book.douban.com/subject/38553964/"
   }
  ],
- "lastUpdated": "2026-11-06T03:19:46.249923+00:00"
+ "lastUpdated": "2026-11-06T10:08:27.732445+00:00"
 }

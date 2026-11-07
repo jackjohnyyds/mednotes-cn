@@ -11,7 +11,7 @@
   {
    "name": "可能的爱",
    "type": "电影",
-   "rating": "8.6",
+   "rating": "8.7",
    "comment": "四位陌生人的命运偶然交织，由此引发了错综复杂的情感纠葛，这些纠葛不仅挑战了他们现有的关系，更迫使他们直面关于爱情与承诺的…",
    "doubanLink": "https://movie.douban.com/subject/36847425/",
    "source": "https://movie.douban.com/subject/36847425/"
@@ -19,7 +19,7 @@
   {
    "name": "每时每刻",
    "type": "电影",
-   "rating": "7.7",
+   "rating": "7.6",
    "comment": "一场悲剧让一位母亲、她的女儿和一名少年走到了一起。这三个原本毫无交集的人在自责与宽恕的纠结中，踏上了前往特内里费岛的旅程…",
    "doubanLink": "https://movie.douban.com/subject/36159749/",
    "source": "https://movie.douban.com/subject/36159749/"
@@ -65,69 +65,69 @@
    "source": "https://movie.douban.com/subject/36623663/"
   },
   {
-   "name": "东德童话",
+   "name": "相对于国家的社会",
    "type": "书籍",
    "rating": "8.2",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38622753/",
-   "source": "https://book.douban.com/subject/38622753/"
+   "doubanLink": "https://book.douban.com/subject/38395837/",
+   "source": "https://book.douban.com/subject/38395837/"
   },
   {
-   "name": "经学导论",
+   "name": "共鸣",
    "type": "书籍",
-   "rating": "9.7",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38521447/",
-   "source": "https://book.douban.com/subject/38521447/"
+   "rating": "8.2",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38490032/",
+   "source": "https://book.douban.com/subject/38490032/"
   },
   {
-   "name": "民族志拓边",
+   "name": "人间谜底",
+   "type": "书籍",
+   "rating": "8.7",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38501247/",
+   "source": "https://book.douban.com/subject/38501247/"
+  },
+  {
+   "name": "什么都不是的人才是快乐的",
+   "type": "书籍",
+   "rating": "8.4",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38635468/",
+   "source": "https://book.douban.com/subject/38635468/"
+  },
+  {
+   "name": "空地",
+   "type": "书籍",
+   "rating": "8.4",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38613720/",
+   "source": "https://book.douban.com/subject/38613720/"
+  },
+  {
+   "name": "漂浮",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/37488725/",
+   "source": "https://book.douban.com/subject/37488725/"
+  },
+  {
+   "name": "哲学如何让人获得快乐",
+   "type": "书籍",
+   "rating": "7.8",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38465261/",
+   "source": "https://book.douban.com/subject/38465261/"
+  },
+  {
+   "name": "布莱希特戏剧选",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38425208/",
-   "source": "https://book.douban.com/subject/38425208/"
-  },
-  {
-   "name": "世界诞生之日",
-   "type": "书籍",
-   "rating": "9.3",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38552193/",
-   "source": "https://book.douban.com/subject/38552193/"
-  },
-  {
-   "name": "生于女人",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38617182/",
-   "source": "https://book.douban.com/subject/38617182/"
-  },
-  {
-   "name": "森林人",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/39004005/",
-   "source": "https://book.douban.com/subject/39004005/"
-  },
-  {
-   "name": "日瓦戈医生",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38414854/",
-   "source": "https://book.douban.com/subject/38414854/"
-  },
-  {
-   "name": "欧亚用兵之道",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38553964/",
-   "source": "https://book.douban.com/subject/38553964/"
+   "doubanLink": "https://book.douban.com/subject/38553181/",
+   "source": "https://book.douban.com/subject/38553181/"
   }
  ],
- "lastUpdated": "2026-11-06T10:08:27.732445+00:00"
+ "lastUpdated": "2026-11-07T03:17:17.071050+00:00"
 }

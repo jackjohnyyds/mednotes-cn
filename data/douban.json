@@ -51,7 +51,7 @@
   {
    "name": "逃出布迪秀",
    "type": "电影",
-   "rating": "7.4",
+   "rating": "7.3",
    "comment": "一个勇敢的女孩和她的朋友们意外受困，他们必须想尽办法从一档诡异、恐怖的儿童电视节目中逃出去。</p><p><img sr…",
    "doubanLink": "https://movie.douban.com/subject/37446297/",
    "source": "https://movie.douban.com/subject/37446297/"
@@ -65,54 +65,6 @@
    "source": "https://movie.douban.com/subject/36623663/"
   },
   {
-   "name": "开山令",
-   "type": "书籍",
-   "rating": "7.2",
-   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38631100/",
-   "source": "https://book.douban.com/subject/38631100/"
-  },
-  {
-   "name": "拼凑小说",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37455864/",
-   "source": "https://book.douban.com/subject/37455864/"
-  },
-  {
-   "name": "凝神时刻",
-   "type": "书籍",
-   "rating": "8.7",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38593398/",
-   "source": "https://book.douban.com/subject/38593398/"
-  },
-  {
-   "name": "性冲突的演化",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38926918/",
-   "source": "https://book.douban.com/subject/38926918/"
-  },
-  {
-   "name": "遗忘谷",
-   "type": "书籍",
-   "rating": "8.7",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38634114/",
-   "source": "https://book.douban.com/subject/38634114/"
-  },
-  {
-   "name": "一个梦境旅行家的笔记",
-   "type": "书籍",
-   "rating": "8",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38451628/",
-   "source": "https://book.douban.com/subject/38451628/"
-  },
-  {
    "name": "观看之道",
    "type": "书籍",
    "rating": "9",
@@ -121,13 +73,61 @@
    "source": "https://book.douban.com/subject/37425210/"
   },
   {
-   "name": "西方修辞学",
+   "name": "我的老台北",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38594734/",
+   "source": "https://book.douban.com/subject/38594734/"
+  },
+  {
+   "name": "李光耀回憶錄1965～2000",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s2…",
+   "doubanLink": "https://book.douban.com/subject/1419544/",
+   "source": "https://book.douban.com/subject/1419544/"
+  },
+  {
+   "name": "52件0门槛的治愈小事",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38606325/",
-   "source": "https://book.douban.com/subject/38606325/"
+   "doubanLink": "https://book.douban.com/subject/38926296/",
+   "source": "https://book.douban.com/subject/38926296/"
+  },
+  {
+   "name": "Traumatized",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38426960/",
+   "source": "https://book.douban.com/subject/38426960/"
+  },
+  {
+   "name": "四季花传书",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38672439/",
+   "source": "https://book.douban.com/subject/38672439/"
+  },
+  {
+   "name": "棒铃全书",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38615170/",
+   "source": "https://book.douban.com/subject/38615170/"
+  },
+  {
+   "name": "顺从之路",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38548812/",
+   "source": "https://book.douban.com/subject/38548812/"
   }
  ],
- "lastUpdated": "2026-11-08T09:42:51.024952+00:00"
+ "lastUpdated": "2026-11-09T03:18:10.490150+00:00"
 }

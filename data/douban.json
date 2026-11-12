@@ -19,7 +19,7 @@
   {
    "name": "每时每刻",
    "type": "电影",
-   "rating": "7.5",
+   "rating": "7.4",
    "comment": "一场悲剧让一位母亲、她的女儿和一名少年走到了一起。这三个原本毫无交集的人在自责与宽恕的纠结中，踏上了前往特内里费岛的旅程…",
    "doubanLink": "https://movie.douban.com/subject/36159749/",
    "source": "https://movie.douban.com/subject/36159749/"
@@ -67,7 +67,7 @@
   {
    "name": "一块滚石",
    "type": "书籍",
-   "rating": "8.9",
+   "rating": "8.8",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38651064/",
    "source": "https://book.douban.com/subject/38651064/"
@@ -129,5 +129,5 @@
    "source": "https://book.douban.com/subject/38552212/"
   }
  ],
- "lastUpdated": "2026-11-12T03:17:06.204563+00:00"
+ "lastUpdated": "2026-11-12T10:28:27.348174+00:00"
 }

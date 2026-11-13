@@ -3,14 +3,14 @@
  */
 import {
   $, $$, esc, toast, dateKey, uid, openModal, closeModal, firstSentence, fetchViaProxy, dailyPick,
-} from '../utils.js?v=20261010a';
+} from '../utils.js?v=20261113b';
 import {
   store, getNotes, saveNote, deleteNote,
   getLabs, saveLab, deleteLab,
   getBooks, saveBook, deleteBook,
   getFavPapers, addManualPaperFav, removeFavPaper,
   getLitFavs, addLitFav, removeLitFav,
-} from '../storage.js?v=20261010a';
+} from '../storage.js?v=20261113b';
 
 /* ================= 豆瓣书影音推荐（自动生成，点击直达豆瓣详情页） ================= */
 let recommendCache = [];
@@ -450,6 +450,7 @@ function initLiterature() {
   });
   loadLiterature();
   loadAllhistory();
+  loadZgbk();
 }
 
 /* ================= 全历史热帖（全历史网站 5 条历史帖子，点击跳转原帖） ================= */
@@ -474,6 +475,37 @@ async function loadAllhistory() {
       <a class="lit-item" href="${esc(it.url)}" target="_blank" rel="noopener noreferrer">
         <div class="lit-name">${esc(it.title)}</div>
         <div class="lit-meta"><span class="chip">${esc(it.tag || '全历史')}</span><span style="opacity:0.6;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${esc(it.summary || '')}</span><span style="opacity:0.6;">阅读原文 ↗</span></div>
+      </a>`).join('');
+  }
+  if (wrap) wrap.innerHTML = '';
+}
+
+/* ================= 百科精选（中国大百科全书 zgbk.com，每日 10 条） ================= */
+const FALLBACK_ZGBK = [
+  { title: '《中国大百科全书》第三版', en: 'Encyclopedia of China (Third Edition)', tag: '百科', summary: '国家重大文化工程，网络版条目持续更新', url: 'https://www.zgbk.com/' },
+];
+
+async function loadZgbk() {
+  const wrap = $('#lit-zgbk-status');
+  if (wrap) wrap.innerHTML = '<div class="spin" style="margin:16px auto;"></div>';
+  let items = FALLBACK_ZGBK;
+  try {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), 12000);
+    try {
+      const res = await fetch(`data/zgbk.json?v=${new Date().toDateString()}`, { signal: ctrl.signal });
+      if (res.ok) {
+        const data = await res.json();
+        if (data && Array.isArray(data.items) && data.items.length) items = data.items;
+      }
+    } finally { clearTimeout(timer); }
+  } catch { /* 用兜底 */ }
+  const box = $('#lit-zgbk-list');
+  if (box) {
+    box.innerHTML = items.slice(0, 10).map((it) => `
+      <a class="lit-item" href="${esc(it.url)}" target="_blank" rel="noopener noreferrer">
+        <div class="lit-name">${esc(it.title)}</div>
+        <div class="lit-meta"><span class="chip">${esc(it.tag || '百科')}</span><span style="opacity:0.6;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${esc(it.summary || it.en || '')}</span><span style="opacity:0.6;">阅读条目 ↗</span></div>
       </a>`).join('');
   }
   if (wrap) wrap.innerHTML = '';
@@ -658,4 +690,5 @@ export function onTabSpace() {
   renderLabs();
   renderBooks();
   renderLiterature();
+  loadZgbk();
 }

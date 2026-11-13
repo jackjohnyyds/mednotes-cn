@@ -16,6 +16,7 @@ import urllib.parse
 import html
 import datetime
 import sys
+import subprocess
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 UA = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36 MedNotes-Daily'}
@@ -639,21 +640,92 @@ def gen_allhistory():
     data['lastUpdated'] = datetime.datetime.now(datetime.timezone.utc).isoformat()
     return data
 
+# ===== 中国大百科全书（www.zgbk.com）「发现知识」每日 10 条 =====
+# 站点详情页 https://www.zgbk.com/ecph/words?SiteID=1&ID={ID}&SubID={SubjectID}（Wiki 词条）
+# 或 https://www.zgbk.com/ecph/content/show?ID={ID}；列表走官方前端同款接口 KnowledgeManager/getKnowledgeList。
+ZGBK_API = ('https://www.zgbk.com/ecph/KnowledgeManager/getKnowledgeList'
+            '?alias=zyb&pageIndex=%d&pageSize=10')
+ZGBK_PAGES = 3  # 接口 total=31 页，取前三页按日期轮换，保证每天 10 条且内容不同
+ZGBK_HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Accept': 'application/json, text/plain, */*',
+    'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+    'Referer': 'https://www.zgbk.com/',
+}
+
+def zgbk_item_url(it):
+    if str(it.get('BizType') or '') == 'Wiki':
+        return 'https://www.zgbk.com/ecph/words?SiteID=1&ID=%s&SubID=%s' % (it.get('ID', ''), it.get('SubjectID') or '')
+    return 'https://www.zgbk.com/ecph/content/show?ID=%s' % it.get('ID', '')
+
+def fetch_with_headers(url, headers, timeout=TIMEOUT):
+    req = urllib.request.Request(url, headers=headers)
+    with urllib.request.urlopen(req, timeout=timeout, context=ctx) as r:
+        return r.read().decode('utf-8', 'ignore')
+
+def fetch_via_curl(url, timeout=TIMEOUT):
+    """WAF 对 urllib 请求特征敏感时，用系统 curl 兜底同一 URL。"""
+    try:
+        out = subprocess.run(['curl', '-sS', '--max-time', str(timeout + 5),
+                              '-A', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36',
+                              url], capture_output=True, timeout=timeout + 10)
+        if out.returncode == 0 and out.stdout:
+            return out.stdout.decode('utf-8', 'ignore')
+    except Exception:
+        pass
+    return ''
+
+def gen_zgbk():
+    day = datetime.datetime.now(datetime.timezone.utc).timetuple().tm_yday
+    last_err = None
+    for attempt in range(3):
+        try:
+            href = ZGBK_API % (day % ZGBK_PAGES)
+            try:
+                raw = fetch_with_headers(href, ZGBK_HEADERS, timeout=TIMEOUT)
+            except Exception:
+                raw = fetch_via_curl(href)
+            data = json.loads(raw)
+            lst = data.get('datalist') or []
+            items = []
+            for it in lst:
+                name = clean_text(str(it.get('Name') or ''))
+                if not name:
+                    continue
+                en = clean_text(str(it.get('EnName') or '')).replace(';', ' / ')
+                subject = clean_text(str(it.get('LevelSubjectName') or ''))
+                kind = clean_text(str(it.get('BizTypeName') or '词条'))
+                summary = ' · '.join(x for x in (subject, kind) if x) or '中国大百科全书'
+                items.append({'title': name, 'en': en, 'tag': subject or '百科',
+                              'summary': summary, 'url': zgbk_item_url(it)})
+            if len(items) >= 10:
+                return {'items': items[:10],
+                        'lastUpdated': datetime.datetime.now(datetime.timezone.utc).isoformat()}
+            last_err = 'only %d items' % len(items)
+        except Exception as e:
+            last_err = str(e)
+            time.sleep(1.2 * (attempt + 1))
+    print('[warn] zgbk 抓取失败: %s' % last_err, flush=True)
+    return {'items': []}
+
 def main():
     out_dir = sys.argv[1] if len(sys.argv) > 1 else 'data'
     import os
     os.makedirs(out_dir, exist_ok=True)
     results = {}
     with ThreadPoolExecutor(max_workers=4) as ex:
-        jobs = {'papers': ex.submit(gen_papers), 'mednews': ex.submit(gen_mednews), 'briefing': ex.submit(gen_briefing), 'douban': ex.submit(gen_douban), 'literature': ex.submit(gen_literature), 'allhistory': ex.submit(gen_allhistory)}
+        jobs = {'papers': ex.submit(gen_papers), 'mednews': ex.submit(gen_mednews), 'briefing': ex.submit(gen_briefing), 'douban': ex.submit(gen_douban), 'literature': ex.submit(gen_literature), 'allhistory': ex.submit(gen_allhistory), 'zgbk': ex.submit(gen_zgbk)}
         for name, fut in jobs.items():
             try:
                 results[name] = fut.result()
             except Exception as e:
                 print('[warn] %s 生成失败: %s' % (name, e), flush=True)
                 results[name] = {'items': []} if name != 'briefing' else {'categories': []}
-    for name in ('papers', 'mednews', 'briefing', 'douban', 'literature', 'allhistory'):
+    for name in ('papers', 'mednews', 'briefing', 'douban', 'literature', 'allhistory', 'zgbk'):
         path = os.path.join(out_dir, name + '.json')
+        if name == 'zgbk' and not results[name].get('items') and os.path.exists(path):
+            print('SKIP zgbk -> 抓取失败，保留上次数据', flush=True)
+            continue
         with open(path, 'w', encoding='utf-8') as f:
             json.dump(results[name], f, ensure_ascii=False, indent=1)
         n = len(results[name].get('items', [])) if name != 'briefing' else sum(len(c.get('items', [])) for c in results[name].get('categories', []))

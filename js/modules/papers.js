@@ -8,11 +8,11 @@
 import {
   $, $$, esc, toast, fetchWithFallback, fetchApiData, openModal, closeModal, relTime,
   translateText, isEnglish,
-} from '../utils.js?v=20261010a';
+} from '../utils.js?v=20261113b';
 import {
   store, getFields, setFields, getIFMap, setIF, historyAdd,
   getFavPapers, saveFavPaper, removeFavPaper,
-} from '../storage.js?v=20261010a';
+} from '../storage.js?v=20261113b';
 
 let papersCache = [];
 let papersMeta = '';

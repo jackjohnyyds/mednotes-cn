@@ -1,6 +1,70 @@
 {
  "items": [
   {
+   "name": "可能的爱",
+   "type": "电影",
+   "rating": "8.7",
+   "comment": "四位陌生人的命运偶然交织，由此引发了错综复杂的情感纠葛，这些纠葛不仅挑战了他们现有的关系，更迫使他们直面关于爱情与承诺的…",
+   "doubanLink": "https://movie.douban.com/subject/36847425/",
+   "source": "https://movie.douban.com/subject/36847425/"
+  },
+  {
+   "name": "黑球",
+   "type": "电影",
+   "rating": "8.7",
+   "comment": "影片以西班牙传奇同志诗人费德里戈·加西亚·洛尔卡一份仅存四页的未竟剧本《黑球》为锚点，用160分钟精妙地编织了一幅叙事三…",
+   "doubanLink": "https://movie.douban.com/subject/37215318/",
+   "source": "https://movie.douban.com/subject/37215318/"
+  },
+  {
+   "name": "懦夫",
+   "type": "电影",
+   "rating": "7.5",
+   "comment": "皮埃尔是一位年轻的比利时士兵，他希望在第一次世界大战的战场上证明自己。在前线后方，他遇到了弗朗西斯，后者受命想办法提振士…",
+   "doubanLink": "https://movie.douban.com/subject/37148241/",
+   "source": "https://movie.douban.com/subject/37148241/"
+  },
+  {
+   "name": "突如其来",
+   "type": "电影",
+   "rating": "7.7",
+   "comment": "玛丽-露在巴黎附近经营一家养老院，致力于提供更人性化的老年护理。她与一位身患晚期癌症的日本戏剧导演之间的友谊，进一步坚定…",
+   "doubanLink": "https://movie.douban.com/subject/37342630/",
+   "source": "https://movie.douban.com/subject/37342630/"
+  },
+  {
+   "name": "茫然女王",
+   "type": "电影",
+   "rating": "7.9",
+   "comment": "随着痴呆症逐渐侵蚀这位女性表达内心世界的能力，她的丈夫和女儿竭力为她着想，在爱与照料、保护及自主权之间那条脆弱的界线上艰…",
+   "doubanLink": "https://movie.douban.com/subject/35765242/",
+   "source": "https://movie.douban.com/subject/35765242/"
+  },
+  {
+   "name": "吉姆皇后",
+   "type": "电影",
+   "rating": "7.7",
+   "comment": "当一种病毒让巴黎的男同性恋者变成异性恋时，一位男同性恋网红的生活就此分崩离析。他与一位少年男模结伴，前往玛黑区寻找传闻中…",
+   "doubanLink": "https://movie.douban.com/subject/36151274/",
+   "source": "https://movie.douban.com/subject/36151274/"
+  },
+  {
+   "name": "野兽之心",
+   "type": "电影",
+   "rating": "7.3",
+   "comment": "在一场惨烈的坠机事故后，特种部队军官詹姆斯·贝尔蒙特与他的军犬奥丁绝处逢生，被困于极寒险恶的阿拉斯加荒野。</p><p>…",
+   "doubanLink": "https://movie.douban.com/subject/36828393/",
+   "source": "https://movie.douban.com/subject/36828393/"
+  },
+  {
+   "name": "害群之马",
+   "type": "电影",
+   "rating": "7.5",
+   "comment": "一名处境艰难的小学教师，在一名学生受伤后，开始做出一些令人疑惑的决定。</p><p><img src=\"https://…",
+   "doubanLink": "https://movie.douban.com/subject/36623663/",
+   "source": "https://movie.douban.com/subject/36623663/"
+  },
+  {
    "name": "共鸣",
    "type": "书籍",
    "rating": "8.4",
@@ -65,5 +129,5 @@
    "source": "https://book.douban.com/subject/38676729/"
   }
  ],
- "lastUpdated": "2026-11-13T04:27:32.447203+00:00"
+ "lastUpdated": "2026-11-13T10:20:45.962594+00:00"
 }

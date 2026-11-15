@@ -65,28 +65,44 @@
    "source": "https://movie.douban.com/subject/36623663/"
   },
   {
-   "name": "日瓦戈医生",
+   "name": "那刺眼的黑暗",
    "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38414854/",
-   "source": "https://book.douban.com/subject/38414854/"
+   "rating": "8.4",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/37180720/",
+   "source": "https://book.douban.com/subject/37180720/"
   },
   {
-   "name": "山林水火",
+   "name": "身体与命运",
    "type": "书籍",
-   "rating": "",
+   "rating": "8.8",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38928066/",
-   "source": "https://book.douban.com/subject/38928066/"
+   "doubanLink": "https://book.douban.com/subject/38991222/",
+   "source": "https://book.douban.com/subject/38991222/"
   },
   {
-   "name": "志怪",
+   "name": "拼凑小说",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38521378/",
-   "source": "https://book.douban.com/subject/38521378/"
+   "doubanLink": "https://book.douban.com/subject/37455864/",
+   "source": "https://book.douban.com/subject/37455864/"
+  },
+  {
+   "name": "规模制胜",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38625548/",
+   "source": "https://book.douban.com/subject/38625548/"
+  },
+  {
+   "name": "新事物是如何诞生的？",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38927429/",
+   "source": "https://book.douban.com/subject/38927429/"
   },
   {
    "name": "观看之道",
@@ -97,37 +113,21 @@
    "source": "https://book.douban.com/subject/37425210/"
   },
   {
-   "name": "轻舟渡海",
+   "name": "生于女人",
    "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/39011288/",
-   "source": "https://book.douban.com/subject/39011288/"
+   "rating": "9",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38617182/",
+   "source": "https://book.douban.com/subject/38617182/"
   },
   {
-   "name": "涉过意识之流",
+   "name": "遗忘谷",
    "type": "书籍",
-   "rating": "",
+   "rating": "9.2",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37455862/",
-   "source": "https://book.douban.com/subject/37455862/"
-  },
-  {
-   "name": "变装",
-   "type": "书籍",
-   "rating": "8.2",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37497665/",
-   "source": "https://book.douban.com/subject/37497665/"
-  },
-  {
-   "name": "相对于国家的社会",
-   "type": "书籍",
-   "rating": "8.3",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38395837/",
-   "source": "https://book.douban.com/subject/38395837/"
+   "doubanLink": "https://book.douban.com/subject/38634114/",
+   "source": "https://book.douban.com/subject/38634114/"
   }
  ],
- "lastUpdated": "2026-11-14T09:38:45.470402+00:00"
+ "lastUpdated": "2026-11-15T03:16:03.337945+00:00"
 }

@@ -1,6 +1,54 @@
 {
  "items": [
   {
+   "title": "适合网球的热身运动",
+   "link": "https://jiankang.cctv.com/2026/11/16/ARTIFHgkbpCZhy5rRYtZuMx9261116.shtml",
+   "time": "Mon, 16 Nov 2026 02:51:54 GMT",
+   "source": "央视网健康",
+   "summary": "",
+   "english": false
+  },
+  {
+   "title": "50项食品安全新国标发布",
+   "link": "https://jiankang.cctv.com/2026/11/16/ARTIHrce6nYb9CITdiZgm8Cc261116.shtml",
+   "time": "Mon, 16 Nov 2026 02:51:44 GMT",
+   "source": "央视网健康",
+   "summary": "9月22日，国家卫生健康委会同市场监管总局发布50项食品安全国家标准和修改单，涵盖食品产品、添加剂规范、特殊膳食、生产规范、检验检测、毒理评价等多个领域，从源头、生产到检测，全链条守护百姓“舌尖上的安全”。 强化食品污染物源头和过程管理 油炸薯条、烘焙咖啡等食品，日常生活中很常见，但高温加工过程会产生丙烯酰胺，这是一种…",
+   "english": false
+  },
+  {
+   "title": "“抗疟古药”被开发成新型催化剂",
+   "link": "https://jiankang.cctv.com/2026/11/16/ARTIUSM51UnXY1aZIt05dD2m261116.shtml",
+   "time": "Mon, 16 Nov 2026 02:51:33 GMT",
+   "source": "央视网健康",
+   "summary": "科技日报讯 （记者刘园园）记者近日从西湖大学获悉，该校理学院执行院长邓力团队利用“抗疟古药”金鸡纳碱，研制出新型二季铵盐催化剂，成功实现一类特殊取代反应的精准控制，为不对称催化研究提供了新思路。 在有机合成里，SN2反应被广泛应用于药品、日用品、农药的生产。这种反应就像分子间的“换基团游戏”：换掉分子的旧基团，接上一个…",
+   "english": false
+  },
+  {
+   "title": "膳承千年国粹 广西以赛为媒推动药食同源产业融合发展",
+   "link": "https://jiankang.cctv.com/2026/11/16/ARTIYO053wIASlBHwmlMJiAf261116.shtml",
+   "time": "Mon, 16 Nov 2026 02:51:25 GMT",
+   "source": "央视网健康",
+   "summary": "中新网南宁11月14日电(黄艳梅 王伟臣 许征难)第三届广西药膳大赛总决赛暨药食同源产业发展大会开幕式14日在广西职业技术大学举行。活动集赛事竞技、产业交流、成果展示、文化传播和惠民体验于一体，既是一场药膳技能的集中检阅，也是一次推动中医药文化传承创新、促进药食同源产业融合发展的交流盛会。 本次活动由广西壮族自治区中医…",
+   "english": false
+  },
+  {
+   "title": "青年医者捐献“生命种子”：以热血为舟，传递爱与希望",
+   "link": "https://jiankang.cctv.com/2026/11/16/ARTInaRYSL7W2ZLIEvTczP5K261116.shtml",
+   "time": "Mon, 16 Nov 2026 02:51:17 GMT",
+   "source": "央视网健康",
+   "summary": "中新网杭州11月14日电(张煜欢 胡莘菻)爱心采集室里，血细胞分离机低低嗡鸣，管路中的血液缓缓流转、分离、回输，每一次循环都牵系着一份生命的期盼。近日，浙江省血液中心体检医生高臣顺利完成造血干细胞采集，成为浙江省第1500例造血干细胞捐献者。从采供血一线的“血液人”到无偿献血者，再到造血干细胞捐献者，他以亲身践行诠释医…",
+   "english": false
+  },
+  {
+   "title": "职场年轻人谨防胃肠“亮红灯” 专家：条件允许尽量自制餐食",
+   "link": "https://jiankang.cctv.com/2026/11/16/ARTIueVLp6OKITuOV9K6lH4V261116.shtml",
+   "time": "Mon, 16 Nov 2026 02:51:08 GMT",
+   "source": "央视网健康",
+   "summary": "中新网广州11月15日电(记者 蔡敏婕)“由于很多疾病都是吃出来的，所以我们必须要有合理的生活规律，条件允许，尽可能自己做饭。”中山大学附属第一医院消化内科主任曾志荣14日表示，当前很多职场年轻人存在生活作息紊乱的问题，再加上长期熬夜，这些行为对消化系统伤害显著。 炎症性肠病(IBD)是一种慢性、复发性肠道炎症性疾病，…",
+   "english": false
+  },
+  {
    "title": "一场校地协作，如何助县域医疗“借智登高”？",
    "link": "https://jiankang.cctv.com/2026/11/13/ARTIRAV3cmd6y2BNg73STwHR261113.shtml",
    "time": "Fri, 13 Nov 2026 06:18:43 GMT",
@@ -17,83 +65,67 @@
    "english": false
   },
   {
-   "title": "关注脑部健康",
-   "link": "https://jiankang.cctv.com/2026/11/13/ARTIzgVNv87utUZUJntszY8r261113.shtml",
-   "time": "Fri, 13 Nov 2026 06:18:20 GMT",
-   "source": "央视网健康",
+   "title": "人民健康“五进”关爱服务计划走进河北省围场县",
+   "link": "http://health.people.com.cn/n1/2026/1116/c14739-40834554.html",
+   "time": "Mon, 16 Nov 2026 01:08:00 GMT",
+   "source": "人民网健康",
    "summary": "",
    "english": false
   },
   {
-   "title": "实验性mRNA疗法可促受损心肌修复",
-   "link": "https://jiankang.cctv.com/2026/11/13/ARTIZEpYN9bZytnfa7n34qHN261113.shtml",
-   "time": "Fri, 13 Nov 2026 06:18:08 GMT",
-   "source": "央视网健康",
-   "summary": "英国剑桥大学科学家开发出一种实验性mRNA疗法，可“唤醒”心肌细胞，使其重新分裂，从而帮助修复受损心肌。相关论文发表于最新一期《自然·心血管研究》杂志。 在小鼠实验中，与接受模拟治疗的心肌梗死小鼠相比，接受该疗法的小鼠心跳更有力，每次心跳由心脏泵出的血液量增加约10%。 团队表示，这一方法尚不能治愈心脏病，但即便是心脏…",
-   "english": false
-  },
-  {
-   "title": "医疗人才比拼医学影像AI识图",
-   "link": "https://jiankang.cctv.com/2026/11/13/ARTI6nl8VbYt7SIt0m4fuk8B261113.shtml",
-   "time": "Fri, 13 Nov 2026 06:17:59 GMT",
-   "source": "央视网健康",
-   "summary": "本报南宁11月12日电（记者王瑾雯、周仕兴）2026全国医保影像AI识图大赛成果产业对接会近日在广西南宁举行。本次活动聚焦大赛优质成果落地转化，搭建产学研用资对接平台，推动医学影像AI创新成果从赛场走向临床、从技术转化为产品，助力医疗AI产业高质量发展。 本届大赛由国家医疗保障局与广西壮族自治区人民政府联合主办，是我国…",
-   "english": false
-  },
-  {
-   "title": "专家：老年肺炎症状不典型 倡导“预防胜于治疗”",
-   "link": "https://jiankang.cctv.com/2026/11/13/ARTIONq2WIuJgiKTQ6YBMwCD261113.shtml",
-   "time": "Fri, 13 Nov 2026 06:17:41 GMT",
-   "source": "央视网健康",
-   "summary": "中新网上海11月12日电 (记者 陈静)上海的呼吸感染与气道疾病科专家梁硕教授12日接受采访时表示，由于老年人基础状态、合并症和病情的严重程度不同，社区获得性肺炎(CAP)的致病菌分布具备老年患者的固有特点。老年人群常存在“重治疗、轻预防”的认知误区，导致防病严重滞后。 CAP是下呼吸道感染的常见类型之一，在全球发病率…",
-   "english": false
-  },
-  {
-   "title": "八个字，读懂中医看病的思路",
-   "link": "https://jiankang.cctv.com/2026/11/12/ARTIAEBlVL0KFtOExOgh9CMx261112.shtml",
-   "time": "Thu, 12 Nov 2026 14:00:15 GMT",
-   "source": "央视网健康",
-   "summary": "在第九届中国非物质文化遗产博览会上，张明雪围绕“中医如何认识生命与疾病”这一主题，向观众作了一场科普分享。她传承了导师曹洪欣的首批国家级非遗代表性项目“中医生命与疾病认知方法”，是这一项目的辽宁省级非遗代表性传承人。她从心慌、咳嗽、睡不好等常见身体感受谈起，介绍中医如何观察身体变化、综合判断情况。她用八个字概括这一思路…",
-   "english": false
-  },
-  {
-   "title": "阿尔茨海默病早筛纳入“普惠健康保”",
-   "link": "https://jiankang.cctv.com/2026/11/12/ARTIIPN8bxparPS4yF7yZa1n261112.shtml",
-   "time": "Thu, 12 Nov 2026 09:42:17 GMT",
-   "source": "央视网健康",
-   "summary": "11月11日，北京青年报记者从“北京普惠健康保”项目组获悉，2027年度“北京普惠健康保”一经上线就引发参保热潮。产品在保费维持195元/人/年不变、享累计保额350万元的基础上，2027年度新增癌症早筛、阿尔茨海默病早筛、AI健康管家三项健康服务，推动保障从“病后赔付”向“病前预防”延伸。 “早发现”前移至家庭和社区…",
-   "english": false
-  },
-  {
-   "title": "诉说消费 | “双11”新消费火了，售后跟上了吗？",
-   "link": "http://health.people.com.cn/n1/2026/1115/c14739-40834083.html",
-   "time": "Sun, 15 Nov 2026 03:16:00 GMT",
+   "title": "北京怀柔综合性国家科学中心・泰德生命科学联合基金2026年度申报指南正式发布",
+   "link": "http://health.people.com.cn/n1/2026/1116/c14739-40834455.html",
+   "time": "Mon, 16 Nov 2026 00:43:00 GMT",
    "source": "人民网健康",
-   "summary": "2026年“双11”大促收官， 人民网“人民投诉”平台 发布2026“双11”消费维权数据报告 （点击查看报告全文） 显示，今年消费者的购物车里多了些新东西：算力包、AI课程、上门送装服务、潮玩、会员权益……新消费火了，配套售后保障的短板却凸显出来。 “人民投诉”数据显示，“双11”期间，平台上虚拟消费、服务消费、数字…",
+   "summary": "",
    "english": false
   },
   {
-   "title": "人民网“人民投诉”平台发布2026“双11”消费维权数据报告",
-   "link": "http://health.people.com.cn/n1/2026/1115/c14739-40834062.html",
-   "time": "Sun, 15 Nov 2026 02:05:00 GMT",
+   "title": "接种疫苗科学用药 抗流感要破除“囤药焦虑”",
+   "link": "http://health.people.com.cn/n1/2026/1116/c14739-40834422.html",
+   "time": "Mon, 16 Nov 2026 00:37:00 GMT",
    "source": "人民网健康",
-   "summary": "2026年“双11”大促收官。人民网“人民投诉”平台（以下简称“人民投诉”）对10月12日至11月13日收到的6470条有效消费投诉信息进行梳理分析，数据显示：虚拟消费类、服务消费类、数字新品类、潮玩谷子类投诉同比分别增长20%、15.6%、10.8%和5.2%；涉售后履约的相关投诉内容占投诉总量的30.2%，价保履约…",
+   "summary": "",
    "english": false
   },
   {
-   "title": "“0卡糖”应该怎么选？减肥控糖必看",
-   "link": "http://health.people.com.cn/n1/2026/1115/c14739-40834011.html",
-   "time": "Sun, 15 Nov 2026 00:42:00 GMT",
+   "title": "云南普洱咖啡萃出高附加值",
+   "link": "http://health.people.com.cn/n1/2026/1116/c14739-40834288.html",
+   "time": "Mon, 16 Nov 2026 00:10:00 GMT",
    "source": "人民网健康",
-   "summary": "现在去超市，越来越多袋装“0卡糖”摆在货架上——外观和白砂糖很像，可以炒菜、拌凉菜、做面点时替代白糖。但围绕它的困惑与争议也不少，有人觉得使用起来很方便，也有人使用后测血糖发现数字往上走。今天(11月14日)是世界糖尿病日，一起了解关于“0卡糖”的相关问题。 什么是“0卡糖”？ 市面上的“0卡糖”产品，核心甜味原料主要…",
+   "summary": "",
    "english": false
   },
   {
-   "title": "青年医者捐献“生命种子”：以热血为舟，传递爱与希望",
-   "link": "http://health.people.com.cn/n1/2026/1115/c14739-40834009.html",
-   "time": "Sun, 15 Nov 2026 00:40:00 GMT",
+   "title": "“抗疟古药”被开发成新型催化剂",
+   "link": "http://health.people.com.cn/n1/2026/1116/c14739-40834283.html",
+   "time": "Mon, 16 Nov 2026 00:08:00 GMT",
    "source": "人民网健康",
-   "summary": "原标题：青年医者捐献“生命种子”：以热血为舟，传递爱与希望 爱心采集室里，血细胞分离机低低嗡鸣，管路中的血液缓缓流转、分离、回输，每一次循环都牵系着一份生命的期盼。近日，浙江省血液中心体检医生高臣顺利完成造血干细胞采集，成为浙江省第1500例造血干细胞捐献者。从采供血一线的“血液人”到无偿献血者，再到造血干细胞捐献者，…",
+   "summary": "",
+   "english": false
+  },
+  {
+   "title": "AI可精准预测T细胞能否“识敌”",
+   "link": "http://health.people.com.cn/n1/2026/1116/c14739-40834278.html",
+   "time": "Mon, 16 Nov 2026 00:04:00 GMT",
+   "source": "人民网健康",
+   "summary": "",
+   "english": false
+  },
+  {
+   "title": "多方协同提升中医药产业竞争力",
+   "link": "http://health.people.com.cn/n1/2026/1116/c14739-40834277.html",
+   "time": "Mon, 16 Nov 2026 00:04:00 GMT",
+   "source": "人民网健康",
+   "summary": "",
+   "english": false
+  },
+  {
+   "title": "著名经济学家、教育家、南开大学原副校长朱光华逝世，享年89岁",
+   "link": "https://m.thepaper.cn/newsDetail_forward_34488761",
+   "time": "Mon, 16 Nov 2026 03:04:41 GMT",
+   "source": "澎湃新闻",
+   "summary": "近日，南开大学经济学院发布讣告，中国共产党优秀党员、著名经济学家、教育家、南开大学原副校长朱光华教授，因病于2026年11月1日晚逝世，享年89岁。",
    "english": false
   },
   {
@@ -159,58 +191,18 @@
    "source": "WHO 新闻",
    "summary": "Nine CEPI-supported candidate vaccines are part of the COVAX initiative, with a further nine candidates under evaluation, and procurement conversations on-going…",
    "english": true
-  },
-  {
-   "title": "NHS, schools and police forces hit by Microsoft outage",
-   "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
-   "time": "Fri, 13 Nov 2026 13:41:25 GMT",
-   "source": "BBC Health",
-   "summary": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
-   "english": true
-  },
-  {
-   "title": "Doctor burnout putting maternity patients at risk, says regulator",
-   "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
-   "time": "Fri, 13 Nov 2026 00:55:31 GMT",
-   "source": "BBC Health",
-   "summary": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
-   "english": true
-  },
-  {
-   "title": "Sunbed firms must not downplay cancer risk, says watchdog",
-   "link": "https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o?at_medium=RSS&at_campaign=rss",
-   "time": "Thu, 12 Nov 2026 00:13:27 GMT",
-   "source": "BBC Health",
-   "summary": "The advertising watchdog says they also must not make misleading claims that sunbeds can treat skin conditions or improve mental health.",
-   "english": true
-  },
-  {
-   "title": "Senior doctors call off two-day strike planned this month",
-   "link": "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo?at_medium=RSS&at_campaign=rss",
-   "time": "Wed, 11 Nov 2026 12:42:05 GMT",
-   "source": "BBC Health",
-   "summary": "Consultants in England were due to walk out on 25 November in disputes over pay and working conditions.",
-   "english": true
-  },
-  {
-   "title": "Governments 'asleep at the wheel' over social care, says head of review",
-   "link": "https://www.bbc.co.uk/news/articles/c9143zxyyvndo?at_medium=RSS&at_campaign=rss",
-   "time": "Wed, 11 Nov 2026 09:08:48 GMT",
-   "source": "BBC Health",
-   "summary": "Baroness Casey criticises variability of services and fees charged to self-funders in England.",
-   "english": true
-  },
-  {
-   "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
-   "link": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
-   "time": "Wed, 11 Nov 2026 00:17:42 GMT",
-   "source": "BBC Health",
-   "summary": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
-   "english": true
   }
  ],
  "progress": {
   "disease": [
+   {
+    "title": "IgA肾病：守护肾脏健康，把握治疗新机遇",
+    "link": "http://www.jksb.com.cn/html/activities/activitiesNotice/2026/1116/261197.html",
+    "source": "健康时报",
+    "time": "",
+    "summary": "",
+    "english": false
+   },
    {
     "title": "早发现、早行动，远离糖尿病风险",
     "link": "http://www.jksb.com.cn/html/activities/activitiesNotice/2026/1113/261070.html",
@@ -222,14 +214,6 @@
    {
     "title": "乳腺癌全生命周期，全方位健康管理",
     "link": "http://www.jksb.com.cn/html/activities/activitiesNotice/2026/1112/261047.html",
-    "source": "健康时报",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "吞咽不适别只当咽炎，抓住食管癌早筛窗口",
-    "link": "http://www.jksb.com.cn/html/activities/activitiesNotice/2026/1112/261041.html",
     "source": "健康时报",
     "time": "",
     "summary": "",
@@ -252,6 +236,14 @@
     "english": false
    },
    {
+    "title": "糖尿病早期信号 您知道多少？",
+    "link": "https://jiankang.cctv.com/2026/11/14/ARTIgvlbXnNNFGsnXF2Qthb8261114.shtml?spm=C88180.PGOAD39Q4iGU.PGOAD39Q4iGU.3",
+    "source": "央视网健康",
+    "time": "",
+    "summary": "",
+    "english": false
+   },
+   {
     "title": "从疾病根源、诊疗革新到医保政策，专家们和你一同聊聊呼吸系统疾病的“长驭”新思路。",
     "link": "https://business.cctv.com/2026/11/13/VIDE0Y4Ic0OBgx4SuuXwfW6R261113.shtml",
     "source": "央视网健康",
@@ -268,16 +260,16 @@
     "english": false
    },
    {
-    "title": "公立医院下场开药店，患者纷纷叫好，零售药店还有活路吗？",
-    "link": "https://news.39.net/shx/261015/g7xgm85.html",
+    "title": "连胡歌都随身带救心丸了！心梗盯上中青年，一颗药丸瞄准千亿“养护”市场？",
+    "link": "https://news.39.net/shx/261109/q9xjyw0.html",
     "source": "39健康网",
     "time": "",
     "summary": "",
     "english": false
    },
    {
-    "title": "连胡歌都随身带救心丸了！心梗盯上中青年，一颗药丸瞄准千亿“养护”市场？",
-    "link": "https://news.39.net/shx/261109/q9xjyw0.html",
+    "title": "公立医院下场开药店，患者纷纷叫好，零售药店还有活路吗？",
+    "link": "https://news.39.net/shx/261015/g7xgm85.html",
     "source": "39健康网",
     "time": "",
     "summary": "",
@@ -322,129 +314,9 @@
     "time": "",
     "summary": "",
     "english": false
-   },
-   {
-    "title": "85岁得了前列腺癌不要着急治疗",
-    "link": "https://news.39.net/a/241119/v8ulzr7.html",
-    "source": "39健康网",
-    "time": "",
-    "summary": "",
-    "english": false
    }
   ],
   "drug": [
-   {
-    "title": "“秦药”龙头涨停",
-    "link": "https://news.yaozh.com/archive/49363.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "国产流感新药，传来“大消息”",
-    "link": "https://news.yaozh.com/archive/49368.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "儿童失眠，有望迎来首款药",
-    "link": "https://news.yaozh.com/archive/49364.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "收入涨4倍，却裁员35%",
-    "link": "https://news.yaozh.com/archive/49374.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "22省已发文！第十二批国采进入\"落地周\"",
-    "link": "https://news.yaozh.com/archive/49370.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "9个新药未被批准",
-    "link": "https://news.yaozh.com/archive/49353.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "3·15丨中国药品质量不合格报告",
-    "link": "https://news.yaozh.com/archive/47440.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "3·15丨中成药质量不合格报告",
-    "link": "https://news.yaozh.com/archive/47460.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "3·15丨中药材质量不合格报告",
-    "link": "https://news.yaozh.com/archive/47481.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "| 药智新闻",
-    "link": "https://news.yaozh.com/?=yaozh",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "| 药智大讲堂",
-    "link": "https://edu.yaozh.com/",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "| 药智传媒",
-    "link": "https://meeting.yaozh.com/",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "| 药智数据",
-    "link": "https://db.yaozh.com",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "渝ICP备10200070号-3",
-    "link": "https://beian.miit.gov.cn/",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
    {
     "title": "11月起，这些医药健康新规将影响你我生活",
     "link": "https://www.jksb.com.cn/index.php?m=content&c=index&a=show&catid=788&id=260512",
@@ -452,8 +324,16 @@
     "time": "",
     "summary": "",
     "english": false
+   },
+   {
+    "title": "首个乙肝治愈新药日本获批上市，多款国产原研药挺进三期临床",
+    "link": "https://news.39.net/shx/260831/n1wttm1.html",
+    "source": "39健康网",
+    "time": "",
+    "summary": "",
+    "english": false
    }
   ]
  },
- "lastUpdated": "2026-11-15T10:10:14.849291+00:00"
+ "lastUpdated": "2026-11-16T03:16:17.672990+00:00"
 }

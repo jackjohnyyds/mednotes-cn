@@ -65,54 +65,6 @@
    "source": "https://movie.douban.com/subject/36623663/"
   },
   {
-   "name": "那刺眼的黑暗",
-   "type": "书籍",
-   "rating": "8.3",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37180720/",
-   "source": "https://book.douban.com/subject/37180720/"
-  },
-  {
-   "name": "身体与命运",
-   "type": "书籍",
-   "rating": "9.3",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38991222/",
-   "source": "https://book.douban.com/subject/38991222/"
-  },
-  {
-   "name": "拼凑小说",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37455864/",
-   "source": "https://book.douban.com/subject/37455864/"
-  },
-  {
-   "name": "规模制胜",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38625548/",
-   "source": "https://book.douban.com/subject/38625548/"
-  },
-  {
-   "name": "新事物是如何诞生的？",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38927429/",
-   "source": "https://book.douban.com/subject/38927429/"
-  },
-  {
-   "name": "观看之道",
-   "type": "书籍",
-   "rating": "9.2",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37425210/",
-   "source": "https://book.douban.com/subject/37425210/"
-  },
-  {
    "name": "生于女人",
    "type": "书籍",
    "rating": "9",
@@ -121,13 +73,61 @@
    "source": "https://book.douban.com/subject/38617182/"
   },
   {
-   "name": "遗忘谷",
+   "name": "变装",
    "type": "书籍",
-   "rating": "9.2",
+   "rating": "8.3",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38634114/",
-   "source": "https://book.douban.com/subject/38634114/"
+   "doubanLink": "https://book.douban.com/subject/37497665/",
+   "source": "https://book.douban.com/subject/37497665/"
+  },
+  {
+   "name": "我的老台北",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38594734/",
+   "source": "https://book.douban.com/subject/38594734/"
+  },
+  {
+   "name": "人性之镜",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38556394/",
+   "source": "https://book.douban.com/subject/38556394/"
+  },
+  {
+   "name": "两面之词",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38433470/",
+   "source": "https://book.douban.com/subject/38433470/"
+  },
+  {
+   "name": "世界诞生之日",
+   "type": "书籍",
+   "rating": "9.4",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38552193/",
+   "source": "https://book.douban.com/subject/38552193/"
+  },
+  {
+   "name": "性冲突的演化",
+   "type": "书籍",
+   "rating": "7.7",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38926918/",
+   "source": "https://book.douban.com/subject/38926918/"
+  },
+  {
+   "name": "“批评”的想象力",
+   "type": "书籍",
+   "rating": "8.7",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38571718/",
+   "source": "https://book.douban.com/subject/38571718/"
   }
  ],
- "lastUpdated": "2026-11-15T10:10:06.618187+00:00"
+ "lastUpdated": "2026-11-16T03:16:16.523574+00:00"
 }

@@ -1,392 +1,383 @@
 {
  "items": [
   {
-   "pmid": "43044029",
-   "title": "Sex-stratified associations between the triglyceride-glucose index and urinary AD7c-NTP levels in adults: a cross-sectional study.",
-   "abstract": "Insulin resistance has been implicated in Alzheimer-related neurodegenerative processes. The triglyceride-glucose (TyG) index is an accessible surrogate marker of systemic insulin resistance, whereas urinary Alzheimer-associated neuronal thread protein (AD7c-NTP) has been investigated as a potential non-invasive biomarker of neuronal injury. However, whether the TyG index is independently associated with urinary AD7c-NTP levels after accounting for relevant cardiometabolic factors remains unclear. This cross-sectional study included 4,879 adults who underwent health examinations between 2020 and 2023. Anthropometric, hemodynamic, biochemical, and urinary AD7c-NTP data were collected. Sex-stratified multivariable linear regression models were adjusted for age, mean arterial pressure, body mass index, waist circumference, LDL-C, HDL-C, and the TyG index. Women had higher urinary AD7c-NTP concentrations than men despite having lower TyG index values. In unadjusted analyses, the TyG index showed a weak positive correlation with urinary AD7c-NTP concentrations in women but not in men. However, after multivariable adjustment for age, mean arterial pressure, body mass index, waist circumference, LDL-C, and HDL-C, the TyG index was not independently associated with urinary AD7c-NTP concentrations in either men (B&#x2009;=&#x2009;-0.060, 95% CI -0.421 to 0.300; p &#x2009;=&#x2009;0.742) or women ( B &#x2009;=&#x2009;0.495, 95% CI -0.116 to 1.106; p &#x2009;=&#x2009;0.112). Age and mean arterial pressure were positively associated with urinary AD7c-NTP concentrations in both sexes. The formal sex-by-TyG interaction was not statistically significant. In this cross-sectional sample, the TyG index showed a weak unadjusted association with urinary AD7c-NTP concentrations in women, but this association was not significant after multivariable adjustment. No independent association was observed in men, and there was no statistically significant evidence of effect modification by sex. These findings should be considered exploratory and do not establish that the TyG index identifies individuals at increased risk of Alzheimer's disease or supports sex-stratified screening.",
-   "journal": "Annals of medicine",
+   "pmid": "43046889",
+   "title": "A \"First-Time-Right\" Strategy in Secondary Prevention of Coronary Artery Disease: Rationale and Design of the Prospective, Temporally Controlled Observational GOLDEN Study.",
+   "abstract": "After an acute coronary syndrome (ACS) or coronary revascularisation, the risk of recurrent vascular events remains substantial. Despite clear guideline recommendations, secondary prevention and long-term adherence to preventive treatment is often suboptimal. Current secondary prevention strategies typically involve initiating a limited number of pharmacologic therapies during hospitalisation, followed by sequential intensification after discharge to achieve individualised guideline-recommended targets. However, this strategy is prone to therapeutic inertia and negatively affects patient motivation and long-term adherence. We hypothesise that a \"first-time-right\" strategy, where individualised, guideline-based pharmacological treatment is proactively initiated during hospitalisation, can improve risk factor control and adherence compared to current practice, and thereby reduce major cardiovascular events. Guided Optimisation for Long-Term Disease Reduction in Secondary Prevention of Cardiovascular Disease (GOLDEN) is a prospective, temporally controlled observational cohort study aiming to include 5,586 patients hospitalised for ACS or coronary revascularisation. A guidelines-based \"first-time-right\" pharmacological optimisation strategy will be compared to current practice on the 3-year incidence of cardiovascular death, myocardial infarction, stroke, or ischaemia-driven revascularisation (4-point major adverse cardiovascular event [MACE]). This strategy targets both patients and healthcare professionals and aims to utilise the teachable moment during hospitalisation to optimise pharmacological strategies, apply key behavioural principles to improve adherence, and reframe follow-up from reactive up-titration to proactive de-escalation. A pocket card and online tool will be provided to check applicable guidelines during hospitalisation and formulate follow-up recommendations. An on-site training visit and communication aids are intended to support implementation and promote adherence. This study will evaluate the effects of a \"first-time-right\" strategy - focused on early in-hospital initiation and optimisation of guideline-based pharmacotherapy after ACS or coronary revascularisation - on the risk of recurrent MACE compared to current practice. NCT06637657.",
+   "journal": "Cardiology",
    "year": "2026",
    "authors": [
-    "Wen-Cheng Li",
-    "Watson Hua-Sheng Tseng",
-    "Yi-Chih Chang"
+    "Manon van den Bogaart",
+    "Lucas W Bollen",
+    "Jurri&#xeb;n M Ten Berg",
+    "Ronaldus J G Peters",
+    "Jeanine E Roeters van Lennep",
+    "Johannes G P Tijssen",
+    "Frank L J Visseren",
+    "Iris C D Westendorp",
+    "Marjolein Snaterse",
+    "Harald T J&#xf8;rstad",
+    "Fabrice M A C Martens"
    ],
-   "doi": "10.1080/07853890.2026.2758993",
+   "doi": "10.1159/crd/absag017",
    "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43044029/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046889/"
   },
   {
-   "pmid": "43043901",
-   "title": "Congenitally Corrected Transposition of the Great Arteries: A Narrative Review of Diagnosis, Management, and Clinical Considerations.",
-   "abstract": "Congenitally corrected transposition of the great arteries is a rare congenital heart defect caused by abnormal looping of the developing heart that results in double discordance of the atrioventricular and ventriculoarterial connections. In these patients, blood will flow through the heart in a physiologically correct direction; however, the morphologic right ventricle becomes responsible for pumping blood to the systemic circulation. The tricuspid valve also becomes the systemic atrioventricular valve. This places patients at risk for progressive right ventricular dysfunction, tricuspid regurgitation, heart failure, arrhythmias, and atrioventricular block. The clinical presentation is highly variable, with some patients being diagnosed during infancy, while others remain asymptomatic and may be diagnosed in adulthood. Typically, the diagnosis is made using echocardiography as the main first-line imaging test. Management is nuanced and consists of surgical versus nonsurgical intervention. Surgical treatment has increasingly shifted from physiologic repair toward anatomic repair, including double-switch procedures that place the morphologic left ventricle in the systemic position. Despite major improvements in diagnosis and treatment, important questions remain about the best timing of intervention, long-term medical therapy, and risk prediction. Larger registries, prospective studies, improved imaging, and new biomarkers may help guide more individualized care and improve long-term outcomes for patients with congenitally corrected transposition of the great arteries. However, due to the high risk for deteriorating cardiac function and cardiac-related events, these patients should be carefully monitored for life.",
-   "journal": "Cardiology in review",
+   "pmid": "43046876",
+   "title": "Premenopausal Depression and Risk of Cardiovascular Disease After Menopause: A Large Real-World Cohort Study.",
+   "abstract": "While depression has been linked to adverse cardiometabolic profiles in postmenopausal women, its temporal relationship with cardiovascular disease (CVD) when occurring before menopause remains unclear. This study examined whether depression diagnosed prior to menopause was associated with incident CVD after menopause. We conducted a retrospective cohort study using the TriNetX Global Collaborative Network. Postmenopausal women were assigned to 2 cohorts: cohort 1 included women with depression diagnosed before menopause and without preexisting CVD, premature menopause, or conventional CVD risk factors (smoking, diabetes mellitus, hypertension, dyslipidemia, overweight/obesity, or family history of ischemic heart disease); cohort 2 included comparable women without premenopausal depression. Propensity score matching balanced baseline characteristics, including age at menopause, current age, and ethnicity. Risk differences and risk ratios (RRs) with 95% CI were calculated to compare incident CVD (myocardial infarction, coronary heart disease, stroke, heart failure, or cardiovascular death). Time-to-event outcomes were assessed using Kaplan-Meier curves and log-rank testing, and hazard ratios (HRs) were estimated using Cox proportional-hazards regression. Initial queries identified 90,638 women in cohort 1 and 1,237,202 in cohort 2. After matching, 88,884 women remained in each cohort, with a mean (SD) age of 57.6 (11.4) years. Follow-up varies according to database entry time, with maximum follow-up of 20 years. Women with premenopausal depression had a higher incidence of postmenopausal CVD than those without depression (4.0% vs. 3.3%; RR, 1.23; 95% CI, 1.17-1.29; p < 0.001), corresponding to an absolute risk difference of 0.7% (95% CI, 0.6%-0.9%). Because the proportional hazards assumption was not satisfied, the Cox HR was interpreted as a secondary average time-to-event summary rather than as the primary effect estimate. The estimated HR for incident CVD was 1.21 (95% CI, 1.15-1.27; log-rank p < 0.001), representing an average association across the follow-up period rather than a constant hazard over time. Women with premenopausal depression had a higher cumulative incidence of postmenopausal CVD than matched women without depression, suggesting that premenopausal depression may represent a marker of increased cardiovascular vulnerability in midlife women.",
+   "journal": "Cardiology",
    "year": "2026",
    "authors": [
-    "Justin Han",
-    "Emily Luo",
-    "Jonathan Al-Fakhoury",
-    "Sebastian Gastelum",
-    "Naitik Singh",
-    "William H Frishman",
-    "Wilbert S Aronow"
+    "Priyanka Raju",
+    "Lemuel F Jiang",
+    "Anugraha Kutty",
+    "Matthew Nudy"
    ],
-   "doi": "10.1097/CRD.0000000000001534",
+   "doi": "10.1159/crd/absag025",
    "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43043901/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046876/"
   },
   {
-   "pmid": "43043855",
-   "title": "The Electrocardiogram as a Preventive Biomarker: From Conventional Risk Markers to Actionable Artificial Intelligence - A Narrative Review.",
-   "abstract": "The electrocardiogram (ECG) is an established tool in cardiovascular prevention, identifying silent arrhythmias, hypertrophy, prior myocardial infarction, conduction disease, and inherited electrical disorders. However, conventional interpretation captures only a fraction of the information embedded in the cardiac electrical signal. Because the ECG is inexpensive, non-invasive, standardized, and already acquired at scale, it provides an attractive substrate for artificial intelligence (AI)-enabled screening and risk stratification. Deep-learning models can identify latent signatures of ventricular dysfunction, structural heart disease, atrial fibrillation, cardiomyopathy, heart failure, and mortality risk. Importantly, evidence is beginning to extend beyond retrospective validation: prospective implementation studies have increased disease detection, while randomized data suggest that AI-ECG-guided clinical alerts may improve outcomes in selected high-risk populations. Whether such benefits extend to preventive populations remains uncertain. This review examines the preventive role of conventional, ambulatory, and wearable ECGs and distinguishes AI applications for detection, prediction, prognostication, treatment selection, and longitudinal monitoring. We argue that performance metrics alone are insufficient. Preventive value requires a defined target population, calibrated and externally validated predictions, an appropriate confirmatory test, a feasible clinical workflow, and an intervention proven to improve outcomes. The most credible near-term applications are those that triage patients to established diagnostic pathways, such as echocardiography or prolonged rhythm monitoring. The central challenge is therefore to transform accurate AI-ECG predictions into actionable, affordable, scalable, safe, and equitable prevention.",
-   "journal": "European journal of preventive cardiology",
-   "year": "2026",
-   "authors": [
-    "Rodrigue Garcia",
-    "Aymeric Menet",
-    "Josselin Duchateau",
-    "Laurent Fiorina",
-    "Abderrazzaq Moufidi",
-    "J&#xe9;r&#xf4;me Taieb",
-    "Benoit Lequeux",
-    "Olivier Piot"
-   ],
-   "doi": "10.1093/eurjpc/zwag592",
-   "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43043855/"
-  },
-  {
-   "pmid": "43043854",
-   "title": "Effectiveness of Bariatric Surgery and Incretin-based Therapies on Cardiovascular Outcomes in Patients with Obesity: A Systematic Review and Network Meta-Analysis.",
-   "abstract": "Bariatric surgery and pharmacological weight-loss therapies improve cardiometabolic risk factors. However, direct head-to-head comparisons assessing their impact on cardiovascular outcomes remain limited. We performed an exploratory meta-analysis to compare bariatric surgery and pharmacological weight-loss therapies on major clinical outcomes in adults with obesity. A systematic literature search using PubMed and Scopus databases was conducted. Randomized and observational studies comparing bariatric surgery or incretin receptor agonists with controls were included in the analysis. The primary outcomes were all-cause mortality and MACE. A frequentist random-effects network meta-analysis was conducted across three nodes. A total of 40 studies, comprising more than 1.9 million patients, were included in the meta-analysis. Compared with control, bariatric surgery was associated with a significant reduction in all evaluated outcomes, including all-cause mortality (HR:0.57, 95%CI:0.51-0.65), MACE (HR:0.54, 95%CI:0.45-0.64), cardiovascular mortality, heart failure hospitalization, myocardial infarction, and stroke. Incretin receptor agonists were also associated with lower all-cause mortality (HR:0.62, 95%CI:0.52-0.74), lower MACE (HR:0.75, 95%CI:0.61-0.92) and reduced heart failure hospitalization. All-cause mortality-representing the most direct and clinically relevant endpoint-did not differ significantly between the two strategies in the exploratory network meta-analysis. Importantly, the network estimates should be cautiously interpreted, given the predominance of observational evidence, substantial heterogeneity, and very low confidence across all comparisons. Bariatric surgery and incretin receptor agonists are associated with substantial reductions in major cardiovascular outcomes in adults with obesity. In head-to-head comparisons, no significant differences were observed in all-cause mortality and stroke. Both strategies provide clinically meaningful benefits. This systematic review and exploratory network meta-analysis of 40 studies including more than 1.9 million adults with obesity examined the effectiveness of bariatric surgery and incretin-based therapies on cardiovascular outcomes in patients with obesity. Both bariatric surgery and incretin receptor agonists were associated with cardiovascular benefits compared with controls. Bariatric surgery was associated with lower risk across all cardiovascular outcomes, while incretin receptor agonists were associated with lower risk of all-cause mortality, major cardiovascular events and heart failure hospitalization. The exploratory network analysis was limited by mostly observational evidence, substantial differences between studies, and very low confidence in the estimates. These findings therefore do not establish that one treatment is better than the other, and treatment choice should consider individual health needs, suitability for surgery, side effects, long-term treatment requirements, and patient preferences.",
-   "journal": "European journal of preventive cardiology",
-   "year": "2026",
-   "authors": [
-    "Anastasios Roumeliotis",
-    "Nikolaos Vythoulkas-Biotis",
-    "Alexios Gianakodimos",
-    "Evangelos Oikonomou",
-    "Ourania Katsarou",
-    "Loukia Pliouta",
-    "Vaia Lambadiari",
-    "Elias Gialafos",
-    "Panagiota K Stampouloglou",
-    "Niki Tripyla",
-    "Antonios Lysandrou",
-    "Savvas Sarantos",
-    "Emmanouil Korakas",
-    "Panagiotis Theofilis",
-    "Evangelos Menenakos",
-    "Gerasimos Siasos"
-   ],
-   "doi": "10.1093/eurjpc/zwag588",
-   "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43043854/"
-  },
-  {
-   "pmid": "43043828",
-   "title": "Preoperative Serum Biomarkers Improve Prediction of Poor Postoperative Outcome After Cardiopulmonary Bypass Compared With Clinical Variables in Neonates.",
-   "abstract": "Neonates undergoing surgery for congenital heart disease (CHD) are at risk for poor postoperative outcomes after cardiopulmonary bypass (CPB), including death, prolonged ICU stay, and ICU readmission. Current prognostic models rely predominantly on nonmodifiable clinical factors. To utilize machine learning methods to compare the predictive utility of preoperative blood biomarkers vs. clinical features alone for ICU-30, a validated composite outcome after neonatal CPB that includes postoperative 30-day morbidity and mortality. Prospective observational single-center cohort study of consecutively enrolled neonates younger than 30 days undergoing CPB for CHD. Plasma and clinical data were collected from consecutively enrolled neonates younger than 30 days immediately before CPB. Thirty-seven biomarkers were measured by individual or multiplex enzyme-linked immunosorbent assay and tested for association with ICU-30, defined as 1) mortality within 30 days of CPB, 2) ICU stay longer than 30 days, or 3) ICU readmission within 30 days. Predictive performance of extreme gradient boosting (XGBoost), least absolute shrinkage and selection operator, and random forest (RF) models was compared using the area under the receiver operating characteristic curve (AUROC). For XGBoost, the top 20 features were identified based on model importance (gain). Biomarkers were available for 144 neonates. Most were male (51%), White (64%), and non-Hispanic (75%). Most operations were Society of Thoracic Surgeons-European Association for Cardiothoracic Surgery (STAT) category 3 (32%) or STAT category 5 (29%). ICU-30 occurred in 29 neonates (20%). Using combined clinical and biomarker data, XGBoost demonstrated moderate discrimination for ICU-30 (AUROC, 0.74), outperformed RF (AUROC, 0.72), and LASSO (AUROC, 0.70). Biomarkers alone performed better (AUROC, 0.72) than clinical data alone (AUROC, 0.67) with XGBoost. The top two features in the combined XGBoost model were neutrophil gelatinase-associated lipocalin (NGAL) and trefoil factor 3 (TFF3). Using Shapley additive explanation to assess both predictive impact and directionality, the most influential features were NGAL, a disintegrin and metalloproteinase with a thrombospondin type 1 motif, member 13 (ADAMTS13), and angiopoietin-2 (Ang-2). Among neonates with CHD requiring CPB, multibiomarker models improved prediction of poor postoperative outcome compared with clinical variables alone. The most informative model features included markers of renal injury/perfusion and gastrointestinal epithelial injury (NGAL and TFF3), as well as vascular injury and inflammation (ADAMTS13 and Ang-2). These findings support further investigation of biomarker-informed risk stratification and may provide insight into pathophysiologic mechanisms underlying adverse postoperative outcomes.",
-   "journal": "Critical care explorations",
-   "year": "2026",
-   "authors": [
-    "Monique M Gardner",
-    "Daniel Balcarcel",
-    "Fang Chen",
-    "Andrew Huff",
-    "Robert Olsen",
-    "Kyle Winser",
-    "Andrea Kennedy",
-    "Hillary R Bogner",
-    "Rui Feng",
-    "Anh D Mai",
-    "Vanessa Gonzalez",
-    "Joseph Fraietta",
-    "Asif Padiyath",
-    "Scott L Weiss",
-    "J William Gaynor",
-    "Nadir Yehya"
-   ],
-   "doi": "10.1097/CCE.0000000000001520",
-   "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43043828/"
-  },
-  {
-   "pmid": "43044099",
-   "title": "Social Media Insights Into the Human Papillomavirus Vaccination Catch-Up Campaign for Young Adults in the Netherlands, 2023-2024: Qualitative Study.",
-   "abstract": "Human papillomavirus (HPV) vaccination prevents HPV-related cancers, but its uptake remains suboptimal. In the Netherlands, a catch-up campaign invited individuals aged 18 to 27 years for an additional cost-free opportunity to initiate or complete their HPV vaccination in 2023-2024, which led to 24% of the invited population getting vaccinated. As young adults increasingly seek health information online, understanding online questions, concerns, and misinformation in response to the campaign may help improve future vaccination efforts. In addition to the overall evaluation of the vaccination campaign, we piloted online social listening processes to generate an insight report for the Public Health Service (PHS) Amsterdam. This study piloted online social listening processes at PHS Amsterdam to identify actionable insights into questions, concerns, and misinformation surrounding the HPV vaccination catch-up campaign among young adults. Following an inventory of potential platforms and data sources, a retrospective online social listening analysis was conducted across Instagram, Facebook, and X (formerly Twitter), using data from PHS Amsterdam, the National Institute for Public Health and the Environment, the Dutch public broadcasting foundation, and LINDA.meiden from January 1, 2023, to June 1, 2024. Publicly available posts, comments, and engagement concerning HPV vaccination were manually collected and inductively coded. Themes were assessed for risk based on expected potential harm and observed reach and were used to develop recommendations. A total of 821 posts and 5157 comments were collected and analyzed. Ten recurring themes were identified across varying risk levels. Two themes were classified as high risk: an information gap regarding HPV vaccination effectiveness and concerns about the transparency regarding HPV vaccine side effects. Three themes were classified as medium risk: questioning HPV vaccine effectiveness, reduced general vaccine trust following COVID-19, and accessibility issues related to vaccination locations and service times. Two themes were classified as neutral risk: questions regarding campaign eligibility criteria and calls for broader HPV prevention measures. Finally, 3 low-risk themes concerned questions regarding HPV vaccine brand specifics, campaign choices, and scheduling HPV appointments. Comments also referred to subsequent information sources, including reliable sources, false narratives, and misinformation. Recommendations focused on addressing questions and information gaps (ie, improving risk perception and providing more detailed HPV vaccine information), improving communication, and reducing practical barriers to vaccination. Manual social listening across selected online sources provided actionable insights into the public discourse during the HPV vaccination catch-up campaign. Results mostly reflected questions, concerns, and information gaps. Although some themes were critical of HPV vaccination, false narratives and misinformation did not dominate the discourse. Recommendations aim to reduce practical barriers and address information needs. This pilot showed that online social listening can be effectively implemented even with limited resources.",
-   "journal": "JMIR infodemiology",
-   "year": "2026",
-   "authors": [
-    "Eline E M W van der Werf",
-    "Judith I van Heugten",
-    "Kirsten M C Bisschops",
-    "Claire Lovell",
-    "T Sonia Boender"
-   ],
-   "doi": "10.2196/73803",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43044099/"
-  },
-  {
-   "pmid": "43043991",
-   "title": "Alcohol use reduces the efficacy of anti-PD1 immunotherapy by disrupting antitumor immunity.",
-   "abstract": "Immune checkpoint inhibition (ICI) has improved outcomes for some patients with advanced malignancies, but relatively few have a complete response. Alcohol use is common and impairs adaptive immunity. Here, we explored the link between alcohol use and ICI efficacy in mouse models of lung and bladder cancers and performed a retrospective assessment of a cohort of patients with cancer receiving ICI therapy. In both mouse models, a regimen of moderate-to-heavy ethanol intake reduced ICI efficacy by &#x223c;50% and increased tumor recurrence. In patients with lung cancer, regular alcohol use was associated with reduced survival benefit from ICI. Effects were less definitive in patients with bladder cancer, melanoma, and head and neck cancer, in whom alcohol use reporting was too limited. In mice bearing MB49 bladder tumors, ethanol intake reduced the number of tumor-infiltrated T cells favoring T helper 17 cell (T H 17 cell) over T H 1 cell phenotypes in tumor-associated CD4 + T cells. It also reduced the number of tissue-resident memory T cells, increased the proportion of T cells expressing the alternative immune checkpoint receptor TIGIT, and induced SREBP-mediated lipid signaling in tumor-associated T cells. Blocking TIGIT with antibodies or, to a lesser extent, inhibiting SREBP signaling with betulin improved the efficacy of PD1 receptor blockade. The findings suggest that regular alcohol use negatively affects ICI efficacy, which may be counteracted by cotargeting TIGIT. Future incorporation of patients' alcohol use in cancer databases will help define its effect on the outcome of various therapies in multiple cancers.",
-   "journal": "Science signaling",
-   "year": "2026",
-   "authors": [
-    "Kristen N Gilley",
-    "Jason Garness",
-    "Ali Khan",
-    "Baylee R Materia",
-    "Brandon Carpenter",
-    "Mitra Shabrang",
-    "Wolfgang Beckabir",
-    "Mark G Woodcock",
-    "Chad V Pecot",
-    "Benjamin G Vincent",
-    "Leon G Coleman"
-   ],
-   "doi": "10.1126/scisignal.aef1375",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43043991/"
-  },
-  {
-   "pmid": "43043976",
-   "title": "The 32nd Annual Prostate Cancer Foundation Scientific Retreat Report.",
-   "abstract": "The 32nd Annual Prostate Cancer Foundation (PCF) Scientific Retreat took place in Carlsbad, CA on October 23-25, 2025. The Annual PCF Scientific Retreat is a global forum for presenting the newest basic, translational, and clinical discoveries in prostate cancer, alongside work from related fields. Presentations highlight discoveries with strong potential to advance prostate cancer understanding, change clinical practice, and improve patient outcomes. The 2025 PCF Retreat featured research and special lectures from many disciplines, including: (i) next-generation theranostics; (ii) emerging immunotherapy approaches in prostate cancer; (iii) understanding and drugging the epigenome; (iv) clinical trial updates; (v) artificial intelligence (AI) and machine learning; (vi) circulating biomarkers; (vii) harnessing the host microbiome in cancer; (viii) exercise interventions for patients with prostate cancer; (ix) CYP17A1-independent androgen biosynthesis as a mechanism of persistent androgen production; (x) Prostate Cancer Working Group 4 recommendations for trial design and response assessment; (xi) tissue-guided optimization of combination therapy; (xii) PCF Women in Science Lifetime Achievement Award lecture; and (xiii) bridging biomedical research and drug development. The 2025 PCF Scientific Retreat illustrated how advances across diverse fields, including theranostics, immunotherapy, epigenetics, AI, and liquid biopsy, are converging to reshape how prostate cancer is understood, monitored, and treated. Recurring themes included tumor heterogeneity and lineage plasticity as determinants of treatment response, the need for predictive biomarkers to guide increasingly intensive and combination therapies, and the movement of effective therapies into earlier disease settings. This report reflects the state of the science as of October 2025.",
-   "journal": "The Prostate",
-   "year": "2026",
-   "authors": [
-    "Andrea K Miyahira",
-    "Phillip J Koo"
-   ],
-   "doi": "10.1002/pros.70276",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43043976/"
-  },
-  {
-   "pmid": "43043975",
-   "title": "Robust CD8 T-cell response generated via attenuated Plasmodium sporozoite prime and multi-epitope mRNA vaccine boost.",
-   "abstract": "Plasmodium infections and subsequent malaria disease remain a global health scourge. Liver-resident and circulating memory CD8 T cells elicited by whole parasite vaccines such as genetically or radiation-attenuated sporozoites can provide potent immunity to Plasmodium infection and prevent the development of the symptomatic blood stage of infection in humans, nonhuman primates, and mice. However, this requires multiple, large doses of attenuated sporozoites, posing numerous logistical challenges. To partially address these logistical challenges, here, we prime CB6F1 mice with a human weight-normalized, subprotective single dose of genetically or radiation-attenuated Plasmodium berghei sporozoites to elicit liver-resident and circulating memory T cells prior to boosting with a novel lipid nanoparticle mRNA vaccine encoding multiple CD8 T-cell epitopes from liver-stage proteins. We show that boosting primed mice with this mRNA vaccine engenders sterilizing immunity against sporozoite challenge by generating a robust liver-stage-specific CD8 T-cell response when administered intravascularly or intramuscularly. Thus, combining a single, dose-sparing attenuated sporozoite immunization with a multi-epitope translationally relevant mRNA vaccine can engender protective immunity against P. berghei sporozoite challenge via the generation of a potent circulating and resident memory liver CD8 T-cell response. Minimizing the number of attenuated sporozoite doses required to prime CD8 T cells with a full complement of liver-stage malaria-specific epitopes effectively mitigates some logistical challenges associated with attenuated sporozoite vaccination.",
-   "journal": "Journal of immunology (Baltimore, Md. : 1950)",
-   "year": "2026",
-   "authors": [
-    "Sahaana Arumugam",
-    "Mariah Hassert",
-    "Blandine Franke-Fayard",
-    "John T Harty"
-   ],
-   "doi": "10.1093/jimmun/vkag314",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43043975/"
-  },
-  {
-   "pmid": "43043788",
-   "title": "ITK deficiency protects against autoimmune pulmonary hemorrhage in mice by promoting amphiregulin-producing regulatory T cells.",
-   "abstract": "Pulmonary hemorrhage (PH) is a life-threatening manifestation of systemic autoimmunity caused by immune-mediated disruption of the alveolar capillary barrier. Despite high mortality, the molecular checkpoints that shift destructive inflammation toward protective immune regulation remain poorly defined. Here, using a pristane-induced PH mouse model, we identify interleukin-2-inducible T-cell kinase (ITK) as a critical regulator of autoimmune lung injury. ITK deficiency ( Itk&#x207b; / &#x207b; ) conferred near-complete protection from PH and associated multiorgan injury, accompanied by reduced proinflammatory monocytes and neutrophils and increased Foxp3 + regulatory T cells (Tregs). Adoptive transfer of Itk&#x207b; / &#x207b; Tregs protected wild-type recipients from PH and suppressed systemic proinflammatory cytokines, identifying Tregs as key mediators of tissue protection. Mechanistically, lung Itk &#x207b; / &#x207b; Tregs exhibited increased amphiregulin, a mediator of tissue repair. Transcriptomic profiling further showed that ITK loss reprogrammed Tregs toward a metabolically and functionally enhanced state, with enrichment of oxidative phosphorylation, mTORC1, and STAT5 signaling, and tissue-repair programs. These findings establish ITK as a regulator of the balance between pulmonary injury and reparative immunity and support targeting the ITK axis in severe inflammatory lung disease.",
-   "journal": "eLife",
-   "year": "2026",
-   "authors": [
-    "Mohammad Saddam Hossain",
-    "Ali Mobeen",
-    "Ibrahim H Topkaya",
-    "Hui Xiong",
-    "Rosanne Trevail",
-    "Li Chen",
-    "Liye Suo",
-    "Mobin Karimi"
-   ],
-   "doi": "10.7554/eLife.111915",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43043788/"
-  },
-  {
-   "pmid": "43043922",
-   "title": "Costs of Common Sexually Transmitted Infection Tests from 2024 MarketScan Commercial Outpatient Claims.",
-   "abstract": "We estimated 2024 per-unit costs for commonly used sexually transmitted infection tests and selected ancillary services using outpatient claims from the Merative&#x2122; MarketScan&#xae; Commercial Database. These updated estimates may provide useful inputs for cost-effectiveness analyses, cost-of-illness studies, and related economic analyses.",
-   "journal": "Sexually transmitted diseases",
-   "year": "2026",
-   "authors": [
-    "Samuel T Eppink",
-    "Brian Emerson"
-   ],
-   "doi": "10.1097/OLQ.0000000000002449",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43043922/"
-  },
-  {
-   "pmid": "43043798",
-   "title": "Visceral Leishmaniasis Mimicking Disseminated Tuberculosis and Hematological Malignancy: Diagnosis by Bone Marrow Trephine Biopsy.",
-   "abstract": "Visceral leishmaniasis (VL), or kala-azar, is a potentially life-threatening parasitic disease caused by Leishmania donovani in the Indian subcontinent. It has a wide spectrum of clinical manifestations that may mimic hematological malignancies or disseminated infections, potentially leading to diagnostic delay. We report a case of a 32-year-old male agricultural worker from a nonendemic area who presented with prolonged intermittent fever, generalized weakness, loss of weight, severe pallor, hepatomegaly, and massive splenomegaly. Laboratory investigations showed severe pancytopenia, with hemoglobin (Hb) of 3.3 g/dL, leukopenia, thrombocytopenia, markedly elevated erythrocyte sedimentation rate, and prolonged activated partial thromboplastin time. Malaria, dengue, scrub typhus, typhoid, human immunodeficiency virus, viral hepatitis, and bacterial infections were excluded by appropriate investigations. Imaging revealed hepatosplenomegaly, mesenteric lymphadenopathy, and diffuse miliary pulmonary nodules, raising suspicion of disseminated tuberculosis and hematological malignancy. Initial bone marrow aspiration was inconclusive; however, a subsequent bilateral bone marrow trephine biopsy demonstrated numerous intracellular Leishman-Donovan bodies within histiocytes, confirming the diagnosis of visceral leishmaniasis. The patient was treated with liposomal amphotericin B at a dose of 10 mg/kg as a single intravenous dose, along with supportive management including correction of severe anemia and close hematological monitoring. He demonstrated progressive clinical and hematological improvement during 3 months of follow-up. This case highlights the diagnostic value of bone marrow trephine biopsy in patients with suspected VL when initial investigations are inconclusive and emphasizes the importance of considering VL in the differential diagnosis of prolonged fever, pancytopenia, and hepatosplenomegaly, even in non-endemic settings. R&#xe9;sum&#xe9; La leishmaniose visc&#xe9;rale (LV), ou kala-azar, est une maladie parasitaire potentiellement mortelle caus&#xe9;e par Leishmania donovani dans le sous-continent indien. Elle pr&#xe9;sente un large &#xe9;ventail de manifestations cliniques pouvant simuler des h&#xe9;mopathies malignes ou des infections diss&#xe9;min&#xe9;es, entra&#xee;nant ainsi un retard diagnostique potentiel. Nous rapportons le cas d&#x2019;un homme de 32 ans, ouvrier agricole originaire d&#x2019;une r&#xe9;gion non end&#xe9;mique, qui consultait pour une fi&#xe8;vre intermittente prolong&#xe9;e, une faiblesse g&#xe9;n&#xe9;ralis&#xe9;e, une perte de poids, une p&#xe2;leur s&#xe9;v&#xe8;re, une h&#xe9;patom&#xe9;galie et une spl&#xe9;nom&#xe9;galie massive. Les examens biologiques ont r&#xe9;v&#xe9;l&#xe9; une pancytop&#xe9;nie s&#xe9;v&#xe8;re, avec une h&#xe9;moglobine (Hb) &#xe0; 3.3 g/dL, une leucop&#xe9;nie, une thrombop&#xe9;nie, une vitesse de s&#xe9;dimentation des &#xe9;rythrocytes fortement &#xe9;lev&#xe9;e et un temps de thromboplastine partielle activ&#xe9;e prolong&#xe9;. Le paludisme, la dengue, le typhus des broussailles, la fi&#xe8;vre typho&#xef;de, le virus de l&#x2019;immunod&#xe9;ficience humaine, les h&#xe9;patites virales et les infections bact&#xe9;riennes ont &#xe9;t&#xe9; exclus par les investigations appropri&#xe9;es. L&#x2019;imagerie a r&#xe9;v&#xe9;l&#xe9; une h&#xe9;patospl&#xe9;nom&#xe9;galie, des ad&#xe9;nopathies m&#xe9;sent&#xe9;riques et de multiples nodules pulmonaires miliaires diffus, faisant suspecter initialement une tuberculose diss&#xe9;min&#xe9;e et une h&#xe9;mopathie maligne. La premi&#xe8;re aspiration m&#xe9;dullaire s&#x2019;est r&#xe9;v&#xe9;l&#xe9;e non concluante; cependant, une biopsie m&#xe9;dullaire bilat&#xe9;rale par carotte ost&#xe9;om&#xe9;dullaire r&#xe9;alis&#xe9;e ult&#xe9;rieurement a mis en &#xe9;vidence de nombreux corps de Leishman-Donovan intracellulaires au sein des histiocytes, confirmant le diagnostic de leishmaniose visc&#xe9;rale. Le patient a &#xe9;t&#xe9; trait&#xe9; par amphot&#xe9;ricine B liposomale &#xe0; la dose de 10 mg/kg en une dose intraveineuse unique, associ&#xe9;e &#xe0; un traitement symptomatique comprenant la correction de l&#x2019;an&#xe9;mie s&#xe9;v&#xe8;re et une surveillance h&#xe9;matologique &#xe9;troite. Une am&#xe9;lioration clinique et h&#xe9;matologique progressive a &#xe9;t&#xe9; observ&#xe9;e au cours des trois mois de suivi. Ce cas souligne la valeur diagnostique de la biopsie m&#xe9;dullaire par carotte ost&#xe9;om&#xe9;dullaire chez les patients pr&#xe9;sentant une suspicion de leishmaniose visc&#xe9;rale lorsque les premi&#xe8;res investigations sont non concluantes. Il met &#xe9;galement en &#xe9;vidence l&#x2019;importance d&#x2019;inclure la leishmaniose visc&#xe9;rale dans le diagnostic diff&#xe9;rentiel d&#x2019;une fi&#xe8;vre prolong&#xe9;e associ&#xe9;e &#xe0; une pancytop&#xe9;nie et une h&#xe9;patospl&#xe9;nom&#xe9;galie, m&#xea;me dans les r&#xe9;gions non end&#xe9;miques.",
-   "journal": "Annals of African medicine",
-   "year": "2026",
-   "authors": [
-    "Arush Bansal",
-    "Jagdeep Singh",
-    "Navresham Singh",
-    "Harshdeep Singh"
-   ],
-   "doi": "10.4103/aam.aam_1132_26",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43043798/"
-  },
-  {
-   "pmid": "43043771",
-   "title": "Changes in air pollution-avoidance behaviour and blood pressure following an AirHealth behavioural intervention among adults in Nigeria: a quasi-experimental study.",
-   "abstract": "This study assessed changes in air pollution-avoidance behaviour and blood pressure (BP) following exposure to a novel co-created AirHealth behavioural intervention among apparently healthy community members in Nigeria. A quasi-experimental pre&#xa0;and postintervention study was conducted among 607 apparently healthy highly exposed adults in Ibadan, Nigeria. Baseline assessment included air pollution-avoidance behaviour, assessed using an 11-item Capacity, Opportunity, and Motivation-Behaviour (COM-B) framework, and SBP and DBP, measured following a standardised procedure. The 12-week AirHealth intervention comprised a video documentary and a community-led educational session. Postintervention assessments were conducted to measure changes in COM-B scores and SBP/DBP as 'unimproved' versus 'improved' behaviour and BP, respectively. A paired t-test and linear mixed-effects model were used to evaluate the differences, while a multivariate regression model was used to determine the predictors of unimproved behaviour and BP. At baseline, the mean SBP and DBP were 130.3&#x200a;&#xb1;&#x200a;30.6 and 76.6&#x200a;&#xb1;&#x200a;16.8&#x200a;mmHg, respectively. Following the AirHealth intervention, there was a significant reduction in mean SBP (4.58&#x200a;mmHg, 95% confidence interval: 1.43-7.74), while the reduction in mean DBP was not significant. Multivariate analysis showed that unimproved behaviour (aOR 2.87; 95% CI: 1.87-3.80) was an independent predictor of unimproved BP among the apparently healthy population. The AirHealth intervention was associated with improved air pollution-avoidance behaviour and reduced SBP among apparently healthy adults in Nigeria. These findings suggest that behavioural strategies targeting air pollution exposure may have potential for improving air pollution-avoidance practices and BP at the population level.",
-   "journal": "Journal of hypertension",
-   "year": "2026",
-   "authors": [
-    "Adekunle Gregory Fakunle",
-    "Oluwapelumi Peter Arinola",
-    "Temilade Bello",
-    "Akintayo Olamide Ogunwale",
-    "Oyewale Mayowa Morakinyo",
-    "Olubunmi Akinboye",
-    "Susan Motunrayo Kebu",
-    "Marvellous Adeoye",
-    "Bosede E Adebayo",
-    "Akinkunmi Paul Okekunle",
-    "Augustine Odili",
-    "Mark R Miller",
-    "Amam C Mbakwem",
-    "Abiodun Moshood Adeoye"
-   ],
-   "doi": "10.1097/HJH.0000000000004498",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43043771/"
-  },
-  {
-   "pmid": "43043468",
-   "title": "Liver and spleen stiffness by 2D shear-wave elastography for identifying high-risk varices in cirrhosis: a prospective cohort study.",
-   "abstract": "This study evaluated the performance of liver and spleen stiffness measurement (LSM and SSM) by two-dimensional shear-wave elastography (2D-SWE) in ruling out high-risk esophageal varices (HRVs) and their utility in predicting other portal hypertension-related gastroduodenal lesions and liver-related events (LREs) in patients with cirrhosis. This prospective cohort study enrolled consecutive adult patients with cirrhosis undergoing screening esophagogastroduodenoscopy (EGD) between 2023 and 2025 at Chulalongkorn University Hospital, Thailand. LSM and SSM were acquired using 2D-SWE (Supersonic Mach 30) within 2 days of EGD by a single blinded operator. HRVs were defined endoscopically as medium-to-large varices or small varices with red wale markings. 169 consecutive patients with cirrhosis were enrolled. Of these, 77 (45.6%) and 40 (23.7%) patients had esophageal varices (EVs) and HRVs, respectively. Leading cirrhosis causes were hepatitis B and C virus (n&#x2009;=&#x2009;66, 39.1%). At thresholds to maximize specificity while maintaining sensitivity&#x2009;&#x2265;&#x2009;90%, LSM&#x2009;<&#x2009;13.7&#xa0;kPa and SSM&#x2009;<&#x2009;37.6&#xa0;kPa by 2D-SWE could spare EGD in 36.7% and 44.4%, respectively, with corresponding missed HRV rates of 4.8% and 4%. Moreover, 2D-SWE-derived LSM and SSM yielded AUCs of 0.778 and 0.844 for HRVs, 0.742 and 0.785 for EVs, and 0.766 and 0.724 for portal hypertensive gastropathy (all p&#x2009;<&#x2009;0.001). In multivariate Cox proportional hazards analysis, Child-Pugh score and LSM by 2D-SWE were independently associated with the development of LREs within 1 year. LSM and SSM using 2D-SWE may help reduce the need for screening EGD in patients with cirrhosis, with observed missed-HRV rates of 4.8% and 4.0%, respectively. These findings support further evaluation of 2D-SWE for variceal risk stratification, particularly where vibration-controlled transient elastography is unavailable. The proposed cutoffs require external validation before clinical implementation.",
-   "journal": "Abdominal radiology (New York)",
-   "year": "2026",
-   "authors": [
-    "Kessarin Thanapirom",
-    "Jiratchaya Ngampimonsri",
-    "Panarat Thaimai",
-    "Kanteera Sriyudthsak",
-    "Salisa Wejnaruemarn",
-    "Chidkamon Pattarawongpaiboon",
-    "Prooksa Ananchuensook",
-    "Sombat Treeprasertsuk"
-   ],
-   "doi": "10.1007/s00261-026-05876-5",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43043468/"
-  },
-  {
-   "pmid": "43043098",
-   "title": "CLEC18 Suppressed by ER Stress in Chronic Hepatitis B Virus Infection and Signals an Immune Recovery Biomarker After Seroconversion.",
-   "abstract": "CLEC18 is a novel C-type lectin highly expressed in the liver and localized to the endoplasmic reticulum (ER). The previous study showed that plasma CLEC18 levels are reduced in patients with chronic hepatitis B virus (HBV) infection and are associated with treatment response to nucleos(t)ide analog (NUC) therapy. HBV is known to induce ER stress to facilitate viral replication and subvert host immune responses; However, the mechanism by which ER stress contributes to CLEC18 downregulation and impaired secretion remains unclear. We retrospectively analyzed 121 patients across different clinical phases of chronic HBV infection and 17 healthy controls. Plasma CLEC18 levels were measured and compared among HBV phases. In parallel, Huh7 hepatoma cells were transfected with HBV plasmids, and ER stress was induced using tunicamycin and thapsigargin to assess unfolded protein response activation and intracellular versus extracellular CLEC18 levels. Plasma CLEC18 levels were significantly higher during the immune-clearance phase and after hepatitis B surface antigen (HBsAg) seroconversion than in the immune-tolerance phase. In Huh7 cells, HBV transfection or chemical induction of ER stress activated phospho-eIF2&#x3b1;, ATF4, and XBP-1 s and led to intracellular accumulation of CLEC18 with a concomitant reduction in its secretion into the supernatant. Chronic HBV infection appears to suppress circulating CLEC18 by ER stress-mediated impairment of its secretion, while restoration of viral control is accompanied by recovery of plasma CLEC18. CLEC18 may thus serve as a biomarker of immune recovery in chronic HBV infection, and targeting ER stress to restore CLEC18 trafficking could be a potential therapeutic approach.",
-   "journal": "Immunity, inflammation and disease",
-   "year": "2026",
-   "authors": [
-    "Jye-Lin Hsu",
-    "Tsung-Yu Tsai",
-    "Shie-Liang Hsieh",
-    "Cheng-Yuan Peng"
-   ],
-   "doi": "10.1002/iid3.70563",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43043098/"
-  },
-  {
-   "pmid": "43044116",
-   "title": "The DARk side of aspartyl-tRNA synthetase 1 (DARS1): From tRNA aminoacylation to driver of liver cancer.",
+   "pmid": "43046873",
+   "title": "Weekly Journal Scan: Can we detect and REACT early enough to change the trajectory of subclinical atherosclerosis?",
    "abstract": "",
-   "journal": "Hepatology (Baltimore, Md.)",
+   "journal": "European heart journal",
    "year": "2026",
    "authors": [
-    "Jagannath Misra"
+    "Giovanna Liuzzo",
+    "Massimo Volpe"
    ],
-   "doi": "10.1097/HEP.0000000000001913",
-   "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43044116/"
+   "doi": "10.1093/eurheartj/ehag890",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046873/"
   },
   {
-   "pmid": "43043971",
-   "title": "Unveiling MLLT3: A Key Transcription Factor in ESCC Prognosis and Immune Infiltration.",
-   "abstract": "The transcription factor Myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 (MLLT3) super elongation complex subunit plays an important role in the regulation of oncogenes and suppressor genes during cancer progression; however, how they participate in the occurrence and development of esophageal squamous cell carcinoma (ESCC) has yet to be fully elucidated. Using Genotype-Tissue Expression (GTEx) and The Cancer Genome Atlas (TCGA), differential expression analysis of 1,834 transcription factors (TFs) was performed, which identified 251 up-regulated and 159 down-regulated TFs. Enrichment analysis revealed that differentially expressed TFs (DETFs) were implicated in the transcriptional misregulation of cancer. A total of 17 candidate DETFs were associated with survival. Subsequently, transcription factor like 5 (TCFL5), MLLT3, zinc finger family (ZNF) 274, and ZNF 697 were identified as four key genes associated with disease progression by least absolute shrinkage and selection operator and random forest algorithms. In univariable Cox regression with hazard ratios expressed per 1 standard deviation (SD) of expression, MLLT3 [HR&#x2009;=&#x2009;0.430, 95% confidence interval (CI): 0.267-0.693, P&#x2009;=&#x2009;5.2&#x2009;&#xd7;&#x2009;10 -4 ; Benjamini-Hochberg adjusted p&#x2009;=&#x2009;0.009] was the transcription factor most strongly associated with overall survival. Single-cell transcriptome data showed that MLLT3 was exceptionally expressed in T cell subpopulations. Pan-cancer analysis revealed that MLLT3 exhibited significant positive correlations with CD4 + resting memory T cells across 14 cancer types. Notably, in esophageal carcinoma (ESCA), MLLT3 expression showed a moderately strong positive correlation with CD4 + resting memory T cell infiltration (Spearman rho&#x2009;=&#x2009;0.452, P&#x2009;=&#x2009;1.91&#x2009;&#xd7;&#x2009;10 -10 ), suggesting a potential association. Reduced MLLT3 expression was detected in ESCC, suggesting its potential tumor-suppressor role. In vitro experiments demonstrated that MLLT3 knockdown significantly promoted cancer cell proliferation and migration. Mechanistically, MLLT3 may modulate the levels of phosphorylated extracellular signal-regulated kinase, a key effector in the mitogen-activated protein kinase signaling pathway, thereby mediating its anti-tumor effects. These findings indicate that MLLT3 acts as a tumor suppressor gene, providing novel insights into its dual role in shaping immune infiltration and disease progression.",
-   "journal": "Molecular carcinogenesis",
+   "pmid": "43046872",
+   "title": "Semaglutide in Heart Failure With Preserved-Ejection Fraction and Obesity: The Gap Between Discussion and Use.",
+   "abstract": "Semaglutide improves symptoms and physical function in heart failure with preserved-ejection fraction and obesity. Whether discussion of treatment is accompanied by its use in routine care is less well understood. We retrospectively assessed treatment discussion, follow-up medication records and documented reasons for non-initiation in 159 patients from a prospective registry. Available follow-up information was retained when assessment dates were incompletely transcribed. Exploratory associations with registry-recorded diabetes or prediabetes were assessed using Firth logistic regression. Semaglutide was discussed or offered in 148/159 patients (93.1%). Among 148 baseline nonusers with subsequent medication information, newly recorded semaglutide use was identified in 23 (15.5%). Recorded diabetes or prediabetes showed an exploratory association with this outcome (adjusted odds ratio 3.76, 95% confidence interval 1.08-19.93), but a sensitivity analysis restricting the reference group by glycated haemoglobin was inconclusive. Among 125 patients without newly recorded semaglutide use, affordability concerns were documented in 55 (44.0%), safety concerns in 48 (38.4%), and both in 38 (30.4%). Frequent discussion of semaglutide coexisted with infrequent documentation of subsequent use. Financial and medication-related concerns commonly overlapped. These findings identify a gap in routine care without establishing its causal determinants or verifying treatment initiation.",
+   "journal": "Cardiology",
    "year": "2026",
    "authors": [
-    "Shuolei Li",
-    "Yashu Zhang",
-    "Yongtao Bai"
+    "Ivana Jurin",
+    "Tomislav Jakljevi&#x107;"
    ],
-   "doi": "10.1002/mc.70208",
-   "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43043971/"
+   "doi": "10.1159/crd/absag023",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046872/"
   },
   {
-   "pmid": "43043711",
-   "title": "Multigene-engineered fibroblast-derived biomimetic vesicles for cancer multimodal targeting and immune reprogramming.",
-   "abstract": "Despite advances of biomimetic vesicles in cancer therapy, clinical challenges such as biosafety, scalability, and therapeutic efficacy remain significant hurdles. To address these limitations, we reveal the critical tumor-homing motifs of cancer cell membrane vesicles: a synergistic \"chemotactic recruitment-adhesion anchoring\" cascade effect, especially chemokine axes (e.g., CXCL12/CXCR4) and integrins (e.g., &#x3b1;V&#x3b2;3). In this study, we identify autologous fibroblasts as an ideal \"chassis\" cell for engineering biomimetic carriers. Using this platform, we construct multigene-engineered fibroblast-derived nanovesicles (X-Fb-MNVs) coexpressing critical chemokine receptor CXCR4 and adhesion ligand iRGD, as well as PD-1 and CD47 protein, which achieved robust and broad-spectrum tumor targeting across breast, liver, pancreatic, and colon cancer PDX models. Significantly, CD47-modified X-Fb-MNVs reduced hepatic accumulation and phagocytic clearance, thereby minimizing off-target effects in vivo and improving tumor targeting efficiency. By loading diABZI STING agonist into X-Fb-MNVs with overexpressed PD-1, our system activates both T cell and innate immunity, reversing ICB resistance and achieving 83.3% survival with no tumor recurrence and long-term immune surveillance over 90 d, whereas no mice survived with free diABZI treatment. By merging multimodal targeting, immune reprogramming, and scalable production into a single platform, X-Fb-MNVs represent a remarkable biomimetic system with transformative potential for a wide-spectrum cancer immunotherapy.",
-   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+   "pmid": "43046868",
+   "title": "Evaluation of the ESC Guideline based risk stratification of syncope patients in the emergency department A post-hoc analysis of the SYNERGY-trial.",
+   "abstract": "Syncope accounts for approximately 1% of all emergency department(ED) visits. With 1-year mortality rates reaching up to 33% in certain arrhythmogenic aetiologies, adequate assessment in the ED is imperative. The risk stratification as described in the 2018 European Society of Cardiology(ESC) guidelines on syncope is widely used in clinical practice, but has never been validated. We therefore aimed to determine the ability to identify cardiac syncope of the composite guideline-based RISC-score, and investigate the association of individual risk-features and cardiac aetiology. 520 patients presenting with syncope to the ED of five Dutch hospitals were included. Adjudicated diagnoses were established by a multidisciplinary expert-panel following one-year of critical follow-up. ED-documentation was analyzed for the presence of guideline risk-features. Overall discriminative ability of the guideline-based RISC-score was evaluated using receiver-operating-characteristic(ROC) curve-analysis. Uni- and multivariate logistic regression analyses were performed to assess the predictive ability of the individual risk-features. 50 patients(9.6%) were adjudicated with a cardiac aetiology of syncope. The RISC-score demonstrated excellent discriminative ability with an area-under-the-curve(AUC) of 0.928. The guideline based cut-off threshold of 2 points yielded a sensitivity of 96.0%, a specificity of 78.5%, a positive predictive value of 33.2% and a negative predictive value of 99.5%. Multivariate regression analysis identified age, no warning-symptoms, angina pectoris, unevaluated systolic murmur, atrial fibrillation, syncope during exertion and bifascicular-block as independent predictors of cardiac syncope. The ESC-guideline based RISC-score can be reliably and safely used for excluding a cardiac aetiology of syncope in patients in the ED.",
+   "journal": "Europace : European pacing, arrhythmias, and cardiac electrophysiology : journal of the working groups on cardiac pacing, arrhythmias, and cardiac cellular electrophysiology of the European Society of Cardiology",
    "year": "2026",
    "authors": [
-    "YaNan Tan",
-    "Lu Bai",
-    "Li-Fen Zhang",
-    "Min Luo",
-    "Quan Wan",
-    "YunZhi Liu",
-    "BaiFeng Zhang",
-    "ZiYang Qi",
-    "LanQi Gong",
-    "Shan-Shan Li",
-    "ZhiTong Bing",
-    "Lei Yang",
-    "ZhiHao Xing",
-    "ZuHua Wang",
-    "Anne Wing-Mui Lee",
-    "Xin-Yuan Guan"
+    "Thomas T Boel",
+    "Thijs M van de Griendt",
+    "Manon Ootes",
+    "Steven van Zanten",
+    "Jelle S Y de Jong",
+    "Maryam Ghariq",
+    "Marianne Bootsma",
+    "Martin E W Hemels",
+    "Evert C A Kaal",
+    "Egbert M Koomen",
+    "Jan G J Groothuis",
+    "Suzanne Y G Peeters",
+    "Joris R de Groot",
+    "Roland D Thijs",
+    "Frederik J de Lange"
    ],
-   "doi": "10.1073/pnas.2619464123",
-   "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43043711/"
+   "doi": "10.1093/europace/euag331",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046868/"
   },
   {
-   "pmid": "43043465",
-   "title": "Simultaneous cholecystectomy is associated with increased low-grade postoperative morbidity after minor liver resection for metastatic disease: a retrospective single-center cohort study.",
-   "abstract": "Simultaneous cholecystectomy (sCHE) is frequently performed during liver resection for metastatic disease for technical or prophylactic reasons, but its impact on postoperative morbidity remains unclear. This retrospective single-center study included 472 patients undergoing liver resection for metastatic disease between 2007 and 2023. Patients were stratified by sCHE status. Postoperative complications were assessed using the Clavien-Dindo classification, with subgroup analyses according to minor or major liver resection. Baseline characteristics were comparable between groups, although patients undergoing sCHE had a higher metastatic burden and more frequently received preoperative liver-directed therapies. Postoperative complications occurred more often after sCHE in the overall cohort (55% vs. 45%, p&#x2009;=&#x2009;0.039), particularly after minor liver resection (56% vs. 39%, p&#x2009;=&#x2009;0.003). This difference was mainly driven by low-grade Clavien-Dindo complications (47% vs. 26%, p&#x2009;<&#x2009;0.001), whereas major complications remained comparable (p&#x2009;=&#x2009;0.410). No significant difference in postoperative morbidity was observed after major liver resection (57% vs. 70%, p&#x2009;=&#x2009;0.292). In multivariable analysis, sCHE was not independently associated with postoperative morbidity, while operative duration remained a significant predictor of complications. The present findings do not provide evidence supporting routine prophylactic cholecystectomy during liver resection for metastatic disease in the absence of a clear clinical or surgical indication. Increased morbidity observed after minor liver resection was predominantly driven by low-grade complications. The association was not confirmed after multivariable adjustment, potentially reflecting procedural complexity.",
-   "journal": "Langenbeck's archives of surgery",
+   "pmid": "43046839",
+   "title": "Redox Reprogramming of the Tumor Microenvironment: Targeting Extracellular ROS to Restore Antitumor Immunity.",
+   "abstract": "Reactive oxygen species (ROS) are central regulators of redox homeostasis yet exert paradoxical effects in cancer. While ROS overproduction can directly kill tumor cells, persistent oxidative stress in the tumor microenvironment (TME) paradoxically impairs antitumor immunity. Excess extracellular ROS oxidize critical thiols on cytotoxic T lymphocytes (CTLs) and natural killer (NK) cells, disrupting immune synapse formation and effector function. ROS also compromise dendritic cells (DCs) antigen presentation via endoplasmic reticulum (ER) stress and lipid accumulation, and attenuate immunogenic cell death (ICD) by oxidizing damage-associated molecular patterns such as high mobility group box 1 protein (HMGB1) from its immunostimulatory disulfide form to an inert sulfonated state. These disruptions create a major barrier to effective immunotherapy. This review highlights that redox imbalance, rather than ROS abundance, determines therapeutic outcomes. We discuss mechanisms of ROS-mediated immune suppression, emphasizing oxidative modification of immune cell thiols, DC dysfunction, and disruption of danger signaling. Recent ROS-scavenging strategies, including small-molecule antioxidants and nanomedicine platforms, enable spatially and temporally controlled modulation of oxidative stress to restore immune competence. Emerging evidence supports strategies integrating transient ROS generation for tumor killing with sustained clearance to preserve immune signaling. We further outline challenges and future directions, including redox threshold identification, feedback-responsive systems, and biomarker-guided patient stratification. Precision redox modulation thus emerges as a promising approach to overcome immune suppression and enhance cancer immunotherapy durability.",
+   "journal": "Bioconjugate chemistry",
    "year": "2026",
    "authors": [
-    "Nick Seyfried",
-    "Celine Appel",
-    "Christian Stoess",
-    "Helmut Friess",
-    "Norbert Hueser",
-    "Ulrich Nitsche"
+    "Zichuang Xu",
+    "Li Wang",
+    "Jinhui Zhang",
+    "Yaqian He",
+    "Jinxu Wang"
    ],
-   "doi": "10.1007/s00423-026-04375-x",
-   "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43043465/"
+   "doi": "10.1021/acs.bioconjchem.6c00362",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046839/"
   },
   {
-   "pmid": "43043311",
-   "title": "Follicular Dendritic Cell Sarcoma Presenting as a Peripancreatic Mass: Morphologic Findings and Review of the Immunophenotypic Spectrum.",
-   "abstract": "Follicular dendritic cell sarcoma (FDCS) is a rare mesenchymal neoplasm derived from follicular dendritic cells. While aspiration-based cytologic assessments and core-needle biopsies (CNBs) on sarcomas may often be the only tool to guide treatment decisions, descriptions of FDCS remain limited, and diagnosis is challenging due to its broad morphologic spectrum and immunophenotypic overlap with other spindle and epithelioid neoplasms. We describe a patient with FDCS initially presenting as a peripancreatic mass within the gastrohepatic ligament, followed by rapid development of diffuse hepatic metastases. Fine-needle aspiration of liver lesions demonstrated characteristic but subtle morphologic features that, in retrospect, correlate with reported patterns of FDCS in cytologic specimens. This report highlights the uncommon presentation and morphologic findings of metastatic FDCS, underscores key diagnostic pitfalls, and expands the limited literature on this rare entity.",
-   "journal": "International journal of surgical pathology",
+   "pmid": "43046810",
+   "title": "Hydrogel-Based Therapies for Bladder Cancer: Intravesical Delivery, Immunomodulation, and Precision.",
+   "abstract": "Bladder cancer therapy faces significant challenges due to rapid drug clearance, poor urothelial penetration, and heterogeneous tumor distribution. Hydrogel-based platforms offer a versatile solution by enhancing intravesical drug retention, enabling controlled release, and supporting multifunctional interventions. These hydrogels can be engineered as mucoadhesive, thermosensitive, or field-responsive systems for intravesical delivery. Hydrogel-based immunotherapy further reshapes the tumor microenvironment, promoting local immune activation while minimizing systemic toxicity. Advanced designs incorporate tumor-responsive triggers, active transport, metabolic modulation, and extracellular matrix-targeted imaging to enable precision-guided therapy. Despite promising preclinical outcomes, translation to clinical practice requires addressing retention, safety, catheter compatibility, immunological effects, and regulatory considerations. Overall, hydrogel-based strategies represent a transformative approach for personalized, minimally invasive bladder cancer treatment, integrating chemotherapy, immunomodulation, and precision-guided interventions.",
+   "journal": "Tissue engineering. Part B, Reviews",
    "year": "2026",
    "authors": [
-    "Juan Luis Gomez Marti",
-    "Saeed Asiry",
-    "Gvantsa Kipiani",
-    "Dominck Guerrero",
-    "Samer Ali",
-    "Alyssa Yurovitsky",
-    "Tamara Giorgadze"
+    "Jiansong Han",
+    "Xu Li",
+    "Xu Zhou",
+    "Yuhan Zhang"
    ],
-   "doi": "10.1177/10668969261504969",
+   "doi": "10.1177/19373368261506151",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046810/"
+  },
+  {
+   "pmid": "43046784",
+   "title": "In Situ Programming of Armored CAR-Macrophages by Microneedle-Mediated Gene Delivery for Melanoma Immunotherapy.",
+   "abstract": "Despite clinical advances in CAR-T therapy and immune checkpoint blockade, effective immunotherapy for solid tumors remains limited by restricted immune-cell access and an immunosuppressive tumor microenvironment. Chimeric antigen receptor macrophages (CAR-M) provide an alternative strategy by combining antigen-directed myeloid programming with local immune remodeling. A self-locking microneedle platform incorporating mannose-modified nanoparticles (MNPs) enables localized in situ programming of CAR-expressing macrophages at melanoma sites. The platform co-delivers a tumor-antigen-directed CAR and a hypoxia-responsive anti-PD-L1 single-chain variable fragment (scPD-L1). Initial studies in B16F10-OVA tumors establish antigen-dependent CAR activity and coordinated local immune remodeling. Therapeutic efficacy is subsequently evaluated in parental B16F10 tumors using an endogenous tyrosinase-related protein 1 (TYRP1)-directed CAR. MNP(TYRP1/scPD-L1) microneedles delay tumor progression, prolong survival, and promote coordinated myeloid and CD8 + T-cell responses, while providing lower terminal tumor burden, greater local surface CAR + tumor-associated macrophage abundance, and reduced systemic exposure compared with dose-matched intratumoral administration. Reciprocal depletion further shows that CAR-programmed macrophages contribute to the antigen-directed myeloid response, whereas CD8 + T cells are major downstream effectors required for maximal and sustained tumor control. These findings establish a localized transcutaneous strategy that coordinates antigen-directed myeloid programming with adaptive antitumor immunity.",
+   "journal": "Advanced materials (Deerfield Beach, Fla.)",
+   "year": "2026",
+   "authors": [
+    "Juhyeong Hong",
+    "Hanseok Lim",
+    "Kyungdong Kim",
+    "Sangjin Kim",
+    "Jaehyun Kim",
+    "Shayan Fakhraei Lahiji",
+    "Yong-Hee Kim"
+   ],
+   "doi": "10.1002/adma.75787",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046784/"
+  },
+  {
+   "pmid": "43046777",
+   "title": "Nanobiomaterial Immunoengineering of Cold Tumors: Overcoming Barriers to Enable Therapeutic Response.",
+   "abstract": "Immunologically \"cold\" tumors are unresponsive to immune checkpoint blockade and adoptive cell therapies. Thisunresponsiveness has been attributed to factors such as limited antigen presentation, abnormal vasculature, metabolic constraints, suppressive myeloid and regulatory networks, and the exclusion of effector lymphocytes. Engineered nanobiomaterials have recently emerged as versatile immunoengineering platforms capable of modulating these barriers within the tumor microenvironment (TME). This narrative review summarizes recent preclinical and early clinical advances demonstrating how rationally designed nanobiomaterials can induce immunogenic cell death, activate innate immune sensing pathways, remodel immunosuppressive TMEs, enhance dendritic cell priming, and promote T-cell infiltration and memory formation. Through these mechanisms, nanobiomaterials have the capacity to reprogram cold tumors into immunotherapy-responsive microenvironments. The present study also evaluates the translational potential of nano-enabled immunotherapies and then discusses the current challenges related to targeting specificity, safety, and scalability. Finally, we highlight future directions focused on mechanism-driven design, integration with cell-based immunotherapies, and the incorporation of clinically relevant immune profiling strategies to improve therapeutic outcomes.",
+   "journal": "Immunological investigations",
+   "year": "2026",
+   "authors": [
+    "Husni Farah",
+    "Thamer Hani",
+    "Pareshkumar N Patel",
+    "Malathi Hanumanthayya",
+    "Subhashree Ray",
+    "Neeraj Bainsal",
+    "Dilbar Urazbaeva",
+    "Mukhayya Djumaniyazova"
+   ],
+   "doi": "10.1080/08820139.2026.2763060",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046777/"
+  },
+  {
+   "pmid": "43046763",
+   "title": "Intracellular Bacterial Imprinting Enables Preservable Whole-Cell Vaccination.",
+   "abstract": "Whole-tumor-cell vaccines preserve broad tumor-antigen repertoires, but converting living tumor cells into safe and intrinsically immunogenic vaccine substrates remains challenging. Here we generated bacteria-imprinted tumor (BiT) cells through the controlled internalization of attenuated Salmonella and subsequently prepared them as nonproliferative cellular vaccines by freeze-drying. Within a defined bacterial-loading window, intracellular Salmonella induced endoplasmic reticulum stress-associated immunogenic preprogramming while preserving tumor-cell integrity, thereby enhancing danger-signal exposure, antigen-presentation capacity, and immune visibility. Freeze-drying preserved the bacteria-induced immunogenic imprint by retaining key molecular and functional attributes while maintaining overall cellular architecture and markedly reducing residual bacterial viability. Vaccination with freeze-dried BiT (FD-BiT) cells elicited coordinated innate and adaptive immune responses, including antigen-presenting cell activation, T follicular helper-B-cell cooperation, and germinal-center formation. This coordinated T-B cell response was accompanied by durable memory formation and enhanced intratumoral CD8 + T-cell infiltration, proliferation, and functional maintenance. Accordingly, FD-BiT reduced primary tumor establishment and pulmonary metastasis and restrained the growth of tumors that emerged despite prophylactic vaccination. These findings establish intracellular bacterial programming and freeze-drying-mediated imprint preservation as a cell-engineering principle for whole-tumor-cell vaccination.",
+   "journal": "Advanced materials (Deerfield Beach, Fla.)",
+   "year": "2026",
+   "authors": [
+    "Xing Liu",
+    "Zhenyu Lu",
+    "Weixiu Wang",
+    "Daining Zhang",
+    "Zhongqin Tian",
+    "Jichuan Chen",
+    "Fengqi Zhang",
+    "Guihong Lu",
+    "Hai-Yan Xie",
+    "Weidong Nie"
+   ],
+   "doi": "10.1002/adma.75745",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046763/"
+  },
+  {
+   "pmid": "43046896",
+   "title": "Three-dose coverage may conceal a perinatal hepatitis B prevention gap in Ethiopia.",
+   "abstract": "",
+   "journal": "International health",
+   "year": "2026",
+   "authors": [
+    "Ercan Y&#x131;lmaz",
+    "Erdem Topal"
+   ],
+   "doi": "10.1093/inthealth/ihag108",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046896/"
+  },
+  {
+   "pmid": "43046588",
+   "title": "A Community-Led Integrated HIV, Viral Hepatitis and Sexually Transmitted Infections Testing Programme in Lebanon to Reach Key Populations.",
+   "abstract": "",
+   "journal": "Journal of the International AIDS Society",
+   "year": "2026",
+   "authors": [
+    "Muhammad Shahid Jamil",
+    "Shaimaa Elsafoury",
+    "Hossam Mohamed",
+    "Lara Chammaa",
+    "Lilian Alrayes",
+    "Patrick Farah",
+    "Alissar Rady",
+    "Ahmed Sabry Alaama",
+    "Nadia Badran"
+   ],
+   "doi": "10.1002/jia2.70227",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046588/"
+  },
+  {
+   "pmid": "43046509",
+   "title": "Research progress on chemical composition, pharmacological activity, clinical application and quality control of Swertia macrosperma .",
+   "abstract": "Swertia macrosperma C. B. Clarke in Hook. f. is a commonly used Tibetan medicinal herb of the Swertia genus in the family Gentianaceae. Its Tibetan names are \"Dida\", \"Sangdi\", and \"Zangyinchen\". The whole herb is uesd to clear liver heat, promote bile secretion, alleviate inflammation and fever, and protect the stomach, and is clinically indicated for jaundice, viral hepatitis and gastrointestinal disorders.Its key bioactive compounds, mainly including xanthones and their derivatives as well as iridoids and their glycosides, exhibit hepatoprotective, antiviral, hypoglycaemic, antibacterial, and antioxidant properties. Despite its traditional use in \"Zangyinchen\" preparations for liver and gallbladder heat syndromes, the development of S. macrosperma remains constrained by limited mechanistic insights, inadequate quality control standards, and insufficient clinical evidence. This review critically synthesises current research, identifies key knowledge gaps, and outlines future research priorities to strengthen quality standardisation, promote sustainable resource utilisation, advance Tibetan medicine development, and support evidence-based clinical application.",
+   "journal": "Natural product research",
+   "year": "2026",
+   "authors": [
+    "Tao Long",
+    "Yu-Hua Ma",
+    "Peng-Cheng Lin",
+    "Min Wang"
+   ],
+   "doi": "10.1080/14786419.2026.2762086",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046509/"
+  },
+  {
+   "pmid": "43046453",
+   "title": "Translational Multiplexed Raman Pathological Imaging for Precise Diagnosis of HBV-Associated Hepatocellular Carcinoma.",
+   "abstract": "Multiplexed vibrational imaging holds great potential for tissue molecular analysis, yet fully standardized workflows suitable for routine clinical histopathology remain scarce. Herein, we report a clinically applicable methodology using monodisperse triple-bond Raman polymer nanoparticles (&#x223c;50 nm). This approach integrates one-step labeling and single-scan acquisition to achieve high-performance multiplexed Raman imaging of 5 protein markers in hepatocellular carcinoma (HCC) tissues. Targeting hepatitis B virus (HBV)-associated HCC, our biomarker panel combines the viral protein HBx with 4 clinically used indicators: AFP, GS, GPC3, and CD34. We further reveal a clinically critical dissociation: several high-grade HBV-HCC specimens exhibit markedly elevated oncogenic markers with comparatively low HBx expression, consistent with antiviral therapy suppressing viral protein production without reversing tumor aggressiveness. Taking advantage of the ultranarrow, well-resolved signals generated by triple-bond tags within the biological silent region (1800-2800 cm-1), we achieve high-fidelity spatial mapping and quantitative analysis. Unlike conventional pathological methods relying on morphological observation, clinical manifestations, or single-marker detection, this technique simultaneously evaluates viral etiology, tumor progression, and metastatic potential, effectively reducing misclassification risk in patients with discordant viral and oncogenic profiles, and completes the entire assay within approximately 24 h. This study establishes a rapid and reliable histopathological platform that integrates pathogen identification and comprehensive cancer characterization, demonstrating substantial value for both cancer research and clinical diagnostics.",
+   "journal": "Analytical chemistry",
+   "year": "2026",
+   "authors": [
+    "Wei Zhu",
+    "Wen-Jing Xu",
+    "Xin-Ping Zhan",
+    "Jia-Cheng Chen",
+    "Yao Wang",
+    "Kai Dai",
+    "Ji-Ming Hu",
+    "Ai-Guo Shen",
+    "J&#xfc;rgen Popp"
+   ],
+   "doi": "10.1021/acs.analchem.6c04096",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046453/"
+  },
+  {
+   "pmid": "43045981",
+   "title": "The association between intrahepatic cholestasis of pregnancy and risk of small for gestational age in China: a meta-analysis.",
+   "abstract": "To identify the relationship of intrahepatic cholestasis of pregnancy (ICP) with the occurrence risk of small for gestational age (SGA) in China. The Chinese National Knowledge Infrastructure (CNKI), Medline and Web of Science databases were searched for available studies. Relative risks (RRs) and 95% confidence intervals (CIs) were combined and subgroup analysis based on the specific comorbidity was conducted. Thirteen studies with 24712 cases were included. The incidence rates of SGA among the ICP and non-ICP patients were 14.04% (294/2094) and 4.66% (1053/22618), respectively. Pooled results demonstrated that ICP was significantly related to the occurrence of SGA (RR=3.12, 95% CI: 1.99-4.88, P&#xff1c;0.001) in Chinese pregnant women. Subgroup analysis based on specific comorbidity also showed the relationship between ICP and SGA among patients with gestational diabetes mellitus (RR=6.09, 95% CI: 2.96-12.55, P&#xff1c;0.001) and hepatitis B virus infection (RR=3.22, 95% CI: 1.69-6.12, P&#xff1c;0.001). In China, ICP was associated with the occurrence of SGA in China and pregnant patients with ICP experienced a significantly higher risk of SGA.",
+   "journal": "BMC pregnancy and childbirth",
+   "year": "2026",
+   "authors": [
+    "Xi Tan",
+    "Yayi Hu",
+    "Hongqin Chen"
+   ],
+   "doi": "10.1186/s12884-026-09843-2",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43045981/"
+  },
+  {
+   "pmid": "43046927",
+   "title": "Factors associated with mood and anxiety disorders in patients with cancer: A systematic review and meta-analysis.",
+   "abstract": "Mood and anxiety disorders are common in cancer survivors, and are associated with worse outcomes; however, systematic identification of high-risk patients remains limited, despite screening and intervention guidelines. A systematic review and meta-analysis were conducted to identify risk factors for mood and anxiety disorders, including diagnoses and clinically significant symptoms, in adult cancer survivors. PubMed, Web of Science, Embase, PsycINFO, and Cochrane Central Register of Controlled Trials were searched for cohort and case-control studies published from January 2000 to November 2024 that evaluated cancer-related, sociodemographic, lifestyle, and psychosocial risk factors in adults with breast, lung, colorectal, prostate, stomach, liver, or pancreatic cancer. Random-effects models with robust variance estimation pooled relative risks (RRs) and 95% confidence intervals (CIs) for factors assessed in &#x2265;5 studies. Fifty of the 53 eligible studies were included in the meta-analysis. Consistent risk factors included high tumor stage (vs. low; n&#xa0;=&#xa0;28; RR, 1.55; 95% CI, 1.21-1.97), more physical comorbidities (vs. fewer; n&#xa0;=&#xa0;36; RR, 1.57; 95% CI, 1.34-1.84), prior psychiatric history (high vs. low burden; n&#xa0;=&#xa0;13; RR, 4.85; 95% CI, 2.77-8.50), female sex (vs. male; n&#xa0;=&#xa0;19; RR, 1.52; 95% CI, 1.32-1.75), underweight body mass index (vs. normal; n&#xa0;=&#xa0;6; RR, 1.93; 95% CI, 1.55-2.44), unmarried status (vs. married; n&#xa0;=&#xa0;25; RR, 1.35; 95% CI, 1.14-1.58), and current smoking (vs. never; n&#xa0;=&#xa0;12; RR, 1.27; 95% CI, 1.12-1.46). Suggestive associations, although less consistent in sensitivity analyses, were observed for high tumor grade, more extensive surgery, low income, low education, and low social support. Several clinical and social factors were associated with increased risk of mood and anxiety outcomes in adult cancer survivors. These findings may support risk-based psychiatric screening and early intervention in resource-limited oncology settings.",
+   "journal": "Cancer",
+   "year": "2026",
+   "authors": [
+    "Mingyi Li",
+    "Xuanyu Zhou",
+    "Zhengyi Deng",
+    "Minji Jung",
+    "Junjie Lu",
+    "Christopher D Stave",
+    "David Spiegel",
+    "Marvin E Langston",
+    "Benjamin I Chung",
+    "Melissa L Bondy"
+   ],
+   "doi": "10.1002/cncr.70676",
    "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43043311/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046927/"
+  },
+  {
+   "pmid": "43046707",
+   "title": "ERRATUM: Triptolide from Tripterygium wilfordii Suppresses Glycolysis and Induces Cuproptosis via the HK2/DLAT Signaling Pathway in Colorectal Cancer.",
+   "abstract": "",
+   "journal": "The American journal of Chinese medicine",
+   "year": "2026",
+   "authors": [
+    "Hui-Hui Liang",
+    "Lu-Lu Jia",
+    "Ke Tang",
+    "Rui Xue",
+    "Rong-Rong Nie",
+    "Jian-Ning Chen",
+    "Hui-Min Xu",
+    "Xuan-Jie Qin",
+    "Shi-Kun Cai",
+    "Qin-You Tan"
+   ],
+   "doi": "10.1142/S0192415X26920047",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046707/"
+  },
+  {
+   "pmid": "43046675",
+   "title": "Correspondence to letter to the editor on \"External beam radiotherapy versus local ablation therapy for the treatment of hepatocellular carcinoma: a systematic review and meta-analysis\".",
+   "abstract": "",
+   "journal": "Clinical and molecular hepatology",
+   "year": "2026",
+   "authors": [
+    "Sun Hyun Bae",
+    "Seo Hee Choi",
+    "Sang Min Yoon",
+    "Jeong Il Yu",
+    "Hyun-Cheol Kang",
+    "Nalee Kim",
+    "Tae Hyun Kim",
+    "Hee Chul Park"
+   ],
+   "doi": "10.3350/cmh.2026.1120",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046675/"
+  },
+  {
+   "pmid": "43046609",
+   "title": "Population-Level Temporal Patterns of Distant-Stage Incidence and Cancer-Specific Mortality Across Ten Solid Cancers.",
+   "abstract": "Distant-stage incidence and cancer-specific mortality describe different aspects of cancer burden. We compared their long-term population trends across 10 solid cancers in the United States. Age-adjusted distant-stage incidence from the Surveillance, Epidemiology, and End Results (SEER) Program 17 Registries database (SEER17) and national cancer-specific mortality were analyzed for 2004-2023 using Joinpoint regression. Primary incidence models omitted 2020; mortality models retained 2020. Both endpoints were also analyzed over a common 2004-2019 window. Endpoint direction was defined from the 95% confidence interval for average annual percentage change (AAPC). Relative survival and incidence-based mortality were complementary analyses. Among 5,545,600 incident cancers, 1,060,790 were diagnosed at distant stage. Breast cancer, prostate cancer, and melanoma had increasing distant-stage incidence with declining mortality; lung and colorectal cancers declined in both endpoints; pancreatic, liver and intrahepatic bile duct, and uterine cancers increased in both; and kidney and renal pelvis and stomach cancers had no clear incidence change with declining mortality. All 10 paired patterns were unchanged in the common 2004-2019 window. One- and 3-year distant-stage relative survival increased for all cancers, and all 20 primary survival contrasts remained significant after Benjamini-Hochberg adjustment. The relation between distant-stage incidence and cancer-specific mortality differed by cancer site and was unchanged in a common pre-pandemic window. Distant-stage incidence is best interpreted alongside, rather than as a substitute for, population mortality.",
+   "journal": "JNCI cancer spectrum",
+   "year": "2026",
+   "authors": [
+    "Yilin Ye",
+    "Lianxin Zhu",
+    "Cui Chen",
+    "Peng Sun",
+    "Zhihua Zhu"
+   ],
+   "doi": "10.1093/jncics/pkag122",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046609/"
+  },
+  {
+   "pmid": "43046227",
+   "title": "Autophagy-regulating bioactive nanoparticle alleviates MASH via gut-liver axis-mediated mitochondria/cAMP/GLP1 pathway.",
+   "abstract": "Chronic exposure of the liver to diverse insults can lead to metabolic dysfunction-associated steatohepatitis (MASH), a complex metabolic disorder characterized by hepatic steatosis and inflammation, often accompanied by progressive fibrosis, intestinal barrier dysfunction, and intestinal endocrine imbalance. No approved pharmacotherapies effectively treat MASH largely because of the difficulty in reversing fibrosis and restoring extracellular matrix homeostasis. Managing intestinal barrier dysfunction and GLP1 secretion has emerged as a promising therapeutic strategy against the progression of metabolic-associated fatty liver (MAFL) to MASH. This study presents MSN@HTL, fabricated using trehalose and temsirolimus on mesoporous silica nanoparticles (MSNs) and encapsulated with sodium alginate using an electrostatic spraying system. After oral administration, MSN@HTL protects against intestinal barrier injury and GLP1 secretion, consequently inhibiting the progression of MAFL. MSN@HTL stimulated intestinal stem cell self-renewal, proliferation, and GLP1 secretion. Mechanistically, MSN@HTL induces lysosomal autophagy to recycle disrupted mitochondria, increasing mitochondrial fusion and energy metabolism, elevating cAMP concentration, and inducing PKA phosphorylation-mediated intestinal barrier revision and GLP1 secretion, thereby impairing MAFL-to-MASH progression. Given its availability and functionality, our study demonstrates the potential of MSN@HTL as a pharmaceutical agent for managing MAFL-to-MASH progression via the mitochondria/cAMP/PKA signaling pathway in humans.",
+   "journal": "Journal of nanobiotechnology",
+   "year": "2026",
+   "authors": [
+    "Weike Shaoyong",
+    "Shouchuan Jiang",
+    "Yingqian Wang",
+    "Wei Li",
+    "Zilong Wang",
+    "Yixiao Yang",
+    "Juan Du",
+    "Zhongjie Liu"
+   ],
+   "doi": "10.1186/s12951-026-04964-4",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046227/"
   }
  ],
- "lastUpdated": "2026-11-18T03:15:32.725805+00:00",
+ "lastUpdated": "2026-11-18T10:53:13.188937+00:00",
  "fields": [
   "cardiology",
   "immunotherapy",

@@ -43,7 +43,7 @@
   {
    "name": "吉姆皇后",
    "type": "电影",
-   "rating": "7.7",
+   "rating": "7.6",
    "comment": "当一种病毒让巴黎的男同性恋者变成异性恋时，一位男同性恋网红的生活就此分崩离析。他与一位少年男模结伴，前往玛黑区寻找传闻中…",
    "doubanLink": "https://movie.douban.com/subject/36151274/",
    "source": "https://movie.douban.com/subject/36151274/"
@@ -65,69 +65,69 @@
    "source": "https://movie.douban.com/subject/36623663/"
   },
   {
-   "name": "开山令",
+   "name": "川流不息",
    "type": "书籍",
-   "rating": "7.6",
-   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38631100/",
-   "source": "https://book.douban.com/subject/38631100/"
-  },
-  {
-   "name": "变装",
-   "type": "书籍",
-   "rating": "8.2",
+   "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37497665/",
-   "source": "https://book.douban.com/subject/37497665/"
+   "doubanLink": "https://book.douban.com/subject/38903937/",
+   "source": "https://book.douban.com/subject/38903937/"
   },
   {
-   "name": "生于女人",
+   "name": "镜中镜",
    "type": "书籍",
-   "rating": "8.9",
+   "rating": "9",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38617182/",
-   "source": "https://book.douban.com/subject/38617182/"
+   "doubanLink": "https://book.douban.com/subject/38451627/",
+   "source": "https://book.douban.com/subject/38451627/"
   },
   {
-   "name": "地图谜案",
+   "name": "一个梦境旅行家的笔记",
    "type": "书籍",
-   "rating": "8",
+   "rating": "8.7",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38532617/",
-   "source": "https://book.douban.com/subject/38532617/"
+   "doubanLink": "https://book.douban.com/subject/38451628/",
+   "source": "https://book.douban.com/subject/38451628/"
   },
   {
-   "name": "月相书",
+   "name": "北风吹响羊骨头",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38923692/",
-   "source": "https://book.douban.com/subject/38923692/"
+   "doubanLink": "https://book.douban.com/subject/38676228/",
+   "source": "https://book.douban.com/subject/38676228/"
   },
   {
-   "name": "从农民到法国公民",
+   "name": "瞳中剑",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38616060/",
-   "source": "https://book.douban.com/subject/38616060/"
+   "doubanLink": "https://book.douban.com/subject/38627395/",
+   "source": "https://book.douban.com/subject/38627395/"
   },
   {
-   "name": "他们在哈伦县说",
+   "name": "龙沙",
    "type": "书籍",
    "rating": "",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37928231/",
-   "source": "https://book.douban.com/subject/37928231/"
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38556207/",
+   "source": "https://book.douban.com/subject/38556207/"
   },
   {
-   "name": "文本网络中的历史编纂",
+   "name": "关公封神记",
    "type": "书籍",
    "rating": "",
-   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/39009831/",
-   "source": "https://book.douban.com/subject/39009831/"
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38999496/",
+   "source": "https://book.douban.com/subject/38999496/"
+  },
+  {
+   "name": "未见坂",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38212423/",
+   "source": "https://book.douban.com/subject/38212423/"
   }
  ],
- "lastUpdated": "2026-11-17T11:20:30.213953+00:00"
+ "lastUpdated": "2026-11-18T03:15:33.872107+00:00"
 }

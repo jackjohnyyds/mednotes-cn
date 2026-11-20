@@ -65,69 +65,69 @@
    "source": "https://movie.douban.com/subject/36623663/"
   },
   {
-   "name": "水泥地",
+   "name": "生于女人",
    "type": "书籍",
-   "rating": "8.7",
+   "rating": "8.8",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38617182/",
+   "source": "https://book.douban.com/subject/38617182/"
+  },
+  {
+   "name": "那刺眼的黑暗",
+   "type": "书籍",
+   "rating": "8.3",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/36603752/",
-   "source": "https://book.douban.com/subject/36603752/"
+   "doubanLink": "https://book.douban.com/subject/37180720/",
+   "source": "https://book.douban.com/subject/37180720/"
   },
   {
-   "name": "何以近代",
+   "name": "女孩和女人的生活",
    "type": "书籍",
-   "rating": "8.5",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38522388/",
-   "source": "https://book.douban.com/subject/38522388/"
+   "rating": "",
+   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38542213/",
+   "source": "https://book.douban.com/subject/38542213/"
   },
   {
-   "name": "共鸣",
-   "type": "书籍",
-   "rating": "8.2",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38490032/",
-   "source": "https://book.douban.com/subject/38490032/"
-  },
-  {
-   "name": "艺术的精神疗愈",
+   "name": "食物",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38177157/",
-   "source": "https://book.douban.com/subject/38177157/"
+   "doubanLink": "https://book.douban.com/subject/38584800/",
+   "source": "https://book.douban.com/subject/38584800/"
   },
   {
-   "name": "追忆往还录",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38651057/",
-   "source": "https://book.douban.com/subject/38651057/"
-  },
-  {
-   "name": "流动的世界",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38586432/",
-   "source": "https://book.douban.com/subject/38586432/"
-  },
-  {
-   "name": "卡夫卡的最后审判",
+   "name": "他们在哈伦县说",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38469452/",
-   "source": "https://book.douban.com/subject/38469452/"
+   "doubanLink": "https://book.douban.com/subject/37928231/",
+   "source": "https://book.douban.com/subject/37928231/"
   },
   {
-   "name": "居无定所者日记",
+   "name": "最初的化石猎人",
    "type": "书籍",
-   "rating": "8.2",
+   "rating": "",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38589691/",
-   "source": "https://book.douban.com/subject/38589691/"
+   "doubanLink": "https://book.douban.com/subject/38941335/",
+   "source": "https://book.douban.com/subject/38941335/"
+  },
+  {
+   "name": "温妮和曼德拉",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38676715/",
+   "source": "https://book.douban.com/subject/38676715/"
+  },
+  {
+   "name": "涉过意识之流",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/37455862/",
+   "source": "https://book.douban.com/subject/37455862/"
   }
  ],
- "lastUpdated": "2026-11-19T10:55:35.161277+00:00"
+ "lastUpdated": "2026-11-20T03:15:57.710563+00:00"
 }

@@ -65,6 +65,22 @@
    "source": "https://movie.douban.com/subject/37923994/"
   },
   {
+   "name": "鼎革之气",
+   "type": "书籍",
+   "rating": "8.4",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38518391/",
+   "source": "https://book.douban.com/subject/38518391/"
+  },
+  {
+   "name": "涉过意识之流",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/37455862/",
+   "source": "https://book.douban.com/subject/37455862/"
+  },
+  {
    "name": "生于女人",
    "type": "书籍",
    "rating": "8.8",
@@ -73,61 +89,45 @@
    "source": "https://book.douban.com/subject/38617182/"
   },
   {
-   "name": "那刺眼的黑暗",
+   "name": "情有可原",
    "type": "书籍",
-   "rating": "8.3",
+   "rating": "8.7",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37180720/",
-   "source": "https://book.douban.com/subject/37180720/"
+   "doubanLink": "https://book.douban.com/subject/37938905/",
+   "source": "https://book.douban.com/subject/37938905/"
   },
   {
-   "name": "女孩和女人的生活",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38542213/",
-   "source": "https://book.douban.com/subject/38542213/"
-  },
-  {
-   "name": "其他重要的人",
+   "name": "某种物质的爱",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38598262/",
-   "source": "https://book.douban.com/subject/38598262/"
+   "doubanLink": "https://book.douban.com/subject/38238934/",
+   "source": "https://book.douban.com/subject/38238934/"
   },
   {
-   "name": "自由交流：布尔迪厄对话哈克",
+   "name": "意义的诞生与消亡",
    "type": "书籍",
    "rating": "",
-   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38589755/",
-   "source": "https://book.douban.com/subject/38589755/"
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38671942/",
+   "source": "https://book.douban.com/subject/38671942/"
   },
   {
-   "name": "《论语》",
+   "name": "一个梦境旅行家的笔记",
    "type": "书籍",
-   "rating": "",
+   "rating": "8.6",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38930469/",
-   "source": "https://book.douban.com/subject/38930469/"
+   "doubanLink": "https://book.douban.com/subject/38451628/",
+   "source": "https://book.douban.com/subject/38451628/"
   },
   {
-   "name": "离地生根",
+   "name": "乱神夜谭",
    "type": "书籍",
-   "rating": "",
+   "rating": "8.8",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38408074/",
-   "source": "https://book.douban.com/subject/38408074/"
-  },
-  {
-   "name": "本原与给予",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38613929/",
-   "source": "https://book.douban.com/subject/38613929/"
+   "doubanLink": "https://book.douban.com/subject/38602738/",
+   "source": "https://book.douban.com/subject/38602738/"
   }
  ],
- "lastUpdated": "2026-11-20T10:44:21.290776+00:00"
+ "lastUpdated": "2026-11-21T03:15:32.008779+00:00"
 }

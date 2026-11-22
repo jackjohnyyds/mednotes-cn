@@ -83,7 +83,7 @@
   {
    "name": "面对疾病",
    "type": "书籍",
-   "rating": "9.3",
+   "rating": "8.6",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/37669324/",
    "source": "https://book.douban.com/subject/37669324/"
@@ -91,7 +91,7 @@
   {
    "name": "忽如远行客",
    "type": "书籍",
-   "rating": "9",
+   "rating": "8.8",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
    "doubanLink": "https://book.douban.com/subject/38545991/",
    "source": "https://book.douban.com/subject/38545991/"
@@ -129,5 +129,5 @@
    "source": "https://book.douban.com/subject/38531074/"
   }
  ],
- "lastUpdated": "2026-11-22T03:15:44.450396+00:00"
+ "lastUpdated": "2026-11-22T10:30:28.762662+00:00"
 }

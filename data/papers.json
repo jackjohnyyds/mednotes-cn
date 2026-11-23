@@ -1,416 +1,358 @@
 {
  "items": [
   {
-   "pmid": "43068476",
-   "title": "Amylin-Based Pharmacotherapy for Type 2 Diabetes in the Incretin Era: Mechanisms, Emerging Evidence, and Clinical Implementation.",
-   "abstract": "Type 2 diabetes (T2D) management increasingly requires simultaneous improvement in glycaemia, excess adiposity, treatment burden, and cardiovascular and kidney risk. Amylin slows gastric emptying, suppresses postprandial glucagon secretion, and promotes satiation, providing a complementary therapeutic pathway to incretin-based treatment. We conducted a targeted narrative search of PubMed/MEDLINE and trial registries through 30 September 2026. We prioritised peer-reviewed Phase 2 and Phase 3 human trials and treated registry records as planned rather than completed evidence. Pramlintide established the clinical value of amylin replacement but remains limited by mealtime administration, gastrointestinal adverse effects, and the need for insulin adjustment. Long-acting amylin analogues and amylin-incretin combinations have renewed interest in this pathway. In a 32-week Phase 2 T2D trial, CagriSema reduced HbA1c by 2.2 percentage points and body weight by 15.6%; HbA1c superiority over semaglutide was not demonstrated (estimated difference -0.4 percentage points, 95% CI -0.8 to 0.0; p&#x2009;=&#x2009;0.075). Phase 3 trials have evaluated early T2D, oral-therapy-treated T2D, and basal-insulin-treated T2D, although populations, comparators, durations, and estimands differ. Gastrointestinal tolerability and treatment discontinuation remain important considerations, and cardiovascular and kidney benefits have not been established. Amylin-based therapies could broaden metabolic treatment for T2D, but their clinical role will depend on comparative efficacy, tolerability, persistence, body composition, patient-reported outcomes, and long-term cardiovascular and kidney outcomes.",
-   "journal": "Endocrinology, diabetes & metabolism",
+   "pmid": "43070118",
+   "title": "Left Atrial Stiffness Index and Prognosis Across Heart Failure Phenotypes in Acute Heart Failure: Insights from the STRATS-AHF Registry.",
+   "abstract": "The left atrial stiffness index (LASI), calculated as mitral E/e' divided by LA reservoir strain, reflects atrial myopathy and elevated filling pressure but has been studied mainly in heart failure with preserved ejection fraction (HFpEF). We examined whether LASI predicts all-cause mortality and HF hospitalization, and adds to established risk factors, across HF phenotypes in acute heart failure (AHF). We analyzed 3,133 patients with AHF from the multicenter STRATS-AHF registry, classified by LVEF into HFrEF, HFmrEF, and HFpEF. During a median follow-up of 32.5 months, 616 (19.7%) had HF admissions, and 1,281 (40.9%) died. After adjustment, each doubling of LASI was associated with mortality (HR 1.13, 95% CI 1.08-1.19), as was LASI above the exploratory cutoff of 1.0 (HR 1.27, 95% CI 1.11-1.46). The association was similar across phenotypes (P for interaction = 0.65) and extended to HF hospitalization and the composite of death or HF hospitalization. LASI added modestly to established predictors; after adjustment for NT-proBNP, its association was not significant in patients with a measured value (HR 1.03, 95% CI 0.97-1.10) but persisted after multiple imputation in the whole cohort (HR 1.10, 95% CI 1.04-1.15). In patients hospitalized for AHF, a higher LASI independently predicted all-cause mortality and HF hospitalization across HF phenotypes. Obtained from the admission echocardiogram, LASI captures an atrial component of risk that LVEF does not reflect, although part of this information overlaps with that of NT-proBNP; whether it can guide management remains to be tested.",
+   "journal": "European journal of heart failure",
    "year": "2026",
    "authors": [
-    "Ron T Varghese",
-    "Giuseppe Calcaterra",
-    "Nina M Fanaropoulou",
-    "Diana G Varghese",
-    "Gianluca Iacobellis"
+    "Ju-Hee Lee",
+    "Jae-Hyeong Park",
+    "In-Chang Hwang",
+    "Jin Joo Park",
+    "Jun-Bean Park",
+    "Goo-Yeong Cho"
    ],
-   "doi": "10.1002/edm2.70401",
+   "doi": "10.1093/ejhf/xuag346",
    "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43068476/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070118/"
   },
   {
-   "pmid": "43068396",
-   "title": "Electro-Structural Remodeling Reversal With Myosin Inhibitor in Apical Hypertrophic Cardiomyopathy.",
-   "abstract": "Myosin inhibitor is a novel treatment for hypertrophic cardiomyopathy (HCM), but evidence for the efficacy in apical hypertrophic cardiomyopathy (AHCM) is lacking. A 41-year-old man with AHCM presented with progressive dyspnea and chest pain despite beta-blocker therapy. Besides classic electrocardiography changes, echocardiography revealed a high-velocity apical jet. Mavacamten 5 mg daily was initiated. By week 32, N-terminal pro-B-type natriuretic peptide and apical flow velocity normalized. T-wave inversion was absent at week 89 and was normalized by week 135. At week 145, magnetic resonance showed no further progression of myocardial fibrosis. To our knowledge, this is the first report of a myosin inhibitor reversing symptoms, structural remodeling, and electrophysiological abnormalities in AHCM. Patients with AHCM could benefit from long-term treatment, and the electrocardiogram may serve as a marker of therapeutic response. Myosin inhibitors may benefit ventricular remodeling, especially electrophysiological abnormalities, in patients with AHCM. Further research is warranted.",
-   "journal": "JACC. Case reports",
+   "pmid": "43070113",
+   "title": "Dual Pathway Modulation with SGLT2 Inhibitors and Aldosterone Synthase Inhibitors in Cardio-Kidney Disease: Rationale and Trial Design of the EASi Program.",
+   "abstract": "Cardio-kidney diseases share interconnected pathophysiology where renin-angiotensin-aldosterone system (RAAS) overactivation drives pathologic hemodynamic, neurohormonal, inflammatory, and fibrotic changes leading to progressive cardiac and kidney dysfunction. Current RAAS-modulating therapies are limited by residual RAAS risk and aldosterone breakthrough despite angiotensin-converting enzyme inhibitor or angiotensin receptor blocker therapy, incomplete blockade of aldosterone with mineralocorticoid receptor (MR) antagonists, hyperkalemia, and suboptimal implementation. Aldosterone synthase inhibitors (ASi) act upstream of the MR to lower aldosterone production, modulating both MR-dependent and MR-independent aldosterone effects without competing for receptor occupancy. Sodium-glucose cotransporter 2 inhibitors (SGLT2i) reduce adverse cardiovascular and kidney events through cellular, hemodynamic and metabolic effects. The complementary mechanisms of SGLT2i/ASi (SASi) may provide improved cardio-kidney protection. The EASi program will determine whether SASi therapy, added to background guideline-directed therapy including an ACE inhibitor, ARB, or ARNI as appropriate, can improve cardiovascular and kidney outcomes beyond SGLT2 inhibitor monotherapy. EASi-PROTKT (&#x223c;11,800 participants) evaluates prevention of incident heart failure events or cardiovascular death in patients with hypertension, type 2 diabetes, and established cardiovascular disease. EASi-HF Preserved (&#x223c;6,000) and EASi-HF Reduced (&#x223c;4,200) evaluate cardiovascular death and first heart failure events across the LVEF spectrum. EASi-KIDNEY (&#x223c;11,000) evaluates kidney disease progression and cardiovascular endpoints in chronic kidney disease patients with and without type 2 diabetes. EASi-SYNC (&#x223c;500) is a Phase 2 trial comparing SASi versus staggered initiation of SGLT2i and ASi in patients with CKD. Together, these trials will enroll >33,000 participants and test whether SASi can redefine standard of care across the cardio-kidney disease spectrum.",
+   "journal": "European journal of heart failure",
    "year": "2026",
    "authors": [
-    "Xueyi Wu",
-    "Limei Wang",
-    "Mo Zhang",
-    "Lianjun Xu",
-    "Dong Wang",
-    "Wen Jiang",
-    "Lei Song",
-    "Lianming Kang"
+    "Francesco Fioretti",
+    "Michael B&#xf6;hm",
+    "Biykem Bozkurt",
+    "Maria Rosa Costanzo",
+    "Wilfried Dinh",
+    "Xavier Rossello",
+    "Lars H Lund",
+    "Robert J Mentz",
+    "Mark C Petrie",
+    "Bertram Pitt",
+    "Juergen H Prochaska",
+    "Sanjiv J Shah",
+    "Pam R Taub",
+    "Thomas Viethen",
+    "Javed Butler"
    ],
-   "doi": "10.1016/j.jaccas.2026.111258",
+   "doi": "10.1093/ejhf/xuag345",
    "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43068396/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070113/"
   },
   {
-   "pmid": "43068368",
-   "title": "[Primary intestinal lymphangiectasia (PIL) - from nutritional management to advanced lymphatic intervention: a case report].",
-   "abstract": "Primary intestinal lymphangiectasia (PIL) is a rare lymphatic disorder characterized by exudative protein loss through the gastrointestinal tract, fat malabsorption, and related nutritional deficiencies. Consequently, patients may develop peripheral edema and, in severe cases, immunodeficiency. The diagnosis is based on a combination of clinical presentation, laboratory results, imaging, and histological examination. First-line management consists of a high-protein, low-fat diet supplemented with medium-chain triglycerides, alongside the replacement of nutritional deficiencies. In cases with an insufficient response to conservative therapy, invasive lymphatic interventions can be considered. We present a young woman with primary intestinal lymphangiectasia and a chronic disease course, partially responsive to nutritional therapy. Advanced imaging revealed extensive lymphatic dysfunction, and lymphatic intervention led to temporary improvement, though symptoms recurred. This case highlights the challenges of managing refractory disease and the importance of a multidisciplinary approach that includes clinical nutrition, advanced imaging, and endoscopic and radiologic interventions.",
-   "journal": "Harefuah",
+   "pmid": "43070039",
+   "title": "Global reporting of Brugada syndrome in VigiBase&#xae;: A disproportionality analysis.",
+   "abstract": "Brugada syndrome (BrS) represents a rare but potentially malignant cardiac channelopathy, which may be precipitated by drugs, although data mainly derive from case reports/series. To describe the global reporting of BrS with drugs, including co-occurrence patterns, and identify novel potential associations. We used VigiBase&#xae; to perform descriptive and disproportionality analyses. The reporting odds ratio (ROR) and Bayesian information component (IC) with relevant 95% confidence/credibility intervals (95% CI) were used as disproportionality measures to identify signals of disproportionate reporting (SDR). We performed a network analysis to assess the co-occurrence patterns of related medications based on Jaccard similarity. We included 544 deduplicated cases of BrS (94.7% serious events, 30.9% females, median time to onset of 30&#x2009;days, 40.8% physician-reported, 63% from North America), with bupropion (n&#xa0;=&#x2009;50), nortriptyline (n&#xa0;=&#x2009;40) and flecainide (n&#xa0;=&#x2009;34) as most frequently reported suspected drugs. Among 39 drugs with at least four reports, 32 emerged with an SDR, of which 17 were not listed in the BrS website (http://www.brugadadrugs.org), such as clozapine and loperamide (often overdosed). The co-occurrence network included 17 medications, regardless of the labelled role (suspected, interacting or concomitant), with a total of 12 potential co-occurrences; fentanyl exhibited the highest closeness centrality (1.0), whereas the strongest co-occurrence was reported between bupropion and nortriptyline (Jaccard similarity of 0.31). Notwithstanding limitations related to pharmacovigilance and the complex BrS pathophysiology, we identified 32 medications with over-reporting of BrS, including 17 drugs not listed in the BrS website as well as clusters in affective disorders and anaesthesia.",
+   "journal": "British journal of clinical pharmacology",
    "year": "2026",
    "authors": [
-    "Tali Sharar Fischler",
-    "Elchanan Bruckheimer",
-    "Aenov Cohen"
+    "Georgios Schoretsanitis",
+    "Severine Crettol",
+    "Nicolas Ansermot",
+    "Niccol&#xf2; Maurizi",
+    "Fran&#xe7;ois R Girardin",
+    "Michael Paulzen",
+    "Emanuel Raschi"
    ],
-   "doi": "",
+   "doi": "10.1002/bcp.70941",
    "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43068368/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070039/"
   },
   {
-   "pmid": "43068308",
-   "title": "Predicted heart age and mortality among individuals with and without cancer: data from NHANES 2009-18.",
-   "abstract": "Cardiovascular disease (CVD) and cancer are leading causes of death, with cancer survivors facing an elevated risk of CVD. Predicted heart age (PHA) offers a simplified method to communicate cardiovascular risk. PHA in cancer populations and its distribution amongst different cancer types is unknown. This study aimed to investigate the relationship between PHA, excess heart age (EHA), and cancer status in a nationally representative cohort. Data from 13 771 NHANES participants (2009-2018), representing 122 772 557 US adults, were analysed. Survey-weighted multivariable regression models assessed associations of PHA and EHA by cancer status. Cox proportional hazards and Fine-Gray models evaluated all-cause and CVD mortality, respectively. Kaplan-Meier survival curves were stratified by cancer status. Individuals with cancer had significantly higher PHA (66.14 vs. 54.56 years) and EHA (8.05 vs. 5.84 years) compared with individuals without cancer. Heart age metrics varied by cancer type, with the largest increases in PHA observed for lung, bladder, and prostate cancers. Chronological age was the most robust predictor of mortality, particularly when modelled continuously (adjusted HR for all-cause mortality 1.07 [1.03-1.10] in cancer; 1.07 [1.05-1.08] in non-cancer). PHA showed similar categorical discrimination, while EHA provided little incremental prognostic value after adjustment for sociodemographic variables. Heart age metrics may help highlight cardiovascular vulnerability in populations with cancer, but their prognostic value is limited by competing mortality and omission of cancer-specific risks. Future refinement through inclusion of treatment exposures, inflammatory and cardiac biomarkers, and non-fatal cardiovascular outcomes may improve cardiovascular risk prediction in this population.",
-   "journal": "European heart journal open",
-   "year": "2026",
-   "authors": [
-    "Maxim Rees",
-    "Mustafa Al-Jarshawi",
-    "Elad Asher",
-    "Harindra C Wijeysundera",
-    "Mamas A Mamas"
-   ],
-   "doi": "10.1093/ehjopen/oeag154",
-   "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43068308/"
-  },
-  {
-   "pmid": "43068303",
-   "title": "The Inflammation-Electrical Remodeling Axis in the Infarct Border Zone: Mechanisms and Therapeutic Translation for Post-MI Ventricular Arrhythmias.",
-   "abstract": "Ventricular arrhythmias (VA) and sudden cardiac death (SCD) remain leading causes of mortality after myocardial infarction (MI). The conventional fibrosis-centric paradigm explains chronic reentrant VAs but cannot fully account for electrical instability in acute and subacute post-MI phases, highlighting an unmet need for upstream therapies targeting the arrhythmogenic substrate. Accumulating preclinical mechanistic and observational clinical evidence indicates that the inflammatory microenvironment in the infarct border zone may function as a critical upstream driver of electrical remodeling, mediated by neutrophils, macrophages and key pro-inflammatory cytokines (interleukin-1 beta (IL-1&#x3b2;), tumor necrosis factor-&#x3b1; (TNF-&#x3b1;)), constituting an inflammation-electrical remodeling axis that contributes to VA susceptibility across all post-MI stages. While causal relationships have been established in animal models, direct confirmation in human myocardium remains limited. This narrative review synthesizes preclinical and clinical evidence on this axis. It summarizes its spatiotemporal dynamics, four core cellular and molecular mechanisms and the antiarrhythmic potential of diverse anti-inflammatory interventions. We further outline key evidence gaps and translational directions, including precision risk stratification and cell-type-specific targeted delivery. Based on preclinical and preliminary clinical evidence, targeting the inflammation-electrical remodeling axis represents a promising upstream strategy to reduce post-MI SCD by addressing the root causes of electrical instability, though definitive proof of efficacy in humans is pending, and dedicated randomized controlled trials with arrhythmia endpoints are still required for clinical validation.",
-   "journal": "Journal of inflammation research",
-   "year": "2026",
-   "authors": [
-    "Wenbo Xu",
-    "Jintao Liu"
-   ],
-   "doi": "10.2147/JIR.S648918",
-   "field": "cardiology",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43068303/"
-  },
-  {
-   "pmid": "43068431",
-   "title": "EPHA2 and EPHB4 expression in human brain tumors and preclinical evaluation of EPHRIN-B2-based CAR-T cells.",
-   "abstract": "To characterize EPHA2 and EPHB4 expression in human brain tumors and evaluate the preclinical antitumor activity of EPHRIN-B2-based chimeric antigen receptor (CAR)-T cells. EPHA2 and EPHB4 expression was assessed by immunohistochemistry in 141 specimens from 116 patients; 113 specimens were included in analyses by histological category. EPHRIN-B2-based CAR-T cells were generated using the piggyBac transposon system. In vitro activity was evaluated against six brain tumor cell lines and a receptor-negative control line. Intracerebroventricular administration was assessed in two intracranial xenograft models, with mock T cells, control CAR-T cells, and phosphate-buffered saline as comparators. EPHA2 expression was observed across histological categories, whereas higher EPHB4 expression was predominantly found in high-grade tumors. Among glioblastoma/gliosarcoma specimens, 74% and 37% had staining scores&#x2009;&#x2265;&#x2009;2 for EPHA2 and EPHB4, respectively. High expression of both receptors within the same specimen was concentrated in high-grade tumors. CAR-T cells reduced viable tumor cell numbers and increased interferon-&#x3b3; and interleukin-2 secretion against all six brain tumor cell lines, whereas no significant differences were detected with the receptor-negative control. Although differences from control T cells did not reach statistical significance, EPHRIN-B2-based CAR-T cells reduced tumor signals relative to saline-treated controls at selected time points in both xenograft models. These findings characterize EPHA2 and EPHB4 expression in human brain tumors and demonstrate in vitro antitumor activity of EPHRIN-B2-based CAR-T cells, providing a basis for further studies to establish CAR-specific efficacy in intracranial tumors. REGISTRY AND THE REGISTRATION NO. N/A.",
-   "journal": "Journal of neuro-oncology",
-   "year": "2026",
-   "authors": [
-    "Yu Furui",
-    "Kotaro Morita",
-    "Koichi Hirabayashi",
-    "Marina Fujioka",
-    "Hirotaka Kumeda",
-    "Yoshinori Sato",
-    "Takeshi Uehara",
-    "Yu Fujii",
-    "Miyuki Tanaka",
-    "Yozo Nakazawa",
-    "Shigeki Yagyu"
-   ],
-   "doi": "10.1007/s11060-026-05884-x",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43068431/"
-  },
-  {
-   "pmid": "43068402",
-   "title": "Basophil Activation Testing: From Diagnostic Adjunct to Precision Allergy Management.",
-   "abstract": "Basophils are rare circulating granulocytes that trigger immediate hypersensitivity reactions through IgE-mediated degranulation and also contribute to innate immunity. The basophil activation test (BAT) is a flow cytometry-based functional assay that quantifies basophil reactivity and sensitivity following allergen stimulation, offering a safe, blood-based alternative to in&#xa0;vivo provocation testing. This review summarizes the immunological basis of the BAT, its technical requirements, and its expanding clinical applications across food, respiratory, drug, and hymenoptera venom allergies, autoimmune chronic spontaneous urticaria, and vaccine hypersensitivity. Beyond diagnosis, the BAT increasingly supports monitoring of allergen immunotherapy and biologic treatments, prediction of reaction severity and treatment response, and personalized management decisions. Its performance varies by allergen and clinical context, and wider adoption is constrained by the absence of standardized protocols, validated cut-offs, and reference materials, as well as by basophil non-releasers and dependence on fresh viable blood. Passive BAT and mast cell activation test formats extend testing to patients in whom the conventional BAT is uninterpretable. Automated, data-driven analysis and machine learning-assisted, label-free platforms offer promising routes toward more objective, scalable interpretation. With continued standardization, harmonization, and prospective validation, the BAT is positioned not only as a diagnostic adjunct but as a platform for precision-based allergy management.",
-   "journal": "Allergy",
-   "year": "2026",
-   "authors": [
-    "Francesco Catamer&#xf2;",
-    "Jooeun Han",
-    "Deniz Eyice Karabacak",
-    "Hans J&#xfc;rgen Hoffmann",
-    "Bernhard F Gibbs",
-    "Edward Knol",
-    "Cristobalina Mayorga",
-    "Maria Jos&#xe8; Torres",
-    "Anna Nopp",
-    "Mattia Giovannini",
-    "Francesca Mori",
-    "Alexandra F Santos",
-    "Stephen Durham",
-    "Cezmi A Akdis",
-    "Janice A Layhadi",
-    "Mohamed H Shamji"
-   ],
-   "doi": "10.1111/all.70573",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43068402/"
-  },
-  {
-   "pmid": "43068390",
-   "title": "Primary Mediastinal B-Cell Lymphoma in Clinical Practice: A Case-Based Approach to Unresolved Diagnostic and Therapeutic Dilemmas.",
-   "abstract": "Primary mediastinal B-cell lymphoma (PMBL) is a rare and biologically distinct subtype of aggressive B-cell lymphoma that predominantly affects young adults. Despite substantial therapeutic advances, several aspects of its management remain controversial, including frontline treatment selection, the role of radiotherapy, PET-based response assessment, and the optimal sequencing of immunotherapies in relapsed disease. Drawing on prospective and retrospective studies, cooperative group data, expert consensus and our own real-world experience, we present a practical case-based approach across the disease course, built around four clinical cases followed to their resolution and covering diagnosis, frontline treatment, PET-guided response assessment, pregnancy-associated disease, adolescents and young adults, relapsed or refractory disease, and long-term follow-up. We focus on decision-making where evidence remains limited, including the integration of immune checkpoint inhibitors (ICIs), CAR-T cell therapy, radiotherapy and transplantation, and the emerging role of circulating tumor DNA (ctDNA) and radiomics. Management increasingly relies on individualized, multidisciplinary decision-making that integrates disease biology, functional imaging and patient characteristics to maximize cure while minimizing long-term toxicity. In our practice this translates into dose-intensified frontline chemoimmunotherapy rather than R-CHOP21, omission of radiotherapy after a complete metabolic response and, where these treatments are accessible, a second-line strategy built on checkpoint inhibitors and anti-CD19 CAR-T cells, with early referral for cellular therapy in refractory or early relapse.",
-   "journal": "Hematological oncology",
-   "year": "2026",
-   "authors": [
-    "Sarah Bailly",
-    "Robin No&#xeb;l",
-    "Jean Galtier",
-    "Lo&#xef;c Renaud",
-    "Justine Decroocq",
-    "Youlia Kirova",
-    "Alexandra Traverse-Glehen",
-    "Marie Donzel",
-    "S&#xe9;bastien Bailly",
-    "Pierre Sesques",
-    "V&#xe9;ronique Minard-Colin",
-    "Olivier Gheysens",
-    "Eric Van Den Neste",
-    "Stefan N Constantinescu",
-    "Vincent Camus"
-   ],
-   "doi": "10.1002/hon.70296",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43068390/"
-  },
-  {
-   "pmid": "43068187",
-   "title": "Extragenital Lichen Sclerosus and Granulomatous Dermatitis in a Patient Treated With Nivolumab and Ipilimumab for Malignant Melanoma: A Case Report.",
-   "abstract": "Lichen sclerosus (LS) is a chronic inflammatory skin disease that most commonly affects the anogenital region but may also have extragenital involvement. We report a case of a 75-year-old man treated with combination nivolumab and ipilimumab immunotherapy for metastatic melanoma who developed multiple cutaneous eruptions, some sequential and some concurrent, over approximately 21 months, spanning combination therapy, an interval of roughly 10 months off immune checkpoint inhibitor (ICI) therapy, and subsequent single-agent nivolumab restarted for disease progression. He first developed a pruritic erythematous maculopapular eruption consistent with ICI dermatitis, followed months later, in an overlapping distribution on the back, buttock, posterior thighs, and arms, by asymptomatic round hypopigmented patches that became large annular-polycyclic atrophic plaques that later became fissured and painful at sites of pressure and friction. Punch biopsies confirmed extragenital LS in the polycyclic plaques and non-necrotizing granulomatous dermatitis in concurrent erythematous papules of the back. The patient also developed a granulomatous rosacea-like facial eruption without prior history of rosacea and a psoriasiform/eczematous palmar dermatitis. Serial fluorodeoxyglucose-positron emission tomography (FDG-PET)/computed tomography (CT) imaging demonstrated a recurring pattern of bilateral hilar lymphadenopathy that emerged with active ICI exposure, was considered by interpreting radiologists to be likely ICI-related, and is consistent with a possible concurrent thoracic sarcoid-like reaction. The LS plaques were largely recalcitrant to topical therapy; none of the agents trialed, including clobetasol propionate 0.05% ointment, tacrolimus 0.1% ointment, and ruxolitinib 1.5% cream, produced clear improvement in the lesions. During combination therapy and the ICI-free interval, the eruption improved with each course of oral prednisone and flared within weeks of every taper, whereas no topical agent produced a comparable response. The facial eruption resolved with topical metronidazole, and the palmar dermatitis improved with topical corticosteroids. At three-month follow-up, after three further cycles of single-agent nivolumab and a period of patient-directed treatment discontinuation of topical therapy at minimally symptomatic sites, the LS showed evidence of interval progression and the palmar dermatitis had worsened, while the facial eruption remained controlled. Nivolumab was then discontinued due to intolerable systemic immune-related adverse events (irAEs), and oral prednisone was restarted. In the same interval, the fissuring posterior thigh and buttock LS improved, the granulomatous papules on the back resolved, and the palmar dermatitis cleared almost completely.",
+   "pmid": "43069966",
+   "title": "Very Early-Onset Prosthetic Valve Endocarditis Following Transcatheter Aortic Valve Implantation Complicated by an Aorto-Left Atrial Fistula and Aortic Root Pseudoaneurysm.",
+   "abstract": "Transcatheter aortic valve implantation (TAVI) is an established treatment for severe aortic stenosis. Infective endocarditis (IE) is an uncommon but potentially devastating complication, typically presenting weeks to months after valve implantation. Very early-onset prosthetic valve endocarditis (PVE), occurring within 48 hours of implantation, poses a particular diagnostic challenge, as infectious complications must be distinguished from procedure-related structural injury and sterile postprocedural inflammatory changes. We report the case of an 81-year-old man who underwent transfemoral TAVI with a self-expanding Evolut FX valve for severe symptomatic aortic stenosis. The procedure was uneventful, with satisfactory immediate angiographic and echocardiographic findings. Within 48 hours, the patient developed fever and elevated inflammatory markers. Two independent blood culture sets were positive for methicillin-susceptible Staphylococcus aureus (MSSA). Fluorodeoxyglucose positron emission tomography/computed tomography (FDG-PET/CT) demonstrated increased metabolic uptake at the aortic root. Given the early postprocedural timing, this finding was interpreted cautiously, as sterile inflammatory changes could not be excluded. Subsequent transesophageal echocardiography (TEE) revealed a prosthetic valve vegetation, an aortic-root pseudoaneurysm, and an aorto-left atrial fistula with continuous shunt flow. The combination of microbiological and echocardiographic findings fulfilled the diagnostic criteria for definite prosthetic valve IE. Surgical intervention was considered prohibitive by the multidisciplinary Heart Team, and antimicrobial treatment was administered. Despite treatment, the patient's clinical condition rapidly deteriorated, resulting in death within one week of diagnosis. This case highlights the importance of integrating clinical and microbiological findings with multimodality imaging in diagnosing very early-onset PVE, while carefully considering potential procedure-related structural injury.",
    "journal": "Cureus",
    "year": "2026",
    "authors": [
-    "Jonathan L Babulic",
-    "Muhammad N Mahmood",
-    "Eunice Y Chow"
+    "Giulio D'Ascoli",
+    "Jes&#xfa;s Piqueras-Flores",
+    "Carlos S&#xe1;nchez S&#xe1;nchez",
+    "Fernando Lozano Ruiz-Poveda"
    ],
-   "doi": "10.7759/cureus.118388",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43068187/"
+   "doi": "10.7759/cureus.118467",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069966/"
   },
   {
-   "pmid": "43068140",
-   "title": "Synergistic Effects of Radiotherapy and Immunotherapy in Gastrointestinal Malignancies: Biological Rationale, Clinical Evidence, and Future Directions.",
-   "abstract": "Gastrointestinal (GI) cancers rank among the most common and lethal malignancies, and most are immunologically \"cold,\" showing limited baseline sensitivity to immune checkpoint inhibitors (ICIs). Radiotherapy (RT) can boost antitumor immune responses and may convert some of these tumors into more treatment-responsive forms. This gives RT-ICI combinations a solid biological justification. However, clinical evidence supporting this approach in GI cancers remains limited relative to that in head and neck squamous cell carcinoma and non-small cell lung cancer. So far, the strongest data come from esophageal/gastroesophageal junction cancer and rectal cancer. In esophageal cancer, combining PD-1 blockade with neoadjuvant or perioperative chemoradiotherapy (CRT) results in substantial pathological responses. Furthermore, adjuvant PD-1 therapy after neoadjuvant CRT and R0 resection improves disease-free survival in patients with residual disease. In rectal cancer, adding PD-1 blockade to total neoadjuvant therapy (TNT) protocols increases pathological response rates and supports organ-preservation strategies. Hepatobiliary studies suggest high intrahepatic control and meaningful conversion-to-curative potential with RT-ICI, whereas pancreatic and other GI sites are represented mainly by early-phase, heterogeneous studies. RT dose, fractionation, and treated volume all significantly affect efficacy and safety across GI cancer sites. Treatment-related lymphopenia has become a significant challenge, prompting greater emphasis on lymphocyte-sparing treatment planning. Overall, RT-ICI combinations are safe and feasible, but a reliable survival advantage has not been established to date. Progress will depend on larger, well-powered randomized trials with standardized RT timing, prespecified patient-reported and functional outcomes, and biomarker strategies to identify which approaches truly improve long-term outcomes.",
-   "journal": "Clinical and translational radiation oncology",
-   "year": "2027",
-   "authors": [
-    "Ali Ezzatollahi Tanha",
-    "Yekta Ghane",
-    "Atieh Ezzatollahi Tanha",
-    "Romina Abyaneh",
-    "Reza Ghalehtaki"
-   ],
-   "doi": "10.1016/j.ctro.2026.101348",
-   "field": "immunotherapy",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43068140/"
-  },
-  {
-   "pmid": "43068357",
-   "title": "Knowledge, Attitudes, and Practices of Pregnant Women and Health Care Workers Regarding Antenatal Testing for HIV, Hepatitis B Virus, and Syphilis in Vietnam: Protocol for a Multicenter Cross-Sectional Study.",
-   "abstract": "Mother-to-child transmission (MTCT) of HIV, hepatitis B virus, and syphilis remains a preventable cause of fetal loss, neonatal morbidity, and long-term disability. In Vietnam (Viet Nam), although antenatal care coverage is high, gaps persist in the timing, uptake, and completion of screening and follow-up services for these infections. This study has 2 parallel population-specific objectives. Among women who recently gave birth, we will estimate completion of antenatal testing for HIV, hepatitis B virus, and syphilis and its associated factors with study-defined optimal testing (completion of all 3 tests during the first trimester). Among health care workers (HCWs), we will assess knowledge, attitudes, and reported practices and identify professional factors associated with good practice regarding antenatal screening and MTCT prevention. This multicenter, hospital-based cross-sectional study was conducted from June to September 2026 in 4 provincial hospitals in northern Vietnam. Women completed an interviewer-administered questionnaire after delivery, once clinically stable and before discharge. Antenatal testing was verified from maternal records, laboratory reports, or electronic records whenever available. HCWs completed a separate anonymous self-administered questionnaire during the same study period. The 2 participant groups were not matched. The primary outcome for women is completion of all 3 antenatal tests during the first trimester (study-defined optimal testing). The primary outcome for HCWs is good practice regarding the prevention of MTCT. The minimum target sample sizes were 601 women and 601 HCWs. Data will be analyzed separately for each group. Descriptive analyses will summarize knowledge, attitudes, and practices indicators and service uptake. Modified Poisson regression with robust variance will be used to identify factors independently associated with the primary outcomes. The protocol received ethics approval on February 9, 2026. The study is funded by Thai Binh University of Medicine and Pharmacy, Hung Yen, Vietnam. Recruitment was conducted from June to September 2026. As of manuscript submission, 601 patients and 601 health care workers had been recruited. Data cleaning is planned for October 2026, followed by statistical analysis from November to December 2026. Dissemination of the first study results is planned for the first quarter of 2027. The study will provide hospital-based evidence on completion of antenatal triple screening and provider practices. By prespecifying distinct outcomes for women and HCWs, the study is designed to identify actionable gaps while avoiding causal interpretation of cross-sectional associations.",
-   "journal": "JMIR research protocols",
-   "year": "2026",
-   "authors": [
-    "Trung Kien Nguyen",
-    "Minh Tien Bui",
-    "Thi Thanh Tuyen Bui",
-    "Thi Len Tran",
-    "Quoc Tien Nguyen",
-    "Duy Cuong Nguyen",
-    "Thanh Binh Nguyen",
-    "Van Thuan Hoang",
-    "Thi Loi Dao"
-   ],
-   "doi": "10.2196/95313",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43068357/"
-  },
-  {
-   "pmid": "43067519",
-   "title": "Prevalence of autoimmune hepatitis in patients with Sj&#xf6;gren disease: A systematic review and meta-analysis.",
-   "abstract": "Sj&#xf6;gren disease (SjD) and autoimmune hepatitis (AIH) may coexist, but the prevalence of AIH in SjD patients is unclear. This study investigated the prevalence and association. Databases (Web of Science, Cochrane, Embase, PubMed, CNKI, Wanfang, CBMdisc, VIP) were searched up to November 14, 2025. Quality was assessed using NOS and JBI scales. Meta-analysis was performed with R 4.5.2 (PROSPERO: CRD420251233495). Fourteen studies (3697 SjD patients) were included. Overall prevalence of AIH in SjD was 2.55% (95% CI: 1.52%-4.26%). Prevalence varied by study type (retrospective cohort: 4.58%, cross-sectional: 1.72%, prospective cohort: 1.67%) and by country (China: 6.16%, Japan: 2.51%, Spain: 2.49%). Stratified by SjD diagnostic criteria (1993 European, 2002 AECG) and AIH scoring (1993 IAIHG), prevalence was approximately 2%. Prevalence of AIH in SjD patients varies significantly by study design and region. Early diagnosis and treatment of AIH may improve quality of life and prognosis in SjD patients. This meta-analysis provides the first pooled estimate regarding the prevalence of autoimmune hepatitis (AIH) in patients with Sj&#xf6;gren disease (SjD): 2.55% (95% CI 1.52%-4.26%; 14 studies, 3697 patients). Subgroup analyses indicated that AIH prevalence was influenced by study design, whereas estimates stratified by SjD and AIH diagnostic criteria were of similar magnitude (approximately 2%). Regional estimates showed numerical differences, but the differences were not statistically significant; the numerically higher estimates may reflect differences in genetic susceptibility, selection bias, environmental factors, and medical screening strategies, as well as referral and detection bias. Given the observational and largely cross-sectional design of the included studies, these estimates only motivate a hypothesis-generating immunometabolic framework, rather than permitting causal or mechanistic inference. In this framework, the liver may serve as a source of autoantigens through modifications of oxidation, glycosylation, and lipidation, including the hepatocyte &#x3b2;2GPI-PON1 axis; this mechanism remains to be tested in the SjD-AIH overlap.",
-   "journal": "Autoimmunity reviews",
-   "year": "2026",
-   "authors": [
-    "Ai Chen",
-    "Ziyue Luo",
-    "Jiayao Wang",
-    "Xinchang Wang"
-   ],
-   "doi": "10.1016/j.autrev.2026.104258",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43067519/"
-  },
-  {
-   "pmid": "43067505",
-   "title": "Low public awareness of hepatocellular carcinoma risk factors.",
-   "abstract": "Hepatocellular carcinoma (HCC) prevention can be mediated through hepatitis B virus (HBV) vaccination, hepatitis C virus (HCV) treatment, and alcohol control. We assessed public awareness of their carcinogenic risks and association with digital information seeking behaviors. We analyzed the nationally representative 2024 Health Information National Trends Survey (HINTS 7), including 6,711, 6,661, and 6,793 respondents with observed HBV, HCV, and alcohol awareness outcomes, respectively. Survey-weighted logistic regression with multiple imputation of missing covariates assessed associations with sociodemographic characteristics and digital behaviors. Overall awareness was low: only 18.0%, 16.7%, and 37.1% recognized HBV, HCV, and alcohol as carcinogenic, respectively. Older age was independently associated with lower alcohol-related awareness; compared with adults aged 18-34 years, those aged 35-49 years (aOR 0.67, 95% CI 0.48-0.93), 50-64 years (aOR 0.56, 95% CI 0.40-0.78), and &#x2265;65 years (aOR 0.49, 95% CI 0.36-0.68) had lower awareness. Higher educational attainment was associated with greater alcohol-related awareness (aOR 1.86, 95% CI 1.47-2.34). Online health information seeking was associated with greater awareness of HCV-related (aOR 1.74, 95% CI 1.17-2.59) and alcohol-related cancer risk (aOR 1.95, 95% CI 1.44-2.63), but not HBV-related cancer risk (aOR 1.40, 95% CI 0.95-2.08). However, social media use was not independently associated with risk awareness in multivariable models. Public awareness of HCC risk factors remains low. General social media use was not independently associated with cancer-risk awareness, whereas online health information seeking was associated with greater HCV- and alcohol-related awareness. These findings highlight opportunities for more targeted, literacy-sensitive HCC-prevention communication. Public awareness that hepatitis B virus, hepatitis C virus, and alcohol consumption are associated with cancer risk remains low among U.S. adults. Using nationally representative HINTS 7 data, we identified sociodemographic differences in awareness and found that general social media use was not independently associated with awareness after multivariable adjustment, whereas online health information seeking was associated with greater awareness of HCV- and alcohol-related cancer risk. These findings highlight opportunities for targeted, literacy-sensitive communication strategies that facilitate access to credible health information and strengthen HCC prevention efforts.",
-   "journal": "JHEP reports : innovation in hepatology",
-   "year": "2026",
-   "authors": [
-    "Wei Yuan",
-    "Peyvand Parhizkar",
-    "Mohammad Saeid Rezaee-Zavareh",
-    "Osama Khattab",
-    "Li Li",
-    "Hyun-Seok Kim",
-    "Alexander Kuo",
-    "Walid Ayoub",
-    "Yun Wang",
-    "Aarshi Vipani",
-    "Paul Martin",
-    "Nicole Rich",
-    "Neehar Parikh",
-    "Amit Singal",
-    "Kewei Sun",
-    "Bin Chen",
-    "Tao Zhang",
-    "Ju Dong Yang"
-   ],
-   "doi": "10.1016/j.jhepr.2026.102106",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43067505/"
-  },
-  {
-   "pmid": "43067503",
-   "title": "Comparative risk of hepatocellular carcinoma among people with chronic hepatitis B treated with tenofovir or entecavir: A population-based linkage study.",
-   "abstract": "Hepatocellular carcinoma (HCC) incidence and mortality are rising in Australia and globally. Antiviral therapies entecavir (ETV) and tenofovir disoproxil fumarate (TDF) are widely used to treat chronic hepatitis B (CHB) and reduce HCC risk, but uncertainty persists regarding their relative HCC prevention impact. This study characterises HCC incidence among people with CHB treated with ETV or TDF, including sub-populations recommended for HCC surveillance. We conducted a retrospective population-based cohort study in New South Wales, Australia, using linked public health datasets: 10,698 people with CHB were eligible after receiving at least 12 months of stable antiviral therapy with ETV (n=7,139) or TDF (n=3,559). Follow-up occurred from 2007-2022. Crude annual incidence rates and adjusted Cox proportional hazard ratios were calculated for HCC. Median follow-up was 86.3 months, including 89.2 months and 82.3 months among participants receiving TDF and ETV, respectively. During follow-up, 300 (2.8%) participants were diagnosed with HCC, an incidence of 4.12 per 1000 person years. Participants treated with TDF had a lower hazard ratio for HCC (aHR: 0.61, 95% CI: 0.46-0.82) compared to those treated with ETV. Baseline variables associated with increased HCC risk were older age (reference <50 years: 50-59 years aHR: 2.15, 95% CI: 1.45-3.18; 60-69 years aHR: 3.42, 95% CI: 2.38-4.91; 70-79 years aHR: 4.28, 95% CI: 2.89-6.34; &#x2265;80 years aHR: 3.95, 95% CI: 2.51-6.22), male sex (aHR: 3.14; 95% CI: 2.31-4.25), alcohol use disorder (aHR: 2.33; 95% CI: 1.28-4.25), and history of decompensated cirrhosis (aHR: 2.28; 95% CI: 1.27-4.07). In people with chronic hepatitis B in Australia on stable antiviral therapy hepatocellular carcinoma risk was lower among those receiving entecavir than those receiving tenofovir disoproxil fumarate, although confounding remains a potential explanation. Comparative HCC risk between entecavir and tenofovir disoproxil fumarate (TDF) in chronic hepatitis B remains uncertain outside East Asian cohorts. This population-based linkage study of people with chronic hepatitis B in Australia found TDF was associated with lower HCC risk than entecavir, a finding relevant to clinicians and researchers working on HCC prevention. These results support consideration of TDF as a preferred antiviral where clinically appropriate and highlight the need for HCC screening guidelines to account for treatment status alongside established risk factors such as older age and alcohol use disorder. As treatment was not randomised and residual confounding could not be completely mitigated, further prospective studies are needed to confirm this association.",
-   "journal": "JHEP reports : innovation in hepatology",
-   "year": "2026",
-   "authors": [
-    "Yarrow Ruane",
-    "Shane Tillakeratne",
-    "Marion Barault",
-    "Heather Valerio",
-    "Marianne Martinello",
-    "Jessica Howell",
-    "Mark Danta",
-    "Jacob George",
-    "Purnima Bhat",
-    "Gregory J Dore"
-   ],
-   "doi": "10.1016/j.jhepr.2026.102105",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43067503/"
-  },
-  {
-   "pmid": "43067132",
-   "title": "Hepatitis C Elimination in Latin America: Progress, Disparities, and Lessons for the Next Phase of Liver Health.",
-   "abstract": "In 2016, the World Health Organization set goals to eliminate the hepatitis C virus (HCV) as a public health threat by 2030; these include a 90% reduction in new infections, a 65% reduction in HCV-related mortality, the diagnosis of 90% of infected individuals, and the treatment of 80% of those eligible. Although direct-acting antivirals (DAAs) make a viral cure technically achievable, progress in Latin America remains heterogeneous. In this structured narrative review and country-level policy mapping, we assess the current epidemiology of HCV, screening and diagnostic pathways, care models, access to DAAs, national guidelines, and surveillance capabilities in select Latin American countries. While formal elimination commitments are becoming more common, universal or expanded screening, reflex diagnostic pathways, decentralized care, and integrated longitudinal registries remain unevenly implemented. Persistent deficiencies are particularly relevant for people who inject drugs (PWID), incarcerated populations, migrants, and other groups with barriers to conventional care. International experience supports point-of-care and reflex testing, prison-based testing and treatment, harm reduction integration, and decentralization as strategies to close these gaps. After achieving a sustained virological response, elimination programs must also address residual fibrosis, hepatocellular carcinoma risk, metabolic and alcohol-related liver injury, and the risk of HCV reinfection in populations that remain exposed to the virus.",
-   "journal": "Archives of medical research",
-   "year": "2026",
-   "authors": [
-    "Nahum M&#xe9;ndez-S&#xe1;nchez",
-    "Mariana M Ram&#xed;rez-Mej&#xed;a",
-    "Guadalupe Ponciano-Rodr&#xed;guez"
-   ],
-   "doi": "10.1016/j.arcmed.2026.103559",
-   "field": "Hepatitis",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43067132/"
-  },
-  {
-   "pmid": "43068365",
-   "title": "[Position paper: surveillance for pancreatic cancer in individuals at elevated risk for pancreatic ductal adenocarcinoma].",
-   "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is often diagnosed at an advanced stage, where treatment options are limited. Studies suggest that early detection programs for individuals with increased genetic or familial risk may enable diagnosis and surgical treatment at a potentially curable stage. Early detection programs for pancreatic cancer show effectiveness and are cost-effective in populations stratified by the appropriate age to initiate surveillance. There is no benefit in participating in such a program for individuals who are not interested in surgery or are not surgical candidates due to their medical condition. Annual surveillance with MRI or endoscopic ultrasound (EUS) is recommended for carriers of specific gene mutations-such as BRCA2, even without a family history of pancreatic cancer and for carriers of other genes only when a family history is present, or for individuals with a strong family history even without an identified genetic mutation. This position paper details surveillance recommendations for high-risk populations.",
-   "journal": "Harefuah",
-   "year": "2026",
-   "authors": [
-    "Maya Aharoni Golan",
-    "Zohar Levi",
-    "Fabiana Benjaminov",
-    "Dana Ben-Ami Shor",
-    "Revital Kariv",
-    "Lior Kats",
-    "Elizabeth Half",
-    "Ido Laish",
-    "Naama Lev Cohain",
-    "Muriel Webb",
-    "Eran Sadot",
-    "Einat Shacham Shmueli",
-    "Talia Golan",
-    "Yael Goldberg",
-    "Sari Lieberman",
-    "Shlomit Tamir"
-   ],
-   "doi": "",
-   "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43068365/"
-  },
-  {
-   "pmid": "43068364",
-   "title": "[Position paper: colonoscopy preparation - the position of the Israeli Association of Gastroenterology and Liver Diseases].",
-   "abstract": "Preparing for a colonoscopy involves bowel cleansing and medication adjustments, including anticoagulants and anti-diabetics. Various protocols can make these adjustments confusing for both physicians and patients. While essential for a successful procedure, this preparation can cause discomfort and carry potential risks. We aimed to provide clear guidance for colonoscopy preparation, achieving consensus among multiple societies to ensure safety and effectiveness, including patient forms. This position paper is based on guidelines from major professional associations in Europe and the USA. Representatives from associations in Gastroenterology, Pharmacology, Hematology, Nephrology, Endocrinology, and Geriatrics have collaborated to develop these recommendations. Bowel preparation now requires two days using a split-dose method. Updated guidelines include \"enhanced\" preparation definitions, adjustments for anti-diabetic drugs, discontinuation of anticoagulants, enoxaparin bridging, and resuming therapy post-procedure. PicoLax is suitable for patients with a GFR above 30 mL/min. New glucagon-like peptide-1 (GLP-1) receptor agonist guidelines address gastroparesis and sedation risks. Finally, we provide breastfeeding recommendations for colonoscopy. This consensus paper provides interdisciplinary guidance to ensure effective bowel preparation while addressing safety concerns, making it a valuable resource for healthcare providers and patients.",
-   "journal": "Harefuah",
-   "year": "2026",
-   "authors": [
-    "Orly Sneh-Arbib",
-    "Lev Lichtenstein",
-    "Bronislava Calvarysky",
-    "Nimrod Kimhi",
-    "Fabiana Benjaminov",
-    "Dan Keret",
-    "Galia Spectre",
-    "Avi Leader",
-    "Idit Dotan",
-    "Talia Dicker-Cohen",
-    "Yaara Leibovici-Weissman",
-    "Tali Steinmetz",
-    "Benaya Rosen-Zvi",
-    "Maya Aharoni Golan",
-    "Uri Segol",
-    "Rachel Gingold-Belfer",
-    "Sheli Shakhman",
-    "Tamar Pfeffer-Gik",
-    "Zohar Levi"
-   ],
-   "doi": "",
-   "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43068364/"
-  },
-  {
-   "pmid": "43068352",
-   "title": "Real-world Gastrointestinal, Pancreaticobiliary, Cardiorenal, Metabolic and Nutritional Outcomes of GLP-1 or GIP Receptors Agonists -based Therapy in Chronic Pancreatitis.",
-   "abstract": "Glucagon-like peptide-1(GLP-1) receptor agonists and dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 receptor agonists are increasingly used for metabolic disease, but their safety profile in patients with chronic pancreatitis (CP) remains uncertain. We compared several gastrointestinal, cardio, renal and metabolic outcomes in patients with CP exposed to dulaglutide, semaglutide, or tirzepatide versus propensity-matched unexposed controls. We conducted a retrospective, propensity score-matched cohort study using the TriNetX federated real-world data platform. Adults with CP were classified by recorded exposure to dulaglutide, semaglutide, or tirzepatide versus no recorded exposure to those drugs. Risk analyses and Kaplan-Meier time-to-event analyses were done. After matching, median follow-up was 588 (IQR 831) versus 879 (IQR 807), respectively. Nausea/vomiting occurred in 656/4,938 (risk 0.133) versus 1,099/5,585 (risk 0.197), with risk ratio (RR) 0.675 (95%CI: 0.618-0.738) and hazard ratio (HR) 0.710 (95%CI: 0.645-0.783). Bowel obstruction/ileus occurred in 241/9,103 (risk 0.026) versus 466/8,949 (risk 0.052), with RR=0.508 (95%CI: 0.436-0.592) and HR=0.556 (95%CI: 0.476-0.649). Upper gastrointestinal bleeding occurred in 355/8,536 (risk 0.042) versus 608/8,657 (risk 0.070), with RR=0.592 (95%CI: 0.521-0.673) and HR=0.659 (95%CI: 0.578-0.751). Biliary/procedural outcomes were lower, including cholecystectomy (risk 0.023 vs 0.049; HR=0.486, 95%CI: 0.412-0.572) and ERCP (risk 0.026 vs 0.064; HR=0.420, 95%CI: 0.362-0.488). Recurrent acute pancreatitis occurred in 329/5,639 exposed patients (risk 0.058) versus 579/5,499 controls (risk 0.105), with HR=0.584 (95%CI: 0.510-0.669). Additional associations included lower insulin initiation (risk 0.178 vs 0.269; HR=0.731, 95%CI: 0.658-0.812), heart failure (risk 0.061 vs 0.101; HR=0.687, 95%CI: 0.613-0.770), myocardial infarction (risk 0.039 vs 0.054; HR=0.818, 95%CI: 0.712-0.939 and acute kidney injury (risk 0.086 vs 0.150; HR=0.643, 95%CI: 0.580-0.712), malnutrition (risk 0.049 vs 0.107; HR=0.491, 95%CI: 0.438-0.550). Exposure to dulaglutide, semaglutide, or tirzepatide was associated with lower recorded risks across several gastrointestinal, cardio, renal and metabolic outcome domains. These findings should be interpreted with caution, and further prospective studies are required to confirm the same.",
-   "journal": "Journal of gastrointestinal and liver diseases : JGLD",
-   "year": "2026",
-   "authors": [
-    "Arkadeep Dhali",
-    "Rick Maity",
-    "Fayaz Khan"
-   ],
-   "doi": "10.15403/jgld-6964",
-   "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43068352/"
-  },
-  {
-   "pmid": "43068146",
-   "title": "HER2-Positive Cholangiocarcinoma Following Previous Cervical Squamous Cell Carcinoma: A Diagnostic Challenge and Clinical Course With Sequential Systemic Therapy.",
-   "abstract": "Cholangiocarcinoma is an aggressive malignancy associated with poor outcomes, particularly following recurrence after surgical resection. Diagnosis can be challenging when a new hepatic lesion develops in a patient with a previous malignancy. We report the case of a 54-year-old woman with a history of stage IIB cervical squamous cell carcinoma treated with concurrent chemoradiotherapy and brachytherapy in 2020, who developed an indeterminate hepatic lesion in September 2021. A hepatic abscess was initially considered, but the lesion failed to respond to a full course of antibiotics. Biopsy demonstrated poorly differentiated adenocarcinoma, prompting investigation for an alternative primary malignancy. Upper and lower gastrointestinal endoscopy were normal, and PET-CT demonstrated a solitary avid lesion in segment 8. Right hepatectomy was performed in December 2021; histology demonstrated six lesions consistent with cholangiocarcinoma, staged pT2 Nx M0, with no lymph nodes resected. Adjuvant capecitabine was commenced based on evidence from the BILCAP trial. Shortly after surgery, CT demonstrated recurrent hepatic disease, and the patient was deemed unsuitable for further surgery or liver-directed therapy. Molecular profiling demonstrated HER2 -positive, microsatellite-stable cholangiocarcinoma, with FGFR2- negative and PD-L1 CPS 0.5. Treatment for recurrent disease comprised trastuzumab with oxaliplatin-based chemotherapy, followed by trastuzumab maintenance until December 2022; gemcitabine/carboplatin for six cycles until May 2023; and FOLFIRI until August 2023. Trastuzumab deruxtecan (Enhertu) was commenced in January 2024 as a self-funded anti- HER2 treatment and discontinued in August 2024 following radiological progression. In September 2024, brain MRI demonstrated a solitary cerebral metastasis, which was treated with stereotactic radiosurgery. Palliative cisplatin was subsequently commenced. The patient died in November 2024, approximately 34 months after recurrent hepatic disease was documented. This case highlights the diagnostic challenges of distinguishing a new primary intrahepatic cholangiocarcinoma from metastatic disease, the role of HER2 testing in informing treatment options, and the clinical course of a patient who survived approximately 34 months after recurrent hepatic disease was documented. The observed survival does not establish a benefit attributable to any individual treatment.",
+   "pmid": "43069964",
+   "title": "Salmonella enterica-Associated Myopericarditis Following Acute Gastroenteritis.",
+   "abstract": "A previously healthy man in his early 20s presented with several days of febrile gastroenteritis, followed by acute pleuritic chest pain and dyspnea. Initial evaluation demonstrated markedly elevated cardiac biomarkers and inflammatory markers, electrocardiogram changes consistent with acute pericarditis, and preserved left ventricular systolic function on transthoracic echocardiogram. Stool polymerase chain reaction testing and blood cultures identified Salmonella enterica . A clinical diagnosis of suspected Salmonella -associated myopericarditis was made, although direct myocardial infection could not be confirmed. The patient was treated with targeted antimicrobial therapy in addition to anti-inflammatory therapy with aspirin and colchicine. His gastrointestinal and cardiac symptoms resolved rapidly, and he was discharged in stable condition with activity restriction and cardiology follow-up. This case highlights a rare but potentially life-threatening cardiac complication associated with non-typhoidal Salmonella infection in a young, otherwise healthy adult and underscores the importance of maintaining diagnostic vigilance when gastrointestinal prodromes precede acute chest pain with myocardial injury.",
    "journal": "Cureus",
    "year": "2026",
    "authors": [
-    "Nur Farah Hanee Binti Mohammad Anuar",
-    "Muhammad Danial Bin Rosli",
-    "Hossam Abdulkhalek"
+    "Meghana Reddy",
+    "Eric J Basile",
+    "Chirag Lodha"
    ],
-   "doi": "10.7759/cureus.118360",
-   "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43068146/"
+   "doi": "10.7759/cureus.118412",
+   "field": "cardiology",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069964/"
   },
   {
-   "pmid": "43068089",
-   "title": "Hepatocellular Carcinoma Progression is Regulated by KIF4A via the HSP90-CDC37 Complex/AKT Pathway.",
-   "abstract": "Hepatocellular carcinoma (HCC) seriously endangers the life and health of people all over the world, so it is necessary to further study the pathogenesis of hepatocellular carcinoma. Kinesin family member 4A (KIF4A) appears to play oncogenic roles in numerous malignancies; however, its involvement in HCC remains unclear. This study aimed to elucidate the molecular mechanisms underlying the biological function of KIF4A in HCC progression. Transcriptome sequencing of more than 50 HCC patient tissue samples revealed that KIF4A expression was significantly upregulated in HCC tissues and increased with clinical progression. Functional assays (CCK-8, colony formation, wound-healing, Transwell) were performed following KIF4A knockdown or overexpression in SK-Hep1 and BEL-7402 cells. Downstream molecules were identified using the 4D-DIA quantitative proteomics technique and bioinformatics analysis. Additionally, in vivo experiments using subcutaneous xenograft tumor and xenograft mouse metastatic models established in immunodeficient mice confirmed that KIF4A facilitates HCC growth and metastasis. Our study provides new insights into the clinical relevance and biological function of KIF4A in HCC. We found that KIF4A was significantly elevated in liver cancer tissues and may be indicative of poor prognosis in patients. Mechanistically, our results suggest that KIF4A promotes the proliferation and metastasis of HCC cells by inhibiting the degradation of HSP90 proteasome pathway, increasing the expression of the latter in HCC, and regulating AKT phosphorylation via the HSP90-CDC37 complex. These findings provide a novel theoretical foundation for understanding the molecular mechanisms of HCC progression, as well as presents novel targets developing treatments of HCC. Our findings revealed up-regulated KIF4A expression in HCC cell lines and tissues, and may be indicative of poor prognosis in HCC patients. KIF4A mediates HCC progression by regulating the HSP90-CDC37 complex /AKT pathway.",
+   "pmid": "43070153",
+   "title": "Guillain-Barr&#xe9;/Miller Fisher Overlap Syndrome Associated With Listeria monocytogenes Peritonitis During Chemotherapy for Ovarian Cancer: A Case Report.",
+   "abstract": "Guillain-Barr&#xe9;/Miller Fisher overlap syndrome (GBS/MFS overlap syndrome) is an acute immune-mediated polyneuropathy characterized by features of Miller Fisher syndrome, including ophthalmoplegia, ataxia, and decreased tendon reflexes, accompanied by limb weakness. We report a case of clinically diagnosed GBS/MFS overlap syndrome occurring in association with Listeria monocytogenes peritonitis during chemotherapy for high-grade serous ovarian cancer (HGSOC). A 62-year-old woman developed fever, diplopia, distal sensory disturbance, lower-extremity weakness, and ataxia 13&#x2009;days after receiving neoadjuvant chemotherapy. Neurological examination revealed abducens nerve palsy and decreased deep tendon reflexes. Brain magnetic resonance imaging showed no abnormalities, and cerebrospinal fluid analysis revealed no pleocytosis or elevated protein level. Nerve conduction studies showed reduced compound muscle action potential and sensory nerve action potential amplitudes. Contrast-enhanced computed tomography revealed encapsulated ascites, and ascitic fluid culture was positive for L. monocytogenes. Her neurological symptoms gradually improved following antibiotic therapy and drainage of the ascites without specific immunotherapy. Although anti-GQ1b antibody testing was not performed, the combination of MFS-like features, limb weakness, and electrophysiological evidence of motor-sensory polyneuropathy was most consistent with a clinical diagnosis of GBS/MFS overlap syndrome. The temporal association suggests a possible relationship among infection, malignancy, and immune-mediated neuropathy; however, their respective contributions and a causal relationship with L. monocytogenes infection could not be established.",
+   "journal": "The journal of obstetrics and gynaecology research",
+   "year": "2026",
+   "authors": [
+    "Mikiya Kato",
+    "Satoshi Nomura",
+    "Hirotaka Ueno",
+    "Yukihiro Kuroiwa",
+    "Hiromasa Sasaki",
+    "Yasunari Mizumoto"
+   ],
+   "doi": "10.1111/jog.70592",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070153/"
+  },
+  {
+   "pmid": "43070049",
+   "title": "Engineering Theranostic Nanomedicines for Clinical Translation: Nano-Bio Interactions, Responsive Design, Multimodal Function, and Scale-Up.",
+   "abstract": "Theranostic nanomedicines are engineered multifunctional systems that integrate diagnostic sensing, imaging, and therapeutic delivery within a single nanoscale platform. Their performance depends not only on material composition but also on controllable nano-bio interactions, transport, targeting, stimulus responsiveness, and manufacturability. This review examines the bioengineering principles underlying next-generation theranostic nanomedicines, including lipid, polymeric, mesoporous silica, inorganic, extracellular-vesicle-derived, and cell-membrane-camouflaged platforms. Particular emphasis is placed on how physicochemical design governs protein-corona formation, circulation, biodistribution, cellular uptake, and clearance, and how endogenous or externally applied stimuli can be engineered for spatiotemporally controlled cargo release and imaging feedback. We further discuss the integration of multimodal imaging with nucleic-acid delivery, CRISPR/Cas gene editing, immunotherapy, ferroptosis, sonodynamic therapy, and photothermal therapy, together with emerging uses of artificial intelligence and machine learning for formulation optimization, image analysis, toxicity prediction, and treatment-response modeling. Despite rapid technological progress, clinical translation remains constrained by heterogeneous biological behavior, limited targeting efficiency, long-term safety uncertainties, complex manufacturing, batch-to-batch variability, and regulatory challenges. Future development should shift from increasingly complex multifunctional constructs toward platforms with measurable design-function relationships, scalable Good Manufacturing Practice-compatible production, standardized characterization, and clinically relevant validation. Such an engineering-focused approach could help advance theranostic nanomedicine from predominantly preclinical multifunctional systems toward reproducible technologies for precision diagnosis and therapy.",
+   "journal": "Biotechnology and bioengineering",
+   "year": "2026",
+   "authors": [
+    "Niamat Ullah",
+    "Touseef Nawaz",
+    "Mohamed El Fadili",
+    "Adnan Amin"
+   ],
+   "doi": "10.1002/bit.70420",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070049/"
+  },
+  {
+   "pmid": "43070005",
+   "title": "Yellow fever vaccination promotes immunogenicity in children thymectomized due to heart surgery.",
+   "abstract": "Yellow fever is a viral illness that may present a high mortality rate. For live-attenuated 17DD vaccine to be effective, a T-cell-mediated immune response is required. Neonatal cardiac surgeries require total thymectomy that might affect thymus function, and thymus disorders are among the contraindications to yellow fever vaccination. We aimed to determine whether children who underwent thymectomy maintain adequate cellular and humoral immune responses to the yellow fever vaccine compared to age-matched controls with intact thymus. In this case-control study, 26 children who underwent total thymectomy during arterial switch operation for transposition of the great arteries before they were aged 4&#x2009;months and received at least one dose of yellow fever vaccine were compared to a control group of 27 children. We examined neutrophil counts and the immune response mounted by lymphomononuclear cells in samples stimulated with yellow fever vaccine virus. We assessed the levels of neutralizing antibodies and cytokine expression against yellow fever virus in both thymectomized and control groups. Thymectomized patients had no clinical signs of immunodeficiency. They presented decreased lymphocyte counts and IL-4 and IL-1&#x3b2; expression levels, but similar IL-10 and IFN-&#x3b3; expression levels as compared to the controls. Antibody titration of serum obtained from patients vaccinated with the live-attenuated yellow fever vaccine did not reveal differences between thymectomized and control groups. Our study shows that children with resected thymus maintain a robust and functional immune response to the 17DD yellow fever vaccine, which supports that vaccinating this population is safe and necessary.",
+   "journal": "Pediatric allergy and immunology : official publication of the European Society of Pediatric Allergy and Immunology",
+   "year": "2026",
+   "authors": [
+    "Milene de Oliveira Reis",
+    "Luiza Antunes de Castro Jorge",
+    "Jhefferson Barbosa Guimar&#xe3;es",
+    "Vitor Gon&#xe7;alves Floriano",
+    "P&#xe9;rsio Roxo-Junior",
+    "Fernando Tadeu Vasconcelos Amaral",
+    "Benedito Ant&#xf4;nio Lopes da Fonseca",
+    "Paulo Henrique Manso"
+   ],
+   "doi": "10.1111/pai.70577",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070005/"
+  },
+  {
+   "pmid": "43069934",
+   "title": "Immunological Mechanisms in Recurrent Spontaneous Abortion: A Critical Review of Immune-Based Diagnostic and Therapeutic Approaches.",
+   "abstract": "Recurrent spontaneous abortion (RSA), commonly defined as two or more pregnancy losses, is a heterogeneous condition involving genetic, anatomical, endocrine, infectious, and immunological factors. Immune dysregulation at the maternal-fetal interface has been associated with pregnancy loss through altered natural killer (NK) cell phenotypes and activity, imbalances among T-cell subsets, abnormal macrophage polarization, autoantibodies, and complement activation. However, the strength of evidence differs substantially across these pathways: many cellular and cytokine findings are associative, vary with tissue source and gestational timing, and have not been established as independent causes or validated clinical tests. This review examines the current evidence linking innate and adaptive immune responses to RSA and considers how these findings inform immunological assessment and treatment. Established clinical approaches, particularly antithrombotic treatment for appropriately diagnosed obstetric antiphospholipid syndrome, are distinguished from candidate biomarkers and investigational immunotherapies, including NK-cell-directed interventions, intravenous immunoglobulin, and lymphocyte immunotherapy. Important limitations include heterogeneous case definitions, non-standardized assays, small or selected study populations, and inconsistent treatment protocols. By integrating mechanistic findings with the quality and clinical applicability of available evidence, this review identifies priorities for standardized biomarker validation, prospective patient stratification, and adequately powered trials.",
+   "journal": "International journal of general medicine",
+   "year": "2026",
+   "authors": [
+    "Liping Zhang",
+    "Fei Wang",
+    "Yuqin Liu",
+    "Lijie Pan",
+    "Liehong Wang"
+   ],
+   "doi": "10.2147/IJGM.S657566",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069934/"
+  },
+  {
+   "pmid": "43069930",
+   "title": "Effects of Neoadjuvant Immunochemotherapy on Perioperative Rocuronium Neuromuscular Blockade and Sugammadex Reversal in Elderly Patients with Esophageal Cancer: A Prospective Observational Cohort Study.",
+   "abstract": "Neoadjuvant immunochemotherapy (NICT) is increasingly used in elderly patients with esophageal cancer, but its effects on neuromuscular blockade and reversal remain unclear. We evaluated NICT effects on rocuronium-induced blockade and sugammadex reversal in elderly esophagectomy patients. This prospective observational cohort study recruited 65 elderly patients (&#x2265;65 years) undergoing elective esophagectomy at Jiangsu Cancer Hospital; 57 were analyzed (29 NICT, 28 treatment-naive (TN) group). NICT patients received PD-1/PD-L1 inhibitors plus taxanes and platinum; TN patients received no neoadjuvant treatment. Rocuronium 0.6 mg/kg was given as a peripheral intravenous bolus, then infused and titrated by quantitative neuromuscular monitoring. After surgery, when the second train-of-four (TOF) twitch was detectable, both groups received sugammadex 2 mg/kg. The primary outcome was mean consumption rate of rocuronium. Secondary outcomes included rocuronium onset time, times to T1 recovery of 10% and 25%, and recovery index and time to TOF ratio (TOFr) recovery to 90% after sugammadex; adverse events were recorded. Mean consumption rate of rocuronium was higher with NICT (12.73 &#xb1; 2.80 vs 10.54 &#xb1; 1.56 &#x3bc;g&#xb7;kg -1 &#xb7;min -1 ; mean difference 2.19, 95% CI 0.98-3.40; P<0.001; Hedges'g=0.95, 95% CI 0.40-1.49). Rocuronium onset was longer (4.18 &#xb1; 1.73 vs 3.01 &#xb1; 0.99 min; P=0.003), and times to T1 recovery of 10% and 25% were shorter (P=0.001 and P<0.001). No significant difference was detected in sugammadex-assisted recovery index (P=0.196) or time to TOFr recovery to 90% (P=0.299); however, the study was not powered for these outcomes, and findings were inconclusive. Adverse events were comparable. In elderly esophagectomy patients, NICT was associated with higher rocuronium requirements, delayed onset, and faster spontaneous recovery, consistent with reduced sensitivity. Its effect on sugammadex reversal remained inconclusive. Quantitative monitoring and individualized titration can manage these changes, but the single-center observational design limits generalization.",
+   "journal": "Drug design, development and therapy",
+   "year": "2026",
+   "authors": [
+    "Halisa Paerhati",
+    "Xinyang Hu",
+    "Minhao Zhang",
+    "Lianbing Gu"
+   ],
+   "doi": "10.2147/DDDT.S652441",
+   "field": "immunotherapy",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069930/"
+  },
+  {
+   "pmid": "43070143",
+   "title": "Relapsing Cryoglobulinemic MPGN in Chronic Hepatitis E After Ribavirin Failure in a Kidney-Pancreas Transplant Recipient.",
+   "abstract": "",
+   "journal": "Transplant infectious disease : an official journal of the Transplantation Society",
+   "year": "2026",
+   "authors": [
+    "Jos&#xe9; Ignacio Busso Barcelo",
+    "Leila Chenine",
+    "Laur&#xe8;ne Tardieu"
+   ],
+   "doi": "10.1111/tid.70361",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070143/"
+  },
+  {
+   "pmid": "43070130",
+   "title": "HIV Co-Infection and Hepatic Outcomes in Metabolic Dysfunction-Associated Steatotic Liver Disease.",
+   "abstract": "MASLD affects roughly one-third of people with HIV (PWH), yet data on advanced hepatic outcomes are limited. We examined the association of HIV co-infection with hepatic outcomes in propensity score-matched adults with MASLD. Using the TriNetX US Collaborative Network (~114.6 million patients), we identified adults with MASLD stratified by HIV status, excluding viral hepatitis, alcohol-related and other chronic liver diseases. Patients were 1:1 propensity-matched on demographics, BMI, smoking, cardiometabolic comorbidities, laboratory values and medications, then followed for 5&#x2009;years (Kaplan-Meier, Cox, competing-risk analyses). Primary outcomes were all-cause mortality and a composite hepatic decompensation endpoint (ascites/spontaneous bacterial peritonitis, variceal disease, portal hypertension, hepatic encephalopathy, hepatorenal/hepatopulmonary syndrome or liver transplantation). After matching (6666 per group), HIV-positive patients had a higher risk of the composite hepatic outcome (HR 1.25, 95% CI 1.04-1.50) and lower all-cause mortality (HR 0.74, 95% CI 0.62-0.88). Individual outcomes, including cirrhosis (HR 1.32, 95% CI 0.98-1.78), were not statistically significant. Severe immunosuppression (CD4&#x2009;<&#x2009;200 cells/&#x3bc;L) more than doubled composite hepatic risk (HR 2.11, 95% CI 1.11-4.00), while ART exposure showed no effect (HR 1.00, 95% CI 0.68-1.48). Descriptive competing-risk analyses (unmatched) showed higher cirrhosis incidence despite lower mortality. After comprehensive metabolic matching, HIV co-infection remained associated with modestly increased composite hepatic decompensation, while individual endpoints such as cirrhosis were attenuated, consistent with residual ascertainment bias from greater healthcare contact. Severe immunosuppression, not ART exposure, identified a high-risk subgroup. These findings support targeted liver surveillance in PWH with MASLD, especially at low CD4 counts. Fatty liver disease caused by metabolic factors (MASLD) is common in people living with HIV, but it is unclear whether HIV worsens liver outcomes. Using a large US health records database, we compared more than 6600 HIV&#x2010;positive adults with MASLD to an equal number of HIV&#x2010;negative adults matched on demographics, body weight and a comprehensive set of metabolic risk factors and followed them for up to 5&#x2009;years. HIV&#x2010;positive patients had a 25% higher risk of developing serious liver complications overall, and this risk was more than twice as high in those with the weakest immune systems (CD4 counts under 200). Individual complications such as cirrhosis showed a similar direction of effect but were no longer statistically significant once metabolic risk factors were rigorously accounted for. Surprisingly, overall death rates were lower in the HIV&#x2010;positive group, probably because they see doctors more regularly as part of their HIV care. These results suggest that people with both HIV and fatty liver disease&#x2014;especially those with weakened immune systems&#x2014;should be monitored closely for liver scarring.",
+   "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+   "year": "2026",
+   "authors": [
+    "Youssef Hafez",
+    "Nishat Anjum Shaik",
+    "Yassine Kilani",
+    "EzzElDien A Ibrahim",
+    "Anna Gontar",
+    "Ahmad Basil Nasir",
+    "Omar Abdelghany",
+    "Vincenzo Cardinale",
+    "Lewis J Frey",
+    "Adam D Farmer",
+    "Wing-Kin Syn"
+   ],
+   "doi": "10.1111/liv.70995",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070130/"
+  },
+  {
+   "pmid": "43069805",
+   "title": "Development and Internal Validation of an On-Treatment Nomogram for Hepatocellular Carcinoma Prediction in Chinese Patients with Chronic Hepatitis B Receiving Long-Term Nucleos(t)ide Analogue Therapy.",
+   "abstract": "This research was conducted to develop and perform internal statistical validation of a prognostic nomogram specifically designed to predict the individual risk of hepatocellular carcinoma (HCC) in Chinese adults infected with chronic hepatitis B (CHB) receiving sustained long-term treatment with nucleos(t)ide analogues (NAs). In this retrospective observational cohort study, 380 Chinese individuals with chronic hepatitis B (CHB) who had been continuously receiving nucleos(t)ide analog (NA) treatment for at least 36 consecutive months between 2020 and 2022 were recruited. These participants were randomly divided into a model development training set (n=266) and a separate internal performance validation set (n=114). By using a combination of Cox proportional hazards regression and least absolute shrinkage and selection operator (LASSO) regularization, we screened and selected the significant predictive variables, and thus obtained four core independent prognostic factors: chronological age, liver stiffness measurement derived from transient elastography (LSM), quantifiable circulating hepatitis B virus RNA (HBV RNA) and peripheral blood platelet concentration. The prognostic model was then evaluated in three important aspects: discriminative power, calibration accuracy and practical utility in clinical decision-making, comparing its performance with four widely recognized existing risk scoring systems: REACH-B, PAGE-B, modified PAGE-B and LEAST prediction tools. During a median observation period of 4.2 years, 25 out of the enrolled subjects experienced hepatocellular carcinoma. The simplified final prognostic nomogram includes four easily measurable baseline and serial treatment-related variables: age of the patient at the beginning of the study, liver stiffness measured at the 36-month visit, detectable serum hepatitis B virus RNA at the 3-year point, and platelet count at the 3-year period. The obtained predictive model shows good internal discriminative ability with concordance indices of 0.87 in the training subset and 0.85 in the external validation subset. The paired time-dependent receiver operating characteristic curves gave area under the curve values of 0.89 and 0.87 for the two groups respectively. Evaluation of model calibration indicates that the predicted and actual risks of hepatocellular carcinoma are well correlated in all risk categories, and decision curve analysis confirms that the tool provides significant net clinical benefit for patients and doctors over a wide range of risk levels from 5% to 35%. In the internal validation cohort, the new nomogram performs significantly better than the existing widely used hepatocellular carcinoma risk assessment methods. A newly established prediction score system for hepatocellular carcinoma, which has been validated internally, includes four important clinical indicators: the patient's age, liver stiffness measurements taken after 36 months of treatment, the measurable amounts of hepatitis B virus RNA at that time, and the platelet counts in the peripheral blood at the 3-year follow-up examination. This predictive model shows good discrimination ability in differentiating the high-risk groups from the normal population within our patient sample. Although the initial findings are positive, there are still three main limitations affecting the practical application of the tool: the small number of hepatocellular carcinoma cases observed during the study period, the assessment of prognostic factors being limited only to the 3-year time point without using a formal landmark analysis to deal with competing risks and varying treatment effects, and the absence of external validation tests in other regions or demographic groups. Before this prediction tool can be used routinely in clinical practice, it is necessary to conduct independent validation studies in numerous institutions with large and various patient groups.",
    "journal": "Journal of hepatocellular carcinoma",
    "year": "2026",
    "authors": [
-    "Haonan Zhou",
-    "Di Wu",
-    "Ruilin Xing",
-    "Shiqi Liu",
-    "Haomin Wu",
-    "Yubo Wu",
-    "Yifan Jin",
-    "Hongwei Yang",
-    "Chengshuo Zhang",
-    "Guang Wang",
-    "Gang Wu"
+    "Dan Huang",
+    "Xiaoke Chen",
+    "Peng Zhuang"
    ],
-   "doi": "10.2147/JHC.S641288",
+   "doi": "10.2147/JHC.S655212",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069805/"
+  },
+  {
+   "pmid": "43069781",
+   "title": "Immunoinformatic and Structural Design of an Influenza A DNA Vaccine Based on Conserved Nucleoprotein Epitopes and Heat Shock Protein 70 Adjuvant.",
+   "abstract": "Influenza A is a health concern, as it constantly mutates and changes antigens. The conventional vaccine is not very effective in providing immunity. We have designed and characterized a DNA multi-epitope vaccine based on conserved regions of the influenza A nucleoprotein (NP) and have assessed the immune response. This is a bioinformatics study carried out in 2025 at the Pasteur Institute of Iran in Tehran. Epitopes were predicted using the immune epitope database and were screened for conservancy, antigenicity, toxicity, and allergenicity using the alignment-independent antigenicity prediction server (VaxiJen), toxicity prediction tool (ToxinPred), and allergenicity prediction tool (AllergenFP).The vaccine contains a cell-penetrating peptide (CPP) derived from the hemagglutinin protein, a vascular endothelial growth factor 183 (VEGF-183) signal peptide, a tetanus toxoid (TT) helper peptide (830-844), NP peptides, and two repeats of heat shock protein 70 (Hsp70)(407-426). The peptides are arranged using flexible and rigid linkers. The structure was predicted using the self-optimized prediction method with alignment (SOPMA) and AlphaFold2. The structure was further analyzed using high-ambiguity-driven protein-protein docking (HADDOCK) with human leukocyte antigen (HLA) class I and II and toll-like receptor (TLR) 2 and 4, followed by a 200-ns molecular dynamics (MD) simulation. The docking study showed proper interaction of the selected peptides with HLA and murine BALB/c (H-2d) major histocompatibility complex (MHC) class I and II and the whole vaccine with innate immune system receptors. In silico immune simulation indicated cytokine release and T cell activation patterns. The constructed multi-epitope DNA construct was predicted to be antigenic and non-toxic, with structural stability and immunogenic potential. These computational results support prioritizing this construct for experimental expression and murine preclinical validation (immunogenicity, safety, and protection).",
+   "journal": "Iranian journal of medical sciences",
+   "year": "2026",
+   "authors": [
+    "Sanaz Sadeh",
+    "Amir Ghaemi",
+    "Nazila Arbab Soleimani",
+    "Majid Moghbeli",
+    "Golnaz BahramAli"
+   ],
+   "doi": "10.30476/ijms.2026.109702.4506",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069781/"
+  },
+  {
+   "pmid": "43069654",
+   "title": "Quantitative Estimation of the Risk of Rift Valley Fever Virus Spread via Legal Livestock Movements From Northeastern KwaZulu-Natal, South Africa.",
+   "abstract": "Rift Valley fever (RVF) virus (RVFV) is a mosquito-borne zoonotic pathogen with major implications for animal and human health. There have been reports of large RVF outbreaks in the interior of South Africa in the 1950s, the 1970s, and 2010-2011. Northeastern KwaZulu-Natal (KZN), which shares borders with Eswatini and Mozambique, was reported to be a RVF hyperendemic area in 2019, with the detection of RVFV related to the virus responsible for the 1950 outbreak. Frequent livestock movements occur out of this area under permits issued by the state veterinary services. This study aimed to estimate the probability of RVFV being spread from northeastern KZN to a destination elsewhere in South Africa via legal movement of cattle and goats. Specifically, the monthly risk of at least one viraemic animal arriving at a destination outside the study area was estimated. A spatial-stochastic risk assessment model was designed to estimate monthly and location-specific risk of RVFV export, following World Organisation for Animal Health (WOAH) guidelines. The model was run by integrating data from previous studies on the characterisation of domestic ruminant movement patterns and on livestock RVFV seroprevalence and seroconversion rate in cattle and goats reported from the study area. The animal movement data included animal movement permit records (2015-2018) from the KZN Department of Agriculture and Rural Development (KZNDARD) from 94 dip tanks across three ecological areas (mountain, riverine and coastal). Goats posed the highest probability of contributing to the RVFV spread to a destination location outside the study area. This aligns with their predominance in animal exports across all regions, particularly in the riverine area, which alone accounted for 51.6% of all cattle and goat movements. Temporal modelling showed the peak risk of RVFV viraemic animals arriving at a destination to be during January-March for goats (99%, [2-100] 95% ) and February for cattle (99%, [2-100] 95% ), coinciding with increased animal movements and favourable environmental conditions for vector activity. Mountain areas consistently showed low risk. In contrast, the coastal areas presented moderate but variable risk throughout the year. Sensitivity analysis identified incidence rate of RVFV infection per month, the number of animals exported per month, and the duration of viraemia as the parameters in the model that had a strong effect on the variability in the probability of exporting viraemic animals. There is a high probability of RVFV viraemic animals arriving at destinations elsewhere in South Africa via legal movements from northeastern KZN. The risk was highest from the riverine and coastal areas for cattle and goats, the riverine areas presenting the highest risk of export. The late summer months (February-March) posed the highest threat. Integrating spatiotemporal risk modelling into a One Health surveillance framework could enhance early detection, enable targeted interventions, and reduce the risk of both animal and human RVFV exposure in South Africa. Risk of exposure assessment at arrival is also needed to ultimately estimate the risk of the virus being responsible for outbreaks in other regions of South Africa.",
+   "journal": "Transboundary and emerging diseases",
+   "year": "2026",
+   "authors": [
+    "Yusuf Bitrus Ngoshe",
+    "Eric Etter",
+    "Jose Pablo Gomez-Vazquez",
+    "John D Grewar",
+    "Peter N Thompson"
+   ],
+   "doi": "10.1155/tbed/6904296",
+   "field": "Hepatitis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069654/"
+  },
+  {
+   "pmid": "43070117",
+   "title": "Conditional Survival of Patients With Liver-Metastatic Gastro-Entero-Pancreatic Neuroendocrine Tumors by Treatment Paradigm: A National Cancer Database Analysis.",
+   "abstract": "Patients with gastro-entero-pancreatic neuroendocrine tumors (GEPNETs) have the potential for prolonged survival; however, how prognosis evolves over time according to surgical treatment remains poorly characterized. We hypothesized that combined primary and distant-site surgery, particularly with negative primary resection margins, would be associated with superior overall and conditional survival, whereas patients receiving less extensive surgical treatment would demonstrate greater improvement in conditional survival over time. The NCDB was queried for patients with synchronous liver-metastatic GEPNETs diagnosed between 2010 and 2021. Patients with no follow-up, functional tumors, and grade 3 according to WHO definitions were excluded. Overall survival (OS) was evaluated using Kaplan-Meier analysis and multivariable Cox proportional hazards modeling. Five-year conditional survival (CS) was estimated among patients surviving 1-5 years following diagnosis. From 17,943 patients, 15.7% underwent combined primary and distant-site surgery, 23.8% primary resection alone, and 1.9% distant-site surgery alone, and 58.6% underwent neither procedure. Five-year OS was highest following combined surgery (78.0%), compared with primary resection alone (68.6%), distant-site surgery alone (53.3%), and neither procedure (31.4%). Among patients surviving 5 years after diagnosis, the probability of surviving an additional 5 years increased to 74.5% following distant-site surgery alone and 52.2% following neither procedure. Conversely, patients undergoing combined surgery maintained high but modestly declining 5-year CS (78.0% at diagnosis vs. 71.6% conditional on surviving 5 years). Among patients undergoing combined surgery, R0 primary resection was associated with superior 5-year survival compared with R1 resection (81.8% vs. 71.1%), with this advantage persisting across conditioning intervals associated with CS. Patients with synchronous liver-metastatic GEPNETs demonstrate distinct conditional survival trajectories according to surgical treatment strategy. Combined primary and distant-site surgery, particularly with R0 primary resection, is associated with favorable long-term survival. Patients undergoing limited or no surgery experience greater improvement in conditional survival over time. These findings support incorporating conditional survival into individualized prognostic counseling.",
+   "journal": "Journal of surgical oncology",
+   "year": "2026",
+   "authors": [
+    "Micah J Brainerd",
+    "Liti Zhang",
+    "Thomas L Sutton",
+    "Sarah J Armenia",
+    "Monica Justo",
+    "Andrew Hendifar",
+    "Alexandra Gangi"
+   ],
+   "doi": "10.1002/jso.70456",
    "field": "Liver cancer",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43068089/"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070117/"
+  },
+  {
+   "pmid": "43070044",
+   "title": "Metastatic Patterns of Cachexia in Advanced Nonsmall Cell Lung Cancer in a National Health System.",
+   "abstract": "Cancer cachexia is a major contributor to morbidity and mortality in metastatic non-small cell lung cancer (NSCLC), yet clinical predictors associated with cachexia at time of metastatic diagnosis remain incompletely understood. Large integrated healthcare systems with longitudinal clinical data provide an opportunity to identify patients at increased risk for cachexia. We evaluated demographic and clinical characteristics associated with cachexia at the time of metastatic diagnosis in a national Veterans Health Administration cohort of patients with metastatic NSCLC. This retrospective national cohort study included 23&#x2009;292 patients diagnosed with metastatic NSCLC within the Veterans Health Administration from 1 January 2010 to September 30 2025. Following consensus criteria, cachexia was defined as either weight loss of greater than 5% of body weight within 6&#x2009;months prior to the date of diagnosis or weight loss of greater than 2% within the 6&#x2009;months prior to the date of diagnosis when body mass index was less than 20&#x2009;kg/m 2 . Demographic characteristics, comorbidity burden, smoking status, histology and organ-specific metastatic involvement at diagnosis were assessed. Multivariable logistic regression identified factors independently associated with cachexia, and cox proportional hazards models evaluated associations with overall survival. Among 23&#x2009;292 patients (median age 69; 97.6% male; 19.4% non-Hispanic Black), cachexia was present at diagnosis in 10&#x2009;365 (44.5%). Liver metastases (adjusted OR [aOR] 1.22, 95% CI: 1.15-1.30, p&#x2009; &#x2265; 7 : aHR: 1.60, 95% CI: 1.49-1.72, p&#x2009;<&#x2009;0.001) were also independently associated with cachexia. Cachexia predicted worse survival (aHR: 1.40, 95% CI: 1.36-1.44, p&#x2009;<&#x2009;0.001). Cachexia is highly prevalent at the time of metastatic NSCLC diagnosis and is independently associated with liver and bone metastatic involvement. These findings support the hypothesis that metastatic organotropism contributes to cachexia risk and suggest that organ-specific metastatic patterns may improve identification of patients who could benefit from earlier cachexia screening and intervention.",
+   "journal": "Journal of cachexia, sarcopenia and muscle",
+   "year": "2026",
+   "authors": [
+    "Alex K Bryant",
+    "Reena Datta",
+    "Karen L Reckamp",
+    "Puneeth Iyengar",
+    "Jane C Figueiredo",
+    "Nithya Ramnath",
+    "Neil Bhowmick",
+    "Kamya Sankar"
+   ],
+   "doi": "10.1002/jcsm.70434",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070044/"
+  },
+  {
+   "pmid": "43069842",
+   "title": "Leveraging Artificial Intelligence for Rare Cancer Identification: An Ontology-Guided NLP Framework Using Structured Electronic Health Records.",
+   "abstract": "Rare cancers constitute nearly one-quarter of all cancer diagnoses worldwide and pose major challenges due to delayed diagnosis and limited treatment options. However, systematic data on their detection remain limited. Although international classification of diseases, tenth revision (ICD-10) codes provide valuable information regarding the patient's medical history, they lack sufficient detail to identify many rare cancers. This study aimed to develop and validate an ontology-based natural language processing (NLP) pipeline, using the Saudi Real-World Evidence Network (SRWEN) data to improve the detection and classification of rare cancers. This cross-sectional analysis examined electronic health record (EHR) diagnostic descriptions from SRWEN database, covering 2015-2025. The NLP pipeline used SciSpaCy, term frequency-inverse document frequency (TF-IDF), and SapBERT to map diagnostic descriptions to concepts from four biomedical references: Orphanet, Orphanet rare disease ontology (ORDO), national cancer institute thesaurus (NCIt), and unified medical language system (UMLS). Two authors manually reviewed all the concepts mapped by the three approaches. Positive predictive value (PPV) was the primary performance measure. Mapping was performed on 45,118 unique diagnostic descriptions against 832 unique rare-cancer concepts. The ICD-10 anchored TF-IDF approach achieved a PPV of 88% (95% CI: 81-93%), while SciSpaCy yielded a PPV of 19% (95% CI: 17-20%), and SapBERT yielded a PPV of 47% (95% CI: 44-51). A total of 4,971 patients were identified with rare cancers (median age = 60 years; IQR = 34 years; 62.0% male). The three most common rare malignancies, grouped by primary organ system, were liver and intrahepatic bile duct cancers (36.6%), brain-related cancers (13.3%), and bronchus and lung cancers (6.9%). Ontology-based NLP greatly improved diagnostic precision of rare cancers using only structured clinical data in EHRs.",
+   "journal": "Cancer informatics",
+   "year": "2026",
+   "authors": [
+    "Ohoud Almadani",
+    "Hanan Almanea",
+    "Raseel Alroba",
+    "Maha Aldoughaim",
+    "Ibrahim Asiri"
+   ],
+   "doi": "10.1177/11769351261503327",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069842/"
+  },
+  {
+   "pmid": "43069827",
+   "title": "Incidental Metastatic High-Grade Neuroendocrine Carcinoma Diagnosed by Liver Biopsy During Cholecystectomy: A Case Report.",
+   "abstract": "Neuroendocrine neoplasms range from relatively indolent well-differentiated tumors to aggressive poorly differentiated neuroendocrine carcinomas (NECs). Diagnosis can be challenging when nonspecific symptoms coexist with another disease that provides a plausible explanation for the presentation. A 70-year-old woman developed nausea, vomiting, and epigastric abdominal pain several weeks after pelvic reconstructive surgery. Evaluation demonstrated abnormal liver tests, cholelithiasis, and a heterogeneous nodular liver initially concerning for cirrhosis. Magnetic resonance cholangiopancreatography showed no choledocholithiasis or significant biliary dilation. She underwent laparoscopic cholecystectomy with liver wedge biopsy. Gallbladder pathology confirmed chronic cholecystitis, cholelithiasis, and porcelain gallbladder; unexpectedly, the liver biopsy demonstrated high-grade NEC, small-cell type. Persistent abdominal pain and cholestatic liver abnormalities after cholecystectomy prompted further evaluation. Staging demonstrated extensive hepatic involvement, a right middle-lobe pulmonary lesion, bulky mediastinal and hilar lymphadenopathy, and multifocal osseous metastatic disease. The overall pattern favored metastatic small-cell NEC of pulmonary origin, although the thoracic disease was not biopsied in the available records. She received carboplatin and etoposide, later with atezolizumab, but developed neutropenia, pneumonia, recurrent hospitalizations, progressive cancer-related pain, weight loss, and worsening metastatic disease. With progressive hepatic and osseous disease, declining functional status, and worsening hepatic dysfunction, she ultimately elected comfort-focused treatment and home hospice. This case demonstrates how an aggressive metastatic malignancy can remain obscured by legitimate concurrent diagnoses. Persistence of findings unexplained by the initial diagnosis and failure to improve as expected after appropriate treatment should prompt diagnostic reassessment.",
+   "journal": "Cureus",
+   "year": "2026",
+   "authors": [
+    "Ikken Aisin"
+   ],
+   "doi": "10.7759/cureus.118428",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069827/"
+  },
+  {
+   "pmid": "43069747",
+   "title": "[Ablation of tumors - increasing in indications and frequency].",
+   "abstract": "Ablation is a treatment modality that is increasing in indications and frequency. Ablation can replace surgery in certain tumor types, such as liver tumors, with equivalent oncological outcome. Ablation is associated with a low frequency of serious complications. New treatment methods should be studied from a scientific perspective before being introduced into clinical routine.",
+   "journal": "Lakartidningen",
+   "year": "2026",
+   "authors": [
+    "Kristina Hasselgren"
+   ],
+   "doi": "10.65868/DMLF6346",
+   "field": "Liver cancer",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069747/"
   }
  ],
- "lastUpdated": "2026-11-23T03:15:39.700962+00:00",
+ "lastUpdated": "2026-11-23T11:30:29.823082+00:00",
  "fields": [
   "cardiology",
   "immunotherapy",

@@ -65,69 +65,69 @@
    "source": "https://movie.douban.com/subject/37923994/"
   },
   {
-   "name": "空地",
-   "type": "书籍",
-   "rating": "8.3",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38613720/",
-   "source": "https://book.douban.com/subject/38613720/"
-  },
-  {
-   "name": "拼凑小说",
-   "type": "书籍",
-   "rating": "9.2",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37455864/",
-   "source": "https://book.douban.com/subject/37455864/"
-  },
-  {
-   "name": "面对疾病",
-   "type": "书籍",
-   "rating": "8.6",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37669324/",
-   "source": "https://book.douban.com/subject/37669324/"
-  },
-  {
-   "name": "忽如远行客",
+   "name": "普通炎症",
    "type": "书籍",
    "rating": "8.8",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38545991/",
-   "source": "https://book.douban.com/subject/38545991/"
+   "doubanLink": "https://book.douban.com/subject/38543160/",
+   "source": "https://book.douban.com/subject/38543160/"
   },
   {
-   "name": "我们在此相遇",
-   "type": "书籍",
-   "rating": "8.9",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37415386/",
-   "source": "https://book.douban.com/subject/37415386/"
-  },
-  {
-   "name": "陆上行舟",
-   "type": "书籍",
-   "rating": "8.8",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38618806/",
-   "source": "https://book.douban.com/subject/38618806/"
-  },
-  {
-   "name": "布莱希特戏剧选",
+   "name": "请勿打扰",
    "type": "书籍",
    "rating": "",
-   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38553181/",
-   "source": "https://book.douban.com/subject/38553181/"
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38615559/",
+   "source": "https://book.douban.com/subject/38615559/"
   },
   {
-   "name": "天气不错出发吧",
+   "name": "情有可原",
    "type": "书籍",
-   "rating": "9.1",
+   "rating": "8.7",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/37938905/",
+   "source": "https://book.douban.com/subject/37938905/"
+  },
+  {
+   "name": "与神为邻",
+   "type": "书籍",
+   "rating": "9.8",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38531074/",
-   "source": "https://book.douban.com/subject/38531074/"
+   "doubanLink": "https://book.douban.com/subject/39010165/",
+   "source": "https://book.douban.com/subject/39010165/"
+  },
+  {
+   "name": "神之山岭",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/37348589/",
+   "source": "https://book.douban.com/subject/37348589/"
+  },
+  {
+   "name": "其实你没那么需要心理学",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/39056438/",
+   "source": "https://book.douban.com/subject/39056438/"
+  },
+  {
+   "name": "《论语》的形成",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/39006245/",
+   "source": "https://book.douban.com/subject/39006245/"
+  },
+  {
+   "name": "严密监视的列车",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38608108/",
+   "source": "https://book.douban.com/subject/38608108/"
   }
  ],
- "lastUpdated": "2026-11-22T10:30:28.762662+00:00"
+ "lastUpdated": "2026-11-23T03:15:43.851843+00:00"
 }

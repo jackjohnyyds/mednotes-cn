@@ -65,20 +65,12 @@
    "source": "https://movie.douban.com/subject/37923994/"
   },
   {
-   "name": "普通炎症",
+   "name": "神圣是什么颜色的",
    "type": "书籍",
-   "rating": "8.7",
+   "rating": "8.1",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38543160/",
-   "source": "https://book.douban.com/subject/38543160/"
-  },
-  {
-   "name": "请勿打扰",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38615559/",
-   "source": "https://book.douban.com/subject/38615559/"
+   "doubanLink": "https://book.douban.com/subject/38547000/",
+   "source": "https://book.douban.com/subject/38547000/"
   },
   {
    "name": "情有可原",
@@ -89,45 +81,53 @@
    "source": "https://book.douban.com/subject/37938905/"
   },
   {
-   "name": "与神为邻",
+   "name": "世界诞生之日",
    "type": "书籍",
-   "rating": "9.8",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/39010165/",
-   "source": "https://book.douban.com/subject/39010165/"
+   "rating": "9.4",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38552193/",
+   "source": "https://book.douban.com/subject/38552193/"
   },
   {
-   "name": "神之山岭",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37348589/",
-   "source": "https://book.douban.com/subject/37348589/"
-  },
-  {
-   "name": "其实你没那么需要心理学",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/39056438/",
-   "source": "https://book.douban.com/subject/39056438/"
-  },
-  {
-   "name": "《论语》的形成",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/39006245/",
-   "source": "https://book.douban.com/subject/39006245/"
-  },
-  {
-   "name": "严密监视的列车",
+   "name": "胃袋的近代",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38608108/",
-   "source": "https://book.douban.com/subject/38608108/"
+   "doubanLink": "https://book.douban.com/subject/38594837/",
+   "source": "https://book.douban.com/subject/38594837/"
+  },
+  {
+   "name": "超然的大脑",
+   "type": "书籍",
+   "rating": "7.8",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38541083/",
+   "source": "https://book.douban.com/subject/38541083/"
+  },
+  {
+   "name": "他们在哈伦县说",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/37928231/",
+   "source": "https://book.douban.com/subject/37928231/"
+  },
+  {
+   "name": "语言为镜",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38672038/",
+   "source": "https://book.douban.com/subject/38672038/"
+  },
+  {
+   "name": "开山令",
+   "type": "书籍",
+   "rating": "7.6",
+   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38631100/",
+   "source": "https://book.douban.com/subject/38631100/"
   }
  ],
- "lastUpdated": "2026-11-23T11:30:28.467769+00:00"
+ "lastUpdated": "2026-11-24T03:15:38.738975+00:00"
 }

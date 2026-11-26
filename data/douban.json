@@ -51,7 +51,7 @@
   {
    "name": "吉姆皇后",
    "type": "电影",
-   "rating": "7.6",
+   "rating": "7.5",
    "comment": "当一种病毒让巴黎的男同性恋者变成异性恋时，一位男同性恋网红的生活就此分崩离析。他与一位少年男模结伴，前往玛黑区寻找传闻中…",
    "doubanLink": "https://movie.douban.com/subject/36151274/",
    "source": "https://movie.douban.com/subject/36151274/"
@@ -65,69 +65,69 @@
    "source": "https://movie.douban.com/subject/37923994/"
   },
   {
-   "name": "绿色密封蜡",
+   "name": "长城与明代朝政",
    "type": "书籍",
-   "rating": "8.2",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38612696/",
-   "source": "https://book.douban.com/subject/38612696/"
+   "rating": "8.6",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38513947/",
+   "source": "https://book.douban.com/subject/38513947/"
   },
   {
-   "name": "涉过意识之流",
+   "name": "志怪",
+   "type": "书籍",
+   "rating": "8.4",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38521378/",
+   "source": "https://book.douban.com/subject/38521378/"
+  },
+  {
+   "name": "一块滚石",
+   "type": "书籍",
+   "rating": "8.7",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38651064/",
+   "source": "https://book.douban.com/subject/38651064/"
+  },
+  {
+   "name": "名人残骸漂流记",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37455862/",
-   "source": "https://book.douban.com/subject/37455862/"
+   "doubanLink": "https://book.douban.com/subject/38636339/",
+   "source": "https://book.douban.com/subject/38636339/"
   },
   {
-   "name": "情有可原",
+   "name": "马迭尔屋顶的落霞",
+   "type": "书籍",
+   "rating": "8.5",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38930558/",
+   "source": "https://book.douban.com/subject/38930558/"
+  },
+  {
+   "name": "浊污之杯",
+   "type": "书籍",
+   "rating": "8",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38460768/",
+   "source": "https://book.douban.com/subject/38460768/"
+  },
+  {
+   "name": "普通炎症",
+   "type": "书籍",
+   "rating": "8.7",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38543160/",
+   "source": "https://book.douban.com/subject/38543160/"
+  },
+  {
+   "name": "日瓦戈医生",
    "type": "书籍",
    "rating": "8.9",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/37938905/",
-   "source": "https://book.douban.com/subject/37938905/"
-  },
-  {
-   "name": "中国美术与朝代时间",
-   "type": "书籍",
-   "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38522006/",
-   "source": "https://book.douban.com/subject/38522006/"
-  },
-  {
-   "name": "谈宋",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38996798/",
-   "source": "https://book.douban.com/subject/38996798/"
-  },
-  {
-   "name": "在绳上",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38565012/",
-   "source": "https://book.douban.com/subject/38565012/"
-  },
-  {
-   "name": "江湖消亡史：过河卒",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38575716/",
-   "source": "https://book.douban.com/subject/38575716/"
-  },
-  {
-   "name": "斩杀线",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38597251/",
-   "source": "https://book.douban.com/subject/38597251/"
+   "doubanLink": "https://book.douban.com/subject/38414854/",
+   "source": "https://book.douban.com/subject/38414854/"
   }
  ],
- "lastUpdated": "2026-11-25T11:53:24.059393+00:00"
+ "lastUpdated": "2026-11-26T03:15:42.461997+00:00"
 }

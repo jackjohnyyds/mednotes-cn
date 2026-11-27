@@ -65,69 +65,69 @@
    "source": "https://movie.douban.com/subject/37923994/"
   },
   {
-   "name": "长城与明代朝政",
+   "name": "如果痛苦是重力",
+   "type": "书籍",
+   "rating": "9.1",
+   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38614781/",
+   "source": "https://book.douban.com/subject/38614781/"
+  },
+  {
+   "name": "何以近代",
    "type": "书籍",
    "rating": "8.5",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38522388/",
+   "source": "https://book.douban.com/subject/38522388/"
+  },
+  {
+   "name": "情有可原",
+   "type": "书籍",
+   "rating": "8.9",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38513947/",
-   "source": "https://book.douban.com/subject/38513947/"
+   "doubanLink": "https://book.douban.com/subject/37938905/",
+   "source": "https://book.douban.com/subject/37938905/"
   },
   {
-   "name": "志怪",
-   "type": "书籍",
-   "rating": "8.4",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38521378/",
-   "source": "https://book.douban.com/subject/38521378/"
-  },
-  {
-   "name": "一块滚石",
-   "type": "书籍",
-   "rating": "8.7",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38651064/",
-   "source": "https://book.douban.com/subject/38651064/"
-  },
-  {
-   "name": "G.W.F.黑格尔",
+   "name": "地方精英与治理模式",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38673122/",
-   "source": "https://book.douban.com/subject/38673122/"
+   "doubanLink": "https://book.douban.com/subject/36573595/",
+   "source": "https://book.douban.com/subject/36573595/"
   },
   {
-   "name": "中国县级党政体制研究",
+   "name": "海浪",
    "type": "书籍",
-   "rating": "",
+   "rating": "9.3",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/39011559/",
-   "source": "https://book.douban.com/subject/39011559/"
+   "doubanLink": "https://book.douban.com/subject/38632519/",
+   "source": "https://book.douban.com/subject/38632519/"
   },
   {
-   "name": "两只兔子 2",
+   "name": "认识心灵",
    "type": "书籍",
-   "rating": "8",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38641042/",
-   "source": "https://book.douban.com/subject/38641042/"
+   "rating": "7.7",
+   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38923965/",
+   "source": "https://book.douban.com/subject/38923965/"
   },
   {
-   "name": "Audible Socialism",
-   "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38635013/",
-   "source": "https://book.douban.com/subject/38635013/"
-  },
-  {
-   "name": "人类考察箴言录",
+   "name": "俄耳甫斯歌集",
    "type": "书籍",
    "rating": "",
-   "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38685810/",
-   "source": "https://book.douban.com/subject/38685810/"
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38591491/",
+   "source": "https://book.douban.com/subject/38591491/"
+  },
+  {
+   "name": "女孩和女人的生活",
+   "type": "书籍",
+   "rating": "8.8",
+   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38542213/",
+   "source": "https://book.douban.com/subject/38542213/"
   }
  ],
- "lastUpdated": "2026-11-26T11:42:14.586033+00:00"
+ "lastUpdated": "2026-11-27T03:15:56.074528+00:00"
 }

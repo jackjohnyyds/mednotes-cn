@@ -1,14 +1,6 @@
 {
  "items": [
   {
-   "name": "可能的爱",
-   "type": "电影",
-   "rating": "8.6",
-   "comment": "四位陌生人的命运偶然交织，由此引发了错综复杂的情感纠葛，这些纠葛不仅挑战了他们现有的关系，更迫使他们直面关于爱情与承诺的…",
-   "doubanLink": "https://movie.douban.com/subject/36847425/",
-   "source": "https://movie.douban.com/subject/36847425/"
-  },
-  {
    "name": "黑球",
    "type": "电影",
    "rating": "8.7",
@@ -17,12 +9,36 @@
    "source": "https://movie.douban.com/subject/37215318/"
   },
   {
-   "name": "珠穆朗玛：云中彼岸",
+   "name": "一切如你所见",
    "type": "电影",
-   "rating": "8.5",
-   "comment": "珠峰北壁霍恩拜因雪沟坡度50度、垂直下降2743米，素来以艰险著称。极限登山搭档吉姆·莫里森与希拉莉·尼尔森，向这座地球…",
-   "doubanLink": "https://movie.douban.com/subject/37822528/",
-   "source": "https://movie.douban.com/subject/37822528/"
+   "rating": "8.6",
+   "comment": "距离入狱服刑还有34天，血液检测公司Theranos创始人伊丽莎白·霍姆斯邀请摄制组走进自己的生活，允许他们记录她的一举…",
+   "doubanLink": "https://movie.douban.com/subject/38643086/",
+   "source": "https://movie.douban.com/subject/38643086/"
+  },
+  {
+   "name": "可能的爱",
+   "type": "电影",
+   "rating": "8.6",
+   "comment": "四位陌生人的命运偶然交织，由此引发了错综复杂的情感纠葛，这些纠葛不仅挑战了他们现有的关系，更迫使他们直面关于爱情与承诺的…",
+   "doubanLink": "https://movie.douban.com/subject/36847425/",
+   "source": "https://movie.douban.com/subject/36847425/"
+  },
+  {
+   "name": "峡湾",
+   "type": "电影",
+   "rating": "8.0",
+   "comment": "故事聚焦于格奥尔基一家，讲述这家人从罗马尼亚搬迁至挪威一座偏远小村庄后，本与邻居相处融洽，却意外陷入一桩令人不安的指控。…",
+   "doubanLink": "https://movie.douban.com/subject/37168181/",
+   "source": "https://movie.douban.com/subject/37168181/"
+  },
+  {
+   "name": "童话继姐妹",
+   "type": "电影",
+   "rating": "7.7",
+   "comment": "因被指责在皇家舞会上制造了魔法恶作剧，继姐莉莉丝将亲姐姐变成了青蛙。她必须与灰姑娘和一只巨魔联手，拯救王国，并证明反派也…",
+   "doubanLink": "https://movie.douban.com/subject/37383586/",
+   "source": "https://movie.douban.com/subject/37383586/"
   },
   {
    "name": "懦夫",
@@ -33,36 +49,20 @@
    "source": "https://movie.douban.com/subject/37148241/"
   },
   {
-   "name": "突如其来",
+   "name": "多萝西",
    "type": "电影",
-   "rating": "7.7",
-   "comment": "玛丽-露在巴黎附近经营一家养老院，致力于提供更人性化的老年护理。她与一位身患晚期癌症的日本戏剧导演之间的友谊，进一步坚定…",
-   "doubanLink": "https://movie.douban.com/subject/37342630/",
-   "source": "https://movie.douban.com/subject/37342630/"
+   "rating": "8.0",
+   "comment": "在一个由种姓制度、暴力和有毒的男性气概所塑造的世界里，两位好友在泰米尔纳德邦的乡村中形影不离地长大，多萝西的到来彻底改变…",
+   "doubanLink": "https://movie.douban.com/subject/38586131/",
+   "source": "https://movie.douban.com/subject/38586131/"
   },
   {
-   "name": "茫然女王",
-   "type": "电影",
-   "rating": "7.9",
-   "comment": "随着痴呆症逐渐侵蚀这位女性表达内心世界的能力，她的丈夫和女儿竭力为她着想，在爱与照料、保护及自主权之间那条脆弱的界线上艰…",
-   "doubanLink": "https://movie.douban.com/subject/35765242/",
-   "source": "https://movie.douban.com/subject/35765242/"
-  },
-  {
-   "name": "吉姆皇后",
-   "type": "电影",
-   "rating": "7.5",
-   "comment": "当一种病毒让巴黎的男同性恋者变成异性恋时，一位男同性恋网红的生活就此分崩离析。他与一位少年男模结伴，前往玛黑区寻找传闻中…",
-   "doubanLink": "https://movie.douban.com/subject/36151274/",
-   "source": "https://movie.douban.com/subject/36151274/"
-  },
-  {
-   "name": "混凝土简史",
+   "name": "编个丈夫",
    "type": "电影",
    "rating": "7.4",
-   "comment": "HBO爆款剧集收官后，纪录片人约翰·威尔逊陷入创作瓶颈。参加完一场贺曼电影编剧研讨会后，他突发奇想，打算套用成熟的商业片…",
-   "doubanLink": "https://movie.douban.com/subject/37923994/",
-   "source": "https://movie.douban.com/subject/37923994/"
+   "comment": "海边小镇上的一个打渔女委托篮匠大师用柳条编了一个丈夫，这段离经叛道的爱情在保守的小镇里引起了怒火、嫉妒和轩然大波。</p…",
+   "doubanLink": "https://movie.douban.com/subject/36618556/",
+   "source": "https://movie.douban.com/subject/36618556/"
   },
   {
    "name": "如果痛苦是重力",
@@ -89,45 +89,45 @@
    "source": "https://book.douban.com/subject/37938905/"
   },
   {
-   "name": "地方精英与治理模式",
+   "name": "艺术重要",
    "type": "书籍",
-   "rating": "",
-   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/36573595/",
-   "source": "https://book.douban.com/subject/36573595/"
-  },
-  {
-   "name": "海浪",
-   "type": "书籍",
-   "rating": "9.3",
+   "rating": "9.8",
    "comment": "<img src=\"https://img9.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38632519/",
-   "source": "https://book.douban.com/subject/38632519/"
+   "doubanLink": "https://book.douban.com/subject/38546500/",
+   "source": "https://book.douban.com/subject/38546500/"
   },
   {
-   "name": "认识心灵",
+   "name": "被偷走的树",
    "type": "书籍",
-   "rating": "7.7",
-   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38923965/",
-   "source": "https://book.douban.com/subject/38923965/"
+   "rating": "7.8",
+   "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38627394/",
+   "source": "https://book.douban.com/subject/38627394/"
   },
   {
-   "name": "俄耳甫斯歌集",
+   "name": "吉陵春秋",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38362466/",
+   "source": "https://book.douban.com/subject/38362466/"
+  },
+  {
+   "name": "普罗米修斯的悔恨",
+   "type": "书籍",
+   "rating": "",
+   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
+   "doubanLink": "https://book.douban.com/subject/38541590/",
+   "source": "https://book.douban.com/subject/38541590/"
+  },
+  {
+   "name": "历史的下层",
    "type": "书籍",
    "rating": "",
    "comment": "<img src=\"https://img3.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38591491/",
-   "source": "https://book.douban.com/subject/38591491/"
-  },
-  {
-   "name": "女孩和女人的生活",
-   "type": "书籍",
-   "rating": "8.8",
-   "comment": "<img src=\"https://img2.doubanio.com/view/subject/m/public/s3…",
-   "doubanLink": "https://book.douban.com/subject/38542213/",
-   "source": "https://book.douban.com/subject/38542213/"
+   "doubanLink": "https://book.douban.com/subject/38641130/",
+   "source": "https://book.douban.com/subject/38641130/"
   }
  ],
- "lastUpdated": "2026-11-27T03:15:56.074528+00:00"
+ "lastUpdated": "2026-11-27T11:35:42.355393+00:00"
 }

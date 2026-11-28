@@ -1,6 +1,54 @@
 {
  "items": [
   {
+   "title": "健身房开进社区医院",
+   "link": "http://health.people.com.cn/n1/2026/1128/c14739-40842107.html",
+   "time": "Sat, 28 Nov 2026 01:25:00 GMT",
+   "source": "人民网健康",
+   "summary": "“以前没进过健身房练器械，现在医生给我开了运动处方，跟着康复师锻炼后，睡眠好了，肚子也小了一圈。”11月25日，在北京市朝阳区东风社区卫生服务中心南十里居院区，65岁的郑女士刚结束一轮抗阻训练。她戴着智能手环，心率、卡路里消耗实时同步到大屏智能系统——在这里，医院配备了专为长者特供的健身器材，还有康复师在一旁指导锻炼。…",
+   "english": false
+  },
+  {
+   "title": "北京拟立法规范生活噪声污染",
+   "link": "http://health.people.com.cn/n1/2026/1128/c14739-40842103.html",
+   "time": "Sat, 28 Nov 2026 01:21:00 GMT",
+   "source": "人民网健康",
+   "summary": "非法改装机动车“炸街”、毗邻居民区的公共场所开展娱乐健身却不控制音量、使用高音喇叭进行广告宣传……这些噪声污染行为将在北京迎来地方性法规的明确规范。 11月26日，北京市十六届人大常委会第二十七次会议对《北京市噪声污染防治条例（草案）》进行了二次审议。北京立足首都超大城市治理实际，在地方条例层面坚持问题导向，回应群众关…",
+   "english": false
+  },
+  {
+   "title": "闽宁医疗卫生协作惠及民生",
+   "link": "http://health.people.com.cn/n1/2026/1128/c14739-40842099.html",
+   "time": "Sat, 28 Nov 2026 01:20:00 GMT",
+   "source": "人民网健康",
+   "summary": "“不久前，一名仅14月龄的患儿因呛咳后喘息怀疑支气管异物入院。此类急症以往多需要辗转上级医院，路途奔波风险极大。这次，在帮扶专家带领下，儿科团队成功实施支气管镜下异物取出术，及时解除了窒息风险。”近日，福建省泉州市第一医院“组团式”医疗帮扶工作队队长、宁夏吴忠市同心县人民医院院长庄玉君向记者讲述了一个闽宁医疗卫生协作惠…",
+   "english": false
+  },
+  {
+   "title": "婴儿体检被告知“远视储备快没了”？先别急着挂专家号",
+   "link": "http://health.people.com.cn/n1/2026/1128/c14739-40842096.html",
+   "time": "Sat, 28 Nov 2026 01:19:00 GMT",
+   "source": "人民网健康",
+   "summary": "“我家孩子6月龄体检，医生说远视储备快没了。” 这句话，最近在北京朝阳区的一个宝妈群里反复出现。说这话的妈妈，孩子刚满半岁。第二天，她就挂了一个眼科专家号。 也有妈妈开始每天推着孩子下楼“晒太阳”“看远处”——一天两次，保证待在户外不少于两个小时，风雨无阻。 一位8月龄宝宝的妈妈告诉记者，那段时间她也跟着紧张：“小区里…",
+   "english": false
+  },
+  {
+   "title": "艾滋病离青少年“那么远，这么近”",
+   "link": "http://health.people.com.cn/n1/2026/1128/c14739-40842095.html",
+   "time": "Sat, 28 Nov 2026 01:19:00 GMT",
+   "source": "人民网健康",
+   "summary": "一个男孩因持续发热，最终被确诊感染艾滋病病毒（HIV），年仅14岁。此前，孩子从外地来北京就诊，医院经过多轮筛查，始终未能找到发热原因。征得监护人同意后，医生建议进行HIV抗体检测，结果显示阳性。感染途径排查随即展开：孩子父母的HIV抗体检测结果均为阴性，孩子也没有输血、手术等可能导致血液传播的经历。进一步询问后，医生…",
+   "english": false
+  },
+  {
+   "title": "重量级定调！国常会首提“国家队”，释放重要信号",
+   "link": "https://m.thepaper.cn/newsDetail_forward_34583696",
+   "time": "Sat, 28 Nov 2026 10:57:03 GMT",
+   "source": "澎湃新闻",
+   "summary": "11月27日召开的国务院常务会议，研究持续深化资本市场投融资综合改革工作。值得注意的是，这也是继11月6日国常会提出“完善资本市场稳市机制，增强股市内在稳定性、促进资本市场平稳健康发展”之后，一个月内国常会第二次专门就资本市场相关工作作出部署。 这次会议对资本市场的论述篇幅285个字，从稳市机制、增量政策，到中长期资金…",
+   "english": false
+  },
+  {
    "title": "New WHO technical package to help countries improve health data for COVID-19 response and beyond",
    "link": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response",
    "time": "Sat, 10 Oct 2026 07:49:45 Z",
@@ -62,6 +110,54 @@
    "time": "Mon, 24 Aug 2020 16:44:16 Z",
    "source": "WHO 新闻",
    "summary": "Nine CEPI-supported candidate vaccines are part of the COVAX initiative, with a further nine candidates under evaluation, and procurement conversations on-going…",
+   "english": true
+  },
+  {
+   "title": "Pharmacies get new powers to swap prescriptions during shortages",
+   "link": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss",
+   "time": "Sat, 28 Nov 2026 06:00:11 GMT",
+   "source": "BBC Health",
+   "summary": "If a medicine is out of stock, staff can offer the same drug in a different strength or form, like a capsule instead of a pill.",
+   "english": true
+  },
+  {
+   "title": "Should I get a flu vaccine now?",
+   "link": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
+   "time": "Sat, 28 Nov 2026 01:03:11 GMT",
+   "source": "BBC Health",
+   "summary": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
+   "english": true
+  },
+  {
+   "title": "What's behind the surge in severe flu cases?",
+   "link": "https://www.bbc.co.uk/news/videos/cwq6e8pez0j7o?at_medium=RSS&at_campaign=rss",
+   "time": "Fri, 27 Nov 2026 13:23:13 GMT",
+   "source": "BBC Health",
+   "summary": "A surge in severe cases of flu has prompted health officials in England to urge those most at risk to get vaccinated as soon as possible.",
+   "english": true
+  },
+  {
+   "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+   "time": "Fri, 27 Nov 2026 10:10:36 GMT",
+   "source": "BBC Health",
+   "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+   "english": true
+  },
+  {
+   "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
+   "time": "Fri, 27 Nov 2026 09:57:37 GMT",
+   "source": "BBC Health",
+   "summary": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
+   "english": true
+  },
+  {
+   "title": "Reform UK pledges to scrap hospital parking fees in England",
+   "link": "https://www.bbc.co.uk/news/articles/cw62pn8mdn39o?at_medium=RSS&at_campaign=rss",
+   "time": "Fri, 27 Nov 2026 06:00:41 GMT",
+   "source": "BBC Health",
+   "summary": "The party says it would compensate NHS trusts for lost fees by charging foreign nationals more for care.",
    "english": true
   }
  ],
@@ -190,126 +286,30 @@
   ],
   "drug": [
    {
-    "title": "适应症专利期补偿，仅仅是司美格鲁肽把生物类似药拦了一下么？",
-    "link": "https://news.yaozh.com/archive/49468.html",
-    "source": "药智新闻",
+    "title": "胃癌CAR-T治疗解析：临床获益与风险管理",
+    "link": "http://www.jksb.com.cn/html/activities/activitiesNotice/2026/1126/261546.html",
+    "source": "健康时报",
     "time": "",
     "summary": "",
     "english": false
    },
    {
-    "title": "看得见的疗效，算不清的价格：院内制剂尽调报告怎么写？",
-    "link": "https://news.yaozh.com/archive/49482.html",
-    "source": "药智新闻",
+    "title": "11月起，这些医药健康新规将影响你我生活",
+    "link": "https://www.jksb.com.cn/index.php?m=content&c=index&a=show&catid=788&id=260512",
+    "source": "健康时报",
     "time": "",
     "summary": "",
     "english": false
    },
    {
-    "title": "不押注新分子，海鲸药业凭什么把维生素D「四层通吃」？",
-    "link": "https://news.yaozh.com/archive/49483.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "眼科产品立项的“1+2+3”打法",
-    "link": "https://news.yaozh.com/archive/49484.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "参比制剂备案综述材料，如何搭建证据链？",
-    "link": "https://news.yaozh.com/archive/49481.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "3·15丨中国药品质量不合格报告",
-    "link": "https://news.yaozh.com/archive/47440.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "3·15丨中成药质量不合格报告",
-    "link": "https://news.yaozh.com/archive/47460.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "3·15丨中药材质量不合格报告",
-    "link": "https://news.yaozh.com/archive/47481.html",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "2027第34届河北医疗设备与健康产业展览会",
-    "link": "https://news.yaozh.com/meeting/detail/2048",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "2027 山东检验医学及体外诊断试剂展览会",
-    "link": "https://news.yaozh.com/meeting/detail/2046",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "| 药智新闻",
-    "link": "https://news.yaozh.com/?=yaozh",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "| 药智大讲堂",
-    "link": "https://edu.yaozh.com/",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "| 药智传媒",
-    "link": "https://meeting.yaozh.com/",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "| 药智数据",
-    "link": "https://db.yaozh.com",
-    "source": "药智新闻",
-    "time": "",
-    "summary": "",
-    "english": false
-   },
-   {
-    "title": "渝ICP备10200070号-3",
-    "link": "https://beian.miit.gov.cn/",
-    "source": "药智新闻",
+    "title": "107个新增、51个1类新药：凭什么它们能拿到2026医保入场券？",
+    "link": "https://news.39.net/shx/261119/x4xkrb4.html",
+    "source": "39健康网",
     "time": "",
     "summary": "",
     "english": false
    }
   ]
  },
- "lastUpdated": "2026-11-28T03:15:39.001157+00:00"
+ "lastUpdated": "2026-11-28T11:08:04.315038+00:00"
 }
